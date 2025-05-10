@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Language Leaderboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+    }
+    select {
+      padding: 0.5rem;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 0.8rem;
+      text-align: left;
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+    }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+    tr:hover {
+      background-color: #ddd;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Language Leaderboard</h1>
+  </header>
+  <main>
+    <label for="language-select">Choose a language:</label>
+    <select id="language-select">
+      <option value="" disabled selected>Select a language</option>
+    </select>
+    <table id="leaderboard-table" style="display: none;">
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Username</th>
+          <th>Time</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+  <script>
+    const languageSelect = document.getElementById('language-select');
+    const leaderboardTable = document.getElementById('leaderboard-table');
+    const leaderboardBody = leaderboardTable.querySelector('tbody');
+
+    // Charger la liste des fichiers JSON (langages)
+    fetch('language_data')
+      .then(response => response.json())
+      .then(languages => {
+        languages.forEach(language => {
+          const option = document.createElement('option');
+          option.value = language;
+          option.textContent = language.replace(/_/g, ' ');
+          languageSelect.appendChild(option);
+        });
+      });
+
+    // Charger les données du langage sélectionné
+    languageSelect.addEventListener('change', () => {
+      const selectedLanguage = languageSelect.value;
+      fetch(`language_data/${selectedLanguage}.json`)
+        .then(response => response.json())
+        .then(data => {
+          leaderboardBody.innerHTML = ''; // Réinitialiser le tableau
+          data.forEach((user, index) => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+              <td>${index + 1}</td>
+              <td>${user.username}</td>
+              <td>${user.time}</td>
+            `;
+            leaderboardBody.appendChild(row);
+          });
+          leaderboardTable.style.display = 'table';
+        });
+    });
+  </script>
+</body>
+</html>
