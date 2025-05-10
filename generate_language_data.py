@@ -2,6 +2,7 @@ import os
 import json
 from collections import defaultdict
 from typing import List, Dict, Any, DefaultDict
+from urllib.parse import quote
 
 
 def create_directory(directory_path: str) -> None:
@@ -100,7 +101,7 @@ def write_language_data(language_data: DefaultDict[str, List[Dict[str, str]]], o
         output_dir (str): Path to the directory where JSON files will be written.
     """
     for language, users in language_data.items():
-        sanitized_language = language.replace(" ", "_").replace("/", "_")
+        sanitized_language = quote(language.replace(" ", "_").replace("/", "_"))
         output_path = os.path.join(output_dir, f"{sanitized_language}.json")
 
         if os.path.exists(output_path):
@@ -125,7 +126,7 @@ def write_language_list(language_data: DefaultDict[str, List[Dict[str, str]]], o
         language_data (DefaultDict[str, List[Dict[str, str]]]): Dictionary mapping languages to user data.
         output_dir (str): Path to the directory where the JSON file will be written.
     """
-    language_list = [language.replace(" ", "_").replace("/", "_") for language in language_data.keys()]
+    language_list = [quote(language.replace(" ", "_").replace("/", "_")) for language in language_data.keys()]
     output_path = os.path.join(output_dir, "languages.json")
 
     with open(output_path, "w") as lang_list_file:

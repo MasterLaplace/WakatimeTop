@@ -93,7 +93,7 @@
         languages.forEach(language => {
           const option = document.createElement('option');
           option.value = language;
-          option.textContent = language.replace(/_/g, ' ');
+          option.textContent = decodeURIComponent(language).replace(/_/g, ' ');
           languageSelect.appendChild(option);
         });
       });
@@ -112,7 +112,7 @@
             const row = document.createElement('tr');
             row.innerHTML = `
               <td>${index + 1}</td>
-              <td><a href="https://github.com/${user.username}" target="_blank">${user.username}</a></td>
+              <td><a href="https://wakatime.com/@${user.username}" target="_blank">${user.username}</a></td>
               <td>${user.time}</td>
             `;
             leaderboardBody.appendChild(row);
