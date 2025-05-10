@@ -84,7 +84,7 @@
     const leaderboardBody = leaderboardTable.querySelector('tbody');
 
     // Charger la liste des fichiers JSON (langages)
-    fetch('language_data')
+    fetch('./language_data') // Ajout du "./" pour GitHub Pages
       .then(response => response.json())
       .then(languages => {
         languages.forEach(language => {
@@ -98,7 +98,7 @@
     // Charger les données du langage sélectionné
     languageSelect.addEventListener('change', () => {
       const selectedLanguage = languageSelect.value;
-      fetch(`language_data/${selectedLanguage}.json`)
+      fetch(`./language_data/${selectedLanguage}.json`) // Ajout du "./" pour GitHub Pages
         .then(response => response.json())
         .then(data => {
           leaderboardBody.innerHTML = ''; // Réinitialiser le tableau
