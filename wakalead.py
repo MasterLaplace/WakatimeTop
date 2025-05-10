@@ -1,5 +1,6 @@
 import requests
 import json
+import sys
 from typing import Optional, Dict, Any
 
 
@@ -67,22 +68,53 @@ def save_data(file_path: str, data: Dict[str, Any]) -> None:
         json.dump(data, json_file, indent=4)
 
 
+def add_player(user_id: str, username: str) -> None:
+    """
+    Add a single player to the leaderboard data.
+
+    Args:
+        user_id (str): The unique ID of the player.
+        username (str): The username of the player.
+    """
+    file_path = "leaders_data.json"
+    try:
+        existing_data = load_existing_data(file_path)
+    except FileNotFoundError:
+        existing_data = {"data": []}
+
+    for user in existing_data["data"]:
+        if user["user"]["id"] == user_id:
+            print(f"Player with ID {user_id} already exists.")
+            return
+
+    new_player = {"user": {"id": user_id, "username": username}}
+    existing_data["data"].append(new_player)
+    save_data(file_path, existing_data)
+    print(f"Player {username} added successfully.")
+
+
 def main() -> None:
     """
     Main function to fetch, merge, and save leaderboard data.
+    If "add" argument is provided, add a single player.
     """
-    url: str = "https://wakatime.com/api/v1/leaders"
-    file_path: str = "leaders_data.json"
+    if len(sys.argv) > 1 and sys.argv[1] == "add":
+        user_id = input("Enter player ID: ")
+        username = input("Enter username: ")
+        add_player(user_id, username)
+    else:
+        url: str = "https://wakatime.com/api/v1/leaders"
+        file_path: str = "leaders_data.json"
 
-    new_data: Optional[Dict[str, Any]] = fetch_leaderboard_data(url)
-    if not new_data:
-        return
+        new_data: Optional[Dict[str, Any]] = fetch_leaderboard_data(url)
+        if not new_data:
+            return
 
-    existing_data: Dict[str, Any] = load_existing_data(file_path)
-    merged_data: Dict[str, Any] = merge_data(existing_data, new_data)
-    save_data(file_path, merged_data)
+        existing_data: Dict[str, Any] = load_existing_data(file_path)
+        merged_data: Dict[str, Any] = merge_data(existing_data, new_data)
+        save_data(file_path, merged_data)
 
-    print("Data updated in leaders_data.json")
+        print("Data updated in leaders_data.json")
 
 
 if __name__ == "__main__":

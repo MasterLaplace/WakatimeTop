@@ -2,6 +2,7 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
+import sys
 
 
 def load_users(file_path: str) -> list:
@@ -127,6 +128,34 @@ def save_user_data(output_path: str, data: list) -> None:
         json.dump(data, output_file, indent=4)
 
 
+def process_user(username: str, base_url: str, output_dir: str) -> None:
+    """
+    Process a single user to fetch and save their WakaTime data.
+
+    Args:
+        username (str): GitHub username.
+        base_url (str): Base URL for the API requests.
+        output_dir (str): Output directory for JSON files.
+    """
+    try:
+        svg_content = fetch_user_data(username, base_url)
+        lang_data = parse_language_data(svg_content)
+
+        output_path = os.path.join(output_dir, f"{username}.json")
+        if os.path.exists(output_path):
+            with open(output_path, "r") as existing_file:
+                existing_data = json.load(existing_file)
+        else:
+            existing_data = []
+
+        merged_data = merge_language_data(existing_data, lang_data)
+        save_user_data(output_path, merged_data)
+
+        print(f"Data for {username} written to {output_path}")
+    except Exception as e:
+        print(f"Failed to process {username}: {e}")
+
+
 def process_users(users: list, base_url: str, output_dir: str) -> None:
     """
     Process users to fetch and save their WakaTime data.
@@ -140,32 +169,27 @@ def process_users(users: list, base_url: str, output_dir: str) -> None:
         username = user.get("username")
         if not username:
             continue
-
-        try:
-            svg_content = fetch_user_data(username, base_url)
-            lang_data = parse_language_data(svg_content)
-
-            output_path = os.path.join(output_dir, f"{username}.json")
-            if os.path.exists(output_path):
-                with open(output_path, "r") as existing_file:
-                    existing_data = json.load(existing_file)
-            else:
-                existing_data = []
-
-            merged_data = merge_language_data(existing_data, lang_data)
-            save_user_data(output_path, merged_data)
-
-            print(f"Data for {username} written to {output_path}")
-        except Exception as e:
-            print(f"Failed to process {username}: {e}")
+        process_user(username, base_url, output_dir)
 
 
-if __name__ == "__main__":
-    # Path to the file containing user data
+def main() -> None:
+    """
+    Main function to process user data. If "add" argument is provided, add a single user.
+    Otherwise, process all users.
+    """
     users_file: str = "users_summary.json"
     output_directory: str = "user_data"
     base_api_url: str = "https://github-readme-stats.vercel.app/api/wakatime"
 
-    users_list: list = load_users(users_file)
     create_output_directory(output_directory)
-    process_users(users_list, base_api_url, output_directory)
+
+    if len(sys.argv) > 1 and sys.argv[1] == "add":
+        username = input("Enter username: ")
+        process_user(username, base_api_url, output_directory)
+    else:
+        users_list: list = load_users(users_file)
+        process_users(users_list, base_api_url, output_directory)
+
+
+if __name__ == "__main__":
+    main()

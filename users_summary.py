@@ -1,4 +1,5 @@
 import json
+import sys
 from typing import List, Dict, Any
 
 
@@ -62,31 +63,57 @@ def merge_users(existing_users: List[Dict[str, str]], new_users: List[Dict[str, 
     return list(existing_users_dict.values())
 
 
-def main() -> None:
+def add_user(user_id: str, username: str) -> None:
     """
-    Main entry point of the script. Loads data, extracts users,
-    merges data, and updates the JSON file.
+    Add a new user to the users_summary.json file.
 
-    Raises:
-        FileNotFoundError: If the input file is not found.
+    Args:
+        user_id (str): The unique ID of the user.
+        username (str): The username of the user.
     """
-    try:
-        data: Dict[str, Any] = load_json_file("leaders_data.json")
-    except FileNotFoundError:
-        print("Error: The file leaders_data.json was not found.")
-        return
-
-    users_summary: List[Dict[str, str]] = extract_users_summary(data)
-
     try:
         existing_users: List[Dict[str, str]] = load_json_file("users_summary.json")
     except FileNotFoundError:
         existing_users = []
 
-    updated_users: List[Dict[str, str]] = merge_users(existing_users, users_summary)
-    save_json_file("users_summary.json", updated_users)
+    for user in existing_users:
+        if user["id"] == user_id:
+            print(f"User with ID {user_id} already exists.")
+            return
 
-    print("Users summary updated in users_summary.json")
+    new_user = {"id": user_id, "username": username}
+    existing_users.append(new_user)
+    save_json_file("users_summary.json", existing_users)
+    print(f"User {username} added successfully.")
+
+
+def main() -> None:
+    """
+    Main entry point of the script. If "add" argument is provided, add a single user.
+    Otherwise, fetch all users, merge data, and update the JSON file.
+    """
+    if len(sys.argv) > 1 and sys.argv[1] == "add":
+        user_id = input("Enter user ID: ")
+        username = input("Enter username: ")
+        add_user(user_id, username)
+    else:
+        try:
+            data: Dict[str, Any] = load_json_file("leaders_data.json")
+        except FileNotFoundError:
+            print("Error: The file leaders_data.json was not found.")
+            return
+
+        users_summary: List[Dict[str, str]] = extract_users_summary(data)
+
+        try:
+            existing_users: List[Dict[str, str]] = load_json_file("users_summary.json")
+        except FileNotFoundError:
+            existing_users = []
+
+        updated_users: List[Dict[str, str]] = merge_users(existing_users, users_summary)
+        save_json_file("users_summary.json", updated_users)
+
+        print("Users summary updated in users_summary.json")
 
 
 if __name__ == "__main__":
