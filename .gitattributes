@@ -1,0 +1,8 @@
+# Line endings
+* text=auto eol=lf
+
+# Binary files
+*.json binary
+
+# Handling of Python-specific files
+*.py linguist-language=Python
