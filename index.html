@@ -79,12 +79,15 @@
     </table>
   </main>
   <script>
+    /**
+     * Fetch the list of languages from the generated languages.json file.
+     * Populate the dropdown menu with the list of languages.
+     */
     const languageSelect = document.getElementById('language-select');
     const leaderboardTable = document.getElementById('leaderboard-table');
     const leaderboardBody = leaderboardTable.querySelector('tbody');
 
-    // Charger la liste des fichiers JSON (langages)
-    fetch('./language_data') // Ajout du "./" pour GitHub Pages
+    fetch('./language_data/languages.json')
       .then(response => response.json())
       .then(languages => {
         languages.forEach(language => {
@@ -95,13 +98,16 @@
         });
       });
 
-    // Charger les données du langage sélectionné
+    /**
+     * Fetch and display data for the selected language.
+     * Updates the leaderboard table with user rankings and time spent.
+     */
     languageSelect.addEventListener('change', () => {
       const selectedLanguage = languageSelect.value;
-      fetch(`./language_data/${selectedLanguage}.json`) // Ajout du "./" pour GitHub Pages
+      fetch(`./language_data/${selectedLanguage}.json`)
         .then(response => response.json())
         .then(data => {
-          leaderboardBody.innerHTML = ''; // Réinitialiser le tableau
+          leaderboardBody.innerHTML = ''; // Reset the table
           data.forEach((user, index) => {
             const row = document.createElement('tr');
             row.innerHTML = `

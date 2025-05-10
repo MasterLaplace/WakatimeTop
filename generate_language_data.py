@@ -117,6 +117,23 @@ def write_language_data(language_data: DefaultDict[str, List[Dict[str, str]]], o
         print(f"Data for language '{language}' written to {output_path}")
 
 
+def write_language_list(language_data: DefaultDict[str, List[Dict[str, str]]], output_dir: str) -> None:
+    """
+    Write a JSON file containing the list of all languages.
+
+    Args:
+        language_data (DefaultDict[str, List[Dict[str, str]]]): Dictionary mapping languages to user data.
+        output_dir (str): Path to the directory where the JSON file will be written.
+    """
+    language_list = [language.replace(" ", "_").replace("/", "_") for language in language_data.keys()]
+    output_path = os.path.join(output_dir, "languages.json")
+
+    with open(output_path, "w") as lang_list_file:
+        json.dump(language_list, lang_list_file, indent=4)
+
+    print(f"Language list written to {output_path}")
+
+
 def main() -> None:
     """
     Main function to process user data and generate language-specific data files.
@@ -127,6 +144,7 @@ def main() -> None:
     create_directory(language_data_dir)
     language_data = load_user_data(user_data_dir)
     write_language_data(language_data, language_data_dir)
+    write_language_list(language_data, language_data_dir)
 
 
 if __name__ == "__main__":
