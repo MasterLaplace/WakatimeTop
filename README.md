@@ -2,7 +2,9 @@
 
 ## Description
 This repository contains scripts to analyze Wakatime data and generate reports. It includes the following scripts:
-- `wakalead.py`: Generates a report of the top 100 users based on the leaderboard data from Wakatime.
+- `wakalead.py`: Generates a json report on the top 100 users based on Wakatime ranking data plus data from previous users.
+- `generate_user_data.py`: Generates a per-user report on the user's 16 most frequently used languages
+- `generate_language_data.py`: Generates a top list of users by language.
 - `requirements.txt`: Contains the required Python packages for the scripts.
 
 ## Running
@@ -12,7 +14,6 @@ This repository contains scripts to analyze Wakatime data and generate reports. 
 pip install -r requirements.txt
 # Run the scripts
 python3 wakalead.py
-python3 users_summary.py
 python3 generate_user_data.py
 python3 generate_language_data.py
 ```
