@@ -17,6 +17,7 @@ def create_directory(directory_path: str) -> None:
 def load_user_data(user_data_dir: str) -> DefaultDict[str, List[Dict[str, str]]]:
     """
     Load user data from JSON files in the specified directory.
+    Languages with "Other" or less than 150 minutes (2.5 hours) are ignored.
 
     Args:
         user_data_dir (str): Path to the directory containing user JSON files.
@@ -38,8 +39,7 @@ def load_user_data(user_data_dir: str) -> DefaultDict[str, List[Dict[str, str]]]
                 language = entry["language"]
                 time = entry["time"]
 
-                # Skip the "Other" language
-                if language == "Other":
+                if language == "Other" or time_to_minutes(time) < 150:
                     continue
 
                 if not any(user["username"] == username for user in language_data[language]):
