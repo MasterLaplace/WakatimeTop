@@ -1,46 +1,6 @@
 {
-    "total_time": "52 hrs 9 mins",
+    "total_time": "48 hrs 18 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "18 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "9 mins"
-        },
-        {
-            "language": "Docker",
-            "time": "7 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "1 hr 56 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "5 mins"
-        },
-        {
-            "language": "Nginx configuration file",
-            "time": "5 mins"
-        },
-        {
-            "language": "Other",
-            "time": "27 mins"
-        },
-        {
-            "language": "SCSS",
-            "time": "19 mins"
-        },
-        {
-            "language": "TSConfig",
-            "time": "5 mins"
-        },
-        {
-            "language": "Text",
-            "time": "13 mins"
-        },
         {
             "language": "TypeScript",
             "time": "45 hrs 19 mins"
@@ -48,10 +8,6 @@
         {
             "language": "Vue.js",
             "time": "2 hrs 59 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "7 mins"
         }
     ]
 }

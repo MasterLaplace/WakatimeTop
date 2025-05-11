@@ -1,5 +1,5 @@
 {
-    "total_time": "2,275 hrs 28 mins",
+    "total_time": "2,197 hrs 52 mins",
     "languages": [
         {
             "language": "Bash",
@@ -12,6 +12,10 @@
         {
             "language": "Cython",
             "time": "5 hrs 54 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "2 hrs 40 mins"
         },
         {
             "language": "Go",
@@ -36,10 +40,6 @@
         {
             "language": "Markdown",
             "time": "12 hrs 32 mins"
-        },
-        {
-            "language": "Other",
-            "time": "80 hrs 16 mins"
         },
         {
             "language": "PHP",

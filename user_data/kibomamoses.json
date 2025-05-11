@@ -1,5 +1,5 @@
 {
-    "total_time": "55 hrs 13 mins",
+    "total_time": "52 hrs 41 mins",
     "languages": [
         {
             "language": "Bash",
@@ -10,32 +10,8 @@
             "time": "18 hrs 43 mins"
         },
         {
-            "language": "Docker",
-            "time": "20 mins"
-        },
-        {
-            "language": "HTML",
-            "time": "4 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "13 mins"
-        },
-        {
-            "language": "Other",
-            "time": "40 mins"
-        },
-        {
             "language": "Python",
             "time": "28 hrs 32 mins"
-        },
-        {
-            "language": "Text",
-            "time": "1 hr 2 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "13 mins"
         }
     ]
 }

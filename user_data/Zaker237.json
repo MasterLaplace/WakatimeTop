@@ -1,41 +1,9 @@
 {
-    "total_time": "68 hrs 24 mins",
+    "total_time": "57 hrs 50 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "2 hrs 21 mins"
-        },
-        {
-            "language": "Config",
-            "time": "3 mins"
-        },
-        {
-            "language": "INI",
-            "time": "1 hr 4 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "2 hrs 7 mins"
-        },
-        {
-            "language": "Jinja2",
-            "time": "1 hr 53 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "15 mins"
-        },
-        {
-            "language": "Other",
-            "time": "2 hrs 45 mins"
-        },
         {
             "language": "Python",
             "time": "16 hrs 1 min"
-        },
-        {
-            "language": "Text",
-            "time": "6 mins"
         },
         {
             "language": "TypeScript",

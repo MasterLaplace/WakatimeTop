@@ -1,6 +1,10 @@
 {
-    "total_time": "2,454 hrs 24 mins",
+    "total_time": "2,493 hrs 2 mins",
     "languages": [
+        {
+            "language": "Assembly",
+            "time": "6 hrs 38 mins"
+        },
         {
             "language": "Bash",
             "time": "34 hrs 54 mins"
@@ -20,6 +24,38 @@
         {
             "language": "CMake",
             "time": "42 hrs 21 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "5 hrs 14 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "5 hrs 20 mins"
+        },
+        {
+            "language": "EJS",
+            "time": "2 hrs 50 mins"
+        },
+        {
+            "language": "GLSL",
+            "time": "3 hrs 37 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "12 hrs 17 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "10 hrs 15 mins"
+        },
+        {
+            "language": "INI",
+            "time": "12 hrs"
+        },
+        {
+            "language": "JSON",
+            "time": "17 hrs 59 mins"
         },
         {
             "language": "Java",
@@ -42,12 +78,12 @@
             "time": "131 hrs 29 mins"
         },
         {
-            "language": "Other",
-            "time": "66 hrs 55 mins"
-        },
-        {
             "language": "Python",
             "time": "120 hrs 34 mins"
+        },
+        {
+            "language": "Text",
+            "time": "13 hrs 51 mins"
         },
         {
             "language": "TypeScript",
@@ -56,6 +92,10 @@
         {
             "language": "Vue.js",
             "time": "21 hrs 58 mins"
+        },
+        {
+            "language": "XML",
+            "time": "15 hrs 32 mins"
         },
         {
             "language": "YAML",

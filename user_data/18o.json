@@ -1,6 +1,14 @@
 {
-    "total_time": "1,988 hrs 50 mins",
+    "total_time": "2,045 hrs 47 mins",
     "languages": [
+        {
+            "language": "Bash",
+            "time": "5 hrs 33 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "6 hrs 25 mins"
+        },
         {
             "language": "Dart",
             "time": "106 hrs 3 mins"
@@ -8,6 +16,14 @@
         {
             "language": "Go",
             "time": "82 hrs 32 mins"
+        },
+        {
+            "language": "Gradle",
+            "time": "4 hrs 58 mins"
+        },
+        {
+            "language": "Groovy",
+            "time": "4 hrs 50 mins"
         },
         {
             "language": "HTML",
@@ -26,6 +42,14 @@
             "time": "45 hrs 27 mins"
         },
         {
+            "language": "Kotlin",
+            "time": "6 hrs 18 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "6 hrs 55 mins"
+        },
+        {
             "language": "PHP",
             "time": "56 hrs 43 mins"
         },
@@ -38,6 +62,10 @@
             "time": "907 hrs 9 mins"
         },
         {
+            "language": "Ruby",
+            "time": "6 hrs 16 mins"
+        },
+        {
             "language": "Rust",
             "time": "380 hrs 26 mins"
         },
@@ -46,8 +74,16 @@
             "time": "40 hrs 30 mins"
         },
         {
+            "language": "SQL",
+            "time": "3 hrs 11 mins"
+        },
+        {
             "language": "TOML",
             "time": "70 hrs 51 mins"
+        },
+        {
+            "language": "Text",
+            "time": "5 hrs 46 mins"
         },
         {
             "language": "TypeScript",
@@ -56,6 +92,10 @@
         {
             "language": "Vue.js",
             "time": "120 hrs 25 mins"
+        },
+        {
+            "language": "XML",
+            "time": "6 hrs 45 mins"
         },
         {
             "language": "YAML",

@@ -1,34 +1,6 @@
 {
-    "total_time": "59 hrs 10 mins",
+    "total_time": "54 hrs 11 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "1 hr 54 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "1 min"
-        },
-        {
-            "language": "Docker",
-            "time": "1 hr 39 mins"
-        },
-        {
-            "language": "Git Config",
-            "time": "1 min"
-        },
-        {
-            "language": "JSON",
-            "time": "49 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "23 mins"
-        },
-        {
-            "language": "Other",
-            "time": "9 mins"
-        },
         {
             "language": "Prisma",
             "time": "4 hrs 13 mins"
@@ -38,20 +10,8 @@
             "time": "3 hrs 55 mins"
         },
         {
-            "language": "TOML",
-            "time": "1 min"
-        },
-        {
-            "language": "Text",
-            "time": "1 min"
-        },
-        {
             "language": "TypeScript",
             "time": "46 hrs 3 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "1 min"
         }
     ]
 }

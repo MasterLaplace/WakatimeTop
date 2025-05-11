@@ -1,37 +1,9 @@
 {
-    "total_time": "59 hrs 13 mins",
+    "total_time": "53 hrs 21 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "47 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "2 mins"
-        },
-        {
-            "language": "Git",
-            "time": "1 min"
-        },
-        {
-            "language": "JSON",
-            "time": "2 hrs 9 mins"
-        },
         {
             "language": "JavaScript",
             "time": "3 hrs 3 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "2 mins"
-        },
-        {
-            "language": "Other",
-            "time": "2 hrs 13 mins"
-        },
-        {
-            "language": "TSConfig",
-            "time": "9 mins"
         },
         {
             "language": "TypeScript",
@@ -40,10 +12,6 @@
         {
             "language": "Vue.js",
             "time": "7 hrs 11 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "29 mins"
         }
     ]
 }

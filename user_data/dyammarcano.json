@@ -1,13 +1,21 @@
 {
-    "total_time": "1,914 hrs 2 mins",
+    "total_time": "1,769 hrs 5 mins",
     "languages": [
         {
             "language": "Bash",
             "time": "6 hrs 11 mins"
         },
         {
+            "language": "C",
+            "time": "3 hrs 25 mins"
+        },
+        {
             "language": "Docker",
             "time": "27 hrs 51 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "2 hrs 56 mins"
         },
         {
             "language": "GitIgnore file",
@@ -20,6 +28,14 @@
         {
             "language": "HTML",
             "time": "24 hrs 15 mins"
+        },
+        {
+            "language": "HTTP Request",
+            "time": "2 hrs 55 mins"
+        },
+        {
+            "language": "INI",
+            "time": "5 hrs 17 mins"
         },
         {
             "language": "JSON",
@@ -38,10 +54,6 @@
             "time": "38 hrs 20 mins"
         },
         {
-            "language": "Other",
-            "time": "179 hrs 55 mins"
-        },
-        {
             "language": "Properties",
             "time": "7 hrs 32 mins"
         },
@@ -54,8 +66,20 @@
             "time": "37 hrs 13 mins"
         },
         {
+            "language": "SQL",
+            "time": "4 hrs 21 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "4 hrs 57 mins"
+        },
+        {
             "language": "Text",
             "time": "19 hrs 37 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "5 hrs 6 mins"
         },
         {
             "language": "XML",
@@ -64,6 +88,14 @@
         {
             "language": "YAML",
             "time": "25 hrs 23 mins"
+        },
+        {
+            "language": "go.mod",
+            "time": "3 hrs 22 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "2 hrs 39 mins"
         }
     ]
 }

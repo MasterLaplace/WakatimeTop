@@ -1,69 +1,17 @@
 {
-    "total_time": "63 hrs 22 mins",
+    "total_time": "46 hrs 8 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "21 mins"
-        },
-        {
-            "language": "Batchfile",
-            "time": "22 mins"
-        },
-        {
-            "language": "C",
-            "time": "1 hr 16 mins"
-        },
         {
             "language": "C++",
             "time": "36 hrs 39 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "35 mins"
         },
         {
             "language": "HTML",
             "time": "6 hrs 5 mins"
         },
         {
-            "language": "INI",
-            "time": "1 min"
-        },
-        {
             "language": "JSON",
             "time": "3 hrs 24 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "40 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "1 hr 10 mins"
-        },
-        {
-            "language": "Objective-C",
-            "time": "1 hr 18 mins"
-        },
-        {
-            "language": "Other",
-            "time": "7 hrs 37 mins"
-        },
-        {
-            "language": "Python",
-            "time": "2 hrs 20 mins"
-        },
-        {
-            "language": "Singularity",
-            "time": "1 min"
-        },
-        {
-            "language": "Text",
-            "time": "25 mins"
-        },
-        {
-            "language": "XML",
-            "time": "1 hr 8 mins"
         }
     ]
 }

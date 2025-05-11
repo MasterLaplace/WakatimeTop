@@ -1,5 +1,5 @@
 {
-    "total_time": "7,486 hrs 25 mins",
+    "total_time": "6,969 hrs 31 mins",
     "languages": [
         {
             "language": "Bash",
@@ -12,6 +12,10 @@
         {
             "language": "Docker",
             "time": "11 hrs 24 mins"
+        },
+        {
+            "language": "Git",
+            "time": "2 hrs 55 mins"
         },
         {
             "language": "Git Config",
@@ -38,12 +42,12 @@
             "time": "1,170 hrs 47 mins"
         },
         {
-            "language": "Markdown",
-            "time": "404 hrs 1 min"
+            "language": "MDX",
+            "time": "2 hrs 47 mins"
         },
         {
-            "language": "Other",
-            "time": "544 hrs 4 mins"
+            "language": "Markdown",
+            "time": "404 hrs 1 min"
         },
         {
             "language": "PHP",
@@ -58,12 +62,32 @@
             "time": "326 hrs 25 mins"
         },
         {
+            "language": "SCSS",
+            "time": "5 hrs 25 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "3 hrs 38 mins"
+        },
+        {
             "language": "Solidity",
             "time": "87 hrs 23 mins"
         },
         {
+            "language": "TSConfig",
+            "time": "4 hrs 48 mins"
+        },
+        {
             "language": "TypeScript",
             "time": "4,548 hrs 8 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "2 hrs 41 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 56 mins"
         }
     ]
 }

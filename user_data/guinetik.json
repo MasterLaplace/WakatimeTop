@@ -1,49 +1,13 @@
 {
-    "total_time": "43 hrs 49 mins",
+    "total_time": "40 hrs 15 mins",
     "languages": [
-        {
-            "language": "C#",
-            "time": "10 mins"
-        },
-        {
-            "language": "INI",
-            "time": "22 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "1 hr 58 mins"
-        },
-        {
-            "language": "Java",
-            "time": "11 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "41 mins"
-        },
         {
             "language": "Markdown",
             "time": "4 hrs 19 mins"
         },
         {
-            "language": "Other",
-            "time": "3 mins"
-        },
-        {
             "language": "PowerShell",
             "time": "35 hrs 56 mins"
-        },
-        {
-            "language": "Python",
-            "time": "5 mins"
-        },
-        {
-            "language": "Rust",
-            "time": "1 min"
-        },
-        {
-            "language": "Text",
-            "time": "3 mins"
         }
     ]
 }

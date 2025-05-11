@@ -1,9 +1,25 @@
 {
-    "total_time": "8,285 hrs 1 mins",
+    "total_time": "7,865 hrs 6 mins",
     "languages": [
+        {
+            "language": "Astro",
+            "time": "2 hrs 40 mins"
+        },
+        {
+            "language": "Bash",
+            "time": "5 hrs 6 mins"
+        },
         {
             "language": "CSS",
             "time": "27 hrs 41 mins"
+        },
+        {
+            "language": "GDScript3",
+            "time": "2 hrs 56 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "6 hrs 35 mins"
         },
         {
             "language": "HTML",
@@ -26,12 +42,20 @@
             "time": "160 hrs 42 mins"
         },
         {
+            "language": "MySQL",
+            "time": "3 hrs 46 mins"
+        },
+        {
             "language": "Objective-C",
             "time": "12 hrs 18 mins"
         },
         {
-            "language": "Other",
-            "time": "457 hrs 55 mins"
+            "language": "PHP",
+            "time": "5 hrs 21 mins"
+        },
+        {
+            "language": "Prolog",
+            "time": "8 hrs 21 mins"
         },
         {
             "language": "Python",
@@ -48,6 +72,10 @@
         {
             "language": "TSConfig",
             "time": "29 hrs 5 mins"
+        },
+        {
+            "language": "TSQL",
+            "time": "3 hrs 15 mins"
         },
         {
             "language": "TypeScript",

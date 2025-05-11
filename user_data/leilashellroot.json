@@ -1,14 +1,6 @@
 {
-    "total_time": "73 hrs 2 mins",
+    "total_time": "59 hrs 13 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "26 mins"
-        },
-        {
-            "language": "C#",
-            "time": "16 mins"
-        },
         {
             "language": "CSS",
             "time": "2 hrs 40 mins"
@@ -16,10 +8,6 @@
         {
             "language": "Docker",
             "time": "11 hrs 22 mins"
-        },
-        {
-            "language": "Git Config",
-            "time": "3 mins"
         },
         {
             "language": "JSON",
@@ -30,24 +18,8 @@
             "time": "3 hrs 1 min"
         },
         {
-            "language": "Markdown",
-            "time": "14 mins"
-        },
-        {
-            "language": "Other",
-            "time": "11 hrs 11 mins"
-        },
-        {
-            "language": "TSConfig",
-            "time": "8 mins"
-        },
-        {
             "language": "TypeScript",
             "time": "30 hrs 4 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "1 hr 31 mins"
         }
     ]
 }

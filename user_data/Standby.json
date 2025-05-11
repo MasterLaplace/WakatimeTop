@@ -1,13 +1,37 @@
 {
-    "total_time": "1,534 hrs 4 mins",
+    "total_time": "1,561 hrs 4 mins",
     "languages": [
+        {
+            "language": "Assembly",
+            "time": "2 hrs 55 mins"
+        },
+        {
+            "language": "Astro",
+            "time": "3 hrs 15 mins"
+        },
         {
             "language": "Bash",
             "time": "18 hrs 27 mins"
         },
         {
+            "language": "C#",
+            "time": "5 hrs 45 mins"
+        },
+        {
             "language": "CSS",
             "time": "33 hrs 17 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "11 hrs 58 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "6 hrs 39 mins"
+        },
+        {
+            "language": "EJS",
+            "time": "3 hrs 37 mins"
         },
         {
             "language": "Go",
@@ -30,12 +54,12 @@
             "time": "96 hrs 24 mins"
         },
         {
-            "language": "Org",
-            "time": "15 hrs 3 mins"
+            "language": "Markdown",
+            "time": "9 hrs 34 mins"
         },
         {
-            "language": "Other",
-            "time": "16 hrs 43 mins"
+            "language": "Org",
+            "time": "15 hrs 3 mins"
         },
         {
             "language": "PHP",

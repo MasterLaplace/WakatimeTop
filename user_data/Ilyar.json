@@ -1,5 +1,5 @@
 {
-    "total_time": "844 hrs 26 mins",
+    "total_time": "921 hrs 25 mins",
     "languages": [
         {
             "language": "Bash",
@@ -10,8 +10,28 @@
             "time": "16 hrs 8 mins"
         },
         {
+            "language": "CMake",
+            "time": "4 hrs 48 mins"
+        },
+        {
+            "language": "Config",
+            "time": "5 hrs 17 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "9 hrs 36 mins"
+        },
+        {
+            "language": "Fift",
+            "time": "3 hrs 25 mins"
+        },
+        {
             "language": "FunC",
             "time": "50 hrs 47 mins"
+        },
+        {
+            "language": "Gherkin",
+            "time": "2 hrs 38 mins"
         },
         {
             "language": "Go",
@@ -30,8 +50,16 @@
             "time": "108 hrs 14 mins"
         },
         {
+            "language": "Makefile",
+            "time": "12 hrs 2 mins"
+        },
+        {
             "language": "Markdown",
             "time": "70 hrs 53 mins"
+        },
+        {
+            "language": "Nix",
+            "time": "6 hrs 16 mins"
         },
         {
             "language": "Python",
@@ -50,6 +78,14 @@
             "time": "17 hrs 38 mins"
         },
         {
+            "language": "TLB",
+            "time": "3 hrs 38 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "9 hrs 18 mins"
+        },
+        {
             "language": "TVM-Solidity",
             "time": "22 hrs 1 min"
         },
@@ -62,8 +98,24 @@
             "time": "237 hrs 53 mins"
         },
         {
+            "language": "UML",
+            "time": "4 hrs 51 mins"
+        },
+        {
+            "language": "WebAssembly file",
+            "time": "5 hrs 20 mins"
+        },
+        {
             "language": "YAML",
             "time": "18 hrs 8 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "5 hrs 41 mins"
+        },
+        {
+            "language": "wit",
+            "time": "4 hrs 9 mins"
         }
     ]
 }

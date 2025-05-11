@@ -1,21 +1,61 @@
 {
-    "total_time": "9,345 hrs 28 mins",
+    "total_time": "9,396 hrs 9 mins",
     "languages": [
         {
             "language": "Bash",
             "time": "64 hrs 22 mins"
         },
         {
+            "language": "C",
+            "time": "6 hrs 15 mins"
+        },
+        {
             "language": "C++",
             "time": "106 hrs 49 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "28 hrs 53 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "6 hrs 23 mins"
+        },
+        {
+            "language": "CocoaPods",
+            "time": "9 hrs 44 mins"
         },
         {
             "language": "Dart",
             "time": "7,228 hrs 56 mins"
         },
         {
+            "language": "Docker",
+            "time": "22 hrs 36 mins"
+        },
+        {
+            "language": "GLSL",
+            "time": "12 hrs 37 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "5 hrs 3 mins"
+        },
+        {
+            "language": "Go",
+            "time": "3 hrs 55 mins"
+        },
+        {
+            "language": "Gradle",
+            "time": "8 hrs 51 mins"
+        },
+        {
             "language": "Groovy",
             "time": "55 hrs 52 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "34 hrs 24 mins"
         },
         {
             "language": "JSON",
@@ -24,6 +64,10 @@
         {
             "language": "Java",
             "time": "92 hrs 21 mins"
+        },
+        {
+            "language": "Java Properties",
+            "time": "3 hrs 4 mins"
         },
         {
             "language": "JavaScript",
@@ -38,8 +82,28 @@
             "time": "63 hrs 32 mins"
         },
         {
-            "language": "Other",
-            "time": "153 hrs"
+            "language": "MySQL",
+            "time": "3 hrs 52 mins"
+        },
+        {
+            "language": "Objective-C",
+            "time": "15 hrs 15 mins"
+        },
+        {
+            "language": "Objective-C++",
+            "time": "7 hrs 40 mins"
+        },
+        {
+            "language": "ObjectiveC",
+            "time": "12 hrs 1 min"
+        },
+        {
+            "language": "Properties",
+            "time": "5 hrs 22 mins"
+        },
+        {
+            "language": "Protocol Buffer",
+            "time": "4 hrs 33 mins"
         },
         {
             "language": "Python",
@@ -52,6 +116,14 @@
         {
             "language": "Swift",
             "time": "128 hrs 43 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "7 hrs 22 mins"
+        },
+        {
+            "language": "Text",
+            "time": "5 hrs 51 mins"
         },
         {
             "language": "TypeScript",

@@ -1,41 +1,9 @@
 {
-    "total_time": "39 hrs 56 mins",
+    "total_time": "37 hrs 45 mins",
     "languages": [
-        {
-            "language": "CocoaPods",
-            "time": "1 min"
-        },
         {
             "language": "Dart",
             "time": "37 hrs 45 mins"
-        },
-        {
-            "language": "Image (svg)",
-            "time": "11 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "18 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "15 mins"
-        },
-        {
-            "language": "Other",
-            "time": "9 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "39 mins"
-        },
-        {
-            "language": "XML",
-            "time": "19 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "19 mins"
         }
     ]
 }

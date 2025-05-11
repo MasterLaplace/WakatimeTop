@@ -1,6 +1,14 @@
 {
-    "total_time": "3,574 hrs 41 mins",
+    "total_time": "3,646 hrs 20 mins",
     "languages": [
+        {
+            "language": "ANTLR v4 grammar file",
+            "time": "4 hrs 20 mins"
+        },
+        {
+            "language": "Assembly",
+            "time": "2 hrs 40 mins"
+        },
         {
             "language": "Bash",
             "time": "16 hrs 58 mins"
@@ -18,8 +26,24 @@
             "time": "93 hrs 17 mins"
         },
         {
+            "language": "CSS",
+            "time": "14 hrs 31 mins"
+        },
+        {
+            "language": "Ezhil",
+            "time": "3 hrs 14 mins"
+        },
+        {
             "language": "GAS",
             "time": "16 hrs 28 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "4 hrs 33 mins"
+        },
+        {
+            "language": "GitIgnore file",
+            "time": "7 hrs 50 mins"
         },
         {
             "language": "HTML",
@@ -42,16 +66,28 @@
             "time": "273 hrs 56 mins"
         },
         {
+            "language": "Makefile",
+            "time": "9 hrs 22 mins"
+        },
+        {
             "language": "Markdown",
             "time": "62 hrs 19 mins"
         },
         {
-            "language": "Other",
-            "time": "17 hrs 15 mins"
+            "language": "SCSS",
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "Smalltalk",
             "time": "44 hrs 45 mins"
+        },
+        {
+            "language": "Smithy",
+            "time": "3 hrs 53 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "3 hrs 21 mins"
         },
         {
             "language": "Text",
@@ -64,6 +100,18 @@
         {
             "language": "XML",
             "time": "30 hrs 31 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "14 hrs 43 mins"
+        },
+        {
+            "language": "brazil-config",
+            "time": "7 hrs 37 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "8 hrs 18 mins"
         }
     ]
 }

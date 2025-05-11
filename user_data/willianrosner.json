@@ -1,61 +1,13 @@
 {
-    "total_time": "70 hrs 4 mins",
+    "total_time": "61 hrs 28 mins",
     "languages": [
-        {
-            "language": ".env file",
-            "time": "1 hr 12 mins"
-        },
-        {
-            "language": "Bash",
-            "time": "2 hrs 17 mins"
-        },
-        {
-            "language": "C/C++",
-            "time": "3 mins"
-        },
         {
             "language": "Dart",
             "time": "16 hrs 21 mins"
         },
         {
-            "language": "Docker",
-            "time": "21 mins"
-        },
-        {
-            "language": "HTML",
-            "time": "24 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "1 hr 18 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "3 mins"
-        },
-        {
-            "language": "Makefile",
-            "time": "2 hrs 2 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "3 mins"
-        },
-        {
-            "language": "Other",
-            "time": "4 mins"
-        },
-        {
             "language": "Prisma",
             "time": "3 hrs 15 mins"
-        },
-        {
-            "language": "SQL",
-            "time": "35 mins"
-        },
-        {
-            "language": "TSConfig",
-            "time": "14 mins"
         },
         {
             "language": "TypeScript",

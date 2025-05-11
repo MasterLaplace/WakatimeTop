@@ -1,6 +1,14 @@
 {
-    "total_time": "9,212 hrs 44 mins",
+    "total_time": "9,109 hrs 10 mins",
     "languages": [
+        {
+            "language": "ApacheConf",
+            "time": "11 hrs 17 mins"
+        },
+        {
+            "language": "Assembly",
+            "time": "4 hrs 7 mins"
+        },
         {
             "language": "Bash",
             "time": "257 hrs 7 mins"
@@ -10,8 +18,44 @@
             "time": "1,029 hrs 9 mins"
         },
         {
+            "language": "C++",
+            "time": "5 hrs 43 mins"
+        },
+        {
+            "language": "CBM BASIC V2",
+            "time": "3 hrs 8 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "17 hrs 54 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "2 hrs 35 mins"
+        },
+        {
             "language": "Docker",
             "time": "163 hrs 1 min"
+        },
+        {
+            "language": "Git Config",
+            "time": "16 hrs 4 mins"
+        },
+        {
+            "language": "Go",
+            "time": "14 hrs 45 mins"
+        },
+        {
+            "language": "Groovy",
+            "time": "35 hrs 31 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "30 hrs 36 mins"
+        },
+        {
+            "language": "INI",
+            "time": "8 hrs 35 mins"
         },
         {
             "language": "JSON",
@@ -26,6 +70,10 @@
             "time": "1,101 hrs 26 mins"
         },
         {
+            "language": "Kotlin",
+            "time": "39 hrs 44 mins"
+        },
+        {
             "language": "Lua",
             "time": "68 hrs 40 mins"
         },
@@ -34,20 +82,44 @@
             "time": "125 hrs 57 mins"
         },
         {
-            "language": "Other",
-            "time": "388 hrs 28 mins"
+            "language": "Nginx configuration file",
+            "time": "19 hrs 18 mins"
         },
         {
             "language": "PHP",
             "time": "1,062 hrs"
         },
         {
+            "language": "Properties",
+            "time": "3 hrs 45 mins"
+        },
+        {
             "language": "Protocol Buffer",
             "time": "564 hrs 31 mins"
         },
         {
+            "language": "Python",
+            "time": "19 hrs 2 mins"
+        },
+        {
+            "language": "Roff",
+            "time": "32 hrs 40 mins"
+        },
+        {
             "language": "Rust",
             "time": "49 hrs 51 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "8 hrs 17 mins"
+        },
+        {
+            "language": "Smali",
+            "time": "9 hrs 22 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "Text",

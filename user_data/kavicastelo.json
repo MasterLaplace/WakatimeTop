@@ -1,5 +1,5 @@
 {
-    "total_time": "3,013 hrs 19 mins",
+    "total_time": "3,021 hrs 42 mins",
     "languages": [
         {
             "language": "Astro",
@@ -14,12 +14,20 @@
             "time": "4 hrs 20 mins"
         },
         {
+            "language": "Env File",
+            "time": "2 hrs 48 mins"
+        },
+        {
             "language": "GitIgnore file",
             "time": "6 hrs 8 mins"
         },
         {
             "language": "HTML",
             "time": "402 hrs 49 mins"
+        },
+        {
+            "language": "Image (svg)",
+            "time": "4 hrs 5 mins"
         },
         {
             "language": "JSON",
@@ -46,8 +54,12 @@
             "time": "8 hrs 34 mins"
         },
         {
-            "language": "Other",
-            "time": "8 hrs 16 mins"
+            "language": "Properties",
+            "time": "4 hrs 1 min"
+        },
+        {
+            "language": "Rust",
+            "time": "2 hrs 47 mins"
         },
         {
             "language": "SCSS",
@@ -64,6 +76,10 @@
         {
             "language": "XML",
             "time": "41 hrs 53 mins"
+        },
+        {
+            "language": "nx workspace",
+            "time": "2 hrs 58 mins"
         }
     ]
 }

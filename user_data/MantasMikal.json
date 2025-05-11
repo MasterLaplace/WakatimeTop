@@ -1,5 +1,5 @@
 {
-    "total_time": "6,183 hrs 44 mins",
+    "total_time": "6,128 hrs 54 mins",
     "languages": [
         {
             "language": "Bash",
@@ -10,8 +10,24 @@
             "time": "103 hrs 48 mins"
         },
         {
+            "language": "CocoaPods",
+            "time": "3 hrs 1 min"
+        },
+        {
+            "language": "Docker",
+            "time": "6 hrs 6 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "4 hrs 30 mins"
+        },
+        {
             "language": "GraphQL",
             "time": "11 hrs 23 mins"
+        },
+        {
+            "language": "Groovy",
+            "time": "3 hrs 28 mins"
         },
         {
             "language": "HTML",
@@ -42,16 +58,24 @@
             "time": "15 hrs 15 mins"
         },
         {
-            "language": "Other",
-            "time": "81 hrs 32 mins"
+            "language": "PHP",
+            "time": "3 hrs 11 mins"
         },
         {
             "language": "SCSS",
             "time": "472 hrs 57 mins"
         },
         {
+            "language": "SQL",
+            "time": "3 hrs 46 mins"
+        },
+        {
             "language": "Stylus",
             "time": "273 hrs 37 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "2 hrs 40 mins"
         },
         {
             "language": "TypeScript",

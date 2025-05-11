@@ -1,65 +1,13 @@
 {
-    "total_time": "66 hrs 50 mins",
+    "total_time": "56 hrs 18 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "2 mins"
-        },
-        {
-            "language": "C",
-            "time": "41 mins"
-        },
         {
             "language": "C++",
             "time": "42 hrs 37 mins"
         },
         {
-            "language": "CMake",
-            "time": "1 hr 30 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "58 mins"
-        },
-        {
-            "language": "HTML",
-            "time": "1 hr 46 mins"
-        },
-        {
             "language": "JSON",
             "time": "3 hrs 6 mins"
-        },
-        {
-            "language": "Java",
-            "time": "1 hr 47 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "15 mins"
-        },
-        {
-            "language": "Objective-C",
-            "time": "21 mins"
-        },
-        {
-            "language": "Objective-C++",
-            "time": "35 mins"
-        },
-        {
-            "language": "Other",
-            "time": "58 mins"
-        },
-        {
-            "language": "PHP",
-            "time": "25 mins"
-        },
-        {
-            "language": "Python",
-            "time": "17 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "57 mins"
         },
         {
             "language": "Zeek",

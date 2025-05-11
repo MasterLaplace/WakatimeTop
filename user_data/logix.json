@@ -1,6 +1,10 @@
 {
-    "total_time": "1,995 hrs 2 mins",
+    "total_time": "1,922 hrs 22 mins",
     "languages": [
+        {
+            "language": "Assembly",
+            "time": "6 hrs 37 mins"
+        },
         {
             "language": "Bash",
             "time": "38 hrs"
@@ -18,6 +22,14 @@
             "time": "17 hrs 37 mins"
         },
         {
+            "language": "Git Config",
+            "time": "5 hrs 37 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "2 hrs 45 mins"
+        },
+        {
             "language": "HTTP Request",
             "time": "26 hrs 28 mins"
         },
@@ -30,16 +42,16 @@
             "time": "106 hrs 15 mins"
         },
         {
+            "language": "Kotlin",
+            "time": "2 hrs 39 mins"
+        },
+        {
             "language": "Markdown",
             "time": "33 hrs 12 mins"
         },
         {
             "language": "Nginx configuration file",
             "time": "8 hrs 9 mins"
-        },
-        {
-            "language": "Other",
-            "time": "104 hrs 20 mins"
         },
         {
             "language": "PHP",
@@ -50,8 +62,16 @@
             "time": "23 hrs 39 mins"
         },
         {
+            "language": "SQL",
+            "time": "5 hrs 54 mins"
+        },
+        {
             "language": "Swift",
             "time": "73 hrs 30 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "8 hrs 8 mins"
         },
         {
             "language": "TypeScript",

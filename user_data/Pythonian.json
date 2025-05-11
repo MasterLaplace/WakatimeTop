@@ -1,41 +1,13 @@
 {
-    "total_time": "55 hrs 4 mins",
+    "total_time": "52 hrs",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "6 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "20 mins"
-        },
         {
             "language": "HTML",
             "time": "30 hrs 56 mins"
         },
         {
-            "language": "JavaScript",
-            "time": "1 hr 22 mins"
-        },
-        {
-            "language": "Makefile",
-            "time": "36 mins"
-        },
-        {
-            "language": "Other",
-            "time": "6 mins"
-        },
-        {
             "language": "Python",
             "time": "21 hrs 4 mins"
-        },
-        {
-            "language": "TOML",
-            "time": "30 mins"
-        },
-        {
-            "language": "Text",
-            "time": "4 mins"
         }
     ]
 }

@@ -1,9 +1,13 @@
 {
-    "total_time": "5,413 hrs 9 mins",
+    "total_time": "5,406 hrs 19 mins",
     "languages": [
         {
             "language": "C",
             "time": "8 hrs 21 mins"
+        },
+        {
+            "language": "C++",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "CMake",
@@ -40,10 +44,6 @@
         {
             "language": "Markdown",
             "time": "18 hrs 26 mins"
-        },
-        {
-            "language": "Other",
-            "time": "9 hrs 20 mins"
         },
         {
             "language": "Properties",

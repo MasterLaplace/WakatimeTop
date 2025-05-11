@@ -1,6 +1,14 @@
 {
-    "total_time": "3,767 hrs 34 mins",
+    "total_time": "3,642 hrs 43 mins",
     "languages": [
+        {
+            "language": "Agda",
+            "time": "7 hrs 18 mins"
+        },
+        {
+            "language": "Assembly",
+            "time": "3 hrs 21 mins"
+        },
         {
             "language": "Bash",
             "time": "25 hrs 30 mins"
@@ -10,12 +18,32 @@
             "time": "106 hrs 3 mins"
         },
         {
+            "language": "Diff",
+            "time": "2 hrs 35 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "6 hrs 7 mins"
+        },
+        {
+            "language": "GAS",
+            "time": "3 hrs 36 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "4 hrs 48 mins"
+        },
+        {
             "language": "JSON",
             "time": "101 hrs 40 mins"
         },
         {
             "language": "JavaScript",
             "time": "28 hrs 55 mins"
+        },
+        {
+            "language": "Lean",
+            "time": "2 hrs 57 mins"
         },
         {
             "language": "Makefile",
@@ -34,8 +62,12 @@
             "time": "1,269 hrs 44 mins"
         },
         {
-            "language": "Other",
-            "time": "170 hrs 5 mins"
+            "language": "Objective-C",
+            "time": "4 hrs 12 mins"
+        },
+        {
+            "language": "Python",
+            "time": "3 hrs 40 mins"
         },
         {
             "language": "Reason",
@@ -44,6 +76,10 @@
         {
             "language": "Rust",
             "time": "7 hrs 45 mins"
+        },
+        {
+            "language": "S",
+            "time": "6 hrs 40 mins"
         },
         {
             "language": "TeX",

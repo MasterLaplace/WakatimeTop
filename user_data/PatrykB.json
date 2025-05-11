@@ -1,13 +1,29 @@
 {
-    "total_time": "2,841 hrs 16 mins",
+    "total_time": "3,056 hrs 24 mins",
     "languages": [
         {
             "language": "Bash",
             "time": "46 hrs 10 mins"
         },
         {
+            "language": "Batchfile",
+            "time": "8 hrs 14 mins"
+        },
+        {
+            "language": "Blade Template",
+            "time": "18 hrs 14 mins"
+        },
+        {
             "language": "C#",
             "time": "110 hrs 14 mins"
+        },
+        {
+            "language": "C++",
+            "time": "6 hrs 37 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "17 hrs 48 mins"
         },
         {
             "language": "Docker",
@@ -18,20 +34,52 @@
             "time": "54 hrs 26 mins"
         },
         {
+            "language": "Git Config",
+            "time": "25 hrs 35 mins"
+        },
+        {
             "language": "GitHub",
             "time": "67 hrs 48 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "35 hrs 36 mins"
+        },
+        {
+            "language": "INI",
+            "time": "3 hrs 9 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "33 hrs 53 mins"
+        },
+        {
+            "language": "JSON with Comments",
+            "time": "7 hrs 27 mins"
         },
         {
             "language": "JavaScript",
             "time": "239 hrs 5 mins"
         },
         {
-            "language": "NPM Config",
-            "time": "101 hrs 1 min"
+            "language": "Jest Config",
+            "time": "10 hrs 35 mins"
         },
         {
-            "language": "Other",
-            "time": "54 hrs 6 mins"
+            "language": "Jest Tests",
+            "time": "30 hrs 58 mins"
+        },
+        {
+            "language": "LICENSE",
+            "time": "2 hrs 59 mins"
+        },
+        {
+            "language": "Log File",
+            "time": "6 hrs 3 mins"
+        },
+        {
+            "language": "NPM Config",
+            "time": "101 hrs 1 min"
         },
         {
             "language": "PHP",
@@ -44,6 +92,18 @@
         {
             "language": "Python",
             "time": "477 hrs 11 mins"
+        },
+        {
+            "language": "README",
+            "time": "27 hrs 46 mins"
+        },
+        {
+            "language": "SCSS",
+            "time": "5 hrs 44 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "Text",
@@ -62,8 +122,16 @@
             "time": "154 hrs 39 mins"
         },
         {
+            "language": "XML",
+            "time": "5 hrs 13 mins"
+        },
+        {
             "language": "YAML",
             "time": "55 hrs 23 mins"
+        },
+        {
+            "language": "tsconfig.json",
+            "time": "18 hrs 51 mins"
         }
     ]
 }

@@ -1,14 +1,6 @@
 {
-    "total_time": "301 hrs 41 mins",
+    "total_time": "297 hrs 29 mins",
     "languages": [
-        {
-            "language": "Apache Config",
-            "time": "5 mins"
-        },
-        {
-            "language": "Bash",
-            "time": "40 mins"
-        },
         {
             "language": "C",
             "time": "23 hrs 43 mins"
@@ -26,20 +18,8 @@
             "time": "89 hrs 28 mins"
         },
         {
-            "language": "JSON",
-            "time": "56 mins"
-        },
-        {
             "language": "JavaScript",
             "time": "9 hrs 6 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "22 mins"
-        },
-        {
-            "language": "Other",
-            "time": "51 mins"
         },
         {
             "language": "PHP",
@@ -48,14 +28,6 @@
         {
             "language": "Python",
             "time": "88 hrs 22 mins"
-        },
-        {
-            "language": "SCSS",
-            "time": "10 mins"
-        },
-        {
-            "language": "Text",
-            "time": "1 hr 8 mins"
         }
     ]
 }

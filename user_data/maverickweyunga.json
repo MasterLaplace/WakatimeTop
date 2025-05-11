@@ -1,61 +1,13 @@
 {
-    "total_time": "85 hrs 10 mins",
+    "total_time": "80 hrs 43 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "40 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "14 mins"
-        },
-        {
-            "language": "Git Config",
-            "time": "4 mins"
-        },
         {
             "language": "Go",
             "time": "2 hrs 43 mins"
         },
         {
-            "language": "HTML",
-            "time": "7 mins"
-        },
-        {
-            "language": "INI",
-            "time": "7 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "1 hr 53 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "32 mins"
-        },
-        {
-            "language": "Mako",
-            "time": "2 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "25 mins"
-        },
-        {
-            "language": "Other",
-            "time": "7 mins"
-        },
-        {
-            "language": "Protocol Buffer",
-            "time": "2 mins"
-        },
-        {
             "language": "Python",
             "time": "2 hrs 43 mins"
-        },
-        {
-            "language": "TSConfig",
-            "time": "14 mins"
         },
         {
             "language": "TypeScript",

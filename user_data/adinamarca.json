@@ -1,6 +1,10 @@
 {
-    "total_time": "1,262 hrs",
+    "total_time": "1,254 hrs 48 mins",
     "languages": [
+        {
+            "language": "Bash",
+            "time": "3 hrs 4 mins"
+        },
         {
             "language": "BibTeX",
             "time": "5 hrs 22 mins"
@@ -16,6 +20,10 @@
         {
             "language": "CSV",
             "time": "3 hrs 52 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "3 hrs 8 mins"
         },
         {
             "language": "HTML",
@@ -46,16 +54,16 @@
             "time": "6 hrs"
         },
         {
-            "language": "Other",
-            "time": "16 hrs 33 mins"
-        },
-        {
             "language": "Python",
             "time": "1,023 hrs 29 mins"
         },
         {
             "language": "SCSS",
             "time": "20 hrs 35 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "3 hrs 9 mins"
         },
         {
             "language": "Text",

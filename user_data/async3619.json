@@ -1,13 +1,41 @@
 {
-    "total_time": "6,033 hrs 48 mins",
+    "total_time": "6,146 hrs 18 mins",
     "languages": [
+        {
+            "language": ".env file",
+            "time": "13 hrs 32 mins"
+        },
+        {
+            "language": "Bash",
+            "time": "10 hrs 47 mins"
+        },
         {
             "language": "C#",
             "time": "100 hrs 8 mins"
         },
         {
+            "language": "C++",
+            "time": "4 hrs 42 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "16 hrs 5 mins"
+        },
+        {
             "language": "Dart",
             "time": "59 hrs 23 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "15 hrs 43 mins"
+        },
+        {
+            "language": "GLSL shader",
+            "time": "3 hrs 33 mins"
+        },
+        {
+            "language": "GitIgnore file",
+            "time": "8 hrs 12 mins"
         },
         {
             "language": "GraphQL",
@@ -22,6 +50,10 @@
             "time": "205 hrs 18 mins"
         },
         {
+            "language": "Java",
+            "time": "3 hrs 42 mins"
+        },
+        {
             "language": "JavaScript",
             "time": "115 hrs 33 mins"
         },
@@ -34,12 +66,16 @@
             "time": "36 hrs 5 mins"
         },
         {
-            "language": "Other",
-            "time": "22 hrs 38 mins"
-        },
-        {
             "language": "PHP",
             "time": "326 hrs 42 mins"
+        },
+        {
+            "language": "Prisma",
+            "time": "5 hrs 9 mins"
+        },
+        {
+            "language": "Python",
+            "time": "10 hrs 33 mins"
         },
         {
             "language": "Rust",
@@ -54,6 +90,22 @@
             "time": "65 hrs 14 mins"
         },
         {
+            "language": "Shell Script",
+            "time": "6 hrs 15 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "4 hrs 15 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "9 hrs 22 mins"
+        },
+        {
+            "language": "Terraform",
+            "time": "6 hrs 32 mins"
+        },
+        {
             "language": "Text",
             "time": "34 hrs 23 mins"
         },
@@ -62,8 +114,20 @@
             "time": "4,772 hrs 21 mins"
         },
         {
+            "language": "XML",
+            "time": "4 hrs 18 mins"
+        },
+        {
             "language": "YAML",
             "time": "131 hrs 52 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "7 hrs 47 mins"
+        },
+        {
+            "language": "yarn.lock",
+            "time": "4 hrs 41 mins"
         }
     ]
 }

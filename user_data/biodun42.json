@@ -1,10 +1,6 @@
 {
-    "total_time": "689 hrs 45 mins",
+    "total_time": "683 hrs 54 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "56 mins"
-        },
         {
             "language": "C#",
             "time": "4 hrs 50 mins"
@@ -14,16 +10,8 @@
             "time": "92 hrs 50 mins"
         },
         {
-            "language": "Git Config",
-            "time": "14 mins"
-        },
-        {
             "language": "HTML",
             "time": "73 hrs 2 mins"
-        },
-        {
-            "language": "Image (svg)",
-            "time": "51 mins"
         },
         {
             "language": "JSON",
@@ -38,32 +26,12 @@
             "time": "249 hrs 45 mins"
         },
         {
-            "language": "Markdown",
-            "time": "10 mins"
-        },
-        {
-            "language": "Other",
-            "time": "49 mins"
-        },
-        {
             "language": "Python",
             "time": "4 hrs 35 mins"
         },
         {
-            "language": "R",
-            "time": "2 hrs 26 mins"
-        },
-        {
-            "language": "TSConfig",
-            "time": "14 mins"
-        },
-        {
             "language": "TypeScript",
             "time": "246 hrs 54 mins"
-        },
-        {
-            "language": "XML",
-            "time": "11 mins"
         }
     ]
 }

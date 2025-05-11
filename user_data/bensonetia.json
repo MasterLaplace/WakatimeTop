@@ -1,10 +1,6 @@
 {
-    "total_time": "52 hrs 24 mins",
+    "total_time": "47 hrs 24 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "10 mins"
-        },
         {
             "language": "Blade Template",
             "time": "2 hrs 30 mins"
@@ -14,56 +10,12 @@
             "time": "30 hrs 7 mins"
         },
         {
-            "language": "Groovy",
-            "time": "5 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "21 mins"
-        },
-        {
-            "language": "Java",
-            "time": "51 mins"
-        },
-        {
             "language": "Kotlin",
             "time": "11 hrs 54 mins"
         },
         {
-            "language": "Other",
-            "time": "27 mins"
-        },
-        {
             "language": "PHP",
             "time": "2 hrs 53 mins"
-        },
-        {
-            "language": "Shell Script",
-            "time": "12 mins"
-        },
-        {
-            "language": "Swift",
-            "time": "59 mins"
-        },
-        {
-            "language": "TOML",
-            "time": "28 mins"
-        },
-        {
-            "language": "Text",
-            "time": "22 mins"
-        },
-        {
-            "language": "XML",
-            "time": "13 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "38 mins"
-        },
-        {
-            "language": "textmate",
-            "time": "14 mins"
         }
     ]
 }

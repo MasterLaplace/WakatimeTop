@@ -1,6 +1,10 @@
 {
-    "total_time": "2,923 hrs 49 mins",
+    "total_time": "2,918 hrs 14 mins",
     "languages": [
+        {
+            "language": "Bash",
+            "time": "14 hrs 36 mins"
+        },
         {
             "language": "Blade Template",
             "time": "147 hrs 43 mins"
@@ -14,8 +18,16 @@
             "time": "42 hrs 35 mins"
         },
         {
+            "language": "CSV",
+            "time": "5 hrs 34 mins"
+        },
+        {
             "language": "Dart",
             "time": "157 hrs 49 mins"
+        },
+        {
+            "language": "GitIgnore file",
+            "time": "5 hrs 49 mins"
         },
         {
             "language": "HTML",
@@ -38,10 +50,6 @@
             "time": "18 hrs 56 mins"
         },
         {
-            "language": "Other",
-            "time": "74 hrs 3 mins"
-        },
-        {
             "language": "PHP",
             "time": "262 hrs 24 mins"
         },
@@ -54,16 +62,40 @@
             "time": "550 hrs 16 mins"
         },
         {
+            "language": "SourceMap",
+            "time": "3 hrs 34 mins"
+        },
+        {
             "language": "Swift",
             "time": "118 hrs 5 mins"
+        },
+        {
+            "language": "Text",
+            "time": "15 hrs"
         },
         {
             "language": "Twig",
             "time": "118 hrs 48 mins"
         },
         {
+            "language": "TypeScript",
+            "time": "3 hrs 43 mins"
+        },
+        {
             "language": "Vue.js",
             "time": "34 hrs 58 mins"
+        },
+        {
+            "language": "XML",
+            "time": "6 hrs 37 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "6 hrs 58 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "6 hrs 37 mins"
         }
     ]
 }

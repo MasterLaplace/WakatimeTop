@@ -1,41 +1,9 @@
 {
-    "total_time": "46 hrs 7 mins",
+    "total_time": "42 hrs 37 mins",
     "languages": [
-        {
-            "language": "C",
-            "time": "17 mins"
-        },
         {
             "language": "C++",
             "time": "42 hrs 37 mins"
-        },
-        {
-            "language": "CMake",
-            "time": "1 hr 21 mins"
-        },
-        {
-            "language": "GLSL",
-            "time": "52 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "9 mins"
-        },
-        {
-            "language": "Java",
-            "time": "9 mins"
-        },
-        {
-            "language": "Lua",
-            "time": "27 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "6 mins"
-        },
-        {
-            "language": "fish",
-            "time": "9 mins"
         }
     ]
 }

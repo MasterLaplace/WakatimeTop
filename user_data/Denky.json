@@ -1,33 +1,9 @@
 {
-    "total_time": "65 hrs 34 mins",
+    "total_time": "63 hrs 7 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "5 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "26 mins"
-        },
-        {
-            "language": "Image (svg)",
-            "time": "15 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "7 mins"
-        },
-        {
-            "language": "SCSS",
-            "time": "1 hr 21 mins"
-        },
         {
             "language": "TypeScript",
             "time": "63 hrs 7 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "13 mins"
         }
     ]
 }

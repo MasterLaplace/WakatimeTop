@@ -1,57 +1,9 @@
 {
-    "total_time": "92 hrs 33 mins",
+    "total_time": "84 hrs 33 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "40 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "13 mins"
-        },
-        {
-            "language": "Docker",
-            "time": "41 mins"
-        },
-        {
-            "language": "Git Config",
-            "time": "15 mins"
-        },
-        {
-            "language": "HTTP Request",
-            "time": "2 hrs 13 mins"
-        },
-        {
-            "language": "Image (svg)",
-            "time": "17 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "36 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "1 hr 1 min"
-        },
-        {
-            "language": "Markdown",
-            "time": "3 mins"
-        },
-        {
-            "language": "Other",
-            "time": "1 min"
-        },
-        {
-            "language": "TSConfig",
-            "time": "7 mins"
-        },
         {
             "language": "TypeScript",
             "time": "84 hrs 33 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "1 hr 53 mins"
         }
     ]
 }

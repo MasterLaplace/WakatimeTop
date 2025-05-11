@@ -1,9 +1,17 @@
 {
-    "total_time": "3,972 hrs 36 mins",
+    "total_time": "3,991 hrs 48 mins",
     "languages": [
         {
             "language": "Bash",
             "time": "114 hrs 12 mins"
+        },
+        {
+            "language": "Blade Template",
+            "time": "9 hrs 23 mins"
+        },
+        {
+            "language": "C#",
+            "time": "4 hrs 57 mins"
         },
         {
             "language": "C++",
@@ -16,6 +24,10 @@
         {
             "language": "Docker",
             "time": "103 hrs 12 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "9 hrs 25 mins"
         },
         {
             "language": "Go",
@@ -42,12 +54,16 @@
             "time": "82 hrs 41 mins"
         },
         {
-            "language": "Other",
-            "time": "73 hrs 58 mins"
-        },
-        {
             "language": "PHP",
             "time": "42 hrs 6 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "13 hrs 29 mins"
+        },
+        {
+            "language": "Prisma",
+            "time": "3 hrs 51 mins"
         },
         {
             "language": "Python",
@@ -58,8 +74,28 @@
             "time": "51 hrs 6 mins"
         },
         {
+            "language": "SQL",
+            "time": "8 hrs 40 mins"
+        },
+        {
+            "language": "Sass",
+            "time": "14 hrs 43 mins"
+        },
+        {
+            "language": "Terraform",
+            "time": "6 hrs 23 mins"
+        },
+        {
+            "language": "Text",
+            "time": "11 hrs 49 mins"
+        },
+        {
             "language": "TypeScript",
             "time": "1,144 hrs 12 mins"
+        },
+        {
+            "language": "XML",
+            "time": "10 hrs 30 mins"
         },
         {
             "language": "YAML",

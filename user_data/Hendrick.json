@@ -1,65 +1,13 @@
 {
-    "total_time": "60 hrs 42 mins",
+    "total_time": "55 hrs 30 mins",
     "languages": [
-        {
-            "language": "Application Resource Bundle",
-            "time": "4 mins"
-        },
-        {
-            "language": "Bash",
-            "time": "7 mins"
-        },
         {
             "language": "Dart",
             "time": "48 hrs 31 mins"
         },
         {
-            "language": "GitIgnore file",
-            "time": "17 mins"
-        },
-        {
             "language": "HTTP Request",
             "time": "4 hrs 12 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "16 mins"
-        },
-        {
-            "language": "Java Properties",
-            "time": "8 mins"
-        },
-        {
-            "language": "Kotlin",
-            "time": "1 hr 48 mins"
-        },
-        {
-            "language": "Makefile",
-            "time": "8 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "44 mins"
-        },
-        {
-            "language": "Other",
-            "time": "17 mins"
-        },
-        {
-            "language": "Protocol Buffer",
-            "time": "43 mins"
-        },
-        {
-            "language": "Shell Script",
-            "time": "17 mins"
-        },
-        {
-            "language": "TOML",
-            "time": "11 mins"
-        },
-        {
-            "language": "Text",
-            "time": "12 mins"
         },
         {
             "language": "YAML",

@@ -1,13 +1,49 @@
 {
-    "total_time": "2,562 hrs 40 mins",
+    "total_time": "2,419 hrs 6 mins",
     "languages": [
+        {
+            "language": "Assembly",
+            "time": "17 hrs 28 mins"
+        },
+        {
+            "language": "Bash",
+            "time": "25 hrs 35 mins"
+        },
         {
             "language": "C",
             "time": "271 hrs 56 mins"
         },
         {
+            "language": "C#",
+            "time": "4 hrs 55 mins"
+        },
+        {
             "language": "C++",
             "time": "439 hrs 50 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "13 hrs 1 min"
+        },
+        {
+            "language": "CSS",
+            "time": "12 hrs 8 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "5 hrs 13 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "4 hrs 3 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "13 hrs 48 mins"
+        },
+        {
+            "language": "INI",
+            "time": "3 hrs 50 mins"
         },
         {
             "language": "JSON",
@@ -22,6 +58,14 @@
             "time": "187 hrs 48 mins"
         },
         {
+            "language": "LLVM",
+            "time": "2 hrs 34 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "15 hrs 8 mins"
+        },
+        {
             "language": "Markdown",
             "time": "27 hrs 36 mins"
         },
@@ -30,8 +74,12 @@
             "time": "85 hrs 14 mins"
         },
         {
-            "language": "Other",
-            "time": "304 hrs 50 mins"
+            "language": "Objective-C",
+            "time": "5 hrs 37 mins"
+        },
+        {
+            "language": "Prisma",
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "Python",
@@ -50,6 +98,14 @@
             "time": "62 hrs 12 mins"
         },
         {
+            "language": "TOML",
+            "time": "4 hrs 13 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "18 hrs 55 mins"
+        },
+        {
             "language": "Text",
             "time": "132 hrs 51 mins"
         },
@@ -60,6 +116,10 @@
         {
             "language": "Typst",
             "time": "131 hrs 44 mins"
+        },
+        {
+            "language": "XML",
+            "time": "11 hrs 57 mins"
         },
         {
             "language": "YAML",

@@ -1,17 +1,73 @@
 {
-    "total_time": "3,192 hrs 41 mins",
+    "total_time": "3,169 hrs 45 mins",
     "languages": [
+        {
+            "language": ".env file",
+            "time": "3 hrs 53 mins"
+        },
+        {
+            "language": "Assembly",
+            "time": "11 hrs 14 mins"
+        },
+        {
+            "language": "Bash",
+            "time": "15 hrs 22 mins"
+        },
         {
             "language": "C",
             "time": "468 hrs 8 mins"
+        },
+        {
+            "language": "C#",
+            "time": "7 hrs 7 mins"
         },
         {
             "language": "C++",
             "time": "141 hrs 8 mins"
         },
         {
+            "language": "CMake",
+            "time": "6 hrs 46 mins"
+        },
+        {
             "language": "CSS",
             "time": "45 hrs 14 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "4 hrs 12 mins"
+        },
+        {
+            "language": "CSV/TSV",
+            "time": "6 hrs 19 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "8 hrs 15 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "5 hrs 10 mins"
+        },
+        {
+            "language": "Figma Design",
+            "time": "6 hrs 13 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "3 hrs 20 mins"
+        },
+        {
+            "language": "GitIgnore file",
+            "time": "3 hrs"
+        },
+        {
+            "language": "Groovy",
+            "time": "2 hrs 39 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "20 hrs 31 mins"
         },
         {
             "language": "HTTP Request",
@@ -34,12 +90,24 @@
             "time": "367 hrs 38 mins"
         },
         {
-            "language": "Other",
-            "time": "183 hrs 9 mins"
+            "language": "Makefile",
+            "time": "17 hrs 15 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "14 hrs 26 mins"
+        },
+        {
+            "language": "ObjectiveC",
+            "time": "5 hrs 41 mins"
         },
         {
             "language": "PHP",
             "time": "44 hrs 22 mins"
+        },
+        {
+            "language": "Prisma",
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "Python",
@@ -52,6 +120,14 @@
         {
             "language": "SQL",
             "time": "109 hrs 42 mins"
+        },
+        {
+            "language": "Swift",
+            "time": "7 hrs 15 mins"
+        },
+        {
+            "language": "Text",
+            "time": "7 hrs 3 mins"
         },
         {
             "language": "TypeScript",

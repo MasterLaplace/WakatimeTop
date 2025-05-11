@@ -1,13 +1,25 @@
 {
-    "total_time": "1,866 hrs 32 mins",
+    "total_time": "1,932 hrs 23 mins",
     "languages": [
         {
             "language": "Bash",
             "time": "18 hrs 30 mins"
         },
         {
+            "language": "C++",
+            "time": "12 hrs 55 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "7 hrs 30 mins"
+        },
+        {
             "language": "FTL",
             "time": "13 hrs 41 mins"
+        },
+        {
+            "language": "GitIgnore file",
+            "time": "3 hrs 49 mins"
         },
         {
             "language": "Go",
@@ -16,6 +28,10 @@
         {
             "language": "HTML",
             "time": "14 hrs 3 mins"
+        },
+        {
+            "language": "Haskell",
+            "time": "3 hrs 17 mins"
         },
         {
             "language": "JSON",
@@ -38,8 +54,24 @@
             "time": "96 hrs 30 mins"
         },
         {
-            "language": "Other",
-            "time": "21 hrs 6 mins"
+            "language": "Properties",
+            "time": "7 hrs 7 mins"
+        },
+        {
+            "language": "Protocol Buffer",
+            "time": "10 hrs 16 mins"
+        },
+        {
+            "language": "Python",
+            "time": "4 hrs 42 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "3 hrs 23 mins"
+        },
+        {
+            "language": "SCSS",
+            "time": "4 hrs 48 mins"
         },
         {
             "language": "SQL",
@@ -50,16 +82,32 @@
             "time": "128 hrs 41 mins"
         },
         {
+            "language": "TOML",
+            "time": "4 hrs 17 mins"
+        },
+        {
             "language": "Terraform",
             "time": "20 hrs 14 mins"
+        },
+        {
+            "language": "Text",
+            "time": "6 hrs 40 mins"
         },
         {
             "language": "TypeScript",
             "time": "59 hrs 48 mins"
         },
         {
+            "language": "XML",
+            "time": "13 hrs 37 mins"
+        },
+        {
             "language": "YAML",
             "time": "87 hrs 11 mins"
+        },
+        {
+            "language": "go.mod",
+            "time": "4 hrs 36 mins"
         },
         {
             "language": "sh",

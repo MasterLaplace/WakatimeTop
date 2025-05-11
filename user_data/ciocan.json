@@ -1,5 +1,5 @@
 {
-    "total_time": "1,252 hrs 43 mins",
+    "total_time": "1,221 hrs 30 mins",
     "languages": [
         {
             "language": "Astro",
@@ -38,10 +38,6 @@
             "time": "33 hrs 49 mins"
         },
         {
-            "language": "Other",
-            "time": "34 hrs 20 mins"
-        },
-        {
             "language": "Python",
             "time": "10 hrs 5 mins"
         },
@@ -52,6 +48,10 @@
         {
             "language": "TOML",
             "time": "17 hrs 3 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "3 hrs 7 mins"
         },
         {
             "language": "Text",

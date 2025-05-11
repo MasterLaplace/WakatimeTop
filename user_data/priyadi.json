@@ -1,5 +1,5 @@
 {
-    "total_time": "1,931 hrs 49 mins",
+    "total_time": "1,816 hrs 25 mins",
     "languages": [
         {
             "language": "Bash",
@@ -8,18 +8,6 @@
         {
             "language": "CSS",
             "time": "3 hrs 34 mins"
-        },
-        {
-            "language": "Docker",
-            "time": "2 hrs 26 mins"
-        },
-        {
-            "language": "Git Config",
-            "time": "1 hr 19 mins"
-        },
-        {
-            "language": "HTML",
-            "time": "56 mins"
         },
         {
             "language": "JSON",
@@ -36,10 +24,6 @@
         {
             "language": "Markdown",
             "time": "157 hrs 14 mins"
-        },
-        {
-            "language": "Other",
-            "time": "109 hrs 53 mins"
         },
         {
             "language": "PHP",
@@ -60,10 +44,6 @@
         {
             "language": "YAML",
             "time": "48 hrs 41 mins"
-        },
-        {
-            "language": "reStructuredText",
-            "time": "50 mins"
         }
     ]
 }

@@ -1,41 +1,17 @@
 {
-    "total_time": "78 hrs 54 mins",
+    "total_time": "77 hrs 10 mins",
     "languages": [
-        {
-            "language": "Bash",
-            "time": "11 mins"
-        },
         {
             "language": "CSHTML",
             "time": "4 hrs 4 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "15 mins"
-        },
-        {
-            "language": "Git Config",
-            "time": "6 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "1 hr 2 mins"
         },
         {
             "language": "JavaScript",
             "time": "55 hrs 33 mins"
         },
         {
-            "language": "Other",
-            "time": "8 mins"
-        },
-        {
             "language": "TypeScript",
             "time": "17 hrs 33 mins"
-        },
-        {
-            "language": "XML",
-            "time": "2 mins"
         }
     ]
 }

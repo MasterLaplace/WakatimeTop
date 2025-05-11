@@ -1,10 +1,6 @@
 {
-    "total_time": "69 hrs 6 mins",
+    "total_time": "59 hrs 53 mins",
     "languages": [
-        {
-            "language": "ActionScript",
-            "time": "5 mins"
-        },
         {
             "language": "Browserslist",
             "time": "32 hrs 21 mins"
@@ -12,54 +8,6 @@
         {
             "language": "Go",
             "time": "27 hrs 32 mins"
-        },
-        {
-            "language": "HTML",
-            "time": "48 mins"
-        },
-        {
-            "language": "INI",
-            "time": "4 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "44 mins"
-        },
-        {
-            "language": "Lua",
-            "time": "1 hr 13 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "11 mins"
-        },
-        {
-            "language": "Nginx",
-            "time": "9 mins"
-        },
-        {
-            "language": "Other",
-            "time": "3 hrs 45 mins"
-        },
-        {
-            "language": "Python",
-            "time": "9 mins"
-        },
-        {
-            "language": "SQL",
-            "time": "5 mins"
-        },
-        {
-            "language": "TOML",
-            "time": "1 min"
-        },
-        {
-            "language": "XML",
-            "time": "4 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "1 hr 55 mins"
         }
     ]
 }

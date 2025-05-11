@@ -1,5 +1,5 @@
 {
-    "total_time": "1,809 hrs 56 mins",
+    "total_time": "1,781 hrs 39 mins",
     "languages": [
         {
             "language": "Bash",
@@ -34,10 +34,6 @@
             "time": "2 hrs 48 mins"
         },
         {
-            "language": "Other",
-            "time": "30 hrs 50 mins"
-        },
-        {
             "language": "Prisma",
             "time": "60 hrs 55 mins"
         },
@@ -56,6 +52,10 @@
         {
             "language": "TSConfig",
             "time": "4 hrs 1 min"
+        },
+        {
+            "language": "Text",
+            "time": "2 hrs 33 mins"
         },
         {
             "language": "TypeScript",
