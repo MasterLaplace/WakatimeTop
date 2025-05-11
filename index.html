@@ -100,11 +100,12 @@
 
     /**
      * Fetch and display data for the selected language or global leaderboard.
-     * Updates the leaderboard table with user rankings and time spent.
+     * Updates the leaderboard table with user rankings and either elo or time.
      *
      * @param {string} filePath - Path to the JSON file containing leaderboard data.
+     * @param {boolean} isGlobal - Whether the leaderboard is global (uses elo).
      */
-    function fetchLeaderboardData(filePath) {
+    function fetchLeaderboardData(filePath, isGlobal = false) {
       fetch(filePath)
         .then(response => response.json())
         .then(data => {
@@ -114,7 +115,7 @@
             row.innerHTML = `
               <td>${index + 1}</td>
               <td><a href="https://wakatime.com/@${user.username}" target="_blank">${user.username}</a></td>
-              <td>${user.total_time || user.time}</td>
+              <td>${isGlobal ? user.elo : user.time}</td>
             `;
             leaderboardBody.appendChild(row);
           });
@@ -124,9 +125,9 @@
 
     /**
      * Fetch and display the global leaderboard data on page load.
-     * This will show the top users globally.
+     * This will show the top users globally using elo.
      */
-    fetchLeaderboardData('./global_leaderboard.json');
+    fetchLeaderboardData('./global_leaderboard.json', true);
 
     /**
      * Event listener for the language dropdown menu.
@@ -137,7 +138,7 @@
       if (selectedLanguage) {
         fetchLeaderboardData(`./language_data/${encodeURIComponent(selectedLanguage)}.json`);
       } else {
-        fetchLeaderboardData('./global_leaderboard.json');
+        fetchLeaderboardData('./global_leaderboard.json', true);
       }
     });
   </script>
