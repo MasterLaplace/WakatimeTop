@@ -1,5 +1,6 @@
 import os
 import json
+import math
 from typing import List, Dict
 
 
@@ -52,7 +53,7 @@ def load_user_data(user_data_dir: str) -> List[Dict[str, str]]:
         user_data_dir (str): Path to the directory containing user JSON files.
 
     Returns:
-        List[Dict[str, str]]: List of users with their total time.
+        List[Dict[str, str]]: List of users with their elo.
     """
     users = []
 
@@ -64,28 +65,22 @@ def load_user_data(user_data_dir: str) -> List[Dict[str, str]]:
             with open(user_file_path, "r") as user_file:
                 user_data = json.load(user_file)
 
-            total_time = user_data.get("total_time", "0 mins")
-            total_minutes = time_to_minutes(total_time)
-
-            users.append({"username": username, "total_time": total_time, "total_minutes": total_minutes})
+            elo = math.ceil(user_data.get("elo", 0))
+            users.append({"username": username, "elo": elo})
 
     return users
 
 
 def generate_global_leaderboard(user_data_dir: str, output_file: str) -> None:
     """
-    Generate a global leaderboard JSON file based on total_time.
+    Generate a global leaderboard JSON file based on elo.
 
     Args:
         user_data_dir (str): Path to the directory containing user JSON files.
         output_file (str): Path to the output JSON file.
     """
     users = load_user_data(user_data_dir)
-    sorted_users = sorted(users, key=lambda x: x["total_minutes"], reverse=True)
-
-    # Remove the "total_minutes" field for the final output
-    for user in sorted_users:
-        del user["total_minutes"]
+    sorted_users = sorted(users, key=lambda x: x["elo"], reverse=True)
 
     with open(output_file, "w") as output_json:
         json.dump(sorted_users, output_json, indent=4)

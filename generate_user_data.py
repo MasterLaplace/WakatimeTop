@@ -3,6 +3,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import sys
+import math
 
 
 def load_users(file_path: str) -> list:
@@ -171,9 +172,27 @@ def save_user_data(output_path: str, data: dict) -> None:
         json.dump(data, output_file, indent=4)
 
 
+def reduce_elo(previous_elo: int, reduction: int = 2) -> int:
+    """
+    Reduce the elo by a specified amount, ensuring it does not go below 0.
+
+    Args:
+        previous_elo (int): The previous elo value in minutes.
+        reduction (int): The amount to reduce the elo by (default is 2 hours).
+
+    Returns:
+        int: The reduced elo value, with a minimum of 0.
+    """
+    return max(0, previous_elo - reduction)
+
+
 def process_user(username: str, base_url: str, output_dir: str) -> None:
     """
     Process a single user to fetch and save their WakaTime data.
+
+    This function fetches the user's WakaTime data, compares it with existing data,
+    calculates the total time spent, and updates the elo score. If the data has not
+    changed, the elo is reduced by a fixed amount.
 
     Args:
         username (str): GitHub username.
@@ -187,16 +206,26 @@ def process_user(username: str, base_url: str, output_dir: str) -> None:
         output_path = os.path.join(output_dir, f"{username}.json")
         if os.path.exists(output_path):
             with open(output_path, "r") as existing_file:
-                existing_data = json.load(existing_file).get("languages", [])
+                existing_data = json.load(existing_file)
+                existing_languages = existing_data.get("languages", [])
+                previous_elo = existing_data.get("elo", 0)
         else:
-            existing_data = []
+            existing_languages = []
+            previous_elo = 0
 
-        merged_data = merge_language_data(existing_data, lang_data)
+        merged_data = merge_language_data(existing_languages, lang_data)
         filtered_data = filter_languages(merged_data)
         total_time = calculate_total_time(filtered_data)
 
+        updated = lang_data != existing_languages
+        new_elo_hours = math.ceil(time_to_minutes(total_time) / 60)
+        if not updated:
+            new_elo_hours = reduce_elo(previous_elo)
+
         user_data = {
             "total_time": total_time,
+            "updated": updated,
+            "elo": new_elo_hours,
             "languages": filtered_data,
         }
 
@@ -208,10 +237,13 @@ def process_user(username: str, base_url: str, output_dir: str) -> None:
 
 def process_users(usernames: list, base_url: str, output_dir: str) -> None:
     """
-    Process users to fetch and save their WakaTime data.
+    Process multiple users to fetch and save their WakaTime data.
+
+    This function iterates over a list of usernames, fetching and processing
+    their WakaTime data individually.
 
     Args:
-        usernames (list): List of usernames.
+        usernames (list): List of Wakatime usernames.
         base_url (str): Base URL for the API requests.
         output_dir (str): Output directory for JSON files.
     """
