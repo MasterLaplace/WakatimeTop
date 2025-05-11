@@ -31,9 +31,6 @@ jobs:
       - name: Run wakalead.py
         run: python wakalead.py
 
-      - name: Run users_summary.py
-        run: python users_summary.py
-
       - name: Run generate_user_data.py
         run: python generate_user_data.py
 

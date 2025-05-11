@@ -2,7 +2,6 @@ import os
 import json
 from collections import defaultdict
 from typing import List, Dict, Any, DefaultDict
-from urllib.parse import quote
 
 
 def create_directory(directory_path: str) -> None:
@@ -33,11 +32,15 @@ def load_user_data(user_data_dir: str) -> DefaultDict[str, List[Dict[str, str]]]
             username = filename.replace(".json", "")
 
             with open(user_file_path, "r") as user_file:
-                user_languages = json.load(user_file)
+                user_data = json.load(user_file)
 
-            for entry in user_languages:
+            for entry in user_data.get("languages", []):
                 language = entry["language"]
                 time = entry["time"]
+
+                # Skip the "Other" language
+                if language == "Other":
+                    continue
 
                 if not any(user["username"] == username for user in language_data[language]):
                     language_data[language].append({"username": username, "time": time})
@@ -81,13 +84,7 @@ def merge_and_sort_users(existing_users: List[Dict[str, str]], new_users: List[D
     user_dict = {user["username"]: user for user in existing_users}
 
     for user in new_users:
-        if user["username"] in user_dict:
-            existing_time = time_to_minutes(user_dict[user["username"]]["time"])
-            new_time = time_to_minutes(user["time"])
-            total_time = existing_time + new_time
-            user_dict[user["username"]]["time"] = f"{total_time // 60} hrs {total_time % 60} mins"
-        else:
-            user_dict[user["username"]] = user
+        user_dict[user["username"]] = user
 
     return sorted(user_dict.values(), key=lambda x: time_to_minutes(x["time"]), reverse=True)
 
@@ -101,7 +98,7 @@ def write_language_data(language_data: DefaultDict[str, List[Dict[str, str]]], o
         output_dir (str): Path to the directory where JSON files will be written.
     """
     for language, users in language_data.items():
-        sanitized_language = quote(language.replace(" ", "_").replace("/", "_"))
+        sanitized_language = language.replace(" ", "_").replace("/", "_")
         output_path = os.path.join(output_dir, f"{sanitized_language}.json")
 
         if os.path.exists(output_path):
@@ -126,7 +123,7 @@ def write_language_list(language_data: DefaultDict[str, List[Dict[str, str]]], o
         language_data (DefaultDict[str, List[Dict[str, str]]]): Dictionary mapping languages to user data.
         output_dir (str): Path to the directory where the JSON file will be written.
     """
-    language_list = [quote(language.replace(" ", "_").replace("/", "_")) for language in language_data.keys()]
+    language_list = [language.replace(" ", "_").replace("/", "_") for language in language_data.keys()]
     output_path = os.path.join(output_dir, "languages.json")
 
     with open(output_path, "w") as lang_list_file:

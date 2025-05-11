@@ -13,7 +13,7 @@ def load_users(file_path: str) -> list:
         file_path (str): Path to the JSON file containing user data.
 
     Returns:
-        list: List of users.
+        list: List of usernames.
     """
     with open(file_path, "r") as json_file:
         return json.load(json_file)
@@ -91,38 +91,65 @@ def time_to_minutes(time_str: str) -> int:
     return total_minutes
 
 
+def minutes_to_time(minutes: int) -> str:
+    """
+    Convert total minutes into a formatted time string.
+
+    Args:
+        minutes (int): Total time in minutes.
+
+    Returns:
+        str: Formatted time string (e.g., "2 hrs 30 mins").
+    """
+    hours, mins = divmod(minutes, 60)
+    if hours > 0 and mins > 0:
+        return f"{hours:,} hrs {mins} mins"
+    elif hours > 0:
+        return f"{hours:,} hrs"
+    else:
+        return f"{mins} mins"
+
+
+def calculate_total_time(lang_data: list) -> str:
+    """
+    Calculate the total time from a list of language data.
+
+    Args:
+        lang_data (list): List of language data with time strings.
+
+    Returns:
+        str: Total time as a formatted string.
+    """
+    total_minutes = sum(time_to_minutes(entry["time"]) for entry in lang_data)
+    return minutes_to_time(total_minutes)
+
+
 def merge_language_data(existing_data: list, new_data: list) -> list:
     """
-    Merge existing language data with new data.
+    Merge existing language data with new data, replacing the time value.
 
     Args:
         existing_data (list): List of existing data.
         new_data (list): List of new data.
 
     Returns:
-        list: Merged list of data.
+        list: Merged and sorted list of data.
     """
     lang_dict = {entry["language"]: entry for entry in existing_data}
 
     for entry in new_data:
-        if entry["language"] in lang_dict:
-            existing_time = lang_dict[entry["language"]]["time"]
-            new_time = entry["time"]
-            total_minutes = time_to_minutes(existing_time) + time_to_minutes(new_time)
-            lang_dict[entry["language"]]["time"] = f"{total_minutes // 60} hrs {total_minutes % 60} mins"
-        else:
-            lang_dict[entry["language"]] = entry
+        lang_dict[entry["language"]] = entry
 
-    return list(lang_dict.values())
+    return sorted(lang_dict.values(), key=lambda x: x["language"])
 
 
-def save_user_data(output_path: str, data: list) -> None:
+def save_user_data(output_path: str, data: dict) -> None:
     """
     Save user data to a JSON file.
 
     Args:
         output_path (str): Path to the output file.
-        data (list): Data to save.
+        data (dict): Data to save.
     """
     with open(output_path, "w") as output_file:
         json.dump(data, output_file, indent=4)
@@ -144,31 +171,34 @@ def process_user(username: str, base_url: str, output_dir: str) -> None:
         output_path = os.path.join(output_dir, f"{username}.json")
         if os.path.exists(output_path):
             with open(output_path, "r") as existing_file:
-                existing_data = json.load(existing_file)
+                existing_data = json.load(existing_file).get("languages", [])
         else:
             existing_data = []
 
         merged_data = merge_language_data(existing_data, lang_data)
-        save_user_data(output_path, merged_data)
+        total_time = calculate_total_time(merged_data)
 
+        user_data = {
+            "total_time": total_time,
+            "languages": merged_data,
+        }
+
+        save_user_data(output_path, user_data)
         print(f"Data for {username} written to {output_path}")
     except Exception as e:
         print(f"Failed to process {username}: {e}")
 
 
-def process_users(users: list, base_url: str, output_dir: str) -> None:
+def process_users(usernames: list, base_url: str, output_dir: str) -> None:
     """
     Process users to fetch and save their WakaTime data.
 
     Args:
-        users (list): List of users.
+        usernames (list): List of usernames.
         base_url (str): Base URL for the API requests.
         output_dir (str): Output directory for JSON files.
     """
-    for user in users:
-        username = user.get("username")
-        if not username:
-            continue
+    for username in usernames:
         process_user(username, base_url, output_dir)
 
 
@@ -177,7 +207,7 @@ def main() -> None:
     Main function to process user data. If "add" argument is provided, add a single user.
     Otherwise, process all users.
     """
-    users_file: str = "users_summary.json"
+    users_file: str = "users.json"
     output_directory: str = "user_data"
     base_api_url: str = "https://github-readme-stats.vercel.app/api/wakatime"
 
@@ -187,8 +217,8 @@ def main() -> None:
         username = input("Enter username: ")
         process_user(username, base_api_url, output_directory)
     else:
-        users_list: list = load_users(users_file)
-        process_users(users_list, base_api_url, output_directory)
+        usernames: list = load_users(users_file)
+        process_users(usernames, base_api_url, output_directory)
 
 
 if __name__ == "__main__":
