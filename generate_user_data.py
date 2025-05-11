@@ -124,6 +124,22 @@ def calculate_total_time(lang_data: list) -> str:
     return minutes_to_time(total_minutes)
 
 
+def filter_languages(lang_data: list) -> list:
+    """
+    Filter out languages with less than 2.5 hours of time or named "Other".
+
+    Args:
+        lang_data (list): List of language data.
+
+    Returns:
+        list: Filtered list of language data.
+    """
+    return [
+        entry for entry in lang_data
+        if entry["language"] != "Other" and time_to_minutes(entry["time"]) >= 150
+    ]
+
+
 def merge_language_data(existing_data: list, new_data: list) -> list:
     """
     Merge existing language data with new data, replacing the time value.
@@ -176,11 +192,12 @@ def process_user(username: str, base_url: str, output_dir: str) -> None:
             existing_data = []
 
         merged_data = merge_language_data(existing_data, lang_data)
-        total_time = calculate_total_time(merged_data)
+        filtered_data = filter_languages(merged_data)
+        total_time = calculate_total_time(filtered_data)
 
         user_data = {
             "total_time": total_time,
-            "languages": merged_data,
+            "languages": filtered_data,
         }
 
         save_user_data(output_path, user_data)
