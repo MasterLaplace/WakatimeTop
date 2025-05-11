@@ -93,7 +93,7 @@
         languages.forEach(language => {
           const option = document.createElement('option');
           option.value = language;
-          option.textContent = decodeURIComponent(language).replace(/_/g, ' ');
+          option.textContent = language.replace(/_/g, ' ');
           languageSelect.appendChild(option);
         });
       });
@@ -103,7 +103,7 @@
      * Updates the leaderboard table with user rankings and time spent.
      */
     languageSelect.addEventListener('change', () => {
-      const selectedLanguage = languageSelect.value;
+      const selectedLanguage = encodeURIComponent(languageSelect.value);
       fetch(`./language_data/${selectedLanguage}.json`)
         .then(response => response.json())
         .then(data => {
