@@ -65,7 +65,7 @@
   <main>
     <label for="language-select">Choose a language:</label>
     <select id="language-select">
-      <option value="" disabled selected>Select a language</option>
+      <option value="" selected>Global Leaderboard</option>
     </select>
     <table id="leaderboard-table" style="display: none;">
       <thead>
@@ -79,14 +79,14 @@
     </table>
   </main>
   <script>
-    /**
-     * Fetch the list of languages from the generated languages.json file.
-     * Populate the dropdown menu with the list of languages.
-     */
     const languageSelect = document.getElementById('language-select');
     const leaderboardTable = document.getElementById('leaderboard-table');
     const leaderboardBody = leaderboardTable.querySelector('tbody');
 
+    /**
+     * Fetch the list of languages from the generated languages.json file.
+     * Populate the dropdown menu with the list of languages.
+     */
     fetch('./language_data/languages.json')
       .then(response => response.json())
       .then(languages => {
@@ -99,26 +99,46 @@
       });
 
     /**
-     * Fetch and display data for the selected language.
+     * Fetch and display data for the selected language or global leaderboard.
      * Updates the leaderboard table with user rankings and time spent.
+     *
+     * @param {string} filePath - Path to the JSON file containing leaderboard data.
      */
-    languageSelect.addEventListener('change', () => {
-      const selectedLanguage = encodeURIComponent(languageSelect.value);
-      fetch(`./language_data/${selectedLanguage}.json`)
+    function fetchLeaderboardData(filePath) {
+      fetch(filePath)
         .then(response => response.json())
         .then(data => {
-          leaderboardBody.innerHTML = ''; // Reset the table
+          leaderboardBody.innerHTML = '';
           data.forEach((user, index) => {
             const row = document.createElement('tr');
             row.innerHTML = `
               <td>${index + 1}</td>
               <td><a href="https://wakatime.com/@${user.username}" target="_blank">${user.username}</a></td>
-              <td>${user.time}</td>
+              <td>${user.total_time || user.time}</td>
             `;
             leaderboardBody.appendChild(row);
           });
           leaderboardTable.style.display = 'table';
         });
+    }
+
+    /**
+     * Fetch and display the global leaderboard data on page load.
+     * This will show the top users globally.
+     */
+    fetchLeaderboardData('./global_leaderboard.json');
+
+    /**
+     * Event listener for the language dropdown menu.
+     * Fetches and displays the leaderboard for the selected language or the global leaderboard.
+     */
+    languageSelect.addEventListener('change', () => {
+      const selectedLanguage = languageSelect.value;
+      if (selectedLanguage) {
+        fetchLeaderboardData(`./language_data/${encodeURIComponent(selectedLanguage)}.json`);
+      } else {
+        fetchLeaderboardData('./global_leaderboard.json');
+      }
     });
   </script>
 </body>
