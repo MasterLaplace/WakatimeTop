@@ -1,5 +1,5 @@
 {
-    "total_time": "2,405 hrs 49 mins",
+    "total_time": "2,454 hrs 24 mins",
     "languages": [
         {
             "language": "Bash",
@@ -34,6 +34,10 @@
             "time": "31 hrs 30 mins"
         },
         {
+            "language": "Makefile",
+            "time": "26 hrs 37 mins"
+        },
+        {
             "language": "Markdown",
             "time": "131 hrs 29 mins"
         },
@@ -48,6 +52,10 @@
         {
             "language": "TypeScript",
             "time": "104 hrs 45 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "21 hrs 58 mins"
         },
         {
             "language": "YAML",

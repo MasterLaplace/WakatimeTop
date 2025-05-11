@@ -1,6 +1,10 @@
 {
-    "total_time": "8,241 hrs 3 mins",
+    "total_time": "8,274 hrs 42 mins",
     "languages": [
+        {
+            "language": ".env file",
+            "time": "16 hrs 16 mins"
+        },
         {
             "language": "Bash",
             "time": "22 hrs 42 mins"
@@ -56,6 +60,10 @@
         {
             "language": "Vue.js",
             "time": "66 hrs 6 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "17 hrs 23 mins"
         }
     ]
 }

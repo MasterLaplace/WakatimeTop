@@ -1,9 +1,13 @@
 {
-    "total_time": "4,890 hrs 26 mins",
+    "total_time": "4,910 hrs 2 mins",
     "languages": [
         {
             "language": "C++",
             "time": "15 hrs 12 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "12 hrs 52 mins"
         },
         {
             "language": "CSV",
@@ -48,6 +52,10 @@
         {
             "language": "Text",
             "time": "80 hrs 55 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "6 hrs 44 mins"
         },
         {
             "language": "YAML",

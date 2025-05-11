@@ -1,5 +1,5 @@
 {
-    "total_time": "64 hrs 2 mins",
+    "total_time": "64 hrs 18 mins",
     "languages": [
         {
             "language": "Bash",
@@ -16,6 +16,10 @@
         {
             "language": "ERB",
             "time": "54 mins"
+        },
+        {
+            "language": "Image (svg)",
+            "time": "7 mins"
         },
         {
             "language": "JSON",
@@ -56,6 +60,10 @@
         {
             "language": "sh",
             "time": "15 mins"
+        },
+        {
+            "language": "yarn.lock",
+            "time": "9 mins"
         }
     ]
 }

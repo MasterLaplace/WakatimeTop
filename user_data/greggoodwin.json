@@ -1,6 +1,10 @@
 {
-    "total_time": "2,682 hrs 14 mins",
+    "total_time": "2,741 hrs 15 mins",
     "languages": [
+        {
+            "language": "Bash",
+            "time": "31 hrs 30 mins"
+        },
         {
             "language": "Blazor",
             "time": "32 hrs 19 mins"
@@ -36,6 +40,10 @@
         {
             "language": "Other",
             "time": "210 hrs 34 mins"
+        },
+        {
+            "language": "Python",
+            "time": "27 hrs 31 mins"
         },
         {
             "language": "Terraform",

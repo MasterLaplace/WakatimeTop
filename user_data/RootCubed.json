@@ -1,21 +1,29 @@
 {
-    "total_time": "2,499 hrs 12 mins",
+    "total_time": "2,562 hrs 40 mins",
     "languages": [
         {
             "language": "C",
-            "time": "271 hrs 43 mins"
+            "time": "271 hrs 56 mins"
         },
         {
             "language": "C++",
-            "time": "437 hrs 51 mins"
+            "time": "439 hrs 50 mins"
         },
         {
             "language": "JSON",
-            "time": "74 hrs"
+            "time": "74 hrs 14 mins"
+        },
+        {
+            "language": "Java",
+            "time": "32 hrs 16 mins"
         },
         {
             "language": "JavaScript",
-            "time": "187 hrs 45 mins"
+            "time": "187 hrs 48 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "27 hrs 36 mins"
         },
         {
             "language": "OCaml",
@@ -23,11 +31,11 @@
         },
         {
             "language": "Other",
-            "time": "304 hrs 33 mins"
+            "time": "304 hrs 50 mins"
         },
         {
             "language": "Python",
-            "time": "343 hrs 19 mins"
+            "time": "343 hrs 31 mins"
         },
         {
             "language": "Rust",
@@ -43,7 +51,7 @@
         },
         {
             "language": "Text",
-            "time": "132 hrs 13 mins"
+            "time": "132 hrs 51 mins"
         },
         {
             "language": "TypeScript",

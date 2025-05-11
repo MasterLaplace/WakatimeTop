@@ -1,5 +1,5 @@
 {
-    "total_time": "3,250 hrs 37 mins",
+    "total_time": "3,265 hrs 11 mins",
     "languages": [
         {
             "language": "Dart",
@@ -38,12 +38,20 @@
             "time": "929 hrs 32 mins"
         },
         {
+            "language": "PHP",
+            "time": "7 hrs 24 mins"
+        },
+        {
             "language": "SQL",
             "time": "10 hrs 35 mins"
         },
         {
             "language": "Swift",
             "time": "18 hrs 56 mins"
+        },
+        {
+            "language": "Text",
+            "time": "7 hrs 10 mins"
         },
         {
             "language": "TypeScript",

@@ -1,5 +1,5 @@
 {
-    "total_time": "8,451 hrs 56 mins",
+    "total_time": "8,545 hrs 39 mins",
     "languages": [
         {
             "language": "Bash",
@@ -12,6 +12,10 @@
         {
             "language": "CSS",
             "time": "445 hrs 30 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "42 hrs 47 mins"
         },
         {
             "language": "HTML",
@@ -40,6 +44,10 @@
         {
             "language": "Twig",
             "time": "74 hrs 29 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "50 hrs 56 mins"
         },
         {
             "language": "Vue.js",

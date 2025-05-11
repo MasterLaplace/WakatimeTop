@@ -1,5 +1,5 @@
 {
-    "total_time": "1,972 hrs 54 mins",
+    "total_time": "1,988 hrs 50 mins",
     "languages": [
         {
             "language": "Dart",
@@ -16,6 +16,10 @@
         {
             "language": "JSON",
             "time": "33 hrs 27 mins"
+        },
+        {
+            "language": "Java",
+            "time": "8 hrs 7 mins"
         },
         {
             "language": "JavaScript",
@@ -56,6 +60,10 @@
         {
             "language": "YAML",
             "time": "20 hrs 1 min"
+        },
+        {
+            "language": "Zig",
+            "time": "7 hrs 49 mins"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "total_time": "3,752 hrs 11 mins",
+    "total_time": "3,767 hrs 34 mins",
     "languages": [
         {
             "language": "Bash",
@@ -40,6 +40,14 @@
         {
             "language": "Reason",
             "time": "889 hrs 50 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "7 hrs 45 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "7 hrs 38 mins"
         },
         {
             "language": "Text",

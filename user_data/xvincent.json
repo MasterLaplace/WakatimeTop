@@ -1,5 +1,5 @@
 {
-    "total_time": "3,115 hrs 21 mins",
+    "total_time": "3,192 hrs 41 mins",
     "languages": [
         {
             "language": "C",
@@ -12,6 +12,10 @@
         {
             "language": "CSS",
             "time": "45 hrs 14 mins"
+        },
+        {
+            "language": "HTTP Request",
+            "time": "42 hrs 21 mins"
         },
         {
             "language": "Image (svg)",
@@ -52,6 +56,10 @@
         {
             "language": "TypeScript",
             "time": "1,105 hrs 56 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "34 hrs 59 mins"
         },
         {
             "language": "YAML",

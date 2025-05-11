@@ -1,5 +1,5 @@
 {
-    "total_time": "689 hrs 24 mins",
+    "total_time": "689 hrs 45 mins",
     "languages": [
         {
             "language": "Bash",
@@ -38,6 +38,10 @@
             "time": "249 hrs 45 mins"
         },
         {
+            "language": "Markdown",
+            "time": "10 mins"
+        },
+        {
             "language": "Other",
             "time": "49 mins"
         },
@@ -56,6 +60,10 @@
         {
             "language": "TypeScript",
             "time": "246 hrs 54 mins"
+        },
+        {
+            "language": "XML",
+            "time": "11 mins"
         }
     ]
 }

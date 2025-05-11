@@ -1,5 +1,5 @@
 {
-    "total_time": "63 hrs 20 mins",
+    "total_time": "63 hrs 22 mins",
     "languages": [
         {
             "language": "Bash",
@@ -26,6 +26,10 @@
             "time": "6 hrs 5 mins"
         },
         {
+            "language": "INI",
+            "time": "1 min"
+        },
+        {
             "language": "JSON",
             "time": "3 hrs 24 mins"
         },
@@ -48,6 +52,10 @@
         {
             "language": "Python",
             "time": "2 hrs 20 mins"
+        },
+        {
+            "language": "Singularity",
+            "time": "1 min"
         },
         {
             "language": "Text",

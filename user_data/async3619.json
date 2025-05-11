@@ -1,5 +1,5 @@
 {
-    "total_time": "5,992 hrs 41 mins",
+    "total_time": "6,033 hrs 48 mins",
     "languages": [
         {
             "language": "C#",
@@ -26,6 +26,10 @@
             "time": "115 hrs 33 mins"
         },
         {
+            "language": "MDX",
+            "time": "21 hrs 25 mins"
+        },
+        {
             "language": "Markdown",
             "time": "36 hrs 5 mins"
         },
@@ -40,6 +44,10 @@
         {
             "language": "Rust",
             "time": "41 hrs 50 mins"
+        },
+        {
+            "language": "SCSS",
+            "time": "19 hrs 42 mins"
         },
         {
             "language": "SQL",

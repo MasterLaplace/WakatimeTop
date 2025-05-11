@@ -1,5 +1,5 @@
 {
-    "total_time": "1,994 hrs",
+    "total_time": "2,004 hrs 52 mins",
     "languages": [
         {
             "language": "Bash",
@@ -12,6 +12,10 @@
         {
             "language": "HTML",
             "time": "45 hrs 16 mins"
+        },
+        {
+            "language": "HTTP Request",
+            "time": "6 hrs 22 mins"
         },
         {
             "language": "JSON",
@@ -36,6 +40,10 @@
         {
             "language": "Python",
             "time": "6 hrs 29 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "4 hrs 30 mins"
         },
         {
             "language": "Swift",

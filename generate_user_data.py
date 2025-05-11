@@ -40,7 +40,7 @@ def fetch_user_data(username: str, base_url: str) -> str:
     Returns:
         str: SVG content of the response.
     """
-    url = f"{base_url}?username={username}&layout=compact&langs_count=14&custom_title=WakaTime%20Stats%20since%20May%207%202023"
+    url = f"{base_url}?username={username}&layout=compact&langs_count=16"
     response = requests.get(url)
     response.raise_for_status()
     return response.content

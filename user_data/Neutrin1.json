@@ -1,5 +1,5 @@
 {
-    "total_time": "478 hrs 22 mins",
+    "total_time": "478 hrs 52 mins",
     "languages": [
         {
             "language": "C",
@@ -20,6 +20,10 @@
         {
             "language": "JSON",
             "time": "2 hrs 26 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "10 mins"
         },
         {
             "language": "MATLAB",
@@ -52,6 +56,10 @@
         {
             "language": "Text",
             "time": "8 hrs 34 mins"
+        },
+        {
+            "language": "XML",
+            "time": "20 mins"
         },
         {
             "language": "YAML",

@@ -1,6 +1,10 @@
 {
-    "total_time": "6,952 hrs 29 mins",
+    "total_time": "6,978 hrs 14 mins",
     "languages": [
+        {
+            "language": "Bash",
+            "time": "13 hrs 5 mins"
+        },
         {
             "language": "C#",
             "time": "16 hrs 56 mins"
@@ -12,6 +16,10 @@
         {
             "language": "Go",
             "time": "332 hrs 56 mins"
+        },
+        {
+            "language": "GraphQL",
+            "time": "12 hrs 40 mins"
         },
         {
             "language": "JSON",

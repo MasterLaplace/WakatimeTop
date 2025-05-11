@@ -1,5 +1,5 @@
 {
-    "total_time": "711 hrs 29 mins",
+    "total_time": "719 hrs 11 mins",
     "languages": [
         {
             "language": "Bash",
@@ -20,6 +20,10 @@
         {
             "language": "Cuda",
             "time": "19 hrs 10 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "4 hrs 18 mins"
         },
         {
             "language": "HTML",
@@ -48,6 +52,10 @@
         {
             "language": "Other",
             "time": "18 hrs 48 mins"
+        },
+        {
+            "language": "PlantUML",
+            "time": "3 hrs 24 mins"
         },
         {
             "language": "Text",

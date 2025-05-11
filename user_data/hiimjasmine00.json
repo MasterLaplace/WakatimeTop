@@ -1,6 +1,10 @@
 {
-    "total_time": "66 hrs 33 mins",
+    "total_time": "66 hrs 50 mins",
     "languages": [
+        {
+            "language": "Bash",
+            "time": "2 mins"
+        },
         {
             "language": "C",
             "time": "41 mins"
@@ -28,6 +32,10 @@
         {
             "language": "Java",
             "time": "1 hr 47 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "15 mins"
         },
         {
             "language": "Objective-C",

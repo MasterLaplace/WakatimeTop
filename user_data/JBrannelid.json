@@ -1,5 +1,5 @@
 {
-    "total_time": "640 hrs 33 mins",
+    "total_time": "653 hrs",
     "languages": [
         {
             "language": "Bash",
@@ -7,11 +7,15 @@
         },
         {
             "language": "Binary",
-            "time": "33 hrs 5 mins"
+            "time": "33 hrs 32 mins"
         },
         {
             "language": "C#",
-            "time": "166 hrs 17 mins"
+            "time": "166 hrs 19 mins"
+        },
+        {
+            "language": "CSHTML",
+            "time": "54 mins"
         },
         {
             "language": "CSS",
@@ -30,12 +34,16 @@
             "time": "40 hrs 48 mins"
         },
         {
+            "language": "Image (svg)",
+            "time": "51 mins"
+        },
+        {
             "language": "JSON",
-            "time": "9 hrs 59 mins"
+            "time": "10 hrs 4 mins"
         },
         {
             "language": "JavaScript",
-            "time": "283 hrs 15 mins"
+            "time": "293 hrs 23 mins"
         },
         {
             "language": "Markdown",

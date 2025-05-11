@@ -1,5 +1,5 @@
 {
-    "total_time": "4,284 hrs 40 mins",
+    "total_time": "4,312 hrs 5 mins",
     "languages": [
         {
             "language": ".env file",
@@ -8,6 +8,10 @@
         {
             "language": "Bash",
             "time": "69 hrs 2 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "14 hrs 7 mins"
         },
         {
             "language": "GraphQL",
@@ -48,6 +52,10 @@
         {
             "language": "SQL",
             "time": "50 hrs 2 mins"
+        },
+        {
+            "language": "Text",
+            "time": "13 hrs 18 mins"
         },
         {
             "language": "TypeScript",

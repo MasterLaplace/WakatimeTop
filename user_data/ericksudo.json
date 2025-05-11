@@ -1,6 +1,14 @@
 {
-    "total_time": "2,883 hrs 6 mins",
+    "total_time": "2,934 hrs 59 mins",
     "languages": [
+        {
+            "language": "Bash",
+            "time": "20 hrs 28 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "21 hrs 24 mins"
+        },
         {
             "language": "Dart",
             "time": "54 hrs 29 mins"
@@ -19,7 +27,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "818 hrs 52 mins"
+            "time": "818 hrs 56 mins"
         },
         {
             "language": "Kotlin",
@@ -47,11 +55,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "667 hrs 31 mins"
+            "time": "668 hrs 52 mins"
         },
         {
             "language": "Vue.js",
-            "time": "316 hrs 14 mins"
+            "time": "324 hrs 50 mins"
         },
         {
             "language": "YAML",

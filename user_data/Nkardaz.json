@@ -1,9 +1,9 @@
 {
-    "total_time": "749 hrs 52 mins",
+    "total_time": "762 hrs 23 mins",
     "languages": [
         {
             "language": "AutoHotkey",
-            "time": "593 hrs 21 mins"
+            "time": "601 hrs 52 mins"
         },
         {
             "language": "Batchfile",
@@ -26,12 +26,16 @@
             "time": "9 hrs 58 mins"
         },
         {
+            "language": "Git",
+            "time": "1 hr 44 mins"
+        },
+        {
             "language": "HTML",
             "time": "9 hrs 13 mins"
         },
         {
             "language": "INI",
-            "time": "46 hrs 26 mins"
+            "time": "46 hrs 36 mins"
         },
         {
             "language": "JavaScript",
@@ -52,6 +56,10 @@
         {
             "language": "PowerShell",
             "time": "13 hrs 29 mins"
+        },
+        {
+            "language": "Text",
+            "time": "2 hrs 6 mins"
         },
         {
             "language": "YAML",

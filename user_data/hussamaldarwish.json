@@ -1,5 +1,5 @@
 {
-    "total_time": "1,353 hrs 19 mins",
+    "total_time": "1,359 hrs 37 mins",
     "languages": [
         {
             "language": "Bash",
@@ -12,6 +12,10 @@
         {
             "language": "Docker",
             "time": "25 hrs"
+        },
+        {
+            "language": "Git Config",
+            "time": "3 hrs 39 mins"
         },
         {
             "language": "HTML",
@@ -36,6 +40,10 @@
         {
             "language": "PHP",
             "time": "53 hrs 42 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "2 hrs 39 mins"
         },
         {
             "language": "Prisma",

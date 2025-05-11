@@ -1,5 +1,5 @@
 {
-    "total_time": "237 hrs 57 mins",
+    "total_time": "239 hrs 23 mins",
     "languages": [
         {
             "language": "Bash",
@@ -30,6 +30,10 @@
             "time": "11 hrs 11 mins"
         },
         {
+            "language": "INI",
+            "time": "36 mins"
+        },
+        {
             "language": "JSON",
             "time": "8 hrs 40 mins"
         },
@@ -56,6 +60,10 @@
         {
             "language": "YAML",
             "time": "6 hrs 46 mins"
+        },
+        {
+            "language": "reStructuredText",
+            "time": "50 mins"
         }
     ]
 }

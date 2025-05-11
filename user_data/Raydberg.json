@@ -1,9 +1,13 @@
 {
-    "total_time": "1,198 hrs 38 mins",
+    "total_time": "1,221 hrs 18 mins",
     "languages": [
         {
             "language": "Astro",
             "time": "39 hrs 14 mins"
+        },
+        {
+            "language": "Bash",
+            "time": "10 hrs 26 mins"
         },
         {
             "language": "C#",
@@ -36,6 +40,10 @@
         {
             "language": "Markdown",
             "time": "27 hrs 32 mins"
+        },
+        {
+            "language": "Other",
+            "time": "12 hrs 14 mins"
         },
         {
             "language": "Python",

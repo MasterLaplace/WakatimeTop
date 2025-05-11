@@ -1,5 +1,5 @@
 {
-    "total_time": "4,622 hrs 39 mins",
+    "total_time": "4,637 hrs 23 mins",
     "languages": [
         {
             "language": "Assembly",
@@ -11,11 +11,15 @@
         },
         {
             "language": "CSV",
-            "time": "149 hrs 14 mins"
+            "time": "149 hrs 31 mins"
         },
         {
             "language": "Docker",
             "time": "7 hrs 5 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "2 hrs 23 mins"
         },
         {
             "language": "HTML",
@@ -31,7 +35,7 @@
         },
         {
             "language": "Other",
-            "time": "40 hrs 30 mins"
+            "time": "40 hrs 32 mins"
         },
         {
             "language": "Prolog",
@@ -39,15 +43,19 @@
         },
         {
             "language": "Python",
-            "time": "4,055 hrs 3 mins"
+            "time": "4,063 hrs 51 mins"
         },
         {
             "language": "Solidity",
-            "time": "4 hrs 42 mins"
+            "time": "4 hrs 50 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "3 hrs 1 min"
         },
         {
             "language": "Text",
-            "time": "56 hrs 44 mins"
+            "time": "56 hrs 49 mins"
         },
         {
             "language": "TypeScript",

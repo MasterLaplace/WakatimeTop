@@ -1,5 +1,5 @@
 {
-    "total_time": "2,417 hrs 43 mins",
+    "total_time": "2,419 hrs 25 mins",
     "languages": [
         {
             "language": ".env file",
@@ -56,6 +56,14 @@
         {
             "language": "Text",
             "time": "1 hr 42 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "49 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "53 mins"
         }
     ]
 }

@@ -1,9 +1,13 @@
 {
-    "total_time": "551 hrs 46 mins",
+    "total_time": "567 hrs 47 mins",
     "languages": [
         {
             "language": "Bash",
-            "time": "4 hrs 1 min"
+            "time": "4 hrs 9 mins"
+        },
+        {
+            "language": "C++",
+            "time": "2 hrs 18 mins"
         },
         {
             "language": "CSS",
@@ -11,11 +15,11 @@
         },
         {
             "language": "Docker",
-            "time": "2 hrs 32 mins"
+            "time": "2 hrs 36 mins"
         },
         {
             "language": "JSON",
-            "time": "15 hrs 6 mins"
+            "time": "15 hrs 18 mins"
         },
         {
             "language": "Java",
@@ -47,11 +51,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "247 hrs 12 mins"
+            "time": "254 hrs 17 mins"
         },
         {
             "language": "Vue.js",
-            "time": "142 hrs 39 mins"
+            "time": "147 hrs 7 mins"
+        },
+        {
+            "language": "XML",
+            "time": "1 hr 46 mins"
         },
         {
             "language": "YAML",

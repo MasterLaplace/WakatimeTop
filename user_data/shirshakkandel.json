@@ -1,5 +1,5 @@
 {
-    "total_time": "7,472 hrs 37 mins",
+    "total_time": "7,486 hrs 25 mins",
     "languages": [
         {
             "language": "Bash",
@@ -30,6 +30,10 @@
             "time": "112 hrs 53 mins"
         },
         {
+            "language": "JSON with Comments",
+            "time": "7 hrs 8 mins"
+        },
+        {
             "language": "JavaScript",
             "time": "1,170 hrs 47 mins"
         },
@@ -40,6 +44,10 @@
         {
             "language": "Other",
             "time": "544 hrs 4 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "6 hrs 40 mins"
         },
         {
             "language": "Prisma",

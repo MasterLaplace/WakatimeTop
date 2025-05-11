@@ -1,5 +1,5 @@
 {
-    "total_time": "3,243 hrs 26 mins",
+    "total_time": "3,245 hrs 15 mins",
     "languages": [
         {
             "language": "CSS",
@@ -16,6 +16,10 @@
         {
             "language": "EJS",
             "time": "30 hrs 52 mins"
+        },
+        {
+            "language": "Git",
+            "time": "47 mins"
         },
         {
             "language": "Groovy",
@@ -40,6 +44,10 @@
         {
             "language": "JavaScript",
             "time": "67 hrs 14 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "1 hr 2 mins"
         },
         {
             "language": "Markdown",

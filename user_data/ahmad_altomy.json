@@ -1,5 +1,5 @@
 {
-    "total_time": "2,138 hrs 27 mins",
+    "total_time": "2,160 hrs 18 mins",
     "languages": [
         {
             "language": "Bash",
@@ -11,19 +11,23 @@
         },
         {
             "language": "Docker",
-            "time": "10 hrs"
+            "time": "10 hrs 3 mins"
         },
         {
             "language": "Go",
-            "time": "309 hrs 53 mins"
+            "time": "313 hrs 13 mins"
         },
         {
             "language": "Groovy",
             "time": "9 hrs 35 mins"
         },
         {
+            "language": "HTML",
+            "time": "7 hrs 53 mins"
+        },
+        {
             "language": "JSON",
-            "time": "146 hrs 19 mins"
+            "time": "147 hrs"
         },
         {
             "language": "JavaScript",
@@ -31,11 +35,11 @@
         },
         {
             "language": "Markdown",
-            "time": "157 hrs 59 mins"
+            "time": "158 hrs 30 mins"
         },
         {
             "language": "Other",
-            "time": "25 hrs 56 mins"
+            "time": "25 hrs 58 mins"
         },
         {
             "language": "Text",
@@ -43,15 +47,19 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,314 hrs 18 mins"
+            "time": "1,315 hrs 25 mins"
         },
         {
             "language": "Vue.js",
             "time": "8 hrs 52 mins"
         },
         {
+            "language": "XML",
+            "time": "7 hrs 35 mins"
+        },
+        {
             "language": "YAML",
-            "time": "37 hrs 39 mins"
+            "time": "38 hrs 18 mins"
         },
         {
             "language": "textmate",

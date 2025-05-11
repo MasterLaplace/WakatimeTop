@@ -1,5 +1,5 @@
 {
-    "total_time": "1,967 hrs 35 mins",
+    "total_time": "1,995 hrs 2 mins",
     "languages": [
         {
             "language": "Bash",
@@ -11,7 +11,7 @@
         },
         {
             "language": "CSS",
-            "time": "27 hrs 57 mins"
+            "time": "28 hrs 1 min"
         },
         {
             "language": "Docker",
@@ -23,7 +23,7 @@
         },
         {
             "language": "JSON",
-            "time": "110 hrs 3 mins"
+            "time": "110 hrs 7 mins"
         },
         {
             "language": "JavaScript",
@@ -32,6 +32,10 @@
         {
             "language": "Markdown",
             "time": "33 hrs 12 mins"
+        },
+        {
+            "language": "Nginx configuration file",
+            "time": "8 hrs 9 mins"
         },
         {
             "language": "Other",
@@ -51,7 +55,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,020 hrs 22 mins"
+            "time": "1,023 hrs 18 mins"
+        },
+        {
+            "language": "XML",
+            "time": "16 hrs 14 mins"
         },
         {
             "language": "YAML",

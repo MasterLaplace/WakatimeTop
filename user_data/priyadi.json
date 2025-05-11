@@ -1,5 +1,5 @@
 {
-    "total_time": "1,930 hrs 3 mins",
+    "total_time": "1,931 hrs 49 mins",
     "languages": [
         {
             "language": "Bash",
@@ -16,6 +16,10 @@
         {
             "language": "Git Config",
             "time": "1 hr 19 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "56 mins"
         },
         {
             "language": "JSON",
@@ -56,6 +60,10 @@
         {
             "language": "YAML",
             "time": "48 hrs 41 mins"
+        },
+        {
+            "language": "reStructuredText",
+            "time": "50 mins"
         }
     ]
 }

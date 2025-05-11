@@ -1,5 +1,5 @@
 {
-    "total_time": "5,405 hrs 40 mins",
+    "total_time": "5,413 hrs 9 mins",
     "languages": [
         {
             "language": "C",
@@ -8,6 +8,10 @@
         {
             "language": "CMake",
             "time": "7 hrs 58 mins"
+        },
+        {
+            "language": "Eiffel",
+            "time": "4 hrs 25 mins"
         },
         {
             "language": "GitIgnore file",
@@ -40,6 +44,10 @@
         {
             "language": "Other",
             "time": "9 hrs 20 mins"
+        },
+        {
+            "language": "Properties",
+            "time": "3 hrs 4 mins"
         },
         {
             "language": "Text",

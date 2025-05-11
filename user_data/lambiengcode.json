@@ -1,5 +1,5 @@
 {
-    "total_time": "9,250 hrs 15 mins",
+    "total_time": "9,345 hrs 28 mins",
     "languages": [
         {
             "language": "Bash",
@@ -12,6 +12,14 @@
         {
             "language": "Dart",
             "time": "7,228 hrs 56 mins"
+        },
+        {
+            "language": "Groovy",
+            "time": "55 hrs 52 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "39 hrs 21 mins"
         },
         {
             "language": "Java",

@@ -1,9 +1,9 @@
 {
-    "total_time": "80 hrs 36 mins",
+    "total_time": "83 hrs 48 mins",
     "languages": [
         {
             "language": "CSS",
-            "time": "7 mins"
+            "time": "6 mins"
         },
         {
             "language": "JSON",
@@ -11,19 +11,27 @@
         },
         {
             "language": "JavaScript",
-            "time": "22 mins"
+            "time": "27 mins"
         },
         {
             "language": "Markdown",
             "time": "18 mins"
         },
         {
+            "language": "Other",
+            "time": "4 mins"
+        },
+        {
             "language": "Python",
-            "time": "14 hrs 37 mins"
+            "time": "12 hrs 28 mins"
+        },
+        {
+            "language": "Ruby",
+            "time": "1 hr 15 mins"
         },
         {
             "language": "TypeScript",
-            "time": "64 hrs 42 mins"
+            "time": "68 hrs 40 mins"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
-    "total_time": "2,263 hrs 2 mins",
+    "total_time": "2,275 hrs 28 mins",
     "languages": [
         {
             "language": "Bash",
-            "time": "18 hrs 59 mins"
+            "time": "19 hrs 2 mins"
         },
         {
             "language": "CSV",
@@ -23,7 +23,7 @@
         },
         {
             "language": "JSON",
-            "time": "76 hrs 24 mins"
+            "time": "76 hrs 39 mins"
         },
         {
             "language": "JavaScript",
@@ -42,8 +42,16 @@
             "time": "80 hrs 16 mins"
         },
         {
+            "language": "PHP",
+            "time": "3 hrs 41 mins"
+        },
+        {
             "language": "Python",
-            "time": "1,329 hrs 43 mins"
+            "time": "1,331 hrs 46 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "2 hrs 57 mins"
         },
         {
             "language": "Text",
@@ -51,7 +59,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "417 hrs 49 mins"
+            "time": "421 hrs 16 mins"
         },
         {
             "language": "YAML",

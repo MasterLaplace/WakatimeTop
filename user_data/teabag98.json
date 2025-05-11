@@ -1,5 +1,5 @@
 {
-    "total_time": "2,478 hrs 38 mins",
+    "total_time": "2,481 hrs 4 mins",
     "languages": [
         {
             "language": "CSS",
@@ -38,8 +38,16 @@
             "time": "3 hrs 29 mins"
         },
         {
+            "language": "Makefile",
+            "time": "1 hr 40 mins"
+        },
+        {
             "language": "Other",
             "time": "4 hrs 46 mins"
+        },
+        {
+            "language": "Properties",
+            "time": "46 mins"
         },
         {
             "language": "SCSS",

@@ -1,5 +1,5 @@
 {
-    "total_time": "1,139 hrs 9 mins",
+    "total_time": "1,140 hrs 10 mins",
     "languages": [
         {
             "language": ".env file",
@@ -14,16 +14,20 @@
             "time": "8 hrs 58 mins"
         },
         {
+            "language": "Docker",
+            "time": "1 hr 56 mins"
+        },
+        {
             "language": "GitIgnore file",
             "time": "2 hrs 38 mins"
         },
         {
             "language": "Go",
-            "time": "384 hrs 40 mins"
+            "time": "385 hrs 58 mins"
         },
         {
             "language": "JSON",
-            "time": "40 hrs 18 mins"
+            "time": "39 hrs 42 mins"
         },
         {
             "language": "Makefile",
@@ -31,11 +35,11 @@
         },
         {
             "language": "Markdown",
-            "time": "24 hrs 20 mins"
+            "time": "24 hrs 21 mins"
         },
         {
             "language": "PHP",
-            "time": "516 hrs 56 mins"
+            "time": "512 hrs 59 mins"
         },
         {
             "language": "Protocol Buffer",
@@ -46,16 +50,20 @@
             "time": "33 hrs 34 mins"
         },
         {
+            "language": "SmartyConfig",
+            "time": "1 hr 59 mins"
+        },
+        {
             "language": "Text",
-            "time": "14 hrs 13 mins"
+            "time": "14 hrs 34 mins"
         },
         {
             "language": "YAML",
-            "time": "44 hrs 13 mins"
+            "time": "44 hrs 14 mins"
         },
         {
             "language": "textmate",
-            "time": "7 hrs 24 mins"
+            "time": "7 hrs 22 mins"
         }
     ]
 }

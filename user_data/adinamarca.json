@@ -1,5 +1,5 @@
 {
-    "total_time": "1,254 hrs 3 mins",
+    "total_time": "1,262 hrs",
     "languages": [
         {
             "language": "BibTeX",
@@ -12,6 +12,10 @@
         {
             "language": "CSS",
             "time": "4 hrs 48 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "3 hrs 52 mins"
         },
         {
             "language": "HTML",
@@ -52,6 +56,10 @@
         {
             "language": "SCSS",
             "time": "20 hrs 35 mins"
+        },
+        {
+            "language": "Text",
+            "time": "4 hrs 5 mins"
         },
         {
             "language": "YAML",

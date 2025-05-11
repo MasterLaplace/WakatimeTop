@@ -1,9 +1,17 @@
 {
-    "total_time": "79 hrs 10 mins",
+    "total_time": "79 hrs 24 mins",
     "languages": [
         {
             "language": "Bash",
             "time": "42 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "7 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "7 mins"
         },
         {
             "language": "Image (svg)",

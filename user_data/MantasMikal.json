@@ -1,5 +1,5 @@
 {
-    "total_time": "6,155 hrs 15 mins",
+    "total_time": "6,183 hrs 44 mins",
     "languages": [
         {
             "language": "Bash",
@@ -7,7 +7,11 @@
         },
         {
             "language": "CSS",
-            "time": "102 hrs 42 mins"
+            "time": "103 hrs 48 mins"
+        },
+        {
+            "language": "GraphQL",
+            "time": "11 hrs 23 mins"
         },
         {
             "language": "HTML",
@@ -27,7 +31,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,032 hrs 19 mins"
+            "time": "1,032 hrs 20 mins"
+        },
+        {
+            "language": "Liquid",
+            "time": "8 hrs 29 mins"
         },
         {
             "language": "Markdown",
@@ -47,7 +55,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "3,028 hrs 23 mins"
+            "time": "3,035 hrs 53 mins"
         },
         {
             "language": "XML",
