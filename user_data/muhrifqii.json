@@ -1,30 +1,29 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "44 hrs 25 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "44 hrs 25 mins"
-    },
-    {
-        "language": "Rust",
-        "time": "18 hrs 3 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "57 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "27 mins"
-    },
-    {
-        "language": "CSS",
-        "time": "20 mins"
-    },
-    {
-        "language": "TOML",
-        "time": "7 mins"
-    }
-]
+{
+    "total_time": "55 hrs",
+    "languages": [
+        {
+            "language": "CSS",
+            "time": "20 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "23 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "57 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "17 hrs 37 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "7 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "35 hrs 36 mins"
+        }
+    ]
+}

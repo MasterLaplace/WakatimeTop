@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Java",
-        "time": "2,115 hrs 23 mins"
-    },
-    {
-        "language": "Java",
-        "time": "2,115 hrs 23 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "1,101 hrs 19 mins"
-    },
-    {
-        "language": "PHP",
-        "time": "1,062 hrs"
-    },
-    {
-        "language": "TypeScript",
-        "time": "1,043 hrs 9 mins"
-    },
-    {
-        "language": "C#",
-        "time": "1,029 hrs 9 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "682 hrs 49 mins"
-    },
-    {
-        "language": "Protocol Buffer",
-        "time": "561 hrs 36 mins"
-    },
-    {
-        "language": "Other",
-        "time": "388 hrs 28 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "268 hrs"
-    },
-    {
-        "language": "Bash",
-        "time": "257 hrs 7 mins"
-    },
-    {
-        "language": "Text",
-        "time": "236 hrs 3 mins"
-    },
-    {
-        "language": "Docker",
-        "time": "163 hrs 1 min"
-    },
-    {
-        "language": "Markdown",
-        "time": "125 hrs 54 mins"
-    },
-    {
-        "language": "Lua",
-        "time": "68 hrs 40 mins"
-    }
-]
+{
+    "total_time": "9,109 hrs 1 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "257 hrs 7 mins"
+        },
+        {
+            "language": "C#",
+            "time": "1,029 hrs 9 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "163 hrs 1 min"
+        },
+        {
+            "language": "JSON",
+            "time": "682 hrs 58 mins"
+        },
+        {
+            "language": "Java",
+            "time": "2,116 hrs 15 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "1,101 hrs 26 mins"
+        },
+        {
+            "language": "Lua",
+            "time": "68 hrs 40 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "125 hrs 57 mins"
+        },
+        {
+            "language": "Other",
+            "time": "388 hrs 28 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "1,062 hrs"
+        },
+        {
+            "language": "Protocol Buffer",
+            "time": "564 hrs 31 mins"
+        },
+        {
+            "language": "Text",
+            "time": "236 hrs 49 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "1,044 hrs 25 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "268 hrs 15 mins"
+        }
+    ]
+}

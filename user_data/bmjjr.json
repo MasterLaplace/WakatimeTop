@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Python",
-        "time": "3,363 hrs 43 mins"
-    },
-    {
-        "language": "Python",
-        "time": "3,363 hrs 43 mins"
-    },
-    {
-        "language": "HTML",
-        "time": "834 hrs 41 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "166 hrs 18 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "137 hrs 50 mins"
-    },
-    {
-        "language": "Text",
-        "time": "80 hrs 55 mins"
-    },
-    {
-        "language": "CSV",
-        "time": "79 hrs 27 mins"
-    },
-    {
-        "language": "Other",
-        "time": "72 hrs 35 mins"
-    },
-    {
-        "language": "reStructuredText",
-        "time": "41 hrs 41 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "32 hrs 11 mins"
-    },
-    {
-        "language": "LESS",
-        "time": "19 hrs 35 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "15 hrs 49 mins"
-    },
-    {
-        "language": "PowerShell",
-        "time": "15 hrs 25 mins"
-    },
-    {
-        "language": "C++",
-        "time": "15 hrs 12 mins"
-    },
-    {
-        "language": "Lua",
-        "time": "15 hrs 4 mins"
-    }
-]
+{
+    "total_time": "4,890 hrs 26 mins",
+    "languages": [
+        {
+            "language": "C++",
+            "time": "15 hrs 12 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "79 hrs 27 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "834 hrs 41 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "32 hrs 11 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "166 hrs 18 mins"
+        },
+        {
+            "language": "LESS",
+            "time": "19 hrs 35 mins"
+        },
+        {
+            "language": "Lua",
+            "time": "15 hrs 4 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "15 hrs 49 mins"
+        },
+        {
+            "language": "Other",
+            "time": "72 hrs 35 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "15 hrs 25 mins"
+        },
+        {
+            "language": "Python",
+            "time": "3,363 hrs 43 mins"
+        },
+        {
+            "language": "Text",
+            "time": "80 hrs 55 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "137 hrs 50 mins"
+        },
+        {
+            "language": "reStructuredText",
+            "time": "41 hrs 41 mins"
+        }
+    ]
+}

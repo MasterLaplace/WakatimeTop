@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Python",
-        "time": "134 hrs 53 mins"
-    },
-    {
-        "language": "Python",
-        "time": "134 hrs 53 mins"
-    },
-    {
-        "language": "Dart",
-        "time": "33 hrs 30 mins"
-    },
-    {
-        "language": "HTML",
-        "time": "11 hrs 11 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "9 hrs 25 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "8 hrs 40 mins"
-    },
-    {
-        "language": "Git Config",
-        "time": "6 hrs 48 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "6 hrs 46 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "6 hrs 35 mins"
-    },
-    {
-        "language": "Other",
-        "time": "6 hrs 1 min"
-    },
-    {
-        "language": "JavaScript",
-        "time": "4 hrs 41 mins"
-    },
-    {
-        "language": "CSV",
-        "time": "3 hrs 49 mins"
-    },
-    {
-        "language": "Text",
-        "time": "3 hrs 6 mins"
-    },
-    {
-        "language": "CSS",
-        "time": "1 hr 41 mins"
-    },
-    {
-        "language": "Git",
-        "time": "51 mins"
-    }
-]
+{
+    "total_time": "237 hrs 57 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "6 hrs 35 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "1 hr 41 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "3 hrs 49 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "33 hrs 30 mins"
+        },
+        {
+            "language": "Git",
+            "time": "51 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "6 hrs 48 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "11 hrs 11 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "8 hrs 40 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "4 hrs 41 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "9 hrs 25 mins"
+        },
+        {
+            "language": "Other",
+            "time": "6 hrs 1 min"
+        },
+        {
+            "language": "Python",
+            "time": "134 hrs 53 mins"
+        },
+        {
+            "language": "Text",
+            "time": "3 hrs 6 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "6 hrs 46 mins"
+        }
+    ]
+}

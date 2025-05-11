@@ -1,50 +1,49 @@
-[
-    {
-        "language": "Dart",
-        "time": "29 hrs 57 mins"
-    },
-    {
-        "language": "Dart",
-        "time": "29 hrs 57 mins"
-    },
-    {
-        "language": "Kotlin",
-        "time": "16 hrs 38 mins"
-    },
-    {
-        "language": "Java",
-        "time": "14 hrs 8 mins"
-    },
-    {
-        "language": "Groovy",
-        "time": "1 hr 27 mins"
-    },
-    {
-        "language": "XML",
-        "time": "52 mins"
-    },
-    {
-        "language": "AIDL",
-        "time": "22 mins"
-    },
-    {
-        "language": "Gradle",
-        "time": "15 mins"
-    },
-    {
-        "language": "Prolog",
-        "time": "13 mins"
-    },
-    {
-        "language": "Java Properties",
-        "time": "12 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "3 mins"
-    },
-    {
-        "language": "Properties",
-        "time": "1 min"
-    }
-]
+{
+    "total_time": "64 hrs 8 mins",
+    "languages": [
+        {
+            "language": "AIDL",
+            "time": "22 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "29 hrs 57 mins"
+        },
+        {
+            "language": "Gradle",
+            "time": "15 mins"
+        },
+        {
+            "language": "Groovy",
+            "time": "1 hr 27 mins"
+        },
+        {
+            "language": "Java",
+            "time": "14 hrs 8 mins"
+        },
+        {
+            "language": "Java Properties",
+            "time": "12 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "16 hrs 38 mins"
+        },
+        {
+            "language": "Prolog",
+            "time": "13 mins"
+        },
+        {
+            "language": "Properties",
+            "time": "1 min"
+        },
+        {
+            "language": "XML",
+            "time": "52 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 mins"
+        }
+    ]
+}

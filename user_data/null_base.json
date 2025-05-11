@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Dart",
-        "time": "202 hrs 47 mins"
-    },
-    {
-        "language": "Dart",
-        "time": "202 hrs 47 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "50 hrs 10 mins"
-    },
-    {
-        "language": "TeX",
-        "time": "45 hrs 58 mins"
-    },
-    {
-        "language": "C",
-        "time": "27 hrs 20 mins"
-    },
-    {
-        "language": "Python",
-        "time": "17 hrs 10 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "8 hrs 59 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "8 hrs 54 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "6 hrs 18 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "3 hrs 43 mins"
-    },
-    {
-        "language": "HTML",
-        "time": "3 hrs 31 mins"
-    },
-    {
-        "language": "XML",
-        "time": "2 hrs 56 mins"
-    },
-    {
-        "language": "Other",
-        "time": "1 hr 38 mins"
-    },
-    {
-        "language": "Gradle Kotlin DSL",
-        "time": "1 hr 35 mins"
-    },
-    {
-        "language": "C#",
-        "time": "1 hr 28 mins"
-    }
-]
+{
+    "total_time": "383 hrs 25 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "3 hrs 43 mins"
+        },
+        {
+            "language": "C",
+            "time": "27 hrs 20 mins"
+        },
+        {
+            "language": "C#",
+            "time": "1 hr 28 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "202 hrs 59 mins"
+        },
+        {
+            "language": "Gradle Kotlin DSL",
+            "time": "1 hr 48 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "3 hrs 31 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "8 hrs 56 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "8 hrs 59 mins"
+        },
+        {
+            "language": "Other",
+            "time": "1 hr 38 mins"
+        },
+        {
+            "language": "Python",
+            "time": "17 hrs 10 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "45 hrs 58 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "50 hrs 36 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 56 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "6 hrs 23 mins"
+        }
+    ]
+}

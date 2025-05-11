@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Java",
-        "time": "5,020 hrs 21 mins"
-    },
-    {
-        "language": "Java",
-        "time": "5,020 hrs 21 mins"
-    },
-    {
-        "language": "Text",
-        "time": "128 hrs 53 mins"
-    },
-    {
-        "language": "XML",
-        "time": "86 hrs 10 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "42 hrs 53 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "35 hrs 55 mins"
-    },
-    {
-        "language": "HTML",
-        "time": "21 hrs 43 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "18 hrs 26 mins"
-    },
-    {
-        "language": "Other",
-        "time": "9 hrs 20 mins"
-    },
-    {
-        "language": "textmate",
-        "time": "8 hrs 37 mins"
-    },
-    {
-        "language": "C",
-        "time": "8 hrs 21 mins"
-    },
-    {
-        "language": "CMake",
-        "time": "7 hrs 58 mins"
-    },
-    {
-        "language": "GitIgnore file",
-        "time": "6 hrs 21 mins"
-    },
-    {
-        "language": "Java Properties",
-        "time": "5 hrs 50 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "4 hrs 52 mins"
-    }
-]
+{
+    "total_time": "5,405 hrs 40 mins",
+    "languages": [
+        {
+            "language": "C",
+            "time": "8 hrs 21 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "7 hrs 58 mins"
+        },
+        {
+            "language": "GitIgnore file",
+            "time": "6 hrs 21 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "21 hrs 43 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "42 hrs 53 mins"
+        },
+        {
+            "language": "Java",
+            "time": "5,020 hrs 21 mins"
+        },
+        {
+            "language": "Java Properties",
+            "time": "5 hrs 50 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "4 hrs 52 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "18 hrs 26 mins"
+        },
+        {
+            "language": "Other",
+            "time": "9 hrs 20 mins"
+        },
+        {
+            "language": "Text",
+            "time": "128 hrs 53 mins"
+        },
+        {
+            "language": "XML",
+            "time": "86 hrs 10 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "35 hrs 55 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "8 hrs 37 mins"
+        }
+    ]
+}

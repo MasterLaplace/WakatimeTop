@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Python",
-        "time": "3,483 hrs 32 mins"
-    },
-    {
-        "language": "Python",
-        "time": "3,483 hrs 32 mins"
-    },
-    {
-        "language": "Other",
-        "time": "366 hrs 53 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "85 hrs 58 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "81 hrs 31 mins"
-    },
-    {
-        "language": "C++",
-        "time": "59 hrs 56 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "36 hrs 13 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "30 hrs 9 mins"
-    },
-    {
-        "language": "Text",
-        "time": "29 hrs 16 mins"
-    },
-    {
-        "language": "HTML",
-        "time": "28 hrs 59 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "23 hrs 44 mins"
-    },
-    {
-        "language": "Cuda",
-        "time": "12 hrs 4 mins"
-    },
-    {
-        "language": "VHDL",
-        "time": "9 hrs 39 mins"
-    },
-    {
-        "language": "C",
-        "time": "7 hrs 55 mins"
-    },
-    {
-        "language": "MATLAB",
-        "time": "6 hrs 47 mins"
-    }
-]
+{
+    "total_time": "4,265 hrs 51 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "85 hrs 58 mins"
+        },
+        {
+            "language": "C",
+            "time": "7 hrs 55 mins"
+        },
+        {
+            "language": "C++",
+            "time": "59 hrs 56 mins"
+        },
+        {
+            "language": "Cuda",
+            "time": "12 hrs 4 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "28 hrs 59 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "23 hrs 59 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "30 hrs 9 mins"
+        },
+        {
+            "language": "MATLAB",
+            "time": "6 hrs 47 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "36 hrs 13 mins"
+        },
+        {
+            "language": "Other",
+            "time": "366 hrs 53 mins"
+        },
+        {
+            "language": "Python",
+            "time": "3,486 hrs 32 mins"
+        },
+        {
+            "language": "Text",
+            "time": "29 hrs 16 mins"
+        },
+        {
+            "language": "VHDL",
+            "time": "9 hrs 39 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "81 hrs 31 mins"
+        }
+    ]
+}

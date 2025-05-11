@@ -1,26 +1,17 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "86 hrs 59 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "86 hrs 59 mins"
-    },
-    {
-        "language": "norg",
-        "time": "5 hrs 15 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "3 hrs 14 mins"
-    },
-    {
-        "language": "Lua",
-        "time": "1 min"
-    },
-    {
-        "language": "TSConfig",
-        "time": "1 min"
-    }
-]
+{
+    "total_time": "94 hrs 24 mins",
+    "languages": [
+        {
+            "language": "Markdown",
+            "time": "3 hrs 10 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "85 hrs 55 mins"
+        },
+        {
+            "language": "norg",
+            "time": "5 hrs 19 mins"
+        }
+    ]
+}

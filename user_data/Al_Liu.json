@@ -1,0 +1,61 @@
+{
+    "total_time": "6,952 hrs 29 mins",
+    "languages": [
+        {
+            "language": "C#",
+            "time": "16 hrs 56 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "73 hrs 3 mins"
+        },
+        {
+            "language": "Go",
+            "time": "332 hrs 56 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "16 hrs 25 mins"
+        },
+        {
+            "language": "Java",
+            "time": "21 hrs 30 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "32 hrs 41 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "107 hrs 31 mins"
+        },
+        {
+            "language": "Other",
+            "time": "23 hrs 17 mins"
+        },
+        {
+            "language": "Python",
+            "time": "29 hrs 33 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "5,942 hrs 45 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "210 hrs 59 mins"
+        },
+        {
+            "language": "Terraform",
+            "time": "14 hrs 17 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "47 hrs 1 min"
+        },
+        {
+            "language": "YAML",
+            "time": "83 hrs 35 mins"
+        }
+    ]
+}

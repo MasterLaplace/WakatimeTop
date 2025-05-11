@@ -1,62 +1,61 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "1,020 hrs 22 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "1,020 hrs 22 mins"
-    },
-    {
-        "language": "PHP",
-        "time": "323 hrs 53 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "110 hrs 3 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "106 hrs 15 mins"
-    },
-    {
-        "language": "Other",
-        "time": "104 hrs 20 mins"
-    },
-    {
-        "language": "Swift",
-        "time": "73 hrs 30 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "40 hrs 31 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "38 hrs"
-    },
-    {
-        "language": "Markdown",
-        "time": "33 hrs 12 mins"
-    },
-    {
-        "language": "CSS",
-        "time": "27 hrs 57 mins"
-    },
-    {
-        "language": "HTTP Request",
-        "time": "26 hrs 28 mins"
-    },
-    {
-        "language": "Python",
-        "time": "23 hrs 39 mins"
-    },
-    {
-        "language": "Blade Template",
-        "time": "21 hrs 48 mins"
-    },
-    {
-        "language": "Docker",
-        "time": "17 hrs 37 mins"
-    }
-]
+{
+    "total_time": "1,967 hrs 35 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "38 hrs"
+        },
+        {
+            "language": "Blade Template",
+            "time": "21 hrs 48 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "27 hrs 57 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "17 hrs 37 mins"
+        },
+        {
+            "language": "HTTP Request",
+            "time": "26 hrs 28 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "110 hrs 3 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "106 hrs 15 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "33 hrs 12 mins"
+        },
+        {
+            "language": "Other",
+            "time": "104 hrs 20 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "323 hrs 53 mins"
+        },
+        {
+            "language": "Python",
+            "time": "23 hrs 39 mins"
+        },
+        {
+            "language": "Swift",
+            "time": "73 hrs 30 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "1,020 hrs 22 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "40 hrs 31 mins"
+        }
+    ]
+}

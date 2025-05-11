@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Go",
-        "time": "714 hrs 33 mins"
-    },
-    {
-        "language": "Go",
-        "time": "714 hrs 33 mins"
-    },
-    {
-        "language": "sh",
-        "time": "340 hrs 53 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "167 hrs 45 mins"
-    },
-    {
-        "language": "Solidity",
-        "time": "128 hrs 41 mins"
-    },
-    {
-        "language": "Java",
-        "time": "122 hrs 29 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "95 hrs 33 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "87 hrs 11 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "59 hrs 48 mins"
-    },
-    {
-        "language": "SQL",
-        "time": "24 hrs 17 mins"
-    },
-    {
-        "language": "Other",
-        "time": "21 hrs 6 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "20 hrs 3 mins"
-    },
-    {
-        "language": "Terraform",
-        "time": "19 hrs 14 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "18 hrs 2 mins"
-    },
-    {
-        "language": "Makefile",
-        "time": "14 hrs 59 mins"
-    }
-]
+{
+    "total_time": "1,838 hrs 48 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "18 hrs 30 mins"
+        },
+        {
+            "language": "Go",
+            "time": "716 hrs 17 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "20 hrs 8 mins"
+        },
+        {
+            "language": "Java",
+            "time": "122 hrs 29 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "167 hrs 45 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "14 hrs 59 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "96 hrs 30 mins"
+        },
+        {
+            "language": "Other",
+            "time": "21 hrs 6 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "24 hrs 17 mins"
+        },
+        {
+            "language": "Solidity",
+            "time": "128 hrs 41 mins"
+        },
+        {
+            "language": "Terraform",
+            "time": "20 hrs 14 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "59 hrs 48 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "87 hrs 11 mins"
+        },
+        {
+            "language": "sh",
+            "time": "340 hrs 53 mins"
+        }
+    ]
+}

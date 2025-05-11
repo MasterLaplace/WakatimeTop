@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Dart",
-        "time": "32 hrs 55 mins"
-    },
-    {
-        "language": "Dart",
-        "time": "32 hrs 55 mins"
-    },
-    {
-        "language": "Kotlin",
-        "time": "11 hrs 54 mins"
-    },
-    {
-        "language": "PHP",
-        "time": "6 hrs 56 mins"
-    },
-    {
-        "language": "Blade Template",
-        "time": "1 hr 17 mins"
-    },
-    {
-        "language": "Swift",
-        "time": "59 mins"
-    },
-    {
-        "language": "Java",
-        "time": "51 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "46 mins"
-    },
-    {
-        "language": "TOML",
-        "time": "28 mins"
-    },
-    {
-        "language": "Other",
-        "time": "27 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "23 mins"
-    },
-    {
-        "language": "Text",
-        "time": "22 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "19 mins"
-    },
-    {
-        "language": "textmate",
-        "time": "18 mins"
-    },
-    {
-        "language": "XML",
-        "time": "13 mins"
-    }
-]
+{
+    "total_time": "58 hrs 8 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "19 mins"
+        },
+        {
+            "language": "Blade Template",
+            "time": "1 hr 17 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "32 hrs 55 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "23 mins"
+        },
+        {
+            "language": "Java",
+            "time": "51 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "11 hrs 54 mins"
+        },
+        {
+            "language": "Other",
+            "time": "27 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "6 hrs 56 mins"
+        },
+        {
+            "language": "Swift",
+            "time": "59 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "28 mins"
+        },
+        {
+            "language": "Text",
+            "time": "22 mins"
+        },
+        {
+            "language": "XML",
+            "time": "13 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "46 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "18 mins"
+        }
+    ]
+}

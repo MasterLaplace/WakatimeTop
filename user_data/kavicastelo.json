@@ -1,62 +1,61 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "924 hrs 3 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "924 hrs 3 mins"
-    },
-    {
-        "language": "Java",
-        "time": "814 hrs 16 mins"
-    },
-    {
-        "language": "HTML",
-        "time": "402 hrs 5 mins"
-    },
-    {
-        "language": "SCSS",
-        "time": "316 hrs 46 mins"
-    },
-    {
-        "language": "Sass",
-        "time": "186 hrs 14 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "115 hrs 50 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "85 hrs 18 mins"
-    },
-    {
-        "language": "XML",
-        "time": "41 hrs 53 mins"
-    },
-    {
-        "language": "Astro",
-        "time": "36 hrs 9 mins"
-    },
-    {
-        "language": "Java Properties",
-        "time": "19 hrs 48 mins"
-    },
-    {
-        "language": "Jupyter",
-        "time": "16 hrs 47 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "12 hrs 59 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "8 hrs 34 mins"
-    },
-    {
-        "language": "Other",
-        "time": "8 hrs 16 mins"
-    }
-]
+{
+    "total_time": "3,002 hrs 51 mins",
+    "languages": [
+        {
+            "language": "Astro",
+            "time": "36 hrs 9 mins"
+        },
+        {
+            "language": "Bash",
+            "time": "12 hrs 59 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "402 hrs 49 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "85 hrs 18 mins"
+        },
+        {
+            "language": "Java",
+            "time": "820 hrs 33 mins"
+        },
+        {
+            "language": "Java Properties",
+            "time": "19 hrs 48 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "116 hrs 38 mins"
+        },
+        {
+            "language": "Jupyter",
+            "time": "16 hrs 47 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "8 hrs 34 mins"
+        },
+        {
+            "language": "Other",
+            "time": "8 hrs 16 mins"
+        },
+        {
+            "language": "SCSS",
+            "time": "318 hrs 43 mins"
+        },
+        {
+            "language": "Sass",
+            "time": "186 hrs 37 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "927 hrs 47 mins"
+        },
+        {
+            "language": "XML",
+            "time": "41 hrs 53 mins"
+        }
+    ]
+}

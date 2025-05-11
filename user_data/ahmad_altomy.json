@@ -1,62 +1,61 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "1,314 hrs 18 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "1,314 hrs 18 mins"
-    },
-    {
-        "language": "Go",
-        "time": "309 hrs 53 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "157 hrs 59 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "146 hrs 19 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "37 hrs 39 mins"
-    },
-    {
-        "language": "textmate",
-        "time": "32 hrs 20 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "27 hrs 53 mins"
-    },
-    {
-        "language": "Text",
-        "time": "26 hrs 52 mins"
-    },
-    {
-        "language": "Other",
-        "time": "25 hrs 56 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "19 hrs 6 mins"
-    },
-    {
-        "language": "C++",
-        "time": "11 hrs 45 mins"
-    },
-    {
-        "language": "Docker",
-        "time": "10 hrs"
-    },
-    {
-        "language": "Groovy",
-        "time": "9 hrs 35 mins"
-    },
-    {
-        "language": "Vue.js",
-        "time": "8 hrs 52 mins"
-    }
-]
+{
+    "total_time": "2,138 hrs 27 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "19 hrs 6 mins"
+        },
+        {
+            "language": "C++",
+            "time": "11 hrs 45 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "10 hrs"
+        },
+        {
+            "language": "Go",
+            "time": "309 hrs 53 mins"
+        },
+        {
+            "language": "Groovy",
+            "time": "9 hrs 35 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "146 hrs 19 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "27 hrs 53 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "157 hrs 59 mins"
+        },
+        {
+            "language": "Other",
+            "time": "25 hrs 56 mins"
+        },
+        {
+            "language": "Text",
+            "time": "26 hrs 52 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "1,314 hrs 18 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "8 hrs 52 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "37 hrs 39 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "32 hrs 20 mins"
+        }
+    ]
+}

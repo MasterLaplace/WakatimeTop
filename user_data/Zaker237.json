@@ -1,46 +1,45 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "36 hrs 46 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "36 hrs 46 mins"
-    },
-    {
-        "language": "Python",
-        "time": "15 hrs 55 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "3 hrs 8 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "2 hrs 1 min"
-    },
-    {
-        "language": "Bash",
-        "time": "1 hr 26 mins"
-    },
-    {
-        "language": "Other",
-        "time": "1 hr 14 mins"
-    },
-    {
-        "language": "INI",
-        "time": "1 hr 5 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "15 mins"
-    },
-    {
-        "language": "Jinja2",
-        "time": "10 mins"
-    },
-    {
-        "language": "Text",
-        "time": "6 mins"
-    }
-]
+{
+    "total_time": "62 hrs 6 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "1 hr 26 mins"
+        },
+        {
+            "language": "INI",
+            "time": "1 hr 5 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "2 hrs 1 min"
+        },
+        {
+            "language": "Jinja2",
+            "time": "10 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "15 mins"
+        },
+        {
+            "language": "Other",
+            "time": "1 hr 14 mins"
+        },
+        {
+            "language": "Python",
+            "time": "15 hrs 55 mins"
+        },
+        {
+            "language": "Text",
+            "time": "6 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "36 hrs 46 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 8 mins"
+        }
+    ]
+}

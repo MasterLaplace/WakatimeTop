@@ -1,0 +1,61 @@
+{
+    "total_time": "2,263 hrs 2 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "18 hrs 59 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "6 hrs 9 mins"
+        },
+        {
+            "language": "Cython",
+            "time": "5 hrs 54 mins"
+        },
+        {
+            "language": "Go",
+            "time": "165 hrs 12 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "11 hrs 40 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "76 hrs 24 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "64 hrs 36 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "3 hrs 57 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "12 hrs 32 mins"
+        },
+        {
+            "language": "Other",
+            "time": "80 hrs 16 mins"
+        },
+        {
+            "language": "Python",
+            "time": "1,329 hrs 43 mins"
+        },
+        {
+            "language": "Text",
+            "time": "6 hrs 26 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "417 hrs 49 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "63 hrs 25 mins"
+        }
+    ]
+}

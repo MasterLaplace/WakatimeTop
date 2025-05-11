@@ -1,50 +1,49 @@
-[
-    {
-        "language": "Java",
-        "time": "48 hrs 31 mins"
-    },
-    {
-        "language": "Java",
-        "time": "48 hrs 31 mins"
-    },
-    {
-        "language": "XML",
-        "time": "5 hrs 56 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "4 hrs 48 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "2 hrs 1 min"
-    },
-    {
-        "language": "Text",
-        "time": "43 mins"
-    },
-    {
-        "language": "SQL",
-        "time": "34 mins"
-    },
-    {
-        "language": "Python",
-        "time": "23 mins"
-    },
-    {
-        "language": "IDEA_MODULE",
-        "time": "2 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "1 min"
-    },
-    {
-        "language": "Go Template",
-        "time": "1 min"
-    },
-    {
-        "language": "Cheetah",
-        "time": "1 min"
-    }
-]
+{
+    "total_time": "63 hrs 1 mins",
+    "languages": [
+        {
+            "language": "Cheetah",
+            "time": "1 min"
+        },
+        {
+            "language": "Go Template",
+            "time": "1 min"
+        },
+        {
+            "language": "IDEA_MODULE",
+            "time": "2 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "1 min"
+        },
+        {
+            "language": "Java",
+            "time": "48 hrs 31 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "2 hrs 1 min"
+        },
+        {
+            "language": "Python",
+            "time": "23 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "34 mins"
+        },
+        {
+            "language": "Text",
+            "time": "43 mins"
+        },
+        {
+            "language": "XML",
+            "time": "5 hrs 56 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 48 mins"
+        }
+    ]
+}

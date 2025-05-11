@@ -1,26 +1,25 @@
-[
-    {
-        "language": "JavaScript",
-        "time": "61 hrs 23 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "61 hrs 23 mins"
-    },
-    {
-        "language": "CSS",
-        "time": "4 hrs 56 mins"
-    },
-    {
-        "language": "Other",
-        "time": "13 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "5 mins"
-    },
-    {
-        "language": "Git Config",
-        "time": "2 mins"
-    }
-]
+{
+    "total_time": "62 hrs 49 mins",
+    "languages": [
+        {
+            "language": "CSS",
+            "time": "4 hrs 21 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "2 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "58 hrs 18 mins"
+        },
+        {
+            "language": "Other",
+            "time": "4 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "4 mins"
+        }
+    ]
+}

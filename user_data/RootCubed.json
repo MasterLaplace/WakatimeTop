@@ -1,62 +1,61 @@
-[
-    {
-        "language": "C++",
-        "time": "437 hrs 51 mins"
-    },
-    {
-        "language": "C++",
-        "time": "437 hrs 51 mins"
-    },
-    {
-        "language": "Python",
-        "time": "343 hrs 19 mins"
-    },
-    {
-        "language": "Other",
-        "time": "304 hrs 33 mins"
-    },
-    {
-        "language": "C",
-        "time": "271 hrs 43 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "187 hrs 45 mins"
-    },
-    {
-        "language": "Svelte",
-        "time": "166 hrs 48 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "142 hrs 29 mins"
-    },
-    {
-        "language": "Text",
-        "time": "132 hrs 13 mins"
-    },
-    {
-        "language": "Typst",
-        "time": "131 hrs 44 mins"
-    },
-    {
-        "language": "Rust",
-        "time": "113 hrs 30 mins"
-    },
-    {
-        "language": "OCaml",
-        "time": "85 hrs 14 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "74 hrs"
-    },
-    {
-        "language": "SystemVerilog",
-        "time": "62 hrs 12 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "45 hrs 51 mins"
-    }
-]
+{
+    "total_time": "2,499 hrs 12 mins",
+    "languages": [
+        {
+            "language": "C",
+            "time": "271 hrs 43 mins"
+        },
+        {
+            "language": "C++",
+            "time": "437 hrs 51 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "74 hrs"
+        },
+        {
+            "language": "JavaScript",
+            "time": "187 hrs 45 mins"
+        },
+        {
+            "language": "OCaml",
+            "time": "85 hrs 14 mins"
+        },
+        {
+            "language": "Other",
+            "time": "304 hrs 33 mins"
+        },
+        {
+            "language": "Python",
+            "time": "343 hrs 19 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "113 hrs 30 mins"
+        },
+        {
+            "language": "Svelte",
+            "time": "166 hrs 48 mins"
+        },
+        {
+            "language": "SystemVerilog",
+            "time": "62 hrs 12 mins"
+        },
+        {
+            "language": "Text",
+            "time": "132 hrs 13 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "142 hrs 29 mins"
+        },
+        {
+            "language": "Typst",
+            "time": "131 hrs 44 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "45 hrs 51 mins"
+        }
+    ]
+}

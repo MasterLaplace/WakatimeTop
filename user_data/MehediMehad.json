@@ -1,38 +1,37 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "78 hrs 23 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "78 hrs 23 mins"
-    },
-    {
-        "language": "Prisma",
-        "time": "3 hrs 10 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "48 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "39 mins"
-    },
-    {
-        "language": "CSS",
-        "time": "11 mins"
-    },
-    {
-        "language": "Text",
-        "time": "11 mins"
-    },
-    {
-        "language": "Git Config",
-        "time": "6 mins"
-    },
-    {
-        "language": "Other",
-        "time": "1 min"
-    }
-]
+{
+    "total_time": "86 hrs 36 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "30 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "12 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "42 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "6 mins"
+        },
+        {
+            "language": "Other",
+            "time": "1 min"
+        },
+        {
+            "language": "Prisma",
+            "time": "2 hrs 25 mins"
+        },
+        {
+            "language": "Text",
+            "time": "3 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "82 hrs 37 mins"
+        }
+    ]
+}

@@ -1,58 +1,61 @@
-[
-    {
-        "language": "TeX",
-        "time": "48 hrs 24 mins"
-    },
-    {
-        "language": "TeX",
-        "time": "48 hrs 24 mins"
-    },
-    {
-        "language": "Python",
-        "time": "9 hrs 49 mins"
-    },
-    {
-        "language": "CSV",
-        "time": "2 hrs 14 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "1 hr 14 mins"
-    },
-    {
-        "language": "Makefile",
-        "time": "1 hr 5 mins"
-    },
-    {
-        "language": "BibTeX",
-        "time": "59 mins"
-    },
-    {
-        "language": "C",
-        "time": "50 mins"
-    },
-    {
-        "language": "HTML",
-        "time": "32 mins"
-    },
-    {
-        "language": "Other",
-        "time": "17 mins"
-    },
-    {
-        "language": "C++",
-        "time": "17 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "13 mins"
-    },
-    {
-        "language": "SQL",
-        "time": "13 mins"
-    },
-    {
-        "language": "TOML",
-        "time": "6 mins"
-    }
-]
+{
+    "total_time": "59 hrs 19 mins",
+    "languages": [
+        {
+            "language": "BibTeX",
+            "time": "1 hr 10 mins"
+        },
+        {
+            "language": "C",
+            "time": "50 mins"
+        },
+        {
+            "language": "C++",
+            "time": "17 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "1 hr"
+        },
+        {
+            "language": "HTML",
+            "time": "32 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "13 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "26 mins"
+        },
+        {
+            "language": "OpenEdge ABL",
+            "time": "2 mins"
+        },
+        {
+            "language": "Other",
+            "time": "15 mins"
+        },
+        {
+            "language": "Python",
+            "time": "8 hrs 58 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "3 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "6 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "44 hrs 13 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "1 hr 14 mins"
+        }
+    ]
+}

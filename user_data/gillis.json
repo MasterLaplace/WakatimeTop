@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Ruby",
-        "time": "42 hrs 4 mins"
-    },
-    {
-        "language": "Ruby",
-        "time": "42 hrs 4 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "6 hrs 54 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "3 hrs 55 mins"
-    },
-    {
-        "language": "Shell Script",
-        "time": "2 hrs 28 mins"
-    },
-    {
-        "language": "Docker",
-        "time": "1 hr 54 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "1 hr 23 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "1 hr 9 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "54 mins"
-    },
-    {
-        "language": "ERB",
-        "time": "54 mins"
-    },
-    {
-        "language": "Text",
-        "time": "53 mins"
-    },
-    {
-        "language": "Nginx Configuration",
-        "time": "34 mins"
-    },
-    {
-        "language": "Docker File",
-        "time": "27 mins"
-    },
-    {
-        "language": "TSConfig",
-        "time": "18 mins"
-    },
-    {
-        "language": "sh",
-        "time": "15 mins"
-    }
-]
+{
+    "total_time": "64 hrs 2 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "1 hr 23 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "1 hr 54 mins"
+        },
+        {
+            "language": "Docker File",
+            "time": "27 mins"
+        },
+        {
+            "language": "ERB",
+            "time": "54 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "54 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "6 hrs 54 mins"
+        },
+        {
+            "language": "Nginx Configuration",
+            "time": "34 mins"
+        },
+        {
+            "language": "Ruby",
+            "time": "42 hrs 4 mins"
+        },
+        {
+            "language": "Shell Script",
+            "time": "2 hrs 28 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "18 mins"
+        },
+        {
+            "language": "Text",
+            "time": "53 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "3 hrs 55 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "1 hr 9 mins"
+        },
+        {
+            "language": "sh",
+            "time": "15 mins"
+        }
+    ]
+}

@@ -1,42 +1,41 @@
-[
-    {
-        "language": "JavaScript",
-        "time": "51 hrs 52 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "51 hrs 52 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "19 hrs 7 mins"
-    },
-    {
-        "language": "CSHTML",
-        "time": "4 hrs 4 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "1 hr 4 mins"
-    },
-    {
-        "language": "CSS",
-        "time": "13 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "11 mins"
-    },
-    {
-        "language": "Other",
-        "time": "8 mins"
-    },
-    {
-        "language": "Git Config",
-        "time": "6 mins"
-    },
-    {
-        "language": "XML",
-        "time": "2 mins"
-    }
-]
+{
+    "total_time": "76 hrs 47 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "11 mins"
+        },
+        {
+            "language": "CSHTML",
+            "time": "4 hrs 4 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "13 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "6 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "1 hr 4 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "51 hrs 52 mins"
+        },
+        {
+            "language": "Other",
+            "time": "8 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "19 hrs 7 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 mins"
+        }
+    ]
+}

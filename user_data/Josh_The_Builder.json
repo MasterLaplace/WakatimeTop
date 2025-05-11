@@ -1,58 +1,57 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "44 hrs 19 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "44 hrs 19 mins"
-    },
-    {
-        "language": "Rust",
-        "time": "2 hrs 59 mins"
-    },
-    {
-        "language": "Prisma",
-        "time": "2 hrs 54 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "1 hr 52 mins"
-    },
-    {
-        "language": "Docker",
-        "time": "1 hr 39 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "51 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "23 mins"
-    },
-    {
-        "language": "CSS",
-        "time": "13 mins"
-    },
-    {
-        "language": "Other",
-        "time": "9 mins"
-    },
-    {
-        "language": "TOML",
-        "time": "1 min"
-    },
-    {
-        "language": "Text",
-        "time": "1 min"
-    },
-    {
-        "language": "Git Config",
-        "time": "1 min"
-    },
-    {
-        "language": "YAML",
-        "time": "1 min"
-    }
-]
+{
+    "total_time": "59 hrs 10 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "1 hr 54 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "1 min"
+        },
+        {
+            "language": "Docker",
+            "time": "1 hr 39 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "1 min"
+        },
+        {
+            "language": "JSON",
+            "time": "49 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "23 mins"
+        },
+        {
+            "language": "Other",
+            "time": "9 mins"
+        },
+        {
+            "language": "Prisma",
+            "time": "4 hrs 13 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "3 hrs 55 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "1 min"
+        },
+        {
+            "language": "Text",
+            "time": "1 min"
+        },
+        {
+            "language": "TypeScript",
+            "time": "46 hrs 3 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "1 min"
+        }
+    ]
+}

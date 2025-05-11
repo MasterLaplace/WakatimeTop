@@ -1,62 +1,61 @@
-[
-    {
-        "language": "TypeScript",
-        "time": "4,762 hrs 38 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "4,762 hrs 38 mins"
-    },
-    {
-        "language": "PHP",
-        "time": "326 hrs 42 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "203 hrs 24 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "131 hrs 52 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "115 hrs 33 mins"
-    },
-    {
-        "language": "C#",
-        "time": "100 hrs 8 mins"
-    },
-    {
-        "language": "SQL",
-        "time": "65 hrs 3 mins"
-    },
-    {
-        "language": "Dart",
-        "time": "59 hrs 23 mins"
-    },
-    {
-        "language": "Rust",
-        "time": "41 hrs 50 mins"
-    },
-    {
-        "language": "GraphQL",
-        "time": "41 hrs 19 mins"
-    },
-    {
-        "language": "HTML",
-        "time": "39 hrs 54 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "36 hrs 5 mins"
-    },
-    {
-        "language": "Text",
-        "time": "34 hrs 21 mins"
-    },
-    {
-        "language": "Other",
-        "time": "22 hrs 38 mins"
-    }
-]
+{
+    "total_time": "5,992 hrs 41 mins",
+    "languages": [
+        {
+            "language": "C#",
+            "time": "100 hrs 8 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "59 hrs 23 mins"
+        },
+        {
+            "language": "GraphQL",
+            "time": "41 hrs 20 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "39 hrs 54 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "205 hrs 18 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "115 hrs 33 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "36 hrs 5 mins"
+        },
+        {
+            "language": "Other",
+            "time": "22 hrs 38 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "326 hrs 42 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "41 hrs 50 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "65 hrs 14 mins"
+        },
+        {
+            "language": "Text",
+            "time": "34 hrs 23 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "4,772 hrs 21 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "131 hrs 52 mins"
+        }
+    ]
+}

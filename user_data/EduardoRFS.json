@@ -1,62 +1,61 @@
-[
-    {
-        "language": "OCaml",
-        "time": "1,269 hrs 44 mins"
-    },
-    {
-        "language": "OCaml",
-        "time": "1,269 hrs 44 mins"
-    },
-    {
-        "language": "Markdown",
-        "time": "896 hrs 30 mins"
-    },
-    {
-        "language": "Reason",
-        "time": "889 hrs 50 mins"
-    },
-    {
-        "language": "Other",
-        "time": "170 hrs 5 mins"
-    },
-    {
-        "language": "V",
-        "time": "148 hrs 59 mins"
-    },
-    {
-        "language": "C",
-        "time": "106 hrs 3 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "101 hrs 40 mins"
-    },
-    {
-        "language": "Nix",
-        "time": "50 hrs 54 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "28 hrs 55 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "25 hrs 50 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "25 hrs 30 mins"
-    },
-    {
-        "language": "Makefile",
-        "time": "16 hrs 6 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "13 hrs 44 mins"
-    },
-    {
-        "language": "Text",
-        "time": "8 hrs 21 mins"
-    }
-]
+{
+    "total_time": "3,752 hrs 11 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "25 hrs 30 mins"
+        },
+        {
+            "language": "C",
+            "time": "106 hrs 3 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "101 hrs 40 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "28 hrs 55 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "16 hrs 6 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "896 hrs 30 mins"
+        },
+        {
+            "language": "Nix",
+            "time": "50 hrs 54 mins"
+        },
+        {
+            "language": "OCaml",
+            "time": "1,269 hrs 44 mins"
+        },
+        {
+            "language": "Other",
+            "time": "170 hrs 5 mins"
+        },
+        {
+            "language": "Reason",
+            "time": "889 hrs 50 mins"
+        },
+        {
+            "language": "Text",
+            "time": "8 hrs 21 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "13 hrs 44 mins"
+        },
+        {
+            "language": "V",
+            "time": "148 hrs 59 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "25 hrs 50 mins"
+        }
+    ]
+}

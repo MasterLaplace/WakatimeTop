@@ -1,62 +1,61 @@
-[
-    {
-        "language": "Dart",
-        "time": "48 hrs 52 mins"
-    },
-    {
-        "language": "Dart",
-        "time": "48 hrs 52 mins"
-    },
-    {
-        "language": "YAML",
-        "time": "5 hrs 1 min"
-    },
-    {
-        "language": "Markdown",
-        "time": "1 hr 16 mins"
-    },
-    {
-        "language": "JSON",
-        "time": "1 hr 6 mins"
-    },
-    {
-        "language": "TypeScript",
-        "time": "48 mins"
-    },
-    {
-        "language": "Other",
-        "time": "47 mins"
-    },
-    {
-        "language": "Docker",
-        "time": "36 mins"
-    },
-    {
-        "language": "JavaScript",
-        "time": "36 mins"
-    },
-    {
-        "language": "Bash",
-        "time": "24 mins"
-    },
-    {
-        "language": "TOML",
-        "time": "13 mins"
-    },
-    {
-        "language": "Gradle Kotlin DSL",
-        "time": "8 mins"
-    },
-    {
-        "language": "Git Config",
-        "time": "3 mins"
-    },
-    {
-        "language": "Text",
-        "time": "2 mins"
-    },
-    {
-        "language": "Java Properties",
-        "time": "2 mins"
-    }
-]
+{
+    "total_time": "59 hrs 54 mins",
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "24 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "48 hrs 52 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "36 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "3 mins"
+        },
+        {
+            "language": "Gradle Kotlin DSL",
+            "time": "8 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "1 hr 6 mins"
+        },
+        {
+            "language": "Java Properties",
+            "time": "2 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "36 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "1 hr 16 mins"
+        },
+        {
+            "language": "Other",
+            "time": "47 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "13 mins"
+        },
+        {
+            "language": "Text",
+            "time": "2 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "48 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "5 hrs 1 min"
+        }
+    ]
+}
