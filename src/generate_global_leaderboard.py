@@ -92,8 +92,8 @@ def main() -> None:
     """
     Main function to generate the global leaderboard.
     """
-    user_data_dir = "user_data"
-    output_file = "global_leaderboard.json"
+    user_data_dir = "data/users"
+    output_file = "data/global_leaderboard.json"
 
     generate_global_leaderboard(user_data_dir, output_file)
 

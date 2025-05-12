@@ -256,8 +256,8 @@ def main() -> None:
     Main function to process user data. If "add" argument is provided, add a single user.
     Otherwise, process all users.
     """
-    users_file: str = "users.json"
-    output_directory: str = "user_data"
+    users_file: str = "data/users.json"
+    output_directory: str = "data/users"
     base_api_url: str = "https://github-readme-stats.vercel.app/api/wakatime"
 
     create_output_directory(output_directory)

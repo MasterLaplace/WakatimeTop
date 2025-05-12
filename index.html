@@ -207,7 +207,7 @@
      * Fetch the list of languages from the generated languages.json file.
      * Populate the dropdown menu with the list of languages.
      */
-    fetch('./language_data/languages.json')
+    fetch('./data/languages.json')
       .then(response => response.json())
       .then(languages => {
         languages.forEach(language => {
@@ -250,7 +250,7 @@
      * Fetch and display the global leaderboard data on page load.
      * This will show the top users globally using elo.
      */
-    fetchLeaderboardData('./global_leaderboard.json', true);
+    fetchLeaderboardData('./data/global_leaderboard.json', true);
 
     /**
      * Event listener for the language dropdown menu.
@@ -259,9 +259,9 @@
     languageSelect.addEventListener('change', () => {
       const selectedLanguage = languageSelect.value;
       if (selectedLanguage) {
-        fetchLeaderboardData(`./language_data/${encodeURIComponent(selectedLanguage)}.json`);
+        fetchLeaderboardData(`./data/languages/${encodeURIComponent(selectedLanguage)}.json`);
       } else {
-        fetchLeaderboardData('./global_leaderboard.json', true);
+        fetchLeaderboardData('./data/global_leaderboard.json', true);
       }
     });
   </script>

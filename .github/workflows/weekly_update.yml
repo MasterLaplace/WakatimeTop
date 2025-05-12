@@ -29,16 +29,16 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run wakalead.py
-        run: python wakalead.py
+        run: python src/wakalead.py
 
       - name: Run generate_user_data.py
-        run: python generate_user_data.py
+        run: python src/generate_user_data.py
 
       - name: Run generate_language_data.py
-        run: python generate_language_data.py
+        run: python src/generate_language_data.py
 
       - name: Run generate_global_leaderboard.py
-        run: python generate_global_leaderboard.py
+        run: python src/generate_global_leaderboard.py
 
       - name: Commit and push changes
         env:

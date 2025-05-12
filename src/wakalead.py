@@ -63,7 +63,6 @@ def merge_usernames(existing_usernames: List[str], new_usernames: List[str]) -> 
     Returns:
         List[str]: Merged list of usernames.
     """
-    # Filter out None values and merge the lists
     filtered_existing = [username for username in existing_usernames if username]
     filtered_new = [username for username in new_usernames if username]
     return sorted(set(filtered_existing + filtered_new))
@@ -74,7 +73,7 @@ def main() -> None:
     Main function to fetch, merge, and save leaderboard usernames.
     """
     url: str = "https://wakatime.com/api/v1/leaders"
-    file_path: str = "users.json"
+    file_path: str = "data/users.json"
 
     new_usernames: Optional[List[str]] = fetch_leaderboard_data(url)
     if not new_usernames:

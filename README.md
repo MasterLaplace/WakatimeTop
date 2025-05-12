@@ -36,8 +36,8 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 # Install dependencies
 pip install -r requirements.txt
 # Run the scripts
-python3 wakalead.py
-python3 generate_user_data.py
-python3 generate_language_data.py
-python3 generate_global_leaderboard.py
+python3 src/wakalead.py
+python3 src/generate_user_data.py
+python3 src/generate_language_data.py
+python3 src/generate_global_leaderboard.py
 ```
