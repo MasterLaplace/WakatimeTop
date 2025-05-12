@@ -117,13 +117,16 @@ def write_language_data(language_data: DefaultDict[str, List[Dict[str, str]]], o
 
 def write_language_list(language_data: DefaultDict[str, List[Dict[str, str]]], output_file: str) -> None:
     """
-    Write a JSON file containing the list of all languages.
+    Write a JSON file containing the list of all languages ordered by their names.
+    The language names are sanitized by replacing spaces and slashes with underscores.
 
     Args:
         language_data (DefaultDict[str, List[Dict[str, str]]]): Dictionary mapping languages to user data.
         output_file (str): Path to the file where the JSON file will be written.
     """
-    language_list = [language.replace(" ", "_").replace("/", "_") for language in language_data.keys()]
+    language_list = sorted(
+        [language.replace(" ", "_").replace("/", "_") for language in language_data.keys()]
+    )
 
     with open(output_file, "w") as lang_list_file:
         json.dump(language_list, lang_list_file, indent=4)
