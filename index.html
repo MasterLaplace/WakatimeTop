@@ -111,12 +111,41 @@
       color: white;
     }
 
+    body.dark-mode th {
+      background-color: #444;
+    }
+
     tr:nth-child(even) {
       background-color: #f2f2f2;
     }
 
+    body.dark-mode tr:nth-child(even) {
+      background-color: #1e1e1e;
+    }
+
+    tr:nth-child(odd) {
+      background-color: #fff;
+    }
+
+    body.dark-mode tr:nth-child(odd) {
+      background-color: #2a2a2a;
+    }
+
     tr:hover {
       background-color: #ddd;
+    }
+
+    body.dark-mode tr:hover {
+      background-color: #333;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -151,18 +180,21 @@
     const themeToggle = document.getElementById('theme-toggle');
     const body = document.body;
     const header = document.querySelector('header');
+    const tableRows = document.querySelectorAll('tr');
 
     // Load the saved theme from localStorage
     if (localStorage.getItem('theme') === 'dark') {
       body.classList.add('dark-mode');
       header.classList.add('dark-mode');
       themeToggle.checked = true;
+      tableRows.forEach(row => row.classList.add('dark-mode'));
     }
 
     // Toggle between light and dark mode
     themeToggle.addEventListener('change', () => {
       body.classList.toggle('dark-mode');
       header.classList.toggle('dark-mode');
+      tableRows.forEach(row => row.classList.toggle('dark-mode'));
       const theme = body.classList.contains('dark-mode') ? 'dark' : 'light';
       localStorage.setItem('theme', theme);
     });
