@@ -37,6 +37,9 @@ jobs:
       - name: Run generate_language_data.py
         run: python generate_language_data.py
 
+      - name: Run generate_global_leaderboard.py
+        run: python generate_global_leaderboard.py
+
       - name: Commit and push changes
         env:
           github_token: ${{ secrets.GITHUB_TOKEN }}
