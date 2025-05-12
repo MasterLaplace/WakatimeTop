@@ -1,7 +1,7 @@
 {
-    "total_time": "1,816 hrs 25 mins",
+    "total_time": "1,827 hrs",
     "updated": true,
-    "elo": 1817,
+    "elo": 1827,
     "languages": [
         {
             "language": "Bash",
@@ -25,15 +25,15 @@
         },
         {
             "language": "Markdown",
-            "time": "157 hrs 14 mins"
+            "time": "157 hrs 13 mins"
         },
         {
             "language": "PHP",
-            "time": "1,444 hrs 41 mins"
+            "time": "1,455 hrs 19 mins"
         },
         {
             "language": "Twig",
-            "time": "43 hrs 19 mins"
+            "time": "44 hrs 51 mins"
         },
         {
             "language": "TypeScript",
@@ -45,7 +45,7 @@
         },
         {
             "language": "YAML",
-            "time": "48 hrs 41 mins"
+            "time": "47 hrs 7 mins"
         }
     ]
 }
