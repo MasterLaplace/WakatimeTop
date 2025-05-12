@@ -175,7 +175,10 @@
       </thead>
       <tbody></tbody>
     </table>
+    <h2>Distribution of Elo scores</h2>
+    <canvas id="eloChart" style="max-width: 800px; margin-top: 2rem;"></canvas>
   </main>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
     const themeToggle = document.getElementById('theme-toggle');
     const body = document.body;
@@ -264,6 +267,68 @@
         fetchLeaderboardData('./data/global_leaderboard.json', true);
       }
     });
+
+    /**
+     * Load and plot the Elo distribution chart using Chart.js.
+     * Fetches the global leaderboard data and processes it to create a line chart.
+     */
+    async function loadAndPlotElo() {
+      const response = await fetch('./data/global_leaderboard.json');
+      const data = await response.json();
+
+      const elos = data.map(player => player.elo);
+
+      const eloCounts = elos.reduce((acc, elo) => {
+        acc[elo] = (acc[elo] || 0) + 1;
+        return acc;
+      }, {});
+
+      const sortedElos = Object.keys(eloCounts).map(Number).sort((a, b) => a - b);
+      const counts = sortedElos.map(elo => eloCounts[elo]);
+
+      const ctx = document.getElementById('eloChart').getContext('2d');
+
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: sortedElos,
+          datasets: [{
+            label: 'Number of users',
+            data: counts,
+            borderColor: 'rgba(75, 192, 192, 1)',
+            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          plugins: {
+            title: {
+              display: true,
+              text: 'Distribution of Elo scores'
+            }
+          },
+          scales: {
+            x: {
+              title: {
+                display: true,
+                text: 'Score Elo'
+              },
+              type: 'linear'
+            },
+            y: {
+              title: {
+                display: true,
+                text: 'Number of users'
+              },
+              beginAtZero: true
+            }
+          }
+        }
+      });
+    }
+
+    loadAndPlotElo();
   </script>
 </body>
 
