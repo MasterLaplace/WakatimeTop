@@ -186,13 +186,47 @@ def reduce_elo(previous_elo: int, reduction: int = 2) -> int:
     return max(0, previous_elo - reduction)
 
 
+def calculate_new_elo(
+    previous_elo: int,
+    previous_total_time: int,
+    total_time: str,
+    updated: bool,
+    filtered_data: list,
+    existing_languages: list
+) -> int:
+    """
+    Calculate the new ELO score for a user.
+
+    Args:
+        previous_elo (int): The previous ELO score.
+        previous_total_time (int): The previous total time in hours.
+        total_time (str): The new total time as a formatted string.
+        updated (bool): Whether the data was marked as updated.
+        filtered_data (list): The filtered list of language data.
+        existing_languages (list): The existing list of language data.
+
+    Returns:
+        int: The new ELO score.
+    """
+    final_elo = previous_elo
+
+    if not updated and filtered_data == existing_languages:
+        final_elo = reduce_elo(previous_elo)
+    elif filtered_data != existing_languages:
+        new_total_time = math.ceil(time_to_minutes(total_time) / 60)
+        diff = max(0, new_total_time - previous_total_time)
+        final_elo = previous_elo + diff
+
+    return final_elo
+
+
 def process_user(username: str, base_url: str, output_dir: str) -> None:
     """
     Process a single user to fetch and save their WakaTime data.
 
     This function fetches the user's WakaTime data, compares it with existing data,
-    calculates the total time spent, and updates the elo score. If the data has not
-    changed, the elo is reduced by a fixed amount.
+    calculates the total time spent, and updates the ELO score. If the data has not
+    changed, the ELO is reduced by a fixed amount.
 
     Args:
         username (str): GitHub username.
@@ -208,24 +242,34 @@ def process_user(username: str, base_url: str, output_dir: str) -> None:
             with open(output_path, "r") as existing_file:
                 existing_data = json.load(existing_file)
                 existing_languages = existing_data.get("languages", [])
+                str_previous_total_time = existing_data.get("total_time", "0 mins")
                 previous_elo = existing_data.get("elo", 0)
+                updated = existing_data.get("updated", True)
         else:
             existing_languages = []
+            str_previous_total_time = "0 mins"
             previous_elo = 0
+            updated = True
+
+        previous_total_time = math.ceil(time_to_minutes(str_previous_total_time) / 60)
 
         merged_data = merge_language_data(existing_languages, lang_data)
         filtered_data = filter_languages(merged_data)
         total_time = calculate_total_time(filtered_data)
 
-        updated = lang_data != existing_languages
-        new_elo_hours = math.ceil(time_to_minutes(total_time) / 60)
-        if not updated:
-            new_elo_hours = reduce_elo(previous_elo)
+        final_elo = calculate_new_elo(
+            previous_elo,
+            previous_total_time,
+            total_time,
+            updated,
+            filtered_data,
+            existing_languages,
+        )
 
         user_data = {
             "total_time": total_time,
-            "updated": updated,
-            "elo": new_elo_hours,
+            "updated": (filtered_data != existing_languages),
+            "elo": final_elo,
             "languages": filtered_data,
         }
 
