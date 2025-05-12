@@ -1,7 +1,7 @@
 import os
 import json
 from collections import defaultdict
-from typing import List, Dict, Any, DefaultDict
+from typing import List, Dict, DefaultDict
 
 
 def create_directory(directory_path: str) -> None:
