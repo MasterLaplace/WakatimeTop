@@ -2,7 +2,7 @@
 * text=auto eol=lf
 
 # Binary files
-*.json binary
+data/**/*.json binary -diff
 
 # Handling of Python-specific files
-*.py linguist-language=Python
+src/*.py linguist-language=Python
