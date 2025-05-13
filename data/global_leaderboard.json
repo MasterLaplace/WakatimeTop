@@ -9,7 +9,7 @@
     },
     {
         "username": "1aron",
-        "elo": 7870
+        "elo": 7881
     },
     {
         "username": "Al_Liu",
@@ -29,7 +29,7 @@
     },
     {
         "username": "MantasMikal",
-        "elo": 6143
+        "elo": 6155
     },
     {
         "username": "asrorbek",
@@ -44,6 +44,10 @@
         "elo": 5188
     },
     {
+        "username": "Sigmanificient",
+        "elo": 5101
+    },
+    {
         "username": "bmjjr",
         "elo": 4872
     },
@@ -53,11 +57,11 @@
     },
     {
         "username": "ariburaco",
-        "elo": 4644
+        "elo": 4654
     },
     {
         "username": "tugay",
-        "elo": 4597
+        "elo": 4603
     },
     {
         "username": "jcbirdwell",
@@ -69,11 +73,11 @@
     },
     {
         "username": "rahulretnan",
-        "elo": 4294
+        "elo": 4297
     },
     {
         "username": "auren1207",
-        "elo": 4165
+        "elo": 4170
     },
     {
         "username": "Jeffrey_",
@@ -89,7 +93,7 @@
     },
     {
         "username": "snejus",
-        "elo": 3855
+        "elo": 3862
     },
     {
         "username": "mgilangjanuar",
@@ -105,11 +109,11 @@
     },
     {
         "username": "localhostov",
-        "elo": 3308
+        "elo": 3310
     },
     {
         "username": "ahmedrowaihi",
-        "elo": 3300
+        "elo": 3307
     },
     {
         "username": "xvincent",
@@ -125,7 +129,7 @@
     },
     {
         "username": "PatrykB",
-        "elo": 3061
+        "elo": 3070
     },
     {
         "username": "kavicastelo",
@@ -137,7 +141,7 @@
     },
     {
         "username": "Patro",
-        "elo": 2927
+        "elo": 2939
     },
     {
         "username": "honesthacker",
@@ -145,7 +149,11 @@
     },
     {
         "username": "fortune",
-        "elo": 2800
+        "elo": 2807
+    },
+    {
+        "username": "svrakata",
+        "elo": 2806
     },
     {
         "username": "diegogerwig",
@@ -165,7 +173,7 @@
     },
     {
         "username": "redpangilinan",
-        "elo": 2567
+        "elo": 2576
     },
     {
         "username": "MasterLaplace",
@@ -176,24 +184,24 @@
         "elo": 2472
     },
     {
+        "username": "RootCubed",
+        "elo": 2426
+    },
+    {
         "username": "andrewdwallo",
         "elo": 2423
     },
     {
-        "username": "RootCubed",
-        "elo": 2422
-    },
-    {
         "username": "Dervex",
-        "elo": 2400
+        "elo": 2409
     },
     {
         "username": "johnwillz",
-        "elo": 2368
+        "elo": 2383
     },
     {
         "username": "isreallee82",
-        "elo": 2203
+        "elo": 2211
     },
     {
         "username": "ahmad_altomy",
@@ -221,7 +229,7 @@
     },
     {
         "username": "logix",
-        "elo": 1928
+        "elo": 1931
     },
     {
         "username": "priyadi",
@@ -234,6 +242,10 @@
     {
         "username": "paulotavaresx",
         "elo": 1791
+    },
+    {
+        "username": "callanwu",
+        "elo": 1789
     },
     {
         "username": "dyammarcano",
@@ -257,23 +269,23 @@
     },
     {
         "username": "DMG",
-        "elo": 1359
+        "elo": 1363
     },
     {
         "username": "hussamaldarwish",
-        "elo": 1349
+        "elo": 1362
     },
     {
         "username": "adinamarca",
         "elo": 1277
     },
     {
-        "username": "Raydberg",
-        "elo": 1261
+        "username": "JazHyc",
+        "elo": 1264
     },
     {
-        "username": "JazHyc",
-        "elo": 1259
+        "username": "Raydberg",
+        "elo": 1261
     },
     {
         "username": "ciocan",
@@ -292,12 +304,20 @@
         "elo": 1090
     },
     {
+        "username": "frierenDv",
+        "elo": 1045
+    },
+    {
         "username": "Ilyar",
-        "elo": 931
+        "elo": 939
+    },
+    {
+        "username": "Dilettante258",
+        "elo": 933
     },
     {
         "username": "pseja",
-        "elo": 930
+        "elo": 932
     },
     {
         "username": "Nkardaz",
@@ -313,7 +333,7 @@
     },
     {
         "username": "JBrannelid",
-        "elo": 649
+        "elo": 661
     },
     {
         "username": "wkwbk",
@@ -325,7 +345,7 @@
     },
     {
         "username": "averi",
-        "elo": 569
+        "elo": 579
     },
     {
         "username": "averithefox",
@@ -336,12 +356,12 @@
         "elo": 470
     },
     {
-        "username": "agungfirdev",
-        "elo": 454
+        "username": "jediahjireh",
+        "elo": 458
     },
     {
-        "username": "jediahjireh",
-        "elo": 452
+        "username": "agungfirdev",
+        "elo": 454
     },
     {
         "username": "null_base",
@@ -354,6 +374,10 @@
     {
         "username": "luisvinatea",
         "elo": 240
+    },
+    {
+        "username": "pekenbower",
+        "elo": 170
     },
     {
         "username": "MehediMehad",
@@ -369,7 +393,7 @@
     },
     {
         "username": "Swag",
-        "elo": 84
+        "elo": 86
     },
     {
         "username": "agushoma",
@@ -381,6 +405,10 @@
     },
     {
         "username": "howljs",
+        "elo": 77
+    },
+    {
+        "username": "King_jowiii",
         "elo": 74
     },
     {
@@ -388,12 +416,12 @@
         "elo": 72
     },
     {
-        "username": "King_jowiii",
-        "elo": 71
+        "username": "Enzu",
+        "elo": 72
     },
     {
-        "username": "Enzu",
-        "elo": 71
+        "username": "princeobeten",
+        "elo": 69
     },
     {
         "username": "asjer",
@@ -405,10 +433,6 @@
     },
     {
         "username": "zishe",
-        "elo": 68
-    },
-    {
-        "username": "princeobeten",
         "elo": 68
     },
     {
@@ -428,12 +452,20 @@
         "elo": 65
     },
     {
+        "username": "fenicfelix",
+        "elo": 64
+    },
+    {
         "username": "k1ngsterr1",
         "elo": 63
     },
     {
         "username": "VenomVendor",
         "elo": 63
+    },
+    {
+        "username": "Denky",
+        "elo": 62
     },
     {
         "username": "Pelumi",
@@ -448,11 +480,19 @@
         "elo": 60
     },
     {
-        "username": "Denky",
+        "username": "yusufnasserdev",
         "elo": 60
     },
     {
         "username": "BrainLess",
+        "elo": 59
+    },
+    {
+        "username": "PhilipWafula",
+        "elo": 59
+    },
+    {
+        "username": "dereSundayT",
         "elo": 59
     },
     {
@@ -464,15 +504,7 @@
         "elo": 58
     },
     {
-        "username": "dereSundayT",
-        "elo": 58
-    },
-    {
         "username": "gillis",
-        "elo": 57
-    },
-    {
-        "username": "fenicfelix",
         "elo": 57
     },
     {
@@ -508,19 +540,11 @@
         "elo": 56
     },
     {
-        "username": "PhilipWafula",
-        "elo": 55
-    },
-    {
         "username": "dave0016",
         "elo": 54
     },
     {
         "username": "nathanfallet",
-        "elo": 54
-    },
-    {
-        "username": "yusufnasserdev",
         "elo": 54
     },
     {
@@ -604,8 +628,16 @@
         "elo": 44
     },
     {
+        "username": "thegatekeeper",
+        "elo": 43
+    },
+    {
         "username": "bsef19a506",
         "elo": 43
+    },
+    {
+        "username": "ndungudedan",
+        "elo": 42
     },
     {
         "username": "harunjeylan",
@@ -622,14 +654,6 @@
     {
         "username": "emintayfur",
         "elo": 37
-    },
-    {
-        "username": "ndungudedan",
-        "elo": 37
-    },
-    {
-        "username": "thegatekeeper",
-        "elo": 36
     },
     {
         "username": "willianrosner",
