@@ -1,27 +1,15 @@
 {
-    "total_time": "59 hrs 8 mins",
+    "total_time": "45 hrs 1 mins",
     "updated": true,
     "elo": 60,
     "languages": [
-        {
-            "language": "JSON",
-            "time": "2 hrs 35 mins"
-        },
         {
             "language": "JavaScript",
             "time": "3 hrs 38 mins"
         },
         {
-            "language": "Prisma",
-            "time": "5 hrs 1 min"
-        },
-        {
             "language": "TypeScript",
-            "time": "38 hrs 15 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "9 hrs 39 mins"
+            "time": "41 hrs 23 mins"
         }
     ]
 }

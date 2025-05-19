@@ -1,19 +1,23 @@
 {
-    "total_time": "63 hrs 34 mins",
+    "total_time": "28 hrs 56 mins",
     "updated": true,
     "elo": 68,
     "languages": [
         {
             "language": "ERB",
-            "time": "8 hrs 1 min"
+            "time": "6 hrs"
+        },
+        {
+            "language": "JavaScript",
+            "time": "3 hrs 54 mins"
         },
         {
             "language": "Ruby",
-            "time": "50 hrs 6 mins"
+            "time": "14 hrs 20 mins"
         },
         {
             "language": "YAML",
-            "time": "5 hrs 27 mins"
+            "time": "4 hrs 42 mins"
         }
     ]
 }

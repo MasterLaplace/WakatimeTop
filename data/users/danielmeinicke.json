@@ -1,7 +1,7 @@
 {
-    "total_time": "5,422 hrs 50 mins",
+    "total_time": "5,468 hrs 12 mins",
     "updated": true,
-    "elo": 5423,
+    "elo": 5469,
     "languages": [
         {
             "language": "C",
@@ -28,12 +28,16 @@
             "time": "21 hrs 43 mins"
         },
         {
+            "language": "Image (svg)",
+            "time": "7 hrs 10 mins"
+        },
+        {
             "language": "JSON",
             "time": "42 hrs 53 mins"
         },
         {
             "language": "Java",
-            "time": "5,036 hrs 30 mins"
+            "time": "5,074 hrs 22 mins"
         },
         {
             "language": "Java Properties",
@@ -53,11 +57,11 @@
         },
         {
             "language": "Text",
-            "time": "128 hrs 53 mins"
+            "time": "128 hrs 59 mins"
         },
         {
             "language": "XML",
-            "time": "86 hrs 24 mins"
+            "time": "86 hrs 38 mins"
         },
         {
             "language": "YAML",
