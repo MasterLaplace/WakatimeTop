@@ -7,6 +7,10 @@ on:
       - '**/*.json'
       - '**/*.html'
       - '**/*.yml'
+  workflow_run:
+    workflows: ["Weekly Update"]
+    types:
+      - completed
 
 permissions:
   contents: write
