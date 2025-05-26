@@ -1,7 +1,7 @@
 {
-    "total_time": "934 hrs 35 mins",
+    "total_time": "939 hrs 23 mins",
     "updated": true,
-    "elo": 935,
+    "elo": 940,
     "languages": [
         {
             "language": "Assembly",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C++",
-            "time": "126 hrs 49 mins"
+            "time": "126 hrs 52 mins"
         },
         {
             "language": "CMake",
@@ -25,7 +25,7 @@
         },
         {
             "language": "CSS",
-            "time": "5 hrs 26 mins"
+            "time": "5 hrs 27 mins"
         },
         {
             "language": "GLSL",
@@ -37,11 +37,11 @@
         },
         {
             "language": "JSON",
-            "time": "3 hrs 11 mins"
+            "time": "3 hrs 13 mins"
         },
         {
             "language": "Java",
-            "time": "237 hrs 9 mins"
+            "time": "241 hrs 17 mins"
         },
         {
             "language": "Lua",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Prolog",
-            "time": "4 hrs 24 mins"
+            "time": "4 hrs 38 mins"
         },
         {
             "language": "Python",
@@ -89,7 +89,7 @@
         },
         {
             "language": "XML",
-            "time": "15 hrs 33 mins"
+            "time": "15 hrs 53 mins"
         }
     ]
 }

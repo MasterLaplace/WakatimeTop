@@ -1,7 +1,7 @@
 {
-    "total_time": "380 hrs 28 mins",
+    "total_time": "385 hrs 22 mins",
     "updated": true,
-    "elo": 381,
+    "elo": 386,
     "languages": [
         {
             "language": "Bash",
@@ -13,7 +13,11 @@
         },
         {
             "language": "Dart",
-            "time": "204 hrs 20 mins"
+            "time": "205 hrs 44 mins"
+        },
+        {
+            "language": "Gradle Kotlin DSL",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "HTML",
@@ -21,7 +25,7 @@
         },
         {
             "language": "JSON",
-            "time": "8 hrs 56 mins"
+            "time": "8 hrs 59 mins"
         },
         {
             "language": "JavaScript",
@@ -37,7 +41,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "50 hrs 59 mins"
+            "time": "51 hrs 38 mins"
         },
         {
             "language": "XML",
@@ -45,7 +49,7 @@
         },
         {
             "language": "YAML",
-            "time": "6 hrs 36 mins"
+            "time": "6 hrs 54 mins"
         }
     ]
 }

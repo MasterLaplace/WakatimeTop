@@ -1,15 +1,19 @@
 {
-    "total_time": "61 hrs 40 mins",
+    "total_time": "65 hrs 14 mins",
     "updated": true,
-    "elo": 62,
+    "elo": 66,
     "languages": [
         {
             "language": "Browserslist",
-            "time": "40 hrs 51 mins"
+            "time": "49 hrs 3 mins"
         },
         {
             "language": "Go",
-            "time": "20 hrs 49 mins"
+            "time": "4 hrs 41 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "11 hrs 30 mins"
         }
     ]
 }
