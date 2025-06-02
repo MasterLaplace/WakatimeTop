@@ -1,7 +1,7 @@
 {
-    "total_time": "3,247 hrs 5 mins",
+    "total_time": "3,332 hrs 16 mins",
     "updated": true,
-    "elo": 3248,
+    "elo": 3333,
     "languages": [
         {
             "language": "Astro",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "14 hrs 7 mins"
+            "time": "14 hrs 13 mins"
         },
         {
             "language": "C++",
@@ -17,15 +17,15 @@
         },
         {
             "language": "Env File",
-            "time": "3 hrs 4 mins"
+            "time": "3 hrs 12 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "6 hrs 42 mins"
+            "time": "7 hrs 9 mins"
         },
         {
             "language": "HTML",
-            "time": "409 hrs 30 mins"
+            "time": "410 hrs 4 mins"
         },
         {
             "language": "Image (svg)",
@@ -33,11 +33,11 @@
         },
         {
             "language": "JSON",
-            "time": "85 hrs 29 mins"
+            "time": "85 hrs 30 mins"
         },
         {
             "language": "Java",
-            "time": "979 hrs 41 mins"
+            "time": "1,026 hrs 39 mins"
         },
         {
             "language": "Java Properties",
@@ -61,31 +61,35 @@
         },
         {
             "language": "Python",
-            "time": "3 hrs 35 mins"
+            "time": "4 hrs 28 mins"
         },
         {
             "language": "Rust",
-            "time": "3 hrs"
+            "time": "7 hrs 48 mins"
         },
         {
             "language": "SCSS",
-            "time": "321 hrs 29 mins"
+            "time": "331 hrs 51 mins"
         },
         {
             "language": "Sass",
             "time": "187 hrs 20 mins"
         },
         {
+            "language": "TOML",
+            "time": "2 hrs 34 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "967 hrs 27 mins"
+            "time": "985 hrs 44 mins"
         },
         {
             "language": "XML",
-            "time": "41 hrs 58 mins"
+            "time": "41 hrs 59 mins"
         },
         {
             "language": "nx workspace",
-            "time": "3 hrs 7 mins"
+            "time": "3 hrs 9 mins"
         }
     ]
 }

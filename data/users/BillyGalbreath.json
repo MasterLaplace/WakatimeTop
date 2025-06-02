@@ -1,19 +1,27 @@
 {
-    "total_time": "94 hrs 26 mins",
+    "total_time": "61 hrs 46 mins",
     "updated": true,
     "elo": 95,
     "languages": [
         {
-            "language": "Java",
-            "time": "87 hrs 58 mins"
+            "language": "HTML",
+            "time": "4 hrs 22 mins"
         },
         {
-            "language": "Kotlin",
-            "time": "3 hrs 24 mins"
+            "language": "Java",
+            "time": "21 hrs 44 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "22 hrs 52 mins"
+        },
+        {
+            "language": "SCSS",
+            "time": "8 hrs 9 mins"
         },
         {
             "language": "YAML",
-            "time": "3 hrs 4 mins"
+            "time": "4 hrs 39 mins"
         }
     ]
 }

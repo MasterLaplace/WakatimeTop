@@ -1,7 +1,7 @@
 {
-    "total_time": "3,640 hrs 27 mins",
+    "total_time": "3,675 hrs 27 mins",
     "updated": true,
-    "elo": 3641,
+    "elo": 3676,
     "languages": [
         {
             "language": "Access Widener",
@@ -25,7 +25,7 @@
         },
         {
             "language": "CLASS",
-            "time": "17 hrs 16 mins"
+            "time": "17 hrs 43 mins"
         },
         {
             "language": "CSS",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Diff",
-            "time": "26 hrs 22 mins"
+            "time": "27 hrs 5 mins"
         },
         {
             "language": "GitIgnore file",
@@ -41,7 +41,7 @@
         },
         {
             "language": "Gradle",
-            "time": "65 hrs 18 mins"
+            "time": "65 hrs 19 mins"
         },
         {
             "language": "Groovy",
@@ -53,15 +53,15 @@
         },
         {
             "language": "JSON",
-            "time": "163 hrs 38 mins"
+            "time": "164 hrs 52 mins"
         },
         {
             "language": "Java",
-            "time": "1,259 hrs 37 mins"
+            "time": "1,275 hrs 53 mins"
         },
         {
             "language": "Java Properties",
-            "time": "28 hrs 6 mins"
+            "time": "28 hrs 12 mins"
         },
         {
             "language": "JavaScript",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Kotlin",
-            "time": "1,381 hrs 25 mins"
+            "time": "1,393 hrs 42 mins"
         },
         {
             "language": "Lua",
@@ -77,11 +77,15 @@
         },
         {
             "language": "Markdown",
-            "time": "19 hrs 38 mins"
+            "time": "20 hrs 32 mins"
         },
         {
             "language": "Mixin Configuration",
             "time": "6 hrs 49 mins"
+        },
+        {
+            "language": "Mixin Json Configuration",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "PHP",
@@ -93,7 +97,7 @@
         },
         {
             "language": "Properties",
-            "time": "43 hrs 23 mins"
+            "time": "43 hrs 51 mins"
         },
         {
             "language": "Python",
@@ -109,7 +113,7 @@
         },
         {
             "language": "Text",
-            "time": "28 hrs 31 mins"
+            "time": "28 hrs 32 mins"
         },
         {
             "language": "TypeScript",
@@ -137,7 +141,7 @@
         },
         {
             "language": "textmate",
-            "time": "15 hrs 15 mins"
+            "time": "15 hrs 18 mins"
         }
     ]
 }

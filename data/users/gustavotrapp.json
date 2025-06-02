@@ -1,11 +1,11 @@
 {
-    "total_time": "1,051 hrs 4 mins",
+    "total_time": "1,098 hrs 48 mins",
     "updated": true,
-    "elo": 1052,
+    "elo": 1099,
     "languages": [
         {
             "language": "Bash",
-            "time": "11 hrs 45 mins"
+            "time": "12 hrs 17 mins"
         },
         {
             "language": "CSV",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Dart",
-            "time": "240 hrs 7 mins"
+            "time": "244 hrs 28 mins"
         },
         {
             "language": "Docker",
@@ -21,27 +21,27 @@
         },
         {
             "language": "Go",
-            "time": "21 hrs 53 mins"
+            "time": "24 hrs 26 mins"
         },
         {
             "language": "JSON",
-            "time": "30 hrs 31 mins"
+            "time": "32 hrs 19 mins"
         },
         {
             "language": "JavaScript",
-            "time": "4 hrs 24 mins"
+            "time": "4 hrs 26 mins"
         },
         {
             "language": "Markdown",
-            "time": "7 hrs 47 mins"
+            "time": "9 hrs 54 mins"
         },
         {
             "language": "PHP",
-            "time": "19 hrs 11 mins"
+            "time": "22 hrs 54 mins"
         },
         {
             "language": "Python",
-            "time": "131 hrs 40 mins"
+            "time": "153 hrs 45 mins"
         },
         {
             "language": "Rust",
@@ -49,19 +49,23 @@
         },
         {
             "language": "SQL",
-            "time": "44 hrs 52 mins"
+            "time": "45 hrs 14 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "2 hrs 32 mins"
         },
         {
             "language": "Text",
-            "time": "15 hrs 24 mins"
+            "time": "16 hrs"
         },
         {
             "language": "TypeScript",
-            "time": "483 hrs 49 mins"
+            "time": "490 hrs 16 mins"
         },
         {
             "language": "YAML",
-            "time": "16 hrs 29 mins"
+            "time": "17 hrs 5 mins"
         },
         {
             "language": "templ",

@@ -1,27 +1,27 @@
 {
-    "total_time": "61 hrs 5 mins",
+    "total_time": "32 hrs 12 mins",
     "updated": true,
     "elo": 62,
     "languages": [
         {
             "language": "Dart",
-            "time": "9 hrs 35 mins"
+            "time": "4 hrs 4 mins"
         },
         {
             "language": "Go",
-            "time": "17 hrs 28 mins"
+            "time": "9 hrs 52 mins"
         },
         {
             "language": "HTTP Request",
-            "time": "8 hrs 34 mins"
-        },
-        {
-            "language": "Image (svg)",
-            "time": "3 hrs 13 mins"
+            "time": "5 hrs 13 mins"
         },
         {
             "language": "PHP",
-            "time": "22 hrs 15 mins"
+            "time": "10 hrs 14 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 49 mins"
         }
     ]
 }

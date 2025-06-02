@@ -1,7 +1,7 @@
 {
-    "total_time": "3,436 hrs 10 mins",
+    "total_time": "3,514 hrs 37 mins",
     "updated": true,
-    "elo": 3437,
+    "elo": 3515,
     "languages": [
         {
             "language": "Bash",
@@ -9,7 +9,7 @@
         },
         {
             "language": "C",
-            "time": "46 hrs 53 mins"
+            "time": "57 hrs 50 mins"
         },
         {
             "language": "C#",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C++",
-            "time": "59 hrs 43 mins"
+            "time": "59 hrs 45 mins"
         },
         {
             "language": "Cuda",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Go",
-            "time": "706 hrs 21 mins"
+            "time": "715 hrs 5 mins"
         },
         {
             "language": "Groovy",
@@ -45,7 +45,7 @@
         },
         {
             "language": "HCL",
-            "time": "96 hrs 50 mins"
+            "time": "101 hrs 6 mins"
         },
         {
             "language": "HTML",
@@ -69,11 +69,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "174 hrs 15 mins"
+            "time": "190 hrs 16 mins"
         },
         {
             "language": "Jsonnet",
-            "time": "5 hrs 26 mins"
+            "time": "5 hrs 37 mins"
         },
         {
             "language": "Julia",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Kotlin",
-            "time": "11 hrs 1 min"
+            "time": "11 hrs 7 mins"
         },
         {
             "language": "Less",
@@ -121,19 +121,19 @@
         },
         {
             "language": "Python",
-            "time": "292 hrs 7 mins"
+            "time": "304 hrs 11 mins"
         },
         {
             "language": "Ruby",
-            "time": "16 hrs 1 min"
+            "time": "18 hrs 21 mins"
         },
         {
             "language": "Rust",
-            "time": "235 hrs 19 mins"
+            "time": "238 hrs 59 mins"
         },
         {
             "language": "Shell",
-            "time": "44 hrs 37 mins"
+            "time": "48 hrs 14 mins"
         },
         {
             "language": "Smarty",
@@ -161,7 +161,7 @@
         },
         {
             "language": "Terraform",
-            "time": "425 hrs 4 mins"
+            "time": "430 hrs 54 mins"
         },
         {
             "language": "Text",
@@ -169,7 +169,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "261 hrs 3 mins"
+            "time": "269 hrs 5 mins"
         },
         {
             "language": "Vala",
@@ -177,7 +177,7 @@
         },
         {
             "language": "YAML",
-            "time": "188 hrs 48 mins"
+            "time": "189 hrs 56 mins"
         },
         {
             "language": "Zig",
@@ -189,7 +189,7 @@
         },
         {
             "language": "terraform",
-            "time": "42 hrs 45 mins"
+            "time": "44 hrs 14 mins"
         }
     ]
 }
