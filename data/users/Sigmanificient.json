@@ -1,7 +1,7 @@
 {
-    "total_time": "5,221 hrs 11 mins",
+    "total_time": "5,251 hrs 20 mins",
     "updated": true,
-    "elo": 5222,
+    "elo": 5252,
     "languages": [
         {
             "language": "AUTO_DETECTED",
@@ -17,11 +17,11 @@
         },
         {
             "language": "C",
-            "time": "1,312 hrs 3 mins"
+            "time": "1,316 hrs 36 mins"
         },
         {
             "language": "C++",
-            "time": "135 hrs 10 mins"
+            "time": "136 hrs 6 mins"
         },
         {
             "language": "CSS",
@@ -57,11 +57,11 @@
         },
         {
             "language": "INI",
-            "time": "11 hrs 19 mins"
+            "time": "11 hrs 21 mins"
         },
         {
             "language": "JSON",
-            "time": "17 hrs 41 mins"
+            "time": "17 hrs 43 mins"
         },
         {
             "language": "Java",
@@ -81,15 +81,15 @@
         },
         {
             "language": "Makefile",
-            "time": "276 hrs 44 mins"
+            "time": "277 hrs 29 mins"
         },
         {
             "language": "Markdown",
-            "time": "53 hrs 19 mins"
+            "time": "53 hrs 29 mins"
         },
         {
             "language": "Nix",
-            "time": "323 hrs 10 mins"
+            "time": "326 hrs 22 mins"
         },
         {
             "language": "Nix file",
@@ -105,7 +105,7 @@
         },
         {
             "language": "Python",
-            "time": "469 hrs 24 mins"
+            "time": "472 hrs 47 mins"
         },
         {
             "language": "Rust",
@@ -129,7 +129,7 @@
         },
         {
             "language": "TOML",
-            "time": "5 hrs 27 mins"
+            "time": "5 hrs 29 mins"
         },
         {
             "language": "TeX",
@@ -137,7 +137,7 @@
         },
         {
             "language": "Text",
-            "time": "30 hrs 9 mins"
+            "time": "30 hrs 10 mins"
         },
         {
             "language": "TypeScript",
@@ -148,16 +148,20 @@
             "time": "5 hrs 20 mins"
         },
         {
+            "language": "Vim Script",
+            "time": "2 hrs 30 mins"
+        },
+        {
             "language": "Vue.js",
             "time": "10 hrs 27 mins"
         },
         {
             "language": "XML",
-            "time": "7 hrs 17 mins"
+            "time": "7 hrs 20 mins"
         },
         {
             "language": "YAML",
-            "time": "42 hrs 47 mins"
+            "time": "43 hrs 40 mins"
         },
         {
             "language": "conf",
@@ -165,11 +169,11 @@
         },
         {
             "language": "gitignore",
-            "time": "7 hrs 18 mins"
+            "time": "7 hrs 21 mins"
         },
         {
             "language": "sh",
-            "time": "1,232 hrs 27 mins"
+            "time": "1,246 hrs 1 min"
         },
         {
             "language": "textmate",

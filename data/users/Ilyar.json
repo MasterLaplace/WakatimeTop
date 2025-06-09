@@ -1,15 +1,15 @@
 {
-    "total_time": "1,038 hrs 40 mins",
+    "total_time": "1,060 hrs 54 mins",
     "updated": true,
-    "elo": 1039,
+    "elo": 1061,
     "languages": [
         {
             "language": "Bash",
-            "time": "55 hrs 57 mins"
+            "time": "56 hrs 25 mins"
         },
         {
             "language": "C++",
-            "time": "19 hrs 3 mins"
+            "time": "19 hrs 6 mins"
         },
         {
             "language": "CMake",
@@ -17,7 +17,7 @@
         },
         {
             "language": "Config",
-            "time": "3 hrs 54 mins"
+            "time": "3 hrs 59 mins"
         },
         {
             "language": "Docker",
@@ -45,15 +45,15 @@
         },
         {
             "language": "HTTP",
-            "time": "2 hrs 58 mins"
+            "time": "4 hrs 46 mins"
         },
         {
             "language": "JSON",
-            "time": "61 hrs 40 mins"
+            "time": "64 hrs 48 mins"
         },
         {
             "language": "JavaScript",
-            "time": "112 hrs 23 mins"
+            "time": "115 hrs 25 mins"
         },
         {
             "language": "Makefile",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Markdown",
-            "time": "79 hrs 44 mins"
+            "time": "82 hrs 52 mins"
         },
         {
             "language": "Nix",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Python",
-            "time": "59 hrs 13 mins"
+            "time": "59 hrs 46 mins"
         },
         {
             "language": "Rust",
@@ -81,7 +81,7 @@
         },
         {
             "language": "TL-B",
-            "time": "23 hrs"
+            "time": "24 hrs 29 mins"
         },
         {
             "language": "TLB",
@@ -97,11 +97,11 @@
         },
         {
             "language": "Text",
-            "time": "20 hrs 10 mins"
+            "time": "19 hrs 24 mins"
         },
         {
             "language": "TypeScript",
-            "time": "314 hrs 51 mins"
+            "time": "321 hrs 46 mins"
         },
         {
             "language": "UML",
@@ -113,11 +113,11 @@
         },
         {
             "language": "YAML",
-            "time": "29 hrs 22 mins"
+            "time": "31 hrs 39 mins"
         },
         {
             "language": "textmate",
-            "time": "4 hrs 25 mins"
+            "time": "4 hrs 29 mins"
         },
         {
             "language": "wit",
