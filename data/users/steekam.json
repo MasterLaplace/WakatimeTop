@@ -1,15 +1,19 @@
 {
-    "total_time": "26 hrs 33 mins",
+    "total_time": "28 hrs 20 mins",
     "updated": true,
-    "elo": 66,
+    "elo": 68,
     "languages": [
         {
+            "language": "Python",
+            "time": "4 hrs 14 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "23 hrs 30 mins"
+            "time": "16 hrs 30 mins"
         },
         {
             "language": "Vue.js",
-            "time": "3 hrs 3 mins"
+            "time": "7 hrs 36 mins"
         }
     ]
 }

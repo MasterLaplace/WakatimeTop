@@ -1,15 +1,27 @@
 {
-    "total_time": "33 hrs 4 mins",
+    "total_time": "30 hrs 22 mins",
     "updated": true,
     "elo": 71,
     "languages": [
         {
+            "language": "Blade Template",
+            "time": "3 hrs 2 mins"
+        },
+        {
             "language": "Dart",
-            "time": "19 hrs 58 mins"
+            "time": "16 hrs 2 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "2 hrs 55 mins"
         },
         {
             "language": "PHP",
-            "time": "13 hrs 6 mins"
+            "time": "5 hrs 47 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 36 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "4,289 hrs 11 mins",
+    "total_time": "4,332 hrs",
     "updated": true,
-    "elo": 4290,
+    "elo": 4332,
     "languages": [
         {
             "language": "Bash",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Dart",
-            "time": "4,121 hrs 52 mins"
+            "time": "4,149 hrs 27 mins"
         },
         {
             "language": "Go",
-            "time": "51 hrs 58 mins"
+            "time": "63 hrs 2 mins"
         },
         {
             "language": "Groovy",
@@ -21,7 +21,7 @@
         },
         {
             "language": "HTTP",
-            "time": "2 hrs 39 mins"
+            "time": "6 hrs 21 mins"
         },
         {
             "language": "Image (svg)",
@@ -45,7 +45,7 @@
         },
         {
             "language": "YAML",
-            "time": "65 hrs 27 mins"
+            "time": "65 hrs 55 mins"
         }
     ]
 }

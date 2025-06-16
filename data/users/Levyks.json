@@ -1,15 +1,19 @@
 {
-    "total_time": "8 hrs 15 mins",
+    "total_time": "12 hrs 40 mins",
     "updated": true,
-    "elo": 51,
+    "elo": 55,
     "languages": [
         {
-            "language": "Java",
-            "time": "3 hrs 42 mins"
+            "language": "C++",
+            "time": "3 hrs 46 mins"
         },
         {
-            "language": "Vue.js",
-            "time": "4 hrs 33 mins"
+            "language": "Java",
+            "time": "6 hrs 23 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 31 mins"
         }
     ]
 }

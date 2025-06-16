@@ -1,19 +1,31 @@
 {
-    "total_time": "39 hrs 34 mins",
+    "total_time": "39 hrs 42 mins",
     "updated": true,
     "elo": 83,
     "languages": [
         {
+            "language": "Bash",
+            "time": "3 hrs 48 mins"
+        },
+        {
             "language": "Dart",
-            "time": "8 hrs 14 mins"
+            "time": "3 hrs 5 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "2 hrs 49 mins"
         },
         {
             "language": "Python",
-            "time": "13 hrs 9 mins"
+            "time": "13 hrs 4 mins"
         },
         {
             "language": "TypeScript",
-            "time": "18 hrs 11 mins"
+            "time": "11 hrs 5 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "5 hrs 51 mins"
         }
     ]
 }

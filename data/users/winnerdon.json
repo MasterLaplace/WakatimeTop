@@ -1,15 +1,19 @@
 {
-    "total_time": "54 hrs 10 mins",
+    "total_time": "56 hrs 58 mins",
     "updated": true,
-    "elo": 55,
+    "elo": 57,
     "languages": [
         {
             "language": "Image (svg)",
-            "time": "16 hrs 47 mins"
+            "time": "9 hrs 20 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "4 hrs 10 mins"
         },
         {
             "language": "TypeScript",
-            "time": "37 hrs 23 mins"
+            "time": "43 hrs 28 mins"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "total_time": "5,621 hrs 57 mins",
+    "total_time": "5,679 hrs 4 mins",
     "updated": true,
-    "elo": 5622,
+    "elo": 5680,
     "languages": [
         {
             "language": "C",
-            "time": "8 hrs 21 mins"
+            "time": "8 hrs 55 mins"
         },
         {
             "language": "C++",
@@ -24,8 +24,12 @@
             "time": "6 hrs 33 mins"
         },
         {
+            "language": "HOCON",
+            "time": "2 hrs 35 mins"
+        },
+        {
             "language": "HTML",
-            "time": "26 hrs 49 mins"
+            "time": "28 hrs 59 mins"
         },
         {
             "language": "Image (svg)",
@@ -33,11 +37,11 @@
         },
         {
             "language": "JSON",
-            "time": "44 hrs 38 mins"
+            "time": "44 hrs 47 mins"
         },
         {
             "language": "Java",
-            "time": "5,205 hrs 32 mins"
+            "time": "5,256 hrs 38 mins"
         },
         {
             "language": "Java Properties",
@@ -57,7 +61,7 @@
         },
         {
             "language": "Text",
-            "time": "129 hrs 1 min"
+            "time": "129 hrs 2 mins"
         },
         {
             "language": "TypeScript",
@@ -65,7 +69,7 @@
         },
         {
             "language": "XML",
-            "time": "91 hrs 4 mins"
+            "time": "91 hrs 36 mins"
         },
         {
             "language": "YAML",

@@ -1,7 +1,7 @@
 {
-    "total_time": "956 hrs 3 mins",
+    "total_time": "999 hrs 19 mins",
     "updated": true,
-    "elo": 957,
+    "elo": 1000,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "18 hrs 21 mins"
+            "time": "19 hrs 25 mins"
         },
         {
             "language": "C",
@@ -37,15 +37,15 @@
         },
         {
             "language": "JSON",
-            "time": "3 hrs 22 mins"
+            "time": "3 hrs 55 mins"
         },
         {
             "language": "Java",
-            "time": "251 hrs"
+            "time": "262 hrs 49 mins"
         },
         {
             "language": "Lua",
-            "time": "24 hrs 19 mins"
+            "time": "49 hrs 28 mins"
         },
         {
             "language": "Makefile",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Python",
-            "time": "98 hrs 52 mins"
+            "time": "100 hrs 48 mins"
         },
         {
             "language": "SQL",
@@ -73,7 +73,7 @@
         },
         {
             "language": "TeX",
-            "time": "3 hrs 51 mins"
+            "time": "5 hrs 52 mins"
         },
         {
             "language": "Text",
@@ -89,7 +89,7 @@
         },
         {
             "language": "XML",
-            "time": "15 hrs 55 mins"
+            "time": "16 hrs 39 mins"
         }
     ]
 }

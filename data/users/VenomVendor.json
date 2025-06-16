@@ -1,11 +1,19 @@
 {
-    "total_time": "21 hrs 31 mins",
+    "total_time": "21 hrs",
     "updated": true,
     "elo": 76,
     "languages": [
         {
+            "language": "Makefile",
+            "time": "5 hrs 9 mins"
+        },
+        {
             "language": "Python",
-            "time": "21 hrs 31 mins"
+            "time": "9 hrs 34 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "6 hrs 17 mins"
         }
     ]
 }

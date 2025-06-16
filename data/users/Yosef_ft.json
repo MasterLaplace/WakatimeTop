@@ -1,19 +1,27 @@
 {
-    "total_time": "28 hrs 13 mins",
+    "total_time": "58 hrs 26 mins",
     "updated": true,
-    "elo": 59,
+    "elo": 89,
     "languages": [
+        {
+            "language": "Bash",
+            "time": "8 hrs 35 mins"
+        },
         {
             "language": "Dart",
             "time": "3 hrs 24 mins"
         },
         {
+            "language": "Docker",
+            "time": "3 hrs 49 mins"
+        },
+        {
             "language": "Kotlin",
-            "time": "7 hrs 28 mins"
+            "time": "17 hrs 5 mins"
         },
         {
             "language": "PHP",
-            "time": "2 hrs 48 mins"
+            "time": "9 hrs 16 mins"
         },
         {
             "language": "Python",
@@ -25,7 +33,11 @@
         },
         {
             "language": "XML",
-            "time": "7 hrs 11 mins"
+            "time": "2 hrs 49 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "6 hrs 6 mins"
         }
     ]
 }
