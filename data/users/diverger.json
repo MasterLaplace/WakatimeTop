@@ -1,27 +1,19 @@
 {
-    "total_time": "58 hrs 28 mins",
+    "total_time": "65 hrs 23 mins",
     "updated": true,
-    "elo": 79,
+    "elo": 86,
     "languages": [
         {
             "language": "Bash",
-            "time": "6 hrs 38 mins"
-        },
-        {
-            "language": "C",
-            "time": "9 hrs 10 mins"
+            "time": "25 hrs 27 mins"
         },
         {
             "language": "Devicetree",
-            "time": "19 hrs 52 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "6 hrs 57 mins"
+            "time": "4 hrs 44 mins"
         },
         {
             "language": "YAML",
-            "time": "15 hrs 51 mins"
+            "time": "35 hrs 12 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "1,848 hrs 19 mins",
+    "total_time": "1,883 hrs 44 mins",
     "updated": true,
-    "elo": 1849,
+    "elo": 1884,
     "languages": [
         {
             "language": "Bash",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C#",
-            "time": "102 hrs 37 mins"
+            "time": "118 hrs 4 mins"
         },
         {
             "language": "CSS",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Go",
-            "time": "57 hrs 2 mins"
+            "time": "57 hrs 43 mins"
         },
         {
             "language": "HTML",
@@ -33,15 +33,15 @@
         },
         {
             "language": "JSON",
-            "time": "40 hrs 31 mins"
+            "time": "43 hrs 20 mins"
         },
         {
             "language": "JavaScript",
-            "time": "85 hrs 29 mins"
+            "time": "85 hrs 49 mins"
         },
         {
             "language": "Lua",
-            "time": "17 hrs 46 mins"
+            "time": "18 hrs 20 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -72,8 +72,12 @@
             "time": "2 hrs 33 mins"
         },
         {
+            "language": "Terraform",
+            "time": "6 hrs 38 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "994 hrs 20 mins"
+            "time": "997 hrs 38 mins"
         },
         {
             "language": "Vue.js",
@@ -85,11 +89,15 @@
         },
         {
             "language": "YAML",
-            "time": "17 hrs 33 mins"
+            "time": "20 hrs 18 mins"
         },
         {
             "language": "lir",
-            "time": "2 hrs 51 mins"
+            "time": "3 hrs 10 mins"
+        },
+        {
+            "language": "pem",
+            "time": "2 hrs 34 mins"
         },
         {
             "language": "tmux",

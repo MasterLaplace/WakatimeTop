@@ -1,7 +1,7 @@
 {
-    "total_time": "59 hrs 58 mins",
+    "total_time": "97 hrs 21 mins",
     "updated": true,
-    "elo": 78,
+    "elo": 116,
     "languages": [
         {
             "language": "C",
@@ -22,6 +22,10 @@
         {
             "language": "Python",
             "time": "25 hrs 2 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "37 hrs 23 mins"
         },
         {
             "language": "Shell",

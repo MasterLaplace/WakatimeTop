@@ -1,11 +1,11 @@
 {
-    "total_time": "1,481 hrs 7 mins",
+    "total_time": "1,516 hrs 49 mins",
     "updated": true,
-    "elo": 1482,
+    "elo": 1517,
     "languages": [
         {
             "language": "Bash",
-            "time": "34 hrs 36 mins"
+            "time": "35 hrs 29 mins"
         },
         {
             "language": "Blade Template",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Docker",
-            "time": "5 hrs 21 mins"
+            "time": "16 hrs 56 mins"
         },
         {
             "language": "ERB",
@@ -37,15 +37,15 @@
         },
         {
             "language": "HTML",
-            "time": "5 hrs 10 mins"
+            "time": "5 hrs 27 mins"
         },
         {
             "language": "JSON",
-            "time": "7 hrs 25 mins"
+            "time": "7 hrs 34 mins"
         },
         {
             "language": "JavaScript",
-            "time": "11 hrs 52 mins"
+            "time": "11 hrs 53 mins"
         },
         {
             "language": "Lua",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Rust",
-            "time": "771 hrs 46 mins"
+            "time": "782 hrs 8 mins"
         },
         {
             "language": "SQL",
@@ -73,7 +73,7 @@
         },
         {
             "language": "TOML",
-            "time": "10 hrs 3 mins"
+            "time": "10 hrs 9 mins"
         },
         {
             "language": "Text",
@@ -81,11 +81,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "396 hrs 20 mins"
+            "time": "404 hrs 2 mins"
         },
         {
             "language": "YAML",
-            "time": "15 hrs 26 mins"
+            "time": "18 hrs 53 mins"
         },
         {
             "language": "conf",
@@ -93,7 +93,7 @@
         },
         {
             "language": "gitignore",
-            "time": "2 hrs 33 mins"
+            "time": "3 hrs 43 mins"
         },
         {
             "language": "tmux",

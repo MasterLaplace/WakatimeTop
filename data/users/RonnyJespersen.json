@@ -1,23 +1,27 @@
 {
-    "total_time": "79 hrs 54 mins",
+    "total_time": "61 hrs 25 mins",
     "updated": true,
     "elo": 80,
     "languages": [
         {
             "language": "JSON",
-            "time": "2 hrs 47 mins"
+            "time": "2 hrs 53 mins"
         },
         {
             "language": "JavaScript",
-            "time": "50 hrs 28 mins"
+            "time": "30 hrs 15 mins"
         },
         {
             "language": "Markdown",
-            "time": "16 hrs 29 mins"
+            "time": "15 hrs 4 mins"
         },
         {
             "language": "PHP",
-            "time": "10 hrs 10 mins"
+            "time": "8 hrs 58 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "4 hrs 15 mins"
         }
     ]
 }

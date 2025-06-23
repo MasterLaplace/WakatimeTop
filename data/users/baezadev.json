@@ -1,11 +1,15 @@
 {
-    "total_time": "13 hrs 4 mins",
+    "total_time": "17 hrs 43 mins",
     "updated": true,
-    "elo": 56,
+    "elo": 60,
     "languages": [
         {
             "language": "Java",
             "time": "13 hrs 4 mins"
+        },
+        {
+            "language": "hyprlang",
+            "time": "4 hrs 39 mins"
         }
     ]
 }
