@@ -1,19 +1,19 @@
 {
-    "total_time": "29 hrs 23 mins",
+    "total_time": "15 hrs 17 mins",
     "updated": true,
     "elo": 62,
     "languages": [
         {
+            "language": "Cheetah",
+            "time": "2 hrs 32 mins"
+        },
+        {
             "language": "Lua",
-            "time": "17 hrs 23 mins"
+            "time": "4 hrs 22 mins"
         },
         {
             "language": "Python",
-            "time": "7 hrs 38 mins"
-        },
-        {
-            "language": "TOML",
-            "time": "4 hrs 22 mins"
+            "time": "8 hrs 23 mins"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "total_time": "9,685 hrs 7 mins",
+    "total_time": "9,719 hrs 48 mins",
     "updated": true,
-    "elo": 9686,
+    "elo": 9720,
     "languages": [
         {
             "language": "Bash",
-            "time": "66 hrs 11 mins"
+            "time": "66 hrs 22 mins"
         },
         {
             "language": "C",
@@ -13,11 +13,11 @@
         },
         {
             "language": "C++",
-            "time": "114 hrs 20 mins"
+            "time": "118 hrs 5 mins"
         },
         {
             "language": "CMake",
-            "time": "32 hrs 14 mins"
+            "time": "32 hrs 22 mins"
         },
         {
             "language": "CSS",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Dart",
-            "time": "7,341 hrs 51 mins"
+            "time": "7,353 hrs 19 mins"
         },
         {
             "language": "Docker",
@@ -85,11 +85,11 @@
         },
         {
             "language": "Makefile",
-            "time": "3 hrs 36 mins"
+            "time": "3 hrs 43 mins"
         },
         {
             "language": "Markdown",
-            "time": "66 hrs 6 mins"
+            "time": "66 hrs 8 mins"
         },
         {
             "language": "MySQL",
@@ -121,15 +121,15 @@
         },
         {
             "language": "Rust",
-            "time": "395 hrs 29 mins"
+            "time": "412 hrs 21 mins"
         },
         {
             "language": "Swift",
-            "time": "130 hrs 20 mins"
+            "time": "131 hrs"
         },
         {
             "language": "TOML",
-            "time": "14 hrs 9 mins"
+            "time": "14 hrs 52 mins"
         },
         {
             "language": "Text",
@@ -137,15 +137,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "238 hrs 30 mins"
+            "time": "238 hrs 35 mins"
         },
         {
             "language": "XML",
-            "time": "75 hrs 58 mins"
+            "time": "76 hrs"
         },
         {
             "language": "YAML",
-            "time": "320 hrs"
+            "time": "320 hrs 38 mins"
         }
     ]
 }

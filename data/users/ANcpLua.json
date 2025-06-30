@@ -1,15 +1,15 @@
 {
-    "total_time": "2,033 hrs 20 mins",
+    "total_time": "2,155 hrs 51 mins",
     "updated": true,
-    "elo": 2034,
+    "elo": 2156,
     "languages": [
         {
             "language": ".env file",
-            "time": "3 hrs 24 mins"
+            "time": "3 hrs 43 mins"
         },
         {
             "language": "Bash",
-            "time": "4 hrs 30 mins"
+            "time": "6 hrs 30 mins"
         },
         {
             "language": "Blazor",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C#",
-            "time": "1,221 hrs 6 mins"
+            "time": "1,327 hrs 5 mins"
         },
         {
             "language": "CSS",
@@ -29,15 +29,15 @@
         },
         {
             "language": "Csproj",
-            "time": "32 hrs 36 mins"
+            "time": "35 hrs 39 mins"
         },
         {
             "language": "Docker",
-            "time": "38 hrs 21 mins"
+            "time": "38 hrs 55 mins"
         },
         {
             "language": "F#",
-            "time": "21 hrs 51 mins"
+            "time": "21 hrs 52 mins"
         },
         {
             "language": "GitIgnore file",
@@ -49,11 +49,11 @@
         },
         {
             "language": "HTTP Request",
-            "time": "5 hrs 26 mins"
+            "time": "5 hrs 29 mins"
         },
         {
             "language": "JSON",
-            "time": "48 hrs 43 mins"
+            "time": "49 hrs 2 mins"
         },
         {
             "language": "Java",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Markdown",
-            "time": "22 hrs 5 mins"
+            "time": "22 hrs 13 mins"
         },
         {
             "language": "Nginx Configuration Pro",
@@ -81,15 +81,19 @@
         },
         {
             "language": "SQL",
-            "time": "5 hrs 21 mins"
+            "time": "5 hrs 37 mins"
+        },
+        {
+            "language": "Shell Script",
+            "time": "3 hrs 9 mins"
         },
         {
             "language": "Solution File",
-            "time": "7 hrs 43 mins"
+            "time": "7 hrs 56 mins"
         },
         {
             "language": "Text",
-            "time": "11 hrs 27 mins"
+            "time": "11 hrs 46 mins"
         },
         {
             "language": "Vue.js",
@@ -101,15 +105,15 @@
         },
         {
             "language": "XML",
-            "time": "49 hrs 26 mins"
+            "time": "50 hrs 57 mins"
         },
         {
             "language": "YAML",
-            "time": "92 hrs 15 mins"
+            "time": "96 hrs 47 mins"
         },
         {
             "language": "textmate",
-            "time": "11 hrs 2 mins"
+            "time": "11 hrs 7 mins"
         }
     ]
 }

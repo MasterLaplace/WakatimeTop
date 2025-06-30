@@ -1,11 +1,11 @@
 {
-    "total_time": "104 hrs 54 mins",
+    "total_time": "125 hrs 55 mins",
     "updated": true,
-    "elo": 105,
+    "elo": 126,
     "languages": [
         {
             "language": "Go",
-            "time": "83 hrs 27 mins"
+            "time": "86 hrs 2 mins"
         },
         {
             "language": "HTTP Request",
@@ -13,11 +13,15 @@
         },
         {
             "language": "JSON",
-            "time": "5 hrs 19 mins"
+            "time": "5 hrs 25 mins"
         },
         {
             "language": "Python",
             "time": "4 hrs 22 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "18 hrs 20 mins"
         },
         {
             "language": "TypeScript",

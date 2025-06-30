@@ -1,19 +1,15 @@
 {
-    "total_time": "54 hrs 26 mins",
+    "total_time": "9 hrs 15 mins",
     "updated": true,
     "elo": 55,
     "languages": [
         {
             "language": "C",
-            "time": "37 hrs 55 mins"
+            "time": "4 hrs 42 mins"
         },
         {
-            "language": "C#",
-            "time": "12 hrs 49 mins"
-        },
-        {
-            "language": "C/C++",
-            "time": "3 hrs 42 mins"
+            "language": "Svelte",
+            "time": "4 hrs 33 mins"
         }
     ]
 }

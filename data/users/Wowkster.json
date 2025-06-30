@@ -1,15 +1,23 @@
 {
-    "total_time": "16 hrs 23 mins",
+    "total_time": "42 hrs",
     "updated": true,
-    "elo": 62,
+    "elo": 87,
     "languages": [
         {
+            "language": "Astro",
+            "time": "16 hrs 49 mins"
+        },
+        {
             "language": "Rust",
-            "time": "11 hrs 25 mins"
+            "time": "16 hrs 40 mins"
         },
         {
             "language": "Text",
             "time": "4 hrs 58 mins"
+        },
+        {
+            "language": "ca65 assembler",
+            "time": "3 hrs 33 mins"
         }
     ]
 }
