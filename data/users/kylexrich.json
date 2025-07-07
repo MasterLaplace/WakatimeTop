@@ -1,11 +1,11 @@
 {
-    "total_time": "3,882 hrs 51 mins",
+    "total_time": "3,952 hrs 8 mins",
     "updated": true,
-    "elo": 3883,
+    "elo": 3953,
     "languages": [
         {
             "language": ".env file",
-            "time": "2 hrs 39 mins"
+            "time": "2 hrs 41 mins"
         },
         {
             "language": "ANTLR v4 grammar file",
@@ -17,7 +17,7 @@
         },
         {
             "language": "Bash",
-            "time": "17 hrs 25 mins"
+            "time": "17 hrs 53 mins"
         },
         {
             "language": "Brazil Dependency Config",
@@ -33,7 +33,7 @@
         },
         {
             "language": "CSS",
-            "time": "14 hrs 31 mins"
+            "time": "14 hrs 51 mins"
         },
         {
             "language": "Ezhil",
@@ -49,11 +49,11 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "7 hrs 54 mins"
+            "time": "8 hrs 5 mins"
         },
         {
             "language": "HTML",
-            "time": "40 hrs 27 mins"
+            "time": "40 hrs 32 mins"
         },
         {
             "language": "INI",
@@ -61,15 +61,15 @@
         },
         {
             "language": "JSON",
-            "time": "172 hrs 36 mins"
+            "time": "176 hrs 16 mins"
         },
         {
             "language": "Java",
-            "time": "1,304 hrs 13 mins"
+            "time": "1,305 hrs 34 mins"
         },
         {
             "language": "JavaScript",
-            "time": "275 hrs 16 mins"
+            "time": "277 hrs 43 mins"
         },
         {
             "language": "Makefile",
@@ -77,7 +77,7 @@
         },
         {
             "language": "Markdown",
-            "time": "68 hrs 3 mins"
+            "time": "74 hrs 19 mins"
         },
         {
             "language": "SCSS",
@@ -93,15 +93,19 @@
         },
         {
             "language": "TSConfig",
-            "time": "3 hrs 37 mins"
+            "time": "3 hrs 49 mins"
         },
         {
             "language": "Text",
-            "time": "24 hrs 17 mins"
+            "time": "24 hrs 19 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,559 hrs 6 mins"
+            "time": "1,599 hrs 11 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "3 hrs 13 mins"
         },
         {
             "language": "XML",
@@ -109,7 +113,7 @@
         },
         {
             "language": "YAML",
-            "time": "15 hrs 18 mins"
+            "time": "25 hrs 32 mins"
         },
         {
             "language": "brazil-config",
@@ -117,7 +121,7 @@
         },
         {
             "language": "textmate",
-            "time": "8 hrs 58 mins"
+            "time": "9 hrs 39 mins"
         }
     ]
 }

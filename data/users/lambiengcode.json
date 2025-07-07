@@ -1,7 +1,7 @@
 {
-    "total_time": "9,719 hrs 48 mins",
+    "total_time": "9,750 hrs 59 mins",
     "updated": true,
-    "elo": 9720,
+    "elo": 9751,
     "languages": [
         {
             "language": "Bash",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C++",
-            "time": "118 hrs 5 mins"
+            "time": "132 hrs 17 mins"
         },
         {
             "language": "CMake",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Dart",
-            "time": "7,353 hrs 19 mins"
+            "time": "7,368 hrs 44 mins"
         },
         {
             "language": "Docker",
@@ -85,11 +85,11 @@
         },
         {
             "language": "Makefile",
-            "time": "3 hrs 43 mins"
+            "time": "3 hrs 44 mins"
         },
         {
             "language": "Markdown",
-            "time": "66 hrs 8 mins"
+            "time": "66 hrs 36 mins"
         },
         {
             "language": "MySQL",
@@ -121,15 +121,15 @@
         },
         {
             "language": "Rust",
-            "time": "412 hrs 21 mins"
+            "time": "413 hrs 5 mins"
         },
         {
             "language": "Swift",
-            "time": "131 hrs"
+            "time": "131 hrs 9 mins"
         },
         {
             "language": "TOML",
-            "time": "14 hrs 52 mins"
+            "time": "14 hrs 55 mins"
         },
         {
             "language": "Text",
@@ -145,7 +145,7 @@
         },
         {
             "language": "YAML",
-            "time": "320 hrs 38 mins"
+            "time": "320 hrs 47 mins"
         }
     ]
 }

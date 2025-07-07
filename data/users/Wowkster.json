@@ -1,7 +1,7 @@
 {
-    "total_time": "42 hrs",
+    "total_time": "60 hrs 35 mins",
     "updated": true,
-    "elo": 87,
+    "elo": 106,
     "languages": [
         {
             "language": "Astro",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Rust",
-            "time": "16 hrs 40 mins"
+            "time": "37 hrs 38 mins"
         },
         {
-            "language": "Text",
-            "time": "4 hrs 58 mins"
+            "language": "WebGPU Shading Language",
+            "time": "2 hrs 35 mins"
         },
         {
             "language": "ca65 assembler",

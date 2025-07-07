@@ -1,15 +1,15 @@
 {
-    "total_time": "1,743 hrs 45 mins",
+    "total_time": "1,785 hrs 21 mins",
     "updated": true,
-    "elo": 1744,
+    "elo": 1786,
     "languages": [
         {
             "language": "Bash",
-            "time": "20 hrs 48 mins"
+            "time": "22 hrs"
         },
         {
             "language": "CSS",
-            "time": "10 hrs 40 mins"
+            "time": "11 hrs 7 mins"
         },
         {
             "language": "Canva Design",
@@ -17,11 +17,15 @@
         },
         {
             "language": "Docker",
-            "time": "18 hrs 58 mins"
+            "time": "19 hrs 30 mins"
         },
         {
             "language": "Git Config",
-            "time": "3 hrs 58 mins"
+            "time": "4 hrs 6 mins"
+        },
+        {
+            "language": "Go",
+            "time": "7 hrs 36 mins"
         },
         {
             "language": "HTML",
@@ -33,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "37 hrs 3 mins"
+            "time": "37 hrs 19 mins"
         },
         {
             "language": "JavaScript",
@@ -41,7 +45,7 @@
         },
         {
             "language": "Markdown",
-            "time": "24 hrs 57 mins"
+            "time": "25 hrs 34 mins"
         },
         {
             "language": "Prisma",
@@ -53,7 +57,7 @@
         },
         {
             "language": "Rust",
-            "time": "585 hrs 28 mins"
+            "time": "585 hrs 45 mins"
         },
         {
             "language": "SCSS",
@@ -69,15 +73,15 @@
         },
         {
             "language": "TOML",
-            "time": "27 hrs 14 mins"
+            "time": "27 hrs 25 mins"
         },
         {
             "language": "TypeScript",
-            "time": "715 hrs 36 mins"
+            "time": "742 hrs 24 mins"
         },
         {
             "language": "YAML",
-            "time": "18 hrs 40 mins"
+            "time": "22 hrs 12 mins"
         }
     ]
 }

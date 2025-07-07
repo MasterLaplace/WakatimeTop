@@ -1,7 +1,7 @@
 {
-    "total_time": "11,984 hrs 51 mins",
+    "total_time": "12,013 hrs 4 mins",
     "updated": true,
-    "elo": 11985,
+    "elo": 12014,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "89 hrs 16 mins"
+            "time": "89 hrs 36 mins"
         },
         {
             "language": "Blade Template",
@@ -21,7 +21,7 @@
         },
         {
             "language": "CSV",
-            "time": "3 hrs 47 mins"
+            "time": "3 hrs 51 mins"
         },
         {
             "language": "Dart",
@@ -29,11 +29,11 @@
         },
         {
             "language": "Docker",
-            "time": "23 hrs 25 mins"
+            "time": "23 hrs 39 mins"
         },
         {
             "language": "Git Config",
-            "time": "9 hrs 15 mins"
+            "time": "9 hrs 25 mins"
         },
         {
             "language": "Groovy",
@@ -45,11 +45,11 @@
         },
         {
             "language": "JSON",
-            "time": "179 hrs 43 mins"
+            "time": "179 hrs 53 mins"
         },
         {
             "language": "JavaScript",
-            "time": "1,951 hrs 28 mins"
+            "time": "1,951 hrs 33 mins"
         },
         {
             "language": "Kotlin",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Markdown",
-            "time": "180 hrs 26 mins"
+            "time": "180 hrs 30 mins"
         },
         {
             "language": "PHP",
@@ -76,8 +76,12 @@
             "time": "486 hrs 22 mins"
         },
         {
+            "language": "SQL",
+            "time": "2 hrs 41 mins"
+        },
+        {
             "language": "TSConfig",
-            "time": "2 hrs 50 mins"
+            "time": "2 hrs 52 mins"
         },
         {
             "language": "Text",
@@ -89,7 +93,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "4,660 hrs 17 mins"
+            "time": "4,684 hrs 40 mins"
         },
         {
             "language": "Vue",

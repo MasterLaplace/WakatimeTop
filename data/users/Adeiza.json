@@ -1,7 +1,7 @@
 {
-    "total_time": "6,926 hrs 24 mins",
+    "total_time": "6,955 hrs 55 mins",
     "updated": true,
-    "elo": 6927,
+    "elo": 6956,
     "languages": [
         {
             "language": "Bash",
@@ -21,7 +21,7 @@
         },
         {
             "language": "Dart",
-            "time": "4,741 hrs 10 mins"
+            "time": "4,750 hrs 6 mins"
         },
         {
             "language": "Docker",
@@ -29,15 +29,15 @@
         },
         {
             "language": "Git Config",
-            "time": "13 hrs"
+            "time": "13 hrs 25 mins"
         },
         {
             "language": "Gradle Kotlin DSL",
-            "time": "15 hrs 2 mins"
+            "time": "16 hrs 19 mins"
         },
         {
             "language": "Groovy",
-            "time": "30 hrs 12 mins"
+            "time": "30 hrs 17 mins"
         },
         {
             "language": "HTML",
@@ -49,11 +49,11 @@
         },
         {
             "language": "Java",
-            "time": "11 hrs 10 mins"
+            "time": "20 hrs 5 mins"
         },
         {
             "language": "Java Properties",
-            "time": "3 hrs 46 mins"
+            "time": "4 hrs 59 mins"
         },
         {
             "language": "JavaScript",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Kotlin",
-            "time": "97 hrs 5 mins"
+            "time": "104 hrs 22 mins"
         },
         {
             "language": "Markdown",
@@ -85,7 +85,7 @@
         },
         {
             "language": "TOML",
-            "time": "3 hrs 16 mins"
+            "time": "3 hrs 54 mins"
         },
         {
             "language": "Text",
@@ -97,11 +97,11 @@
         },
         {
             "language": "XML",
-            "time": "35 hrs 42 mins"
+            "time": "35 hrs 51 mins"
         },
         {
             "language": "YAML",
-            "time": "266 hrs 15 mins"
+            "time": "266 hrs 51 mins"
         }
     ]
 }

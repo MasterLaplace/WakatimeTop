@@ -1,27 +1,19 @@
 {
-    "total_time": "23 hrs 13 mins",
+    "total_time": "15 hrs 55 mins",
     "updated": true,
     "elo": 56,
     "languages": [
         {
             "language": "Blade Template",
-            "time": "7 hrs 13 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "6 hrs 6 mins"
+            "time": "4 hrs 19 mins"
         },
         {
             "language": "PHP",
-            "time": "2 hrs 47 mins"
-        },
-        {
-            "language": "Protocol Buffer",
-            "time": "3 hrs 7 mins"
+            "time": "7 hrs 20 mins"
         },
         {
             "language": "TypeScript",
-            "time": "4 hrs"
+            "time": "4 hrs 16 mins"
         }
     ]
 }

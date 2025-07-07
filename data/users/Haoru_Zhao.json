@@ -1,19 +1,15 @@
 {
-    "total_time": "33 hrs 46 mins",
+    "total_time": "25 hrs 48 mins",
     "updated": true,
     "elo": 101,
     "languages": [
         {
             "language": "C++",
-            "time": "9 hrs 33 mins"
+            "time": "18 hrs 4 mins"
         },
         {
             "language": "Cuda",
-            "time": "16 hrs 33 mins"
-        },
-        {
-            "language": "Python",
-            "time": "7 hrs 40 mins"
+            "time": "7 hrs 44 mins"
         }
     ]
 }
