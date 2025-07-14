@@ -1,5 +1,5 @@
 {
-    "total_time": "49 hrs 26 mins",
+    "total_time": "41 hrs 1 mins",
     "updated": true,
     "elo": 50,
     "languages": [
@@ -8,16 +8,24 @@
             "time": "4 hrs 15 mins"
         },
         {
+            "language": "JavaScript",
+            "time": "2 hrs 59 mins"
+        },
+        {
             "language": "PHP",
-            "time": "10 hrs 31 mins"
+            "time": "8 hrs 45 mins"
         },
         {
             "language": "Python",
-            "time": "29 hrs 26 mins"
+            "time": "6 hrs 50 mins"
+        },
+        {
+            "language": "Text",
+            "time": "2 hrs 46 mins"
         },
         {
             "language": "Vue.js",
-            "time": "5 hrs 14 mins"
+            "time": "15 hrs 26 mins"
         }
     ]
 }

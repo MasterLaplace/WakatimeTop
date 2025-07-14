@@ -1,23 +1,27 @@
 {
-    "total_time": "34 hrs 7 mins",
+    "total_time": "57 hrs 30 mins",
     "updated": true,
-    "elo": 80,
+    "elo": 103,
     "languages": [
         {
+            "language": ".env file",
+            "time": "3 hrs"
+        },
+        {
             "language": "PHP",
-            "time": "2 hrs 55 mins"
+            "time": "7 hrs 11 mins"
         },
         {
             "language": "TypeScript",
-            "time": "17 hrs 52 mins"
+            "time": "20 hrs 23 mins"
         },
         {
             "language": "Vue.js",
-            "time": "9 hrs 45 mins"
+            "time": "24 hrs 11 mins"
         },
         {
             "language": "YAML",
-            "time": "3 hrs 35 mins"
+            "time": "2 hrs 45 mins"
         }
     ]
 }

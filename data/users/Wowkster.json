@@ -1,7 +1,7 @@
 {
-    "total_time": "60 hrs 35 mins",
+    "total_time": "66 hrs 46 mins",
     "updated": true,
-    "elo": 106,
+    "elo": 112,
     "languages": [
         {
             "language": "Astro",
@@ -9,7 +9,15 @@
         },
         {
             "language": "Rust",
-            "time": "37 hrs 38 mins"
+            "time": "20 hrs"
+        },
+        {
+            "language": "Svelte",
+            "time": "3 hrs 48 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "20 hrs 1 min"
         },
         {
             "language": "WebGPU Shading Language",

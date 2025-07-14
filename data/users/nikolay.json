@@ -1,7 +1,7 @@
 {
-    "total_time": "3,848 hrs 25 mins",
+    "total_time": "3,925 hrs 17 mins",
     "updated": true,
-    "elo": 3849,
+    "elo": 3926,
     "languages": [
         {
             "language": "Bash",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Go",
-            "time": "784 hrs"
+            "time": "800 hrs 33 mins"
         },
         {
             "language": "Groovy",
@@ -45,7 +45,7 @@
         },
         {
             "language": "HCL",
-            "time": "159 hrs 52 mins"
+            "time": "167 hrs 18 mins"
         },
         {
             "language": "HTML",
@@ -69,7 +69,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "205 hrs 34 mins"
+            "time": "214 hrs 38 mins"
         },
         {
             "language": "Jsonnet",
@@ -101,7 +101,7 @@
         },
         {
             "language": "Mustache",
-            "time": "21 hrs 55 mins"
+            "time": "21 hrs 57 mins"
         },
         {
             "language": "Nix",
@@ -129,7 +129,7 @@
         },
         {
             "language": "Rust",
-            "time": "274 hrs 36 mins"
+            "time": "274 hrs 55 mins"
         },
         {
             "language": "Shell",
@@ -161,15 +161,19 @@
         },
         {
             "language": "Terraform",
-            "time": "444 hrs 16 mins"
+            "time": "450 hrs 34 mins"
         },
         {
             "language": "Text",
             "time": "27 hrs 30 mins"
         },
         {
+            "language": "Tree-sitter Query",
+            "time": "14 hrs 27 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "289 hrs 57 mins"
+            "time": "312 hrs 13 mins"
         },
         {
             "language": "Vala",
@@ -177,7 +181,7 @@
         },
         {
             "language": "YAML",
-            "time": "199 hrs 8 mins"
+            "time": "199 hrs 18 mins"
         },
         {
             "language": "Zig",
@@ -189,7 +193,7 @@
         },
         {
             "language": "terraform",
-            "time": "58 hrs 22 mins"
+            "time": "58 hrs 39 mins"
         }
     ]
 }

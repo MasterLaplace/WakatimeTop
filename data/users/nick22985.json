@@ -1,11 +1,11 @@
 {
-    "total_time": "3,945 hrs 48 mins",
+    "total_time": "3,993 hrs 10 mins",
     "updated": true,
-    "elo": 3946,
+    "elo": 3994,
     "languages": [
         {
             "language": "Bash",
-            "time": "47 hrs 42 mins"
+            "time": "47 hrs 47 mins"
         },
         {
             "language": "C#",
@@ -13,7 +13,7 @@
         },
         {
             "language": "CSS",
-            "time": "11 hrs 56 mins"
+            "time": "11 hrs 57 mins"
         },
         {
             "language": "CSV",
@@ -33,15 +33,15 @@
         },
         {
             "language": "HTML",
-            "time": "79 hrs 24 mins"
+            "time": "79 hrs 28 mins"
         },
         {
             "language": "INI",
-            "time": "4 hrs 38 mins"
+            "time": "4 hrs 39 mins"
         },
         {
             "language": "JSON",
-            "time": "120 hrs 46 mins"
+            "time": "123 hrs 10 mins"
         },
         {
             "language": "Java",
@@ -49,7 +49,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,319 hrs 45 mins"
+            "time": "1,320 hrs 53 mins"
         },
         {
             "language": "Lua",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Markdown",
-            "time": "117 hrs"
+            "time": "118 hrs 58 mins"
         },
         {
             "language": "PowerShell",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Rust",
-            "time": "65 hrs 52 mins"
+            "time": "66 hrs 4 mins"
         },
         {
             "language": "SCSS",
@@ -89,11 +89,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,123 hrs 59 mins"
+            "time": "1,159 hrs 17 mins"
         },
         {
             "language": "Vue.js",
-            "time": "617 hrs 47 mins"
+            "time": "620 hrs 37 mins"
         },
         {
             "language": "XML",
@@ -101,7 +101,11 @@
         },
         {
             "language": "YAML",
-            "time": "38 hrs 54 mins"
+            "time": "39 hrs 6 mins"
+        },
+        {
+            "language": "gitignore",
+            "time": "2 hrs 48 mins"
         },
         {
             "language": "hyprlang",
@@ -113,7 +117,7 @@
         },
         {
             "language": "sh",
-            "time": "14 hrs 34 mins"
+            "time": "14 hrs 55 mins"
         },
         {
             "language": "tmux",

@@ -1,11 +1,11 @@
 {
-    "total_time": "3,510 hrs 43 mins",
+    "total_time": "3,576 hrs 20 mins",
     "updated": true,
-    "elo": 3511,
+    "elo": 3577,
     "languages": [
         {
             "language": "Bash",
-            "time": "95 hrs 14 mins"
+            "time": "96 hrs 54 mins"
         },
         {
             "language": "C#",
@@ -13,7 +13,7 @@
         },
         {
             "language": "CSS",
-            "time": "12 hrs 27 mins"
+            "time": "12 hrs 44 mins"
         },
         {
             "language": "Canva Design",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Git Config",
-            "time": "3 hrs 42 mins"
+            "time": "3 hrs 45 mins"
         },
         {
             "language": "HTML",
@@ -33,23 +33,27 @@
         },
         {
             "language": "JSON",
-            "time": "163 hrs"
+            "time": "171 hrs 43 mins"
         },
         {
             "language": "JavaScript",
-            "time": "23 hrs 48 mins"
+            "time": "23 hrs 55 mins"
         },
         {
             "language": "MDX",
-            "time": "4 hrs 24 mins"
+            "time": "4 hrs 46 mins"
         },
         {
             "language": "Markdown",
-            "time": "35 hrs 56 mins"
+            "time": "36 hrs 49 mins"
         },
         {
             "language": "Prisma",
-            "time": "61 hrs 6 mins"
+            "time": "63 hrs 42 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "3 hrs 1 min"
         },
         {
             "language": "Svelte",
@@ -57,11 +61,15 @@
         },
         {
             "language": "TOML",
-            "time": "6 hrs 40 mins"
+            "time": "6 hrs 41 mins"
+        },
+        {
+            "language": "Text",
+            "time": "2 hrs 40 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,450 hrs 49 mins"
+            "time": "2,496 hrs 3 mins"
         },
         {
             "language": "Vue.js",
