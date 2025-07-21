@@ -1,0 +1,91 @@
+{
+    "total_time": "1,636 hrs 49 mins",
+    "updated": true,
+    "elo": 1637,
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "8 hrs 6 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "6 hrs 34 mins"
+        },
+        {
+            "language": "HCL",
+            "time": "4 hrs 24 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "2 hrs 46 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "17 hrs 47 mins"
+        },
+        {
+            "language": "Java",
+            "time": "65 hrs 46 mins"
+        },
+        {
+            "language": "Jupyter",
+            "time": "3 hrs 34 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "30 hrs 57 mins"
+        },
+        {
+            "language": "Lua",
+            "time": "9 hrs 54 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "3 hrs 9 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "50 hrs 40 mins"
+        },
+        {
+            "language": "Python",
+            "time": "488 hrs 19 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "9 hrs 15 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "64 hrs 16 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "20 hrs 4 mins"
+        },
+        {
+            "language": "Terraform",
+            "time": "63 hrs 26 mins"
+        },
+        {
+            "language": "Text",
+            "time": "3 hrs 17 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "14 hrs 17 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "54 hrs 3 mins"
+        },
+        {
+            "language": "i3config",
+            "time": "4 hrs 29 mins"
+        },
+        {
+            "language": "sh",
+            "time": "711 hrs 46 mins"
+        }
+    ]
+}

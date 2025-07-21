@@ -1,5 +1,5 @@
 {
-    "total_time": "238 hrs 55 mins",
+    "total_time": "189 hrs 12 mins",
     "updated": true,
     "elo": 1165,
     "languages": [
@@ -20,36 +20,20 @@
             "time": "60 hrs 43 mins"
         },
         {
-            "language": "Log",
-            "time": "11 hrs 53 mins"
-        },
-        {
             "language": "Nix",
             "time": "4 hrs 13 mins"
         },
         {
             "language": "PHP",
-            "time": "18 hrs 2 mins"
-        },
-        {
-            "language": "Python",
-            "time": "29 hrs 13 mins"
-        },
-        {
-            "language": "SQL",
-            "time": "5 hrs 55 mins"
-        },
-        {
-            "language": "TOML",
-            "time": "2 hrs 38 mins"
+            "time": "15 hrs 50 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2 hrs 38 mins"
+            "time": "3 hrs 32 mins"
         },
         {
             "language": "Vue.js",
-            "time": "9 hrs 47 mins"
+            "time": "11 hrs 1 min"
         }
     ]
 }

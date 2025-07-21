@@ -1,19 +1,19 @@
 {
-    "total_time": "2,890 hrs",
+    "total_time": "2,906 hrs 45 mins",
     "updated": true,
-    "elo": 2890,
+    "elo": 2907,
     "languages": [
         {
             "language": ".env file",
-            "time": "10 hrs 49 mins"
+            "time": "10 hrs 54 mins"
         },
         {
             "language": "Bash",
-            "time": "19 hrs 57 mins"
+            "time": "20 hrs 39 mins"
         },
         {
             "language": "Blade Template",
-            "time": "476 hrs 42 mins"
+            "time": "477 hrs 25 mins"
         },
         {
             "language": "CSS",
@@ -25,7 +25,7 @@
         },
         {
             "language": "JSON",
-            "time": "10 hrs 45 mins"
+            "time": "10 hrs 52 mins"
         },
         {
             "language": "JavaScript",
@@ -33,7 +33,7 @@
         },
         {
             "language": "PHP",
-            "time": "1,482 hrs"
+            "time": "1,495 hrs 53 mins"
         },
         {
             "language": "Python",
@@ -49,7 +49,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "629 hrs 49 mins"
+            "time": "630 hrs 56 mins"
         },
         {
             "language": "YAML",
@@ -57,7 +57,7 @@
         },
         {
             "language": "textmate",
-            "time": "47 hrs 52 mins"
+            "time": "48 hrs"
         }
     ]
 }

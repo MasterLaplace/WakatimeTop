@@ -1,7 +1,7 @@
 {
-    "total_time": "2,045 hrs 53 mins",
+    "total_time": "2,065 hrs 44 mins",
     "updated": true,
-    "elo": 2046,
+    "elo": 2066,
     "languages": [
         {
             "language": "ASL",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "117 hrs 47 mins"
+            "time": "119 hrs 13 mins"
         },
         {
             "language": "C",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Diff",
-            "time": "10 hrs 12 mins"
+            "time": "10 hrs 13 mins"
         },
         {
             "language": "Docker",
@@ -65,7 +65,7 @@
         },
         {
             "language": "JSON",
-            "time": "165 hrs 10 mins"
+            "time": "166 hrs 11 mins"
         },
         {
             "language": "Java",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Markdown",
-            "time": "52 hrs 11 mins"
+            "time": "52 hrs 23 mins"
         },
         {
             "language": "Objective-C",
@@ -97,7 +97,7 @@
         },
         {
             "language": "Objective-C++",
-            "time": "5 hrs 6 mins"
+            "time": "5 hrs 48 mins"
         },
         {
             "language": "ObjectiveC",
@@ -105,7 +105,7 @@
         },
         {
             "language": "Python",
-            "time": "82 hrs 50 mins"
+            "time": "82 hrs 52 mins"
         },
         {
             "language": "Rust",
@@ -129,15 +129,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,019 hrs 18 mins"
+            "time": "1,035 hrs 6 mins"
         },
         {
             "language": "XML",
-            "time": "14 hrs 41 mins"
+            "time": "15 hrs 19 mins"
         },
         {
             "language": "YAML",
-            "time": "32 hrs 29 mins"
+            "time": "32 hrs 30 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "207 hrs 13 mins",
+    "total_time": "223 hrs 27 mins",
     "updated": true,
-    "elo": 208,
+    "elo": 224,
     "languages": [
         {
             "language": "Go",
@@ -13,7 +13,7 @@
         },
         {
             "language": "JSON",
-            "time": "7 hrs 4 mins"
+            "time": "7 hrs 25 mins"
         },
         {
             "language": "Markdown",
@@ -21,7 +21,7 @@
         },
         {
             "language": "Python",
-            "time": "16 hrs 56 mins"
+            "time": "19 hrs 6 mins"
         },
         {
             "language": "Rust",
@@ -32,12 +32,20 @@
             "time": "3 hrs 18 mins"
         },
         {
+            "language": "Terraform",
+            "time": "7 hrs 50 mins"
+        },
+        {
             "language": "TypeScript",
             "time": "6 hrs 43 mins"
         },
         {
             "language": "YAML",
-            "time": "10 hrs 59 mins"
+            "time": "13 hrs 59 mins"
+        },
+        {
+            "language": "jsonc",
+            "time": "2 hrs 53 mins"
         }
     ]
 }

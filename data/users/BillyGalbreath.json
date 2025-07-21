@@ -1,19 +1,31 @@
 {
-    "total_time": "118 hrs 47 mins",
+    "total_time": "92 hrs 41 mins",
     "updated": true,
     "elo": 178,
     "languages": [
         {
-            "language": "C#",
-            "time": "21 hrs 14 mins"
+            "language": "HTML",
+            "time": "3 hrs 10 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "2 hrs 41 mins"
         },
         {
             "language": "Java",
-            "time": "89 hrs 24 mins"
+            "time": "55 hrs 27 mins"
         },
         {
-            "language": "SCSS",
-            "time": "8 hrs 9 mins"
+            "language": "JavaScript",
+            "time": "3 hrs 10 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "6 hrs 10 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "22 hrs 3 mins"
         }
     ]
 }

@@ -1,23 +1,23 @@
 {
-    "total_time": "64 hrs 6 mins",
+    "total_time": "48 hrs 15 mins",
     "updated": true,
     "elo": 71,
     "languages": [
         {
             "language": "Blade Template",
-            "time": "7 hrs 28 mins"
+            "time": "10 hrs 1 min"
+        },
+        {
+            "language": "Markdown",
+            "time": "2 hrs 33 mins"
         },
         {
             "language": "PHP",
-            "time": "38 hrs 16 mins"
-        },
-        {
-            "language": "SQL",
-            "time": "10 hrs 47 mins"
+            "time": "32 hrs 4 mins"
         },
         {
             "language": "TypeScript",
-            "time": "7 hrs 35 mins"
+            "time": "3 hrs 37 mins"
         }
     ]
 }

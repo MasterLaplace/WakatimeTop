@@ -1,7 +1,7 @@
 {
-    "total_time": "3,453 hrs 59 mins",
+    "total_time": "3,498 hrs 3 mins",
     "updated": true,
-    "elo": 3454,
+    "elo": 3499,
     "languages": [
         {
             "language": ".env file",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "19 hrs 40 mins"
+            "time": "20 hrs 15 mins"
         },
         {
             "language": "C",
@@ -56,8 +56,12 @@
             "time": "6 hrs 13 mins"
         },
         {
+            "language": "Git",
+            "time": "4 hrs 47 mins"
+        },
+        {
             "language": "Git Config",
-            "time": "4 hrs 32 mins"
+            "time": "4 hrs 33 mins"
         },
         {
             "language": "GitIgnore file",
@@ -73,15 +77,15 @@
         },
         {
             "language": "HTTP Request",
-            "time": "45 hrs 22 mins"
+            "time": "46 hrs 51 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "96 hrs 32 mins"
+            "time": "96 hrs 38 mins"
         },
         {
             "language": "JSON",
-            "time": "127 hrs 21 mins"
+            "time": "132 hrs 19 mins"
         },
         {
             "language": "Java",
@@ -89,7 +93,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "373 hrs 15 mins"
+            "time": "374 hrs 9 mins"
         },
         {
             "language": "Makefile",
@@ -97,7 +101,7 @@
         },
         {
             "language": "Markdown",
-            "time": "15 hrs 45 mins"
+            "time": "16 hrs 37 mins"
         },
         {
             "language": "ObjectiveC",
@@ -109,11 +113,11 @@
         },
         {
             "language": "Prisma",
-            "time": "8 hrs 27 mins"
+            "time": "8 hrs 35 mins"
         },
         {
             "language": "Python",
-            "time": "172 hrs 43 mins"
+            "time": "178 hrs 54 mins"
         },
         {
             "language": "SCSS",
@@ -121,7 +125,7 @@
         },
         {
             "language": "SQL",
-            "time": "114 hrs 59 mins"
+            "time": "118 hrs 42 mins"
         },
         {
             "language": "Swift",
@@ -133,7 +137,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,292 hrs 26 mins"
+            "time": "1,312 hrs 36 mins"
         },
         {
             "language": "Vue.js",
@@ -145,7 +149,7 @@
         },
         {
             "language": "YAML",
-            "time": "55 hrs 5 mins"
+            "time": "55 hrs 15 mins"
         }
     ]
 }

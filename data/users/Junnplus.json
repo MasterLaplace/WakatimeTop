@@ -1,11 +1,19 @@
 {
-    "total_time": "41 hrs 33 mins",
+    "total_time": "33 hrs 42 mins",
     "updated": true,
     "elo": 61,
     "languages": [
         {
+            "language": "Bash",
+            "time": "5 hrs 24 mins"
+        },
+        {
+            "language": "Go",
+            "time": "7 hrs 34 mins"
+        },
+        {
             "language": "Rust",
-            "time": "41 hrs 33 mins"
+            "time": "20 hrs 44 mins"
         }
     ]
 }

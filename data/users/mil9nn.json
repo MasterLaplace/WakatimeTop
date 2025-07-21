@@ -1,15 +1,19 @@
 {
-    "total_time": "628 hrs 39 mins",
+    "total_time": "666 hrs 6 mins",
     "updated": true,
-    "elo": 629,
+    "elo": 667,
     "languages": [
         {
             "language": "Bash",
-            "time": "6 hrs 5 mins"
+            "time": "6 hrs 13 mins"
+        },
+        {
+            "language": "C++",
+            "time": "2 hrs 38 mins"
         },
         {
             "language": "CSS",
-            "time": "32 hrs 28 mins"
+            "time": "33 hrs 42 mins"
         },
         {
             "language": "EJS",
@@ -25,11 +29,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "268 hrs 15 mins"
+            "time": "278 hrs 10 mins"
         },
         {
             "language": "TypeScript",
-            "time": "302 hrs 10 mins"
+            "time": "325 hrs 42 mins"
         }
     ]
 }
