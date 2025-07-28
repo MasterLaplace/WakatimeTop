@@ -1,15 +1,23 @@
 {
-    "total_time": "16 hrs 15 mins",
+    "total_time": "27 hrs 19 mins",
     "updated": true,
-    "elo": 58,
+    "elo": 69,
     "languages": [
+        {
+            "language": "C++",
+            "time": "2 hrs 44 mins"
+        },
         {
             "language": "Terraform",
             "time": "12 hrs 8 mins"
         },
         {
             "language": "TypeScript",
-            "time": "4 hrs 7 mins"
+            "time": "8 hrs 51 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 36 mins"
         }
     ]
 }

@@ -1,19 +1,15 @@
 {
-    "total_time": "47 hrs 58 mins",
+    "total_time": "63 hrs 7 mins",
     "updated": true,
-    "elo": 54,
+    "elo": 70,
     "languages": [
         {
             "language": "Lua",
             "time": "5 hrs 6 mins"
         },
         {
-            "language": "Svelte",
-            "time": "4 hrs 19 mins"
-        },
-        {
             "language": "TypeScript",
-            "time": "38 hrs 33 mins"
+            "time": "58 hrs 1 min"
         }
     ]
 }

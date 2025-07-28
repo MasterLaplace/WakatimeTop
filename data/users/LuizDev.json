@@ -1,7 +1,7 @@
 {
-    "total_time": "48 hrs 36 mins",
+    "total_time": "57 hrs 43 mins",
     "updated": true,
-    "elo": 77,
+    "elo": 86,
     "languages": [
         {
             "language": "Java",
@@ -9,15 +9,11 @@
         },
         {
             "language": "Python",
-            "time": "13 hrs 14 mins"
-        },
-        {
-            "language": "SQL",
-            "time": "8 hrs 42 mins"
+            "time": "35 hrs"
         },
         {
             "language": "TypeScript",
-            "time": "18 hrs 38 mins"
+            "time": "14 hrs 41 mins"
         }
     ]
 }

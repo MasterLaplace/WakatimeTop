@@ -1,0 +1,35 @@
+{
+    "total_time": "60 hrs 20 mins",
+    "updated": true,
+    "elo": 61,
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "4 hrs 57 mins"
+        },
+        {
+            "language": "C",
+            "time": "22 hrs 54 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "3 hrs 5 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "2 hrs 47 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "16 hrs 15 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "6 hrs 7 mins"
+        },
+        {
+            "language": "Zsh",
+            "time": "4 hrs 15 mins"
+        }
+    ]
+}

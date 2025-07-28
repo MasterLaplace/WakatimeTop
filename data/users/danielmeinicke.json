@@ -1,15 +1,19 @@
 {
-    "total_time": "5,772 hrs 6 mins",
+    "total_time": "5,791 hrs 22 mins",
     "updated": true,
-    "elo": 5773,
+    "elo": 5792,
     "languages": [
         {
             "language": "C",
-            "time": "13 hrs 18 mins"
+            "time": "15 hrs 44 mins"
         },
         {
             "language": "C++",
             "time": "2 hrs 37 mins"
+        },
+        {
+            "language": "C/C++",
+            "time": "3 hrs 8 mins"
         },
         {
             "language": "CMake",
@@ -29,7 +33,7 @@
         },
         {
             "language": "HTML",
-            "time": "29 hrs 26 mins"
+            "time": "29 hrs 32 mins"
         },
         {
             "language": "Image (svg)",
@@ -41,7 +45,7 @@
         },
         {
             "language": "Java",
-            "time": "5,337 hrs 32 mins"
+            "time": "5,351 hrs 5 mins"
         },
         {
             "language": "Java Properties",
@@ -57,11 +61,11 @@
         },
         {
             "language": "Properties",
-            "time": "3 hrs 10 mins"
+            "time": "3 hrs 11 mins"
         },
         {
             "language": "Text",
-            "time": "129 hrs 13 mins"
+            "time": "129 hrs 15 mins"
         },
         {
             "language": "TypeScript",

@@ -1,23 +1,31 @@
 {
-    "total_time": "56 hrs 22 mins",
+    "total_time": "66 hrs 48 mins",
     "updated": true,
-    "elo": 59,
+    "elo": 69,
     "languages": [
         {
             "language": "Blade Template",
-            "time": "9 hrs 47 mins"
+            "time": "12 hrs 24 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "JavaScript",
-            "time": "21 hrs 30 mins"
+            "time": "28 hrs 17 mins"
         },
         {
             "language": "PHP",
-            "time": "21 hrs 10 mins"
+            "time": "14 hrs 22 mins"
         },
         {
             "language": "Twig",
-            "time": "3 hrs 55 mins"
+            "time": "6 hrs 19 mins"
+        },
+        {
+            "language": "sh",
+            "time": "2 hrs 56 mins"
         }
     ]
 }
