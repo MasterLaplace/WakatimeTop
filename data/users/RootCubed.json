@@ -1,7 +1,7 @@
 {
-    "total_time": "2,707 hrs 22 mins",
+    "total_time": "2,728 hrs 50 mins",
     "updated": true,
-    "elo": 2708,
+    "elo": 2729,
     "languages": [
         {
             "language": "Assembly",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C",
-            "time": "312 hrs 8 mins"
+            "time": "312 hrs 22 mins"
         },
         {
             "language": "C#",
@@ -21,7 +21,7 @@
         },
         {
             "language": "C++",
-            "time": "535 hrs 3 mins"
+            "time": "549 hrs 8 mins"
         },
         {
             "language": "CMake",
@@ -49,7 +49,7 @@
         },
         {
             "language": "JSON",
-            "time": "79 hrs 31 mins"
+            "time": "80 hrs 3 mins"
         },
         {
             "language": "Java",
@@ -57,7 +57,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "190 hrs 52 mins"
+            "time": "191 hrs 18 mins"
         },
         {
             "language": "LLVM",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Markdown",
-            "time": "28 hrs 52 mins"
+            "time": "28 hrs 53 mins"
         },
         {
             "language": "OCaml",
@@ -77,7 +77,7 @@
         },
         {
             "language": "Objective-C",
-            "time": "6 hrs 43 mins"
+            "time": "6 hrs 46 mins"
         },
         {
             "language": "Prisma",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Python",
-            "time": "401 hrs 15 mins"
+            "time": "401 hrs 18 mins"
         },
         {
             "language": "Rust",
@@ -93,7 +93,7 @@
         },
         {
             "language": "Svelte",
-            "time": "172 hrs 57 mins"
+            "time": "172 hrs 59 mins"
         },
         {
             "language": "SystemVerilog",
@@ -109,7 +109,7 @@
         },
         {
             "language": "Text",
-            "time": "159 hrs 48 mins"
+            "time": "163 hrs 42 mins"
         },
         {
             "language": "TypeScript",
@@ -117,7 +117,7 @@
         },
         {
             "language": "Typst",
-            "time": "174 hrs 52 mins"
+            "time": "176 hrs 54 mins"
         },
         {
             "language": "XML",
@@ -125,7 +125,7 @@
         },
         {
             "language": "YAML",
-            "time": "47 hrs 40 mins"
+            "time": "47 hrs 46 mins"
         }
     ]
 }

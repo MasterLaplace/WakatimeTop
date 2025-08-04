@@ -1,7 +1,7 @@
 {
-    "total_time": "1,588 hrs 35 mins",
+    "total_time": "1,636 hrs 43 mins",
     "updated": true,
-    "elo": 1589,
+    "elo": 1637,
     "languages": [
         {
             "language": "AutoHotkey",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "143 hrs 49 mins"
+            "time": "150 hrs 35 mins"
         },
         {
             "language": "Batchfile",
@@ -17,7 +17,7 @@
         },
         {
             "language": "CSS",
-            "time": "67 hrs 7 mins"
+            "time": "67 hrs 20 mins"
         },
         {
             "language": "Docker",
@@ -33,27 +33,27 @@
         },
         {
             "language": "INI",
-            "time": "20 hrs 36 mins"
+            "time": "21 hrs 21 mins"
         },
         {
             "language": "JSON",
-            "time": "114 hrs 36 mins"
+            "time": "116 hrs 11 mins"
         },
         {
             "language": "JavaScript",
-            "time": "22 hrs 21 mins"
+            "time": "22 hrs 35 mins"
         },
         {
             "language": "Lua",
-            "time": "119 hrs 7 mins"
+            "time": "126 hrs 21 mins"
         },
         {
             "language": "Makefile",
-            "time": "7 hrs 2 mins"
+            "time": "7 hrs 30 mins"
         },
         {
             "language": "Markdown",
-            "time": "86 hrs 38 mins"
+            "time": "91 hrs 12 mins"
         },
         {
             "language": "PHP",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Python",
-            "time": "22 hrs 53 mins"
+            "time": "23 hrs 52 mins"
         },
         {
             "language": "SCSS",
@@ -77,7 +77,7 @@
         },
         {
             "language": "TOML",
-            "time": "99 hrs 32 mins"
+            "time": "102 hrs 16 mins"
         },
         {
             "language": "TeX",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Text",
-            "time": "19 hrs 26 mins"
+            "time": "19 hrs 57 mins"
         },
         {
             "language": "TypeScript",
@@ -93,7 +93,7 @@
         },
         {
             "language": "Vim Script",
-            "time": "8 hrs 38 mins"
+            "time": "8 hrs 39 mins"
         },
         {
             "language": "Vue.js",
@@ -101,11 +101,11 @@
         },
         {
             "language": "XML",
-            "time": "7 hrs 23 mins"
+            "time": "10 hrs 5 mins"
         },
         {
             "language": "YAML",
-            "time": "221 hrs 3 mins"
+            "time": "222 hrs 39 mins"
         },
         {
             "language": "cfg",
@@ -113,15 +113,15 @@
         },
         {
             "language": "conf",
-            "time": "84 hrs 30 mins"
+            "time": "87 hrs 50 mins"
         },
         {
             "language": "dircolors",
-            "time": "4 hrs 22 mins"
+            "time": "4 hrs 24 mins"
         },
         {
             "language": "dosini",
-            "time": "7 hrs 51 mins"
+            "time": "9 hrs 26 mins"
         },
         {
             "language": "gitconfig",
@@ -129,11 +129,11 @@
         },
         {
             "language": "gitignore",
-            "time": "7 hrs 58 mins"
+            "time": "8 hrs 16 mins"
         },
         {
             "language": "hyprlang",
-            "time": "133 hrs 37 mins"
+            "time": "137 hrs 29 mins"
         },
         {
             "language": "jsonc",
@@ -141,11 +141,15 @@
         },
         {
             "language": "kitty",
-            "time": "40 hrs 29 mins"
+            "time": "46 hrs 20 mins"
         },
         {
             "language": "sh",
-            "time": "6 hrs 19 mins"
+            "time": "6 hrs 29 mins"
+        },
+        {
+            "language": "sshconfig",
+            "time": "2 hrs 38 mins"
         },
         {
             "language": "tmux",

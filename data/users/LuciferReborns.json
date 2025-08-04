@@ -1,0 +1,39 @@
+{
+    "total_time": "401 hrs 5 mins",
+    "updated": true,
+    "elo": 402,
+    "languages": [
+        {
+            "language": "Dockerfile",
+            "time": "2 hrs 41 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "12 hrs 31 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "18 hrs 5 mins"
+        },
+        {
+            "language": "Python",
+            "time": "277 hrs 3 mins"
+        },
+        {
+            "language": "Text",
+            "time": "20 hrs 5 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "11 hrs 6 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "12 hrs 45 mins"
+        },
+        {
+            "language": "sh",
+            "time": "46 hrs 49 mins"
+        }
+    ]
+}

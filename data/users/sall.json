@@ -1,35 +1,23 @@
 {
-    "total_time": "60 hrs 20 mins",
+    "total_time": "63 hrs 31 mins",
     "updated": true,
-    "elo": 61,
+    "elo": 64,
     "languages": [
         {
-            "language": "Bash",
-            "time": "4 hrs 57 mins"
-        },
-        {
             "language": "C",
-            "time": "22 hrs 54 mins"
+            "time": "40 hrs 50 mins"
         },
         {
             "language": "CMake",
-            "time": "3 hrs 5 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "2 hrs 47 mins"
+            "time": "8 hrs 36 mins"
         },
         {
             "language": "Markdown",
-            "time": "16 hrs 15 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "6 hrs 7 mins"
+            "time": "10 hrs 23 mins"
         },
         {
             "language": "Zsh",
-            "time": "4 hrs 15 mins"
+            "time": "3 hrs 42 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "43 hrs 13 mins",
+    "total_time": "58 hrs 32 mins",
     "updated": true,
-    "elo": 50,
+    "elo": 65,
     "languages": [
         {
             "language": "HOCON",
@@ -9,11 +9,15 @@
         },
         {
             "language": "Java",
-            "time": "2 hrs 40 mins"
+            "time": "13 hrs 39 mins"
         },
         {
             "language": "Kotlin",
-            "time": "37 hrs 34 mins"
+            "time": "39 hrs 10 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 44 mins"
         }
     ]
 }

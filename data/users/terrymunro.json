@@ -1,7 +1,7 @@
 {
-    "total_time": "1,646 hrs 46 mins",
+    "total_time": "1,674 hrs 45 mins",
     "updated": true,
-    "elo": 1647,
+    "elo": 1675,
     "languages": [
         {
             "language": "Bash",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Docker",
-            "time": "7 hrs 1 min"
+            "time": "6 hrs 59 mins"
         },
         {
             "language": "HCL",
-            "time": "4 hrs 25 mins"
+            "time": "4 hrs 33 mins"
         },
         {
             "language": "HTML",
@@ -21,11 +21,11 @@
         },
         {
             "language": "JSON",
-            "time": "18 hrs 32 mins"
+            "time": "19 hrs 30 mins"
         },
         {
             "language": "Java",
-            "time": "63 hrs 19 mins"
+            "time": "60 hrs 9 mins"
         },
         {
             "language": "Jupyter",
@@ -37,31 +37,31 @@
         },
         {
             "language": "Lua",
-            "time": "10 hrs 11 mins"
+            "time": "10 hrs 18 mins"
         },
         {
             "language": "Makefile",
-            "time": "3 hrs 21 mins"
+            "time": "3 hrs 28 mins"
         },
         {
             "language": "Markdown",
-            "time": "53 hrs 47 mins"
+            "time": "58 hrs 20 mins"
         },
         {
             "language": "Python",
-            "time": "479 hrs 1 min"
+            "time": "463 hrs"
         },
         {
             "language": "Rust",
-            "time": "9 hrs 37 mins"
+            "time": "12 hrs 33 mins"
         },
         {
             "language": "SQL",
-            "time": "62 hrs 2 mins"
+            "time": "66 hrs 11 mins"
         },
         {
             "language": "TOML",
-            "time": "18 hrs 49 mins"
+            "time": "20 hrs 32 mins"
         },
         {
             "language": "Terraform",
@@ -73,11 +73,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "14 hrs 22 mins"
+            "time": "17 hrs 47 mins"
         },
         {
             "language": "YAML",
-            "time": "54 hrs 30 mins"
+            "time": "58 hrs 44 mins"
+        },
+        {
+            "language": "conf",
+            "time": "2 hrs 34 mins"
         },
         {
             "language": "i3config",
@@ -85,7 +89,7 @@
         },
         {
             "language": "sh",
-            "time": "733 hrs 31 mins"
+            "time": "755 hrs 49 mins"
         }
     ]
 }

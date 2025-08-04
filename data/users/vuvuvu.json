@@ -1,7 +1,7 @@
 {
-    "total_time": "1,026 hrs 40 mins",
+    "total_time": "1,052 hrs 21 mins",
     "updated": true,
-    "elo": 1027,
+    "elo": 1053,
     "languages": [
         {
             "language": "Astro",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "45 hrs 7 mins"
+            "time": "47 hrs 10 mins"
         },
         {
             "language": "Batchfile",
@@ -21,7 +21,7 @@
         },
         {
             "language": "EJS",
-            "time": "4 hrs 54 mins"
+            "time": "4 hrs 57 mins"
         },
         {
             "language": "Git Config",
@@ -29,31 +29,31 @@
         },
         {
             "language": "HTML",
-            "time": "31 hrs 15 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "66 hrs 19 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "169 hrs 13 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "217 hrs 24 mins"
-        },
-        {
-            "language": "Python",
-            "time": "29 hrs 26 mins"
-        },
-        {
-            "language": "Text",
             "time": "31 hrs 42 mins"
         },
         {
+            "language": "JSON",
+            "time": "69 hrs 21 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "173 hrs 59 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "228 hrs 55 mins"
+        },
+        {
+            "language": "Python",
+            "time": "30 hrs 52 mins"
+        },
+        {
+            "language": "Text",
+            "time": "31 hrs 48 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "13 hrs 48 mins"
+            "time": "15 hrs 47 mins"
         },
         {
             "language": "Vue.js",
@@ -61,11 +61,11 @@
         },
         {
             "language": "YAML",
-            "time": "5 hrs 58 mins"
+            "time": "5 hrs 59 mins"
         },
         {
             "language": "sh",
-            "time": "383 hrs 28 mins"
+            "time": "383 hrs 45 mins"
         }
     ]
 }
