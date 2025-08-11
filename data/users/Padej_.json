@@ -1,27 +1,31 @@
 {
-    "total_time": "541 hrs 33 mins",
+    "total_time": "638 hrs 50 mins",
     "updated": true,
-    "elo": 542,
+    "elo": 639,
     "languages": [
         {
             "language": "CLASS",
-            "time": "2 hrs 51 mins"
+            "time": "3 hrs 44 mins"
         },
         {
             "language": "GLSL shader",
             "time": "7 hrs 18 mins"
         },
         {
+            "language": "Gradle",
+            "time": "2 hrs 53 mins"
+        },
+        {
             "language": "JSON",
-            "time": "26 hrs 21 mins"
+            "time": "28 hrs 50 mins"
         },
         {
             "language": "Java",
-            "time": "430 hrs 39 mins"
+            "time": "511 hrs 49 mins"
         },
         {
             "language": "Java Properties",
-            "time": "2 hrs 44 mins"
+            "time": "5 hrs 31 mins"
         },
         {
             "language": "Kotlin",
@@ -29,7 +33,7 @@
         },
         {
             "language": "Properties",
-            "time": "4 hrs 15 mins"
+            "time": "11 hrs 15 mins"
         },
         {
             "language": "TypeScript",
@@ -37,7 +41,7 @@
         },
         {
             "language": "XML",
-            "time": "6 hrs 30 mins"
+            "time": "6 hrs 35 mins"
         }
     ]
 }

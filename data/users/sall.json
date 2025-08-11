@@ -1,23 +1,27 @@
 {
-    "total_time": "63 hrs 31 mins",
+    "total_time": "47 hrs 5 mins",
     "updated": true,
     "elo": 64,
     "languages": [
         {
+            "language": "Bash",
+            "time": "3 hrs 51 mins"
+        },
+        {
             "language": "C",
-            "time": "40 hrs 50 mins"
+            "time": "26 hrs 34 mins"
         },
         {
             "language": "CMake",
-            "time": "8 hrs 36 mins"
+            "time": "7 hrs 1 min"
         },
         {
             "language": "Markdown",
-            "time": "10 hrs 23 mins"
+            "time": "6 hrs 33 mins"
         },
         {
             "language": "Zsh",
-            "time": "3 hrs 42 mins"
+            "time": "3 hrs 6 mins"
         }
     ]
 }

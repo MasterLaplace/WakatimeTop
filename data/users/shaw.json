@@ -1,15 +1,15 @@
 {
-    "total_time": "1,141 hrs 13 mins",
+    "total_time": "1,174 hrs 36 mins",
     "updated": true,
-    "elo": 1145,
+    "elo": 1178,
     "languages": [
         {
             "language": "Bash",
-            "time": "40 hrs 7 mins"
+            "time": "40 hrs 9 mins"
         },
         {
             "language": "CSS",
-            "time": "4 hrs 12 mins"
+            "time": "4 hrs 15 mins"
         },
         {
             "language": "CSV",
@@ -17,7 +17,11 @@
         },
         {
             "language": "Git Config",
-            "time": "8 hrs 18 mins"
+            "time": "8 hrs 48 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "2 hrs 45 mins"
         },
         {
             "language": "Image (svg)",
@@ -25,23 +29,23 @@
         },
         {
             "language": "JSON",
-            "time": "108 hrs 25 mins"
+            "time": "109 hrs 18 mins"
         },
         {
             "language": "JavaScript",
-            "time": "89 hrs 5 mins"
+            "time": "91 hrs 39 mins"
         },
         {
             "language": "Markdown",
-            "time": "81 hrs 25 mins"
+            "time": "81 hrs 32 mins"
         },
         {
             "language": "Python",
-            "time": "87 hrs 34 mins"
+            "time": "76 hrs 30 mins"
         },
         {
             "language": "Rust",
-            "time": "5 hrs 56 mins"
+            "time": "6 hrs 52 mins"
         },
         {
             "language": "SQL",
@@ -57,19 +61,19 @@
         },
         {
             "language": "TSConfig",
-            "time": "7 hrs 45 mins"
+            "time": "7 hrs 49 mins"
         },
         {
             "language": "Text",
-            "time": "5 hrs 28 mins"
+            "time": "5 hrs 14 mins"
         },
         {
             "language": "TypeScript",
-            "time": "669 hrs 29 mins"
+            "time": "705 hrs 40 mins"
         },
         {
             "language": "YAML",
-            "time": "10 hrs 26 mins"
+            "time": "11 hrs 2 mins"
         }
     ]
 }

@@ -1,23 +1,19 @@
 {
-    "total_time": "47 hrs 57 mins",
+    "total_time": "40 hrs 32 mins",
     "updated": true,
     "elo": 54,
     "languages": [
+        {
+            "language": "Java",
+            "time": "2 hrs 40 mins"
+        },
         {
             "language": "Kotlin",
             "time": "7 hrs 3 mins"
         },
         {
-            "language": "Rust",
-            "time": "8 hrs 39 mins"
-        },
-        {
             "language": "TypeScript",
-            "time": "23 hrs 45 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "8 hrs 30 mins"
+            "time": "30 hrs 49 mins"
         }
     ]
 }
