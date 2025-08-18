@@ -1,23 +1,23 @@
 {
-    "total_time": "58 hrs 14 mins",
+    "total_time": "35 hrs 59 mins",
     "updated": true,
     "elo": 134,
     "languages": [
         {
+            "language": "Batchfile",
+            "time": "6 hrs 27 mins"
+        },
+        {
             "language": "C",
-            "time": "2 hrs 46 mins"
+            "time": "3 hrs 38 mins"
         },
         {
             "language": "C++",
-            "time": "49 hrs 53 mins"
+            "time": "20 hrs 1 min"
         },
         {
             "language": "Markdown",
-            "time": "2 hrs 45 mins"
-        },
-        {
-            "language": "XML",
-            "time": "2 hrs 50 mins"
+            "time": "5 hrs 53 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "41 hrs 1 mins",
+    "total_time": "42 hrs 39 mins",
     "updated": true,
-    "elo": 76,
+    "elo": 77,
     "languages": [
         {
             "language": "Docker",
@@ -9,7 +9,11 @@
         },
         {
             "language": "Kotlin",
-            "time": "35 hrs 59 mins"
+            "time": "29 hrs 18 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "8 hrs 19 mins"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "total_time": "1,666 hrs 21 mins",
+    "total_time": "1,655 hrs 19 mins",
     "updated": true,
     "elo": 1675,
     "languages": [
         {
             "language": "Bash",
-            "time": "7 hrs 30 mins"
+            "time": "7 hrs 31 mins"
         },
         {
             "language": "Docker",
-            "time": "6 hrs 57 mins"
+            "time": "5 hrs 41 mins"
         },
         {
             "language": "HCL",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Java",
-            "time": "59 hrs 57 mins"
+            "time": "53 hrs 6 mins"
         },
         {
             "language": "Jupyter",
@@ -37,19 +37,19 @@
         },
         {
             "language": "Lua",
-            "time": "10 hrs 23 mins"
+            "time": "10 hrs 25 mins"
         },
         {
             "language": "Makefile",
-            "time": "3 hrs 36 mins"
+            "time": "3 hrs 48 mins"
         },
         {
             "language": "Markdown",
-            "time": "60 hrs 45 mins"
+            "time": "61 hrs"
         },
         {
             "language": "Python",
-            "time": "437 hrs 7 mins"
+            "time": "436 hrs 25 mins"
         },
         {
             "language": "Rust",
@@ -57,15 +57,15 @@
         },
         {
             "language": "SQL",
-            "time": "65 hrs 52 mins"
+            "time": "66 hrs 30 mins"
         },
         {
             "language": "TOML",
-            "time": "19 hrs 31 mins"
+            "time": "18 hrs 26 mins"
         },
         {
             "language": "Terraform",
-            "time": "60 hrs 31 mins"
+            "time": "60 hrs 11 mins"
         },
         {
             "language": "Text",
@@ -73,11 +73,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "18 hrs 26 mins"
+            "time": "19 hrs 47 mins"
         },
         {
             "language": "YAML",
-            "time": "57 hrs 37 mins"
+            "time": "56 hrs 3 mins"
         },
         {
             "language": "conf",
@@ -89,7 +89,7 @@
         },
         {
             "language": "sh",
-            "time": "773 hrs 2 mins"
+            "time": "771 hrs 19 mins"
         }
     ]
 }

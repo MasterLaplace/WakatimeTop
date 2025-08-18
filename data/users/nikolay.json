@@ -1,7 +1,7 @@
 {
-    "total_time": "4,105 hrs 34 mins",
+    "total_time": "4,188 hrs 42 mins",
     "updated": true,
-    "elo": 4106,
+    "elo": 4189,
     "languages": [
         {
             "language": "Bash",
@@ -9,15 +9,15 @@
         },
         {
             "language": "C",
-            "time": "64 hrs 31 mins"
+            "time": "66 hrs 39 mins"
         },
         {
             "language": "C#",
-            "time": "26 hrs 8 mins"
+            "time": "26 hrs 55 mins"
         },
         {
             "language": "C++",
-            "time": "65 hrs 31 mins"
+            "time": "66 hrs 9 mins"
         },
         {
             "language": "Cuda",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Go",
-            "time": "815 hrs 11 mins"
+            "time": "842 hrs 1 min"
         },
         {
             "language": "Groovy",
@@ -45,11 +45,11 @@
         },
         {
             "language": "HCL",
-            "time": "201 hrs 33 mins"
+            "time": "204 hrs 20 mins"
         },
         {
             "language": "HTML",
-            "time": "35 hrs 6 mins"
+            "time": "38 hrs 17 mins"
         },
         {
             "language": "Haskell",
@@ -65,11 +65,11 @@
         },
         {
             "language": "Java",
-            "time": "46 hrs 44 mins"
+            "time": "46 hrs 52 mins"
         },
         {
             "language": "JavaScript",
-            "time": "216 hrs 43 mins"
+            "time": "223 hrs 55 mins"
         },
         {
             "language": "Jsonnet",
@@ -81,7 +81,7 @@
         },
         {
             "language": "Jupyter Notebook",
-            "time": "10 hrs 25 mins"
+            "time": "12 hrs 8 mins"
         },
         {
             "language": "Kotlin",
@@ -101,11 +101,11 @@
         },
         {
             "language": "Mustache",
-            "time": "22 hrs 19 mins"
+            "time": "22 hrs 48 mins"
         },
         {
             "language": "Nix",
-            "time": "33 hrs 57 mins"
+            "time": "33 hrs 59 mins"
         },
         {
             "language": "PHP",
@@ -121,7 +121,7 @@
         },
         {
             "language": "Python",
-            "time": "360 hrs 36 mins"
+            "time": "369 hrs 4 mins"
         },
         {
             "language": "Ruby",
@@ -129,15 +129,15 @@
         },
         {
             "language": "Rust",
-            "time": "298 hrs 55 mins"
+            "time": "301 hrs 15 mins"
         },
         {
             "language": "Shell",
-            "time": "52 hrs 2 mins"
+            "time": "54 hrs 11 mins"
         },
         {
             "language": "Smarty",
-            "time": "15 hrs 33 mins"
+            "time": "15 hrs 51 mins"
         },
         {
             "language": "Starlark",
@@ -149,7 +149,7 @@
         },
         {
             "language": "Swift",
-            "time": "71 hrs 43 mins"
+            "time": "72 hrs"
         },
         {
             "language": "TOML",
@@ -161,11 +161,11 @@
         },
         {
             "language": "Terraform",
-            "time": "463 hrs 32 mins"
+            "time": "464 hrs 9 mins"
         },
         {
             "language": "Text",
-            "time": "27 hrs 30 mins"
+            "time": "27 hrs 31 mins"
         },
         {
             "language": "Tree-sitter Query",
@@ -173,7 +173,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "328 hrs 56 mins"
+            "time": "340 hrs 13 mins"
         },
         {
             "language": "Vala",
@@ -181,11 +181,11 @@
         },
         {
             "language": "YAML",
-            "time": "210 hrs 40 mins"
+            "time": "218 hrs 56 mins"
         },
         {
             "language": "Zig",
-            "time": "45 hrs 19 mins"
+            "time": "46 hrs 47 mins"
         },
         {
             "language": "jsonc",
@@ -193,7 +193,7 @@
         },
         {
             "language": "terraform",
-            "time": "75 hrs 13 mins"
+            "time": "77 hrs 15 mins"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "total_time": "4,002 hrs 40 mins",
+    "total_time": "4,039 hrs 24 mins",
     "updated": true,
-    "elo": 4003,
+    "elo": 4040,
     "languages": [
         {
             "language": "Bash",
-            "time": "67 hrs 56 mins"
+            "time": "68 hrs 5 mins"
         },
         {
             "language": "CSS",
@@ -17,11 +17,11 @@
         },
         {
             "language": "Git Config",
-            "time": "5 hrs 12 mins"
+            "time": "5 hrs 47 mins"
         },
         {
             "language": "Go",
-            "time": "14 hrs 38 mins"
+            "time": "15 hrs 1 min"
         },
         {
             "language": "GraphQL",
@@ -29,15 +29,15 @@
         },
         {
             "language": "Groovy",
-            "time": "14 hrs 28 mins"
+            "time": "14 hrs 38 mins"
         },
         {
             "language": "HTML",
-            "time": "19 hrs 4 mins"
+            "time": "19 hrs 5 mins"
         },
         {
             "language": "JSON",
-            "time": "348 hrs 29 mins"
+            "time": "352 hrs 30 mins"
         },
         {
             "language": "Java",
@@ -45,11 +45,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,160 hrs 16 mins"
+            "time": "1,160 hrs 29 mins"
         },
         {
             "language": "Kotlin",
-            "time": "26 hrs 23 mins"
+            "time": "26 hrs 27 mins"
         },
         {
             "language": "MDX",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Markdown",
-            "time": "97 hrs 54 mins"
+            "time": "104 hrs 14 mins"
         },
         {
             "language": "Pug",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Python",
-            "time": "14 hrs 48 mins"
+            "time": "14 hrs 54 mins"
         },
         {
             "language": "SCSS",
@@ -88,12 +88,16 @@
             "time": "11 hrs 35 mins"
         },
         {
+            "language": "Terraform",
+            "time": "5 hrs 40 mins"
+        },
+        {
             "language": "Text Template",
             "time": "14 hrs 15 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,854 hrs 1 min"
+            "time": "1,871 hrs"
         },
         {
             "language": "Velocity",
@@ -105,11 +109,11 @@
         },
         {
             "language": "XML",
-            "time": "4 hrs 35 mins"
+            "time": "4 hrs 41 mins"
         },
         {
             "language": "YAML",
-            "time": "159 hrs 42 mins"
+            "time": "161 hrs 39 mins"
         }
     ]
 }

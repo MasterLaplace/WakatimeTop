@@ -1,7 +1,7 @@
 {
-    "total_time": "3,914 hrs 48 mins",
+    "total_time": "3,937 hrs 55 mins",
     "updated": true,
-    "elo": 3915,
+    "elo": 3938,
     "languages": [
         {
             "language": ".env file",
@@ -9,7 +9,11 @@
         },
         {
             "language": "Bash",
-            "time": "75 hrs 44 mins"
+            "time": "76 hrs 5 mins"
+        },
+        {
+            "language": "C",
+            "time": "5 hrs 42 mins"
         },
         {
             "language": "CSS",
@@ -17,15 +21,15 @@
         },
         {
             "language": "Docker",
-            "time": "5 hrs 32 mins"
+            "time": "5 hrs 34 mins"
         },
         {
             "language": "Git Config",
-            "time": "6 hrs 37 mins"
+            "time": "6 hrs 39 mins"
         },
         {
             "language": "Go",
-            "time": "9 hrs 15 mins"
+            "time": "13 hrs 52 mins"
         },
         {
             "language": "HTML",
@@ -33,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "98 hrs 56 mins"
+            "time": "99 hrs 16 mins"
         },
         {
             "language": "Java",
@@ -41,11 +45,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "66 hrs 29 mins"
+            "time": "66 hrs 31 mins"
         },
         {
             "language": "Markdown",
-            "time": "6 hrs 29 mins"
+            "time": "6 hrs 32 mins"
         },
         {
             "language": "Prisma",
@@ -53,7 +57,7 @@
         },
         {
             "language": "Python",
-            "time": "8 hrs 34 mins"
+            "time": "8 hrs 54 mins"
         },
         {
             "language": "SCSS",
@@ -69,7 +73,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "3,207 hrs 26 mins"
+            "time": "3,218 hrs 58 mins"
         },
         {
             "language": "Vue.js",
@@ -81,7 +85,7 @@
         },
         {
             "language": "YAML",
-            "time": "31 hrs 38 mins"
+            "time": "31 hrs 44 mins"
         }
     ]
 }
