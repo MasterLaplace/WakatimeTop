@@ -1,7 +1,7 @@
 {
-    "total_time": "2,574 hrs 41 mins",
+    "total_time": "2,605 hrs 40 mins",
     "updated": true,
-    "elo": 2575,
+    "elo": 2606,
     "languages": [
         {
             "language": ".env file",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "17 hrs 58 mins"
+            "time": "18 hrs 16 mins"
         },
         {
             "language": "CSV/TSV",
@@ -17,11 +17,11 @@
         },
         {
             "language": "Docker",
-            "time": "14 hrs 29 mins"
+            "time": "15 hrs 4 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "6 hrs 7 mins"
+            "time": "6 hrs 10 mins"
         },
         {
             "language": "Go",
@@ -36,12 +36,16 @@
             "time": "11 hrs 59 mins"
         },
         {
+            "language": "INI",
+            "time": "2 hrs 34 mins"
+        },
+        {
             "language": "JSON",
-            "time": "32 hrs 37 mins"
+            "time": "32 hrs 45 mins"
         },
         {
             "language": "JavaScript",
-            "time": "7 hrs 49 mins"
+            "time": "7 hrs 50 mins"
         },
         {
             "language": "Jupyter",
@@ -53,15 +57,15 @@
         },
         {
             "language": "Markdown",
-            "time": "19 hrs 34 mins"
+            "time": "20 hrs 8 mins"
         },
         {
             "language": "Python",
-            "time": "2,067 hrs 52 mins"
+            "time": "2,087 hrs 7 mins"
         },
         {
             "language": "SQL",
-            "time": "146 hrs 31 mins"
+            "time": "146 hrs 39 mins"
         },
         {
             "language": "Smarty",
@@ -73,19 +77,19 @@
         },
         {
             "language": "TOML",
-            "time": "9 hrs 38 mins"
+            "time": "9 hrs 46 mins"
         },
         {
             "language": "Text",
-            "time": "78 hrs"
+            "time": "79 hrs 53 mins"
         },
         {
             "language": "TypeScript",
-            "time": "25 hrs 57 mins"
+            "time": "28 hrs"
         },
         {
             "language": "YAML",
-            "time": "64 hrs 7 mins"
+            "time": "67 hrs 18 mins"
         },
         {
             "language": "requirements.txt",
@@ -93,7 +97,7 @@
         },
         {
             "language": "textmate",
-            "time": "17 hrs 44 mins"
+            "time": "17 hrs 52 mins"
         }
     ]
 }

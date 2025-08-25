@@ -1,6 +1,6 @@
 {
-    "total_time": "815 hrs 35 mins",
-    "updated": false,
+    "total_time": "395 hrs 40 mins",
+    "updated": true,
     "elo": 802,
     "languages": [
         {
@@ -13,11 +13,7 @@
         },
         {
             "language": "HTML",
-            "time": "93 hrs 12 mins"
-        },
-        {
-            "language": "HTTP Request",
-            "time": "9 hrs 36 mins"
+            "time": "2 hrs 38 mins"
         },
         {
             "language": "Image (svg)",
@@ -28,8 +24,12 @@
             "time": "9 hrs 43 mins"
         },
         {
+            "language": "JSX",
+            "time": "22 hrs 6 mins"
+        },
+        {
             "language": "JavaScript",
-            "time": "369 hrs 40 mins"
+            "time": "27 hrs 49 mins"
         },
         {
             "language": "Markdown",

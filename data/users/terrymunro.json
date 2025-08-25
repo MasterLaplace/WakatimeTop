@@ -1,5 +1,5 @@
 {
-    "total_time": "1,655 hrs 19 mins",
+    "total_time": "1,619 hrs 39 mins",
     "updated": true,
     "elo": 1675,
     "languages": [
@@ -9,7 +9,7 @@
         },
         {
             "language": "Docker",
-            "time": "5 hrs 41 mins"
+            "time": "4 hrs 53 mins"
         },
         {
             "language": "HCL",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Java",
-            "time": "53 hrs 6 mins"
+            "time": "53 hrs 2 mins"
         },
         {
             "language": "Jupyter",
@@ -45,11 +45,11 @@
         },
         {
             "language": "Markdown",
-            "time": "61 hrs"
+            "time": "60 hrs 52 mins"
         },
         {
             "language": "Python",
-            "time": "436 hrs 25 mins"
+            "time": "428 hrs 19 mins"
         },
         {
             "language": "Rust",
@@ -57,19 +57,19 @@
         },
         {
             "language": "SQL",
-            "time": "66 hrs 30 mins"
+            "time": "66 hrs 20 mins"
         },
         {
             "language": "TOML",
-            "time": "18 hrs 26 mins"
+            "time": "16 hrs 52 mins"
         },
         {
             "language": "Terraform",
-            "time": "60 hrs 11 mins"
+            "time": "58 hrs 42 mins"
         },
         {
             "language": "Text",
-            "time": "3 hrs 16 mins"
+            "time": "3 hrs 15 mins"
         },
         {
             "language": "TypeScript",
@@ -77,7 +77,7 @@
         },
         {
             "language": "YAML",
-            "time": "56 hrs 3 mins"
+            "time": "53 hrs 15 mins"
         },
         {
             "language": "conf",
@@ -89,7 +89,7 @@
         },
         {
             "language": "sh",
-            "time": "771 hrs 19 mins"
+            "time": "750 hrs 47 mins"
         }
     ]
 }

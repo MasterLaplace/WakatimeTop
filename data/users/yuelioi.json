@@ -1,7 +1,7 @@
 {
-    "total_time": "1,119 hrs 40 mins",
+    "total_time": "1,148 hrs 31 mins",
     "updated": true,
-    "elo": 1120,
+    "elo": 1149,
     "languages": [
         {
             "language": "Astro",
@@ -12,8 +12,12 @@
             "time": "7 hrs 14 mins"
         },
         {
+            "language": "C++",
+            "time": "2 hrs 36 mins"
+        },
+        {
             "language": "CSS",
-            "time": "10 hrs 39 mins"
+            "time": "10 hrs 46 mins"
         },
         {
             "language": "Dart",
@@ -25,7 +29,7 @@
         },
         {
             "language": "Go",
-            "time": "289 hrs 25 mins"
+            "time": "290 hrs 22 mins"
         },
         {
             "language": "HTML",
@@ -33,19 +37,19 @@
         },
         {
             "language": "JSON",
-            "time": "38 hrs 7 mins"
+            "time": "39 hrs 15 mins"
         },
         {
             "language": "JavaScript",
-            "time": "74 hrs 12 mins"
+            "time": "74 hrs 34 mins"
         },
         {
             "language": "Markdown",
-            "time": "25 hrs 1 min"
+            "time": "25 hrs 5 mins"
         },
         {
             "language": "Protocol Buffer",
-            "time": "8 hrs 2 mins"
+            "time": "8 hrs 17 mins"
         },
         {
             "language": "Python",
@@ -53,15 +57,15 @@
         },
         {
             "language": "Rust",
-            "time": "46 hrs 11 mins"
+            "time": "66 hrs 51 mins"
         },
         {
             "language": "TOML",
-            "time": "5 hrs 14 mins"
+            "time": "5 hrs 36 mins"
         },
         {
             "language": "TSConfig",
-            "time": "6 hrs 2 mins"
+            "time": "6 hrs 6 mins"
         },
         {
             "language": "Text",
@@ -69,15 +73,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "153 hrs 26 mins"
+            "time": "153 hrs 45 mins"
         },
         {
             "language": "Vue.js",
-            "time": "147 hrs 56 mins"
+            "time": "149 hrs 40 mins"
         },
         {
             "language": "YAML",
-            "time": "10 hrs 54 mins"
+            "time": "11 hrs 7 mins"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "total_time": "989 hrs 32 mins",
+    "total_time": "1,002 hrs 54 mins",
     "updated": true,
-    "elo": 1117,
+    "elo": 1130,
     "languages": [
         {
             "language": "Bash",
-            "time": "35 hrs 15 mins"
+            "time": "35 hrs 13 mins"
         },
         {
             "language": "C++",
-            "time": "20 hrs 16 mins"
+            "time": "21 hrs 11 mins"
         },
         {
             "language": "CMake",
@@ -25,7 +25,7 @@
         },
         {
             "language": "FunC",
-            "time": "46 hrs 51 mins"
+            "time": "46 hrs 40 mins"
         },
         {
             "language": "Gherkin",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Go",
-            "time": "16 hrs 23 mins"
+            "time": "16 hrs 5 mins"
         },
         {
             "language": "HTML",
@@ -41,19 +41,19 @@
         },
         {
             "language": "HTTP",
-            "time": "6 hrs 36 mins"
+            "time": "6 hrs 38 mins"
         },
         {
             "language": "JSON",
-            "time": "51 hrs 33 mins"
+            "time": "50 hrs 20 mins"
         },
         {
             "language": "JavaScript",
-            "time": "39 hrs 16 mins"
+            "time": "37 hrs 12 mins"
         },
         {
             "language": "JavaScript Testing Snapshot",
-            "time": "3 hrs 5 mins"
+            "time": "3 hrs 6 mins"
         },
         {
             "language": "Makefile",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Markdown",
-            "time": "90 hrs 37 mins"
+            "time": "89 hrs 38 mins"
         },
         {
             "language": "Nix",
@@ -69,11 +69,11 @@
         },
         {
             "language": "Python",
-            "time": "60 hrs 46 mins"
+            "time": "60 hrs 45 mins"
         },
         {
             "language": "Rust",
-            "time": "54 hrs 10 mins"
+            "time": "54 hrs 45 mins"
         },
         {
             "language": "Solidity",
@@ -81,7 +81,7 @@
         },
         {
             "language": "TL-B",
-            "time": "33 hrs 48 mins"
+            "time": "35 hrs 29 mins"
         },
         {
             "language": "TLB",
@@ -89,7 +89,7 @@
         },
         {
             "language": "TOML",
-            "time": "8 hrs 57 mins"
+            "time": "8 hrs 58 mins"
         },
         {
             "language": "TVM-Solidity",
@@ -97,11 +97,11 @@
         },
         {
             "language": "Text",
-            "time": "11 hrs 42 mins"
+            "time": "11 hrs 37 mins"
         },
         {
             "language": "TypeScript",
-            "time": "392 hrs 43 mins"
+            "time": "407 hrs 8 mins"
         },
         {
             "language": "UML",
@@ -113,11 +113,11 @@
         },
         {
             "language": "YAML",
-            "time": "38 hrs 42 mins"
+            "time": "39 hrs 20 mins"
         },
         {
             "language": "textmate",
-            "time": "5 hrs 3 mins"
+            "time": "5 hrs"
         },
         {
             "language": "wit",

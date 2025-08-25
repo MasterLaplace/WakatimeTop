@@ -1,11 +1,11 @@
 {
-    "total_time": "573 hrs 41 mins",
+    "total_time": "611 hrs 15 mins",
     "updated": true,
-    "elo": 574,
+    "elo": 612,
     "languages": [
         {
             "language": "Bash",
-            "time": "10 hrs 53 mins"
+            "time": "12 hrs 51 mins"
         },
         {
             "language": "C#",
@@ -13,7 +13,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "3 hrs 9 mins"
+            "time": "3 hrs 36 mins"
         },
         {
             "language": "Go",
@@ -21,7 +21,7 @@
         },
         {
             "language": "HTML",
-            "time": "4 hrs 24 mins"
+            "time": "4 hrs 26 mins"
         },
         {
             "language": "INI",
@@ -29,19 +29,19 @@
         },
         {
             "language": "JSON",
-            "time": "41 hrs 39 mins"
+            "time": "43 hrs 7 mins"
         },
         {
             "language": "JavaScript",
-            "time": "13 hrs 34 mins"
+            "time": "14 hrs 9 mins"
         },
         {
             "language": "Markdown",
-            "time": "62 hrs 43 mins"
+            "time": "67 hrs 56 mins"
         },
         {
             "language": "Python",
-            "time": "179 hrs 33 mins"
+            "time": "182 hrs 46 mins"
         },
         {
             "language": "Sketch Drawing",
@@ -49,11 +49,11 @@
         },
         {
             "language": "Text",
-            "time": "14 hrs 32 mins"
+            "time": "15 hrs 25 mins"
         },
         {
             "language": "TypeScript",
-            "time": "12 hrs"
+            "time": "29 hrs 23 mins"
         },
         {
             "language": "XML",
@@ -61,7 +61,11 @@
         },
         {
             "language": "YAML",
-            "time": "20 hrs 29 mins"
+            "time": "22 hrs 30 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "4 hrs 21 mins"
         }
     ]
 }

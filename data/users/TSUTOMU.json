@@ -1,11 +1,11 @@
 {
-    "total_time": "44 hrs 41 mins",
+    "total_time": "72 hrs 6 mins",
     "updated": true,
-    "elo": 113,
+    "elo": 141,
     "languages": [
         {
-            "language": "Docker",
-            "time": "8 hrs 18 mins"
+            "language": "Git Config",
+            "time": "7 hrs 22 mins"
         },
         {
             "language": "Go",
@@ -16,12 +16,20 @@
             "time": "3 hrs 44 mins"
         },
         {
+            "language": "JSON",
+            "time": "7 hrs 12 mins"
+        },
+        {
             "language": "Markdown",
-            "time": "4 hrs 36 mins"
+            "time": "12 hrs 15 mins"
         },
         {
             "language": "TypeScript",
-            "time": "21 hrs 28 mins"
+            "time": "30 hrs 17 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 41 mins"
         }
     ]
 }

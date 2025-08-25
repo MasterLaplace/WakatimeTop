@@ -1,23 +1,23 @@
 {
-    "total_time": "626 hrs 11 mins",
+    "total_time": "649 hrs 41 mins",
     "updated": true,
-    "elo": 682,
+    "elo": 705,
     "languages": [
         {
             "language": "Bash",
-            "time": "3 hrs 47 mins"
+            "time": "3 hrs 50 mins"
         },
         {
             "language": "C",
-            "time": "10 hrs 57 mins"
+            "time": "10 hrs 59 mins"
         },
         {
             "language": "C++",
-            "time": "543 hrs 20 mins"
+            "time": "564 hrs 5 mins"
         },
         {
             "language": "CMake",
-            "time": "30 hrs 3 mins"
+            "time": "31 hrs 24 mins"
         },
         {
             "language": "GLSL",
@@ -33,11 +33,11 @@
         },
         {
             "language": "Lua",
-            "time": "4 hrs 2 mins"
+            "time": "5 hrs 20 mins"
         },
         {
             "language": "conf",
-            "time": "4 hrs 27 mins"
+            "time": "4 hrs 28 mins"
         }
     ]
 }

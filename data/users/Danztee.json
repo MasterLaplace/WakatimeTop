@@ -1,7 +1,7 @@
 {
-    "total_time": "3,937 hrs 55 mins",
+    "total_time": "3,975 hrs 49 mins",
     "updated": true,
-    "elo": 3938,
+    "elo": 3976,
     "languages": [
         {
             "language": ".env file",
@@ -9,15 +9,15 @@
         },
         {
             "language": "Bash",
-            "time": "76 hrs 5 mins"
+            "time": "76 hrs 39 mins"
         },
         {
             "language": "C",
-            "time": "5 hrs 42 mins"
+            "time": "6 hrs 45 mins"
         },
         {
             "language": "CSS",
-            "time": "74 hrs 17 mins"
+            "time": "74 hrs 20 mins"
         },
         {
             "language": "Docker",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Git Config",
-            "time": "6 hrs 39 mins"
+            "time": "6 hrs 42 mins"
         },
         {
             "language": "Go",
@@ -37,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "99 hrs 16 mins"
+            "time": "100 hrs 50 mins"
         },
         {
             "language": "Java",
@@ -45,11 +45,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "66 hrs 31 mins"
+            "time": "66 hrs 56 mins"
         },
         {
             "language": "Markdown",
-            "time": "6 hrs 32 mins"
+            "time": "6 hrs 48 mins"
         },
         {
             "language": "Prisma",
@@ -65,15 +65,15 @@
         },
         {
             "language": "SQL",
-            "time": "12 hrs 48 mins"
+            "time": "12 hrs 49 mins"
         },
         {
             "language": "TSConfig",
-            "time": "4 hrs 25 mins"
+            "time": "4 hrs 26 mins"
         },
         {
             "language": "TypeScript",
-            "time": "3,218 hrs 58 mins"
+            "time": "3,252 hrs 36 mins"
         },
         {
             "language": "Vue.js",
@@ -85,7 +85,7 @@
         },
         {
             "language": "YAML",
-            "time": "31 hrs 44 mins"
+            "time": "32 hrs"
         }
     ]
 }
