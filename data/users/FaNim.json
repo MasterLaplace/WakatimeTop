@@ -1,15 +1,19 @@
 {
-    "total_time": "14 hrs 47 mins",
+    "total_time": "26 hrs 52 mins",
     "updated": true,
-    "elo": 82,
+    "elo": 94,
     "languages": [
         {
             "language": "C#",
-            "time": "11 hrs 54 mins"
+            "time": "19 hrs 42 mins"
         },
         {
             "language": "Python",
             "time": "2 hrs 53 mins"
+        },
+        {
+            "language": "XAML",
+            "time": "4 hrs 17 mins"
         }
     ]
 }

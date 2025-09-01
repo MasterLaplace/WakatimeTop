@@ -1,11 +1,15 @@
 {
-    "total_time": "4 hrs 31 mins",
+    "total_time": "7 hrs 59 mins",
     "updated": true,
-    "elo": 117,
+    "elo": 120,
     "languages": [
         {
+            "language": "Nix",
+            "time": "5 hrs 5 mins"
+        },
+        {
             "language": "Ruby",
-            "time": "4 hrs 31 mins"
+            "time": "2 hrs 54 mins"
         }
     ]
 }

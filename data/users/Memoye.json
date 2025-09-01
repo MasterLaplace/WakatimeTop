@@ -1,19 +1,23 @@
 {
-    "total_time": "2,667 hrs 54 mins",
+    "total_time": "2,718 hrs 29 mins",
     "updated": true,
-    "elo": 2668,
+    "elo": 2719,
     "languages": [
+        {
+            "language": ".env file",
+            "time": "2 hrs 40 mins"
+        },
         {
             "language": "Astro",
             "time": "15 hrs 17 mins"
         },
         {
             "language": "Bash",
-            "time": "5 hrs 18 mins"
+            "time": "6 hrs 40 mins"
         },
         {
             "language": "CSS",
-            "time": "53 hrs 7 mins"
+            "time": "53 hrs 17 mins"
         },
         {
             "language": "Dart",
@@ -21,19 +25,19 @@
         },
         {
             "language": "HTML",
-            "time": "20 hrs 47 mins"
+            "time": "20 hrs 50 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "6 hrs 56 mins"
+            "time": "6 hrs 57 mins"
         },
         {
             "language": "JSON",
-            "time": "31 hrs 36 mins"
+            "time": "32 hrs 4 mins"
         },
         {
             "language": "JavaScript",
-            "time": "1,003 hrs 34 mins"
+            "time": "1,003 hrs 47 mins"
         },
         {
             "language": "Markdown",
@@ -49,11 +53,11 @@
         },
         {
             "language": "TSConfig",
-            "time": "3 hrs 21 mins"
+            "time": "3 hrs 22 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,482 hrs 23 mins"
+            "time": "1,528 hrs"
         }
     ]
 }

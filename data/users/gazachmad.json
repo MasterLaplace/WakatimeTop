@@ -1,15 +1,23 @@
 {
-    "total_time": "25 hrs 5 mins",
+    "total_time": "39 hrs 13 mins",
     "updated": true,
-    "elo": 68,
+    "elo": 82,
     "languages": [
         {
+            "language": "Bash",
+            "time": "3 hrs 34 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "2 hrs 56 mins"
+        },
+        {
             "language": "PHP",
-            "time": "13 hrs 11 mins"
+            "time": "15 hrs 5 mins"
         },
         {
             "language": "TypeScript",
-            "time": "11 hrs 54 mins"
+            "time": "17 hrs 38 mins"
         }
     ]
 }

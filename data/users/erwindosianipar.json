@@ -1,7 +1,7 @@
 {
-    "total_time": "1,235 hrs 59 mins",
+    "total_time": "1,239 hrs 54 mins",
     "updated": true,
-    "elo": 1236,
+    "elo": 1240,
     "languages": [
         {
             "language": "Bash",
@@ -13,7 +13,7 @@
         },
         {
             "language": "CocoaPods",
-            "time": "2 hrs 32 mins"
+            "time": "3 hrs 3 mins"
         },
         {
             "language": "Dart",
@@ -44,6 +44,10 @@
             "time": "8 hrs 24 mins"
         },
         {
+            "language": "Ruby",
+            "time": "3 hrs 13 mins"
+        },
+        {
             "language": "Swift",
             "time": "359 hrs 52 mins"
         },
@@ -57,7 +61,7 @@
         },
         {
             "language": "XML",
-            "time": "2 hrs 45 mins"
+            "time": "2 hrs 56 mins"
         }
     ]
 }

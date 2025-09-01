@@ -1,47 +1,47 @@
 {
-    "total_time": "1,323 hrs 42 mins",
+    "total_time": "1,348 hrs 30 mins",
     "updated": true,
-    "elo": 1324,
+    "elo": 1349,
     "languages": [
         {
             "language": "Bash",
-            "time": "47 hrs 14 mins"
+            "time": "51 hrs 45 mins"
         },
         {
             "language": "CSS",
-            "time": "6 hrs 20 mins"
+            "time": "6 hrs 16 mins"
         },
         {
             "language": "CSV",
-            "time": "12 hrs 46 mins"
+            "time": "12 hrs 53 mins"
         },
         {
             "language": "Docker",
-            "time": "3 hrs 18 mins"
+            "time": "3 hrs 56 mins"
         },
         {
             "language": "HTML",
-            "time": "11 hrs 5 mins"
+            "time": "10 hrs 49 mins"
         },
         {
             "language": "JSON",
-            "time": "44 hrs 4 mins"
+            "time": "44 hrs 3 mins"
         },
         {
             "language": "JavaScript",
-            "time": "81 hrs 1 min"
+            "time": "80 hrs 51 mins"
         },
         {
             "language": "Markdown",
-            "time": "7 hrs 29 mins"
+            "time": "7 hrs 43 mins"
         },
         {
             "language": "PHP",
-            "time": "6 hrs 1 min"
+            "time": "5 hrs 40 mins"
         },
         {
             "language": "Prisma",
-            "time": "40 hrs 36 mins"
+            "time": "41 hrs 18 mins"
         },
         {
             "language": "Python",
@@ -49,7 +49,7 @@
         },
         {
             "language": "SQL",
-            "time": "3 hrs 56 mins"
+            "time": "4 hrs 25 mins"
         },
         {
             "language": "Text",
@@ -57,11 +57,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,042 hrs 8 mins"
+            "time": "1,061 hrs"
         },
         {
             "language": "YAML",
-            "time": "5 hrs 57 mins"
+            "time": "6 hrs 4 mins"
         }
     ]
 }

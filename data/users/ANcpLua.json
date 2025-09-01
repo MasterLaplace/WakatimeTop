@@ -1,7 +1,7 @@
 {
-    "total_time": "2,896 hrs 59 mins",
+    "total_time": "3,023 hrs 12 mins",
     "updated": true,
-    "elo": 2897,
+    "elo": 3024,
     "languages": [
         {
             "language": ".env file",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "7 hrs 56 mins"
+            "time": "7 hrs 58 mins"
         },
         {
             "language": "Blazor",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C#",
-            "time": "1,962 hrs 33 mins"
+            "time": "2,065 hrs 36 mins"
         },
         {
             "language": "CSS",
@@ -29,11 +29,15 @@
         },
         {
             "language": "Csproj",
-            "time": "54 hrs 35 mins"
+            "time": "58 hrs 34 mins"
         },
         {
             "language": "Docker",
-            "time": "40 hrs 24 mins"
+            "time": "40 hrs 25 mins"
+        },
+        {
+            "language": "EditorConfig",
+            "time": "3 hrs 11 mins"
         },
         {
             "language": "F#",
@@ -41,19 +45,23 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "3 hrs 48 mins"
+            "time": "3 hrs 57 mins"
         },
         {
             "language": "HTML",
-            "time": "33 hrs 28 mins"
+            "time": "33 hrs 29 mins"
         },
         {
             "language": "HTTP Request",
-            "time": "5 hrs 36 mins"
+            "time": "5 hrs 37 mins"
+        },
+        {
+            "language": "INI",
+            "time": "3 hrs 34 mins"
         },
         {
             "language": "JSON",
-            "time": "56 hrs 30 mins"
+            "time": "58 hrs 34 mins"
         },
         {
             "language": "Java",
@@ -65,11 +73,11 @@
         },
         {
             "language": "Markdown",
-            "time": "44 hrs 11 mins"
+            "time": "48 hrs 15 mins"
         },
         {
             "language": "MsBuild targets file",
-            "time": "3 hrs 34 mins"
+            "time": "3 hrs 48 mins"
         },
         {
             "language": "Nginx Configuration Pro",
@@ -81,7 +89,7 @@
         },
         {
             "language": "Project file properties",
-            "time": "5 hrs 39 mins"
+            "time": "7 hrs 14 mins"
         },
         {
             "language": "Razor",
@@ -93,15 +101,15 @@
         },
         {
             "language": "Shell Script",
-            "time": "3 hrs 50 mins"
+            "time": "3 hrs 52 mins"
         },
         {
             "language": "Solution File",
-            "time": "11 hrs 13 mins"
+            "time": "12 hrs 7 mins"
         },
         {
             "language": "Text",
-            "time": "14 hrs 27 mins"
+            "time": "14 hrs 50 mins"
         },
         {
             "language": "Vue.js",
@@ -113,19 +121,19 @@
         },
         {
             "language": "XML",
-            "time": "67 hrs 9 mins"
+            "time": "68 hrs 56 mins"
         },
         {
             "language": "XML Solution File",
-            "time": "3 hrs 40 mins"
+            "time": "4 hrs 31 mins"
         },
         {
             "language": "YAML",
-            "time": "103 hrs 23 mins"
+            "time": "103 hrs 34 mins"
         },
         {
             "language": "textmate",
-            "time": "11 hrs 38 mins"
+            "time": "11 hrs 45 mins"
         }
     ]
 }

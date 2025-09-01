@@ -1,19 +1,23 @@
 {
-    "total_time": "25 hrs 44 mins",
+    "total_time": "23 hrs 55 mins",
     "updated": true,
     "elo": 114,
     "languages": [
         {
             "language": "C",
-            "time": "5 hrs 44 mins"
+            "time": "8 hrs 6 mins"
         },
         {
             "language": "Markdown",
-            "time": "6 hrs 13 mins"
+            "time": "4 hrs 42 mins"
+        },
+        {
+            "language": "SystemVerilog",
+            "time": "3 hrs 12 mins"
         },
         {
             "language": "Tcl",
-            "time": "10 hrs 43 mins"
+            "time": "4 hrs 51 mins"
         },
         {
             "language": "YAML",

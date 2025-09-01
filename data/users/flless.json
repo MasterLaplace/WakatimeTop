@@ -1,23 +1,27 @@
 {
-    "total_time": "40 hrs 58 mins",
+    "total_time": "37 hrs 7 mins",
     "updated": true,
     "elo": 60,
     "languages": [
         {
+            "language": "Docker",
+            "time": "4 hrs 16 mins"
+        },
+        {
             "language": "Python",
-            "time": "11 hrs 4 mins"
+            "time": "4 hrs 21 mins"
         },
         {
             "language": "Rust",
-            "time": "24 hrs 7 mins"
+            "time": "22 hrs 13 mins"
         },
         {
             "language": "TOML",
-            "time": "2 hrs 57 mins"
+            "time": "2 hrs 46 mins"
         },
         {
             "language": "YAML",
-            "time": "2 hrs 50 mins"
+            "time": "3 hrs 31 mins"
         }
     ]
 }

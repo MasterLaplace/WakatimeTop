@@ -1,7 +1,7 @@
 {
-    "total_time": "604 hrs",
+    "total_time": "673 hrs 5 mins",
     "updated": true,
-    "elo": 604,
+    "elo": 674,
     "languages": [
         {
             "language": "C",
@@ -17,7 +17,11 @@
         },
         {
             "language": "Elixir",
-            "time": "193 hrs 35 mins"
+            "time": "253 hrs 58 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "4 hrs 56 mins"
         },
         {
             "language": "Java",
@@ -32,12 +36,16 @@
             "time": "6 hrs 54 mins"
         },
         {
+            "language": "Markdown",
+            "time": "3 hrs 42 mins"
+        },
+        {
             "language": "Python",
-            "time": "2 hrs 33 mins"
+            "time": "2 hrs 35 mins"
         },
         {
             "language": "TOML",
-            "time": "3 hrs 39 mins"
+            "time": "3 hrs 41 mins"
         },
         {
             "language": "XML",

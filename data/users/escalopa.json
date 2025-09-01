@@ -1,11 +1,11 @@
 {
-    "total_time": "1,975 hrs 10 mins",
-    "updated": false,
-    "elo": 1960,
+    "total_time": "1,976 hrs 19 mins",
+    "updated": true,
+    "elo": 1961,
     "languages": [
         {
             "language": "Bash",
-            "time": "20 hrs"
+            "time": "20 hrs 2 mins"
         },
         {
             "language": "C++",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Go",
-            "time": "736 hrs 41 mins"
+            "time": "737 hrs 22 mins"
         },
         {
             "language": "HTML",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Terraform",
-            "time": "20 hrs 53 mins"
+            "time": "21 hrs 19 mins"
         },
         {
             "language": "Text",

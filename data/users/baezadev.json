@@ -1,19 +1,15 @@
 {
-    "total_time": "34 hrs 59 mins",
+    "total_time": "42 hrs 28 mins",
     "updated": true,
-    "elo": 102,
+    "elo": 110,
     "languages": [
         {
-            "language": "Go",
-            "time": "3 hrs 16 mins"
-        },
-        {
-            "language": "Java",
-            "time": "13 hrs 4 mins"
+            "language": "Blade Template",
+            "time": "15 hrs 23 mins"
         },
         {
             "language": "PHP",
-            "time": "2 hrs 47 mins"
+            "time": "7 hrs 9 mins"
         },
         {
             "language": "Rust",
@@ -26,6 +22,10 @@
         {
             "language": "Svelte",
             "time": "5 hrs 48 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "4 hrs 4 mins"
         }
     ]
 }

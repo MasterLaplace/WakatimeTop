@@ -1,7 +1,7 @@
 {
-    "total_time": "1,150 hrs 28 mins",
+    "total_time": "1,167 hrs 25 mins",
     "updated": true,
-    "elo": 1217,
+    "elo": 1234,
     "languages": [
         {
             "language": "Dart",
@@ -17,31 +17,31 @@
         },
         {
             "language": "HTML",
-            "time": "2 hrs 38 mins"
+            "time": "2 hrs 39 mins"
         },
         {
             "language": "HTTP Request",
-            "time": "35 hrs 16 mins"
+            "time": "35 hrs 55 mins"
         },
         {
             "language": "JSON",
-            "time": "3 hrs 29 mins"
+            "time": "4 hrs 28 mins"
         },
         {
             "language": "Jupyter",
-            "time": "53 hrs 25 mins"
+            "time": "53 hrs 50 mins"
         },
         {
             "language": "Kotlin",
-            "time": "333 hrs 42 mins"
+            "time": "330 hrs 28 mins"
         },
         {
             "language": "Markdown",
-            "time": "24 hrs 20 mins"
+            "time": "25 hrs 51 mins"
         },
         {
             "language": "Python",
-            "time": "162 hrs 55 mins"
+            "time": "165 hrs 53 mins"
         },
         {
             "language": "SCSS",
@@ -49,27 +49,27 @@
         },
         {
             "language": "SQL",
-            "time": "208 hrs 30 mins"
+            "time": "209 hrs 38 mins"
         },
         {
             "language": "TOML",
-            "time": "9 hrs 42 mins"
+            "time": "9 hrs 47 mins"
         },
         {
             "language": "Terraform",
-            "time": "5 hrs 19 mins"
+            "time": "15 hrs 7 mins"
         },
         {
             "language": "Text",
-            "time": "6 hrs 12 mins"
+            "time": "6 hrs 1 min"
         },
         {
             "language": "TypeScript",
-            "time": "104 hrs 18 mins"
+            "time": "104 hrs 12 mins"
         },
         {
             "language": "YAML",
-            "time": "179 hrs 47 mins"
+            "time": "182 hrs 41 mins"
         }
     ]
 }

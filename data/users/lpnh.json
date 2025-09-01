@@ -1,5 +1,5 @@
 {
-    "total_time": "62 hrs 26 mins",
+    "total_time": "56 hrs 42 mins",
     "updated": true,
     "elo": 63,
     "languages": [
@@ -9,27 +9,27 @@
         },
         {
             "language": "C",
-            "time": "11 hrs 46 mins"
+            "time": "5 hrs 57 mins"
         },
         {
             "language": "HTML",
-            "time": "10 hrs 4 mins"
+            "time": "6 hrs 2 mins"
         },
         {
             "language": "JavaScript",
-            "time": "21 hrs 15 mins"
-        },
-        {
-            "language": "Rust",
-            "time": "4 hrs 37 mins"
+            "time": "25 hrs 52 mins"
         },
         {
             "language": "Scheme",
-            "time": "4 hrs 42 mins"
+            "time": "2 hrs 45 mins"
         },
         {
             "language": "Text",
-            "time": "6 hrs 16 mins"
+            "time": "3 hrs 16 mins"
+        },
+        {
+            "language": "yarn_spinner",
+            "time": "9 hrs 4 mins"
         }
     ]
 }

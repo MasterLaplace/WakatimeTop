@@ -1,11 +1,15 @@
 {
-    "total_time": "24 hrs 47 mins",
+    "total_time": "47 hrs 8 mins",
     "updated": true,
-    "elo": 71,
+    "elo": 94,
     "languages": [
         {
+            "language": "Log",
+            "time": "2 hrs 33 mins"
+        },
+        {
             "language": "PHP",
-            "time": "24 hrs 47 mins"
+            "time": "44 hrs 35 mins"
         }
     ]
 }
