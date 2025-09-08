@@ -1,15 +1,27 @@
 {
-    "total_time": "39 hrs 54 mins",
+    "total_time": "38 hrs 51 mins",
     "updated": true,
     "elo": 171,
     "languages": [
         {
+            "language": "C",
+            "time": "6 hrs 32 mins"
+        },
+        {
             "language": "C++",
-            "time": "21 hrs 31 mins"
+            "time": "13 hrs 16 mins"
+        },
+        {
+            "language": "Devicetree",
+            "time": "6 hrs 1 min"
+        },
+        {
+            "language": "Makefile",
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "Markdown",
-            "time": "18 hrs 23 mins"
+            "time": "10 hrs 31 mins"
         }
     ]
 }

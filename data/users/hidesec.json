@@ -1,7 +1,7 @@
 {
-    "total_time": "2,179 hrs 13 mins",
+    "total_time": "2,197 hrs 36 mins",
     "updated": true,
-    "elo": 2180,
+    "elo": 2198,
     "languages": [
         {
             "language": ".env file",
@@ -14,6 +14,10 @@
         {
             "language": "Blade Template",
             "time": "4 hrs 15 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "3 hrs 36 mins"
         },
         {
             "language": "Docker",
@@ -37,7 +41,7 @@
         },
         {
             "language": "Markdown",
-            "time": "9 hrs 51 mins"
+            "time": "9 hrs 52 mins"
         },
         {
             "language": "PHP",
@@ -53,7 +57,7 @@
         },
         {
             "language": "Python",
-            "time": "129 hrs 26 mins"
+            "time": "143 hrs 50 mins"
         },
         {
             "language": "SQL",
@@ -61,7 +65,7 @@
         },
         {
             "language": "Text",
-            "time": "17 hrs 16 mins"
+            "time": "17 hrs 38 mins"
         },
         {
             "language": "TypeScript",

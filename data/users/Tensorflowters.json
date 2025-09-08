@@ -1,11 +1,11 @@
 {
-    "total_time": "321 hrs 48 mins",
+    "total_time": "383 hrs 14 mins",
     "updated": true,
-    "elo": 322,
+    "elo": 384,
     "languages": [
         {
             "language": "Bash",
-            "time": "6 hrs 30 mins"
+            "time": "7 hrs 7 mins"
         },
         {
             "language": "Caddyfile",
@@ -13,39 +13,43 @@
         },
         {
             "language": "Docker",
-            "time": "8 hrs 27 mins"
+            "time": "8 hrs 43 mins"
         },
         {
             "language": "Git Config",
-            "time": "2 hrs 43 mins"
+            "time": "2 hrs 53 mins"
         },
         {
             "language": "JSON",
-            "time": "6 hrs 10 mins"
+            "time": "7 hrs 12 mins"
         },
         {
             "language": "Makefile",
-            "time": "11 hrs 17 mins"
+            "time": "14 hrs 4 mins"
         },
         {
             "language": "Markdown",
-            "time": "76 hrs 57 mins"
+            "time": "89 hrs 34 mins"
         },
         {
             "language": "Python",
-            "time": "165 hrs 38 mins"
+            "time": "201 hrs 45 mins"
         },
         {
             "language": "TOML",
-            "time": "5 hrs 52 mins"
+            "time": "7 hrs 2 mins"
+        },
+        {
+            "language": "Text",
+            "time": "5 hrs 21 mins"
         },
         {
             "language": "TypeScript",
-            "time": "5 hrs 25 mins"
+            "time": "5 hrs 47 mins"
         },
         {
             "language": "YAML",
-            "time": "27 hrs 38 mins"
+            "time": "28 hrs 35 mins"
         }
     ]
 }

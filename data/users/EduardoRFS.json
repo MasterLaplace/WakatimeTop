@@ -1,7 +1,7 @@
 {
-    "total_time": "4,327 hrs 57 mins",
+    "total_time": "4,376 hrs",
     "updated": true,
-    "elo": 4328,
+    "elo": 4376,
     "languages": [
         {
             "language": "Agda",
@@ -37,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "104 hrs 19 mins"
+            "time": "104 hrs 20 mins"
         },
         {
             "language": "JavaScript",
@@ -53,15 +53,15 @@
         },
         {
             "language": "Markdown",
-            "time": "1,333 hrs 42 mins"
+            "time": "1,367 hrs 1 min"
         },
         {
             "language": "Nix",
-            "time": "53 hrs 20 mins"
+            "time": "56 hrs 43 mins"
         },
         {
             "language": "OCaml",
-            "time": "1,448 hrs 6 mins"
+            "time": "1,459 hrs 25 mins"
         },
         {
             "language": "Objective-C",
@@ -101,7 +101,7 @@
         },
         {
             "language": "YAML",
-            "time": "27 hrs 36 mins"
+            "time": "27 hrs 37 mins"
         }
     ]
 }

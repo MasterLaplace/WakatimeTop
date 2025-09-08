@@ -1,19 +1,23 @@
 {
-    "total_time": "52 hrs 49 mins",
+    "total_time": "67 hrs 13 mins",
     "updated": true,
-    "elo": 99,
+    "elo": 114,
     "languages": [
         {
-            "language": "JavaScript",
-            "time": "14 hrs 36 mins"
+            "language": "CSS",
+            "time": "9 hrs 42 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "14 hrs 29 mins"
         },
         {
             "language": "PHP",
-            "time": "23 hrs 7 mins"
+            "time": "24 hrs 7 mins"
         },
         {
             "language": "TypeScript",
-            "time": "15 hrs 6 mins"
+            "time": "18 hrs 55 mins"
         }
     ]
 }

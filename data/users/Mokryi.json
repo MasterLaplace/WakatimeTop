@@ -1,23 +1,19 @@
 {
-    "total_time": "27 hrs 16 mins",
+    "total_time": "39 hrs 43 mins",
     "updated": true,
-    "elo": 91,
+    "elo": 103,
     "languages": [
         {
-            "language": "Blade Template",
-            "time": "4 hrs 12 mins"
-        },
-        {
             "language": "JSON",
-            "time": "3 hrs 13 mins"
+            "time": "6 hrs 7 mins"
         },
         {
             "language": "PHP",
-            "time": "17 hrs"
+            "time": "29 hrs 23 mins"
         },
         {
             "language": "YAML",
-            "time": "2 hrs 51 mins"
+            "time": "4 hrs 13 mins"
         }
     ]
 }

@@ -1,15 +1,19 @@
 {
-    "total_time": "11 hrs 13 mins",
+    "total_time": "17 hrs 5 mins",
     "updated": true,
-    "elo": 66,
+    "elo": 72,
     "languages": [
         {
             "language": "C#",
-            "time": "7 hrs 23 mins"
+            "time": "8 hrs 19 mins"
         },
         {
             "language": "Nix",
-            "time": "3 hrs 50 mins"
+            "time": "3 hrs 22 mins"
+        },
+        {
+            "language": "Razor",
+            "time": "5 hrs 24 mins"
         }
     ]
 }

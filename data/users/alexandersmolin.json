@@ -1,7 +1,7 @@
 {
-    "total_time": "519 hrs 35 mins",
+    "total_time": "538 hrs 45 mins",
     "updated": true,
-    "elo": 520,
+    "elo": 539,
     "languages": [
         {
             "language": "Bash",
@@ -17,11 +17,15 @@
         },
         {
             "language": "Python",
-            "time": "475 hrs 32 mins"
+            "time": "482 hrs 56 mins"
         },
         {
             "language": "TOML",
             "time": "8 hrs 11 mins"
+        },
+        {
+            "language": "Text",
+            "time": "11 hrs 46 mins"
         },
         {
             "language": "YAML",

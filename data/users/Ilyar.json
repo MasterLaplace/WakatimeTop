@@ -1,11 +1,11 @@
 {
-    "total_time": "1,040 hrs 23 mins",
+    "total_time": "1,079 hrs 49 mins",
     "updated": true,
-    "elo": 1168,
+    "elo": 1207,
     "languages": [
         {
             "language": "Bash",
-            "time": "35 hrs 3 mins"
+            "time": "35 hrs 45 mins"
         },
         {
             "language": "C++",
@@ -33,23 +33,23 @@
         },
         {
             "language": "Go",
-            "time": "16 hrs 19 mins"
+            "time": "15 hrs 45 mins"
         },
         {
             "language": "HTML",
-            "time": "12 hrs 26 mins"
+            "time": "9 hrs 44 mins"
         },
         {
             "language": "HTTP",
-            "time": "6 hrs 40 mins"
+            "time": "7 hrs 20 mins"
         },
         {
             "language": "JSON",
-            "time": "57 hrs 41 mins"
+            "time": "60 hrs 10 mins"
         },
         {
             "language": "JavaScript",
-            "time": "35 hrs 28 mins"
+            "time": "36 hrs 40 mins"
         },
         {
             "language": "JavaScript Testing Snapshot",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Markdown",
-            "time": "101 hrs 10 mins"
+            "time": "106 hrs 56 mins"
         },
         {
             "language": "Nix",
@@ -73,11 +73,11 @@
         },
         {
             "language": "Rust",
-            "time": "54 hrs 45 mins"
+            "time": "54 hrs 42 mins"
         },
         {
             "language": "Solidity",
-            "time": "15 hrs 56 mins"
+            "time": "16 hrs 7 mins"
         },
         {
             "language": "TL-B",
@@ -89,7 +89,11 @@
         },
         {
             "language": "TOML",
-            "time": "9 hrs 42 mins"
+            "time": "9 hrs 20 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "2 hrs 37 mins"
         },
         {
             "language": "TVM-Solidity",
@@ -97,11 +101,11 @@
         },
         {
             "language": "Text",
-            "time": "11 hrs 29 mins"
+            "time": "12 hrs"
         },
         {
             "language": "TypeScript",
-            "time": "423 hrs 11 mins"
+            "time": "451 hrs 17 mins"
         },
         {
             "language": "UML",
@@ -113,11 +117,11 @@
         },
         {
             "language": "YAML",
-            "time": "39 hrs 49 mins"
+            "time": "40 hrs 4 mins"
         },
         {
             "language": "textmate",
-            "time": "5 hrs 14 mins"
+            "time": "5 hrs 52 mins"
         },
         {
             "language": "wit",

@@ -1,19 +1,19 @@
 {
-    "total_time": "23 hrs 52 mins",
+    "total_time": "19 hrs 46 mins",
     "updated": true,
     "elo": 51,
     "languages": [
         {
+            "language": "Binary",
+            "time": "7 hrs 15 mins"
+        },
+        {
             "language": "C#",
-            "time": "7 hrs 58 mins"
+            "time": "7 hrs 18 mins"
         },
         {
             "language": "Python",
             "time": "5 hrs 13 mins"
-        },
-        {
-            "language": "Razor",
-            "time": "10 hrs 41 mins"
         }
     ]
 }

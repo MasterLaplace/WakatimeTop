@@ -1,15 +1,19 @@
 {
-    "total_time": "758 hrs 43 mins",
+    "total_time": "767 hrs 30 mins",
     "updated": true,
-    "elo": 767,
+    "elo": 776,
     "languages": [
         {
             "language": "C",
-            "time": "7 hrs 26 mins"
+            "time": "7 hrs 27 mins"
         },
         {
             "language": "C++",
-            "time": "18 hrs 47 mins"
+            "time": "19 hrs 5 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "2 hrs 41 mins"
         },
         {
             "language": "CSV",
@@ -25,7 +29,7 @@
         },
         {
             "language": "MATLAB",
-            "time": "35 hrs 50 mins"
+            "time": "22 hrs 52 mins"
         },
         {
             "language": "Markdown",
@@ -33,11 +37,11 @@
         },
         {
             "language": "Python",
-            "time": "614 hrs 3 mins"
+            "time": "630 hrs 50 mins"
         },
         {
             "language": "Text",
-            "time": "49 hrs 36 mins"
+            "time": "51 hrs 34 mins"
         },
         {
             "language": "YAML",

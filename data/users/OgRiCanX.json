@@ -1,11 +1,11 @@
 {
-    "total_time": "4,770 hrs 7 mins",
+    "total_time": "4,790 hrs 14 mins",
     "updated": true,
-    "elo": 4771,
+    "elo": 4791,
     "languages": [
         {
             "language": "C#",
-            "time": "1,281 hrs 21 mins"
+            "time": "1,286 hrs 28 mins"
         },
         {
             "language": "CSS",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Docker",
-            "time": "13 hrs 5 mins"
+            "time": "13 hrs 8 mins"
         },
         {
             "language": "Gherkin",
@@ -25,7 +25,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "4 hrs 48 mins"
+            "time": "4 hrs 58 mins"
         },
         {
             "language": "GraphQL",
@@ -37,7 +37,7 @@
         },
         {
             "language": "HTTP Request",
-            "time": "27 hrs 45 mins"
+            "time": "28 hrs 38 mins"
         },
         {
             "language": "JAVA",
@@ -45,11 +45,11 @@
         },
         {
             "language": "JSON",
-            "time": "54 hrs 16 mins"
+            "time": "54 hrs 52 mins"
         },
         {
             "language": "Java",
-            "time": "2,552 hrs 11 mins"
+            "time": "2,555 hrs 42 mins"
         },
         {
             "language": "Java Properties",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Markdown",
-            "time": "89 hrs 19 mins"
+            "time": "89 hrs 52 mins"
         },
         {
             "language": "Mustache",
@@ -69,19 +69,19 @@
         },
         {
             "language": "Properties",
-            "time": "45 hrs 56 mins"
+            "time": "46 hrs 6 mins"
         },
         {
             "language": "Python",
-            "time": "11 hrs 43 mins"
+            "time": "11 hrs 47 mins"
         },
         {
             "language": "Reqnroll",
-            "time": "14 hrs 16 mins"
+            "time": "14 hrs 17 mins"
         },
         {
             "language": "Resources",
-            "time": "2 hrs 42 mins"
+            "time": "2 hrs 43 mins"
         },
         {
             "language": "SCSS",
@@ -100,8 +100,12 @@
             "time": "6 hrs 20 mins"
         },
         {
+            "language": "TeX",
+            "time": "3 hrs 2 mins"
+        },
+        {
             "language": "Text",
-            "time": "5 hrs 23 mins"
+            "time": "5 hrs 45 mins"
         },
         {
             "language": "TypeScript",
@@ -113,15 +117,15 @@
         },
         {
             "language": "XML",
-            "time": "227 hrs 53 mins"
+            "time": "228 hrs 6 mins"
         },
         {
             "language": "YAML",
-            "time": "76 hrs 39 mins"
+            "time": "81 hrs 59 mins"
         },
         {
             "language": "textmate",
-            "time": "4 hrs 59 mins"
+            "time": "5 hrs"
         }
     ]
 }
