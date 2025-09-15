@@ -1,27 +1,27 @@
 {
-    "total_time": "912 hrs 47 mins",
+    "total_time": "933 hrs 57 mins",
     "updated": true,
-    "elo": 913,
+    "elo": 934,
     "languages": [
         {
             "language": "C",
-            "time": "74 hrs"
+            "time": "78 hrs 55 mins"
         },
         {
             "language": "C++",
-            "time": "399 hrs 1 min"
+            "time": "400 hrs 10 mins"
         },
         {
             "language": "C/C",
-            "time": "33 hrs 11 mins"
+            "time": "33 hrs 12 mins"
         },
         {
             "language": "C/C++",
-            "time": "11 hrs 11 mins"
+            "time": "12 hrs 1 min"
         },
         {
             "language": "CSV",
-            "time": "4 hrs 58 mins"
+            "time": "5 hrs 11 mins"
         },
         {
             "language": "JSON",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Java",
-            "time": "64 hrs 6 mins"
+            "time": "73 hrs 18 mins"
         },
         {
             "language": "Jupyter",
@@ -37,15 +37,19 @@
         },
         {
             "language": "Python",
-            "time": "220 hrs 10 mins"
+            "time": "220 hrs 26 mins"
         },
         {
             "language": "SQL",
             "time": "3 hrs 46 mins"
         },
         {
+            "language": "SystemVerilog",
+            "time": "4 hrs 27 mins"
+        },
+        {
             "language": "Text",
-            "time": "9 hrs 42 mins"
+            "time": "9 hrs 49 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "443 hrs 2 mins",
-    "updated": false,
-    "elo": 444,
+    "total_time": "453 hrs 7 mins",
+    "updated": true,
+    "elo": 454,
     "languages": [
         {
             "language": "C++",
@@ -9,23 +9,23 @@
         },
         {
             "language": "Gradle",
-            "time": "5 hrs 36 mins"
+            "time": "5 hrs 39 mins"
         },
         {
             "language": "Groovy",
-            "time": "4 hrs 30 mins"
+            "time": "4 hrs 31 mins"
         },
         {
             "language": "Java",
-            "time": "381 hrs 20 mins"
+            "time": "387 hrs 8 mins"
         },
         {
             "language": "Python",
-            "time": "35 hrs 58 mins"
+            "time": "39 hrs 59 mins"
         },
         {
             "language": "YAML",
-            "time": "10 hrs 20 mins"
+            "time": "10 hrs 32 mins"
         }
     ]
 }

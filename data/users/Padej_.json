@@ -1,7 +1,7 @@
 {
-    "total_time": "903 hrs 7 mins",
-    "updated": false,
-    "elo": 904,
+    "total_time": "1,000 hrs 5 mins",
+    "updated": true,
+    "elo": 1001,
     "languages": [
         {
             "language": "CLASS",
@@ -9,7 +9,7 @@
         },
         {
             "language": "CSS",
-            "time": "8 hrs 28 mins"
+            "time": "8 hrs 30 mins"
         },
         {
             "language": "GLSL shader",
@@ -17,55 +17,55 @@
         },
         {
             "language": "Gradle",
-            "time": "3 hrs 7 mins"
+            "time": "3 hrs 48 mins"
         },
         {
             "language": "HTML",
-            "time": "2 hrs 53 mins"
+            "time": "3 hrs 1 min"
         },
         {
             "language": "JSON",
-            "time": "32 hrs 49 mins"
+            "time": "37 hrs 6 mins"
         },
         {
             "language": "Java",
-            "time": "654 hrs 13 mins"
+            "time": "713 hrs 2 mins"
         },
         {
             "language": "Java Properties",
-            "time": "9 hrs 6 mins"
+            "time": "9 hrs 25 mins"
         },
         {
             "language": "Kotlin",
-            "time": "48 hrs 5 mins"
+            "time": "57 hrs 38 mins"
         },
         {
             "language": "Markdown",
-            "time": "3 hrs 30 mins"
+            "time": "8 hrs 11 mins"
         },
         {
             "language": "Properties",
-            "time": "19 hrs 56 mins"
+            "time": "20 hrs 6 mins"
         },
         {
             "language": "Rust",
-            "time": "68 hrs 23 mins"
+            "time": "84 hrs 52 mins"
         },
         {
             "language": "TOML",
-            "time": "3 hrs 57 mins"
+            "time": "4 hrs 7 mins"
         },
         {
             "language": "Text",
-            "time": "3 hrs 23 mins"
+            "time": "4 hrs 31 mins"
         },
         {
             "language": "TypeScript",
-            "time": "27 hrs 38 mins"
+            "time": "28 hrs"
         },
         {
             "language": "XML",
-            "time": "6 hrs 37 mins"
+            "time": "6 hrs 46 mins"
         }
     ]
 }

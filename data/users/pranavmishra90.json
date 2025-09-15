@@ -1,19 +1,27 @@
 {
-    "total_time": "36 hrs 12 mins",
+    "total_time": "63 hrs",
     "updated": true,
-    "elo": 96,
+    "elo": 122,
     "languages": [
+        {
+            "language": "Docker",
+            "time": "2 hrs 52 mins"
+        },
         {
             "language": "Groovy",
             "time": "6 hrs 28 mins"
         },
         {
             "language": "Python",
-            "time": "20 hrs 47 mins"
+            "time": "39 hrs 12 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "2 hrs 39 mins"
         },
         {
             "language": "YAML",
-            "time": "8 hrs 57 mins"
+            "time": "11 hrs 49 mins"
         }
     ]
 }

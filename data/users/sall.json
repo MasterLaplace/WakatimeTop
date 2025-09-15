@@ -1,15 +1,11 @@
 {
-    "total_time": "9 hrs 43 mins",
-    "updated": false,
+    "total_time": "3 hrs",
+    "updated": true,
     "elo": 86,
     "languages": [
         {
-            "language": "C",
-            "time": "3 hrs 12 mins"
-        },
-        {
-            "language": "Zsh",
-            "time": "6 hrs 31 mins"
+            "language": "YAML",
+            "time": "3 hrs"
         }
     ]
 }

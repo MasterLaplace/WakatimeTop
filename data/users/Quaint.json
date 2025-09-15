@@ -1,11 +1,11 @@
 {
-    "total_time": "3,735 hrs 21 mins",
+    "total_time": "3,800 hrs 12 mins",
     "updated": true,
-    "elo": 3736,
+    "elo": 3801,
     "languages": [
         {
             "language": "Bash",
-            "time": "86 hrs 47 mins"
+            "time": "90 hrs 53 mins"
         },
         {
             "language": "C",
@@ -21,7 +21,7 @@
         },
         {
             "language": "CSS",
-            "time": "509 hrs 53 mins"
+            "time": "509 hrs 58 mins"
         },
         {
             "language": "CSV",
@@ -41,7 +41,7 @@
         },
         {
             "language": "HTML",
-            "time": "142 hrs 46 mins"
+            "time": "146 hrs 2 mins"
         },
         {
             "language": "Image (svg)",
@@ -49,7 +49,7 @@
         },
         {
             "language": "JSON",
-            "time": "50 hrs 42 mins"
+            "time": "52 hrs 30 mins"
         },
         {
             "language": "Java",
@@ -57,7 +57,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,670 hrs 44 mins"
+            "time": "1,710 hrs 29 mins"
         },
         {
             "language": "Kotlin",
@@ -65,7 +65,11 @@
         },
         {
             "language": "Markdown",
-            "time": "123 hrs 34 mins"
+            "time": "123 hrs 39 mins"
+        },
+        {
+            "language": "Nginx configuration file",
+            "time": "2 hrs 59 mins"
         },
         {
             "language": "PHP",
@@ -85,7 +89,7 @@
         },
         {
             "language": "Ruby",
-            "time": "11 hrs 58 mins"
+            "time": "16 hrs 21 mins"
         },
         {
             "language": "SCSS",
@@ -101,11 +105,11 @@
         },
         {
             "language": "Text",
-            "time": "16 hrs 16 mins"
+            "time": "16 hrs 42 mins"
         },
         {
             "language": "TypeScript",
-            "time": "432 hrs 54 mins"
+            "time": "439 hrs 18 mins"
         },
         {
             "language": "VB.NET",
@@ -113,11 +117,11 @@
         },
         {
             "language": "XML",
-            "time": "9 hrs 46 mins"
+            "time": "9 hrs 56 mins"
         },
         {
             "language": "YAML",
-            "time": "3 hrs 2 mins"
+            "time": "4 hrs 26 mins"
         }
     ]
 }

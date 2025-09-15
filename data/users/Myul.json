@@ -1,11 +1,23 @@
 {
-    "total_time": "23 hrs 50 mins",
+    "total_time": "23 hrs 3 mins",
     "updated": true,
     "elo": 64,
     "languages": [
         {
+            "language": "CSV",
+            "time": "3 hrs 43 mins"
+        },
+        {
             "language": "Python",
-            "time": "23 hrs 50 mins"
+            "time": "3 hrs 15 mins"
+        },
+        {
+            "language": "Svelte",
+            "time": "12 hrs 18 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "3 hrs 47 mins"
         }
     ]
 }

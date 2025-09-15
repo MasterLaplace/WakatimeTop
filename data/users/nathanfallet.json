@@ -1,5 +1,5 @@
 {
-    "total_time": "72 hrs 53 mins",
+    "total_time": "71 hrs 46 mins",
     "updated": true,
     "elo": 107,
     "languages": [
@@ -8,16 +8,20 @@
             "time": "5 hrs 2 mins"
         },
         {
+            "language": "Image (svg)",
+            "time": "2 hrs 34 mins"
+        },
+        {
+            "language": "Jupyter",
+            "time": "3 hrs 30 mins"
+        },
+        {
             "language": "Kotlin",
-            "time": "57 hrs 42 mins"
+            "time": "50 hrs 10 mins"
         },
         {
-            "language": "Swift",
-            "time": "4 hrs 58 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "5 hrs 11 mins"
+            "language": "TypeScript",
+            "time": "10 hrs 30 mins"
         }
     ]
 }

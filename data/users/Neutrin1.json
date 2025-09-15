@@ -1,23 +1,23 @@
 {
-    "total_time": "767 hrs 30 mins",
+    "total_time": "780 hrs 19 mins",
     "updated": true,
-    "elo": 776,
+    "elo": 789,
     "languages": [
         {
             "language": "C",
-            "time": "7 hrs 27 mins"
+            "time": "6 hrs 4 mins"
         },
         {
             "language": "C++",
-            "time": "19 hrs 5 mins"
+            "time": "19 hrs 44 mins"
         },
         {
             "language": "CMake",
-            "time": "2 hrs 41 mins"
+            "time": "3 hrs 11 mins"
         },
         {
             "language": "CSV",
-            "time": "8 hrs 55 mins"
+            "time": "8 hrs 35 mins"
         },
         {
             "language": "Git Config",
@@ -25,27 +25,31 @@
         },
         {
             "language": "JSON",
-            "time": "3 hrs 32 mins"
+            "time": "3 hrs 22 mins"
         },
         {
             "language": "MATLAB",
-            "time": "22 hrs 52 mins"
+            "time": "17 hrs 56 mins"
         },
         {
             "language": "Markdown",
-            "time": "7 hrs 45 mins"
+            "time": "8 hrs"
         },
         {
             "language": "Python",
-            "time": "630 hrs 50 mins"
+            "time": "642 hrs 40 mins"
         },
         {
             "language": "Text",
-            "time": "51 hrs 34 mins"
+            "time": "52 hrs 57 mins"
+        },
+        {
+            "language": "XML",
+            "time": "4 hrs 51 mins"
         },
         {
             "language": "YAML",
-            "time": "5 hrs 13 mins"
+            "time": "5 hrs 23 mins"
         }
     ]
 }

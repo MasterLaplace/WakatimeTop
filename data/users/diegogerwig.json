@@ -1,23 +1,23 @@
 {
-    "total_time": "2,714 hrs 56 mins",
+    "total_time": "2,726 hrs 35 mins",
     "updated": true,
-    "elo": 2855,
+    "elo": 2867,
     "languages": [
         {
             "language": "Bash",
-            "time": "300 hrs 56 mins"
+            "time": "293 hrs 13 mins"
         },
         {
             "language": "C",
-            "time": "26 hrs 32 mins"
+            "time": "31 hrs 18 mins"
         },
         {
             "language": "C++",
-            "time": "166 hrs 59 mins"
+            "time": "174 hrs 6 mins"
         },
         {
             "language": "CSS",
-            "time": "7 hrs 2 mins"
+            "time": "7 hrs 18 mins"
         },
         {
             "language": "CSV",
@@ -25,27 +25,27 @@
         },
         {
             "language": "Docker",
-            "time": "41 hrs 50 mins"
+            "time": "40 hrs 40 mins"
         },
         {
             "language": "Git Config",
-            "time": "4 hrs 36 mins"
+            "time": "4 hrs 25 mins"
         },
         {
             "language": "HTML",
-            "time": "135 hrs 58 mins"
+            "time": "137 hrs 7 mins"
         },
         {
             "language": "JSON",
-            "time": "18 hrs 4 mins"
+            "time": "17 hrs 44 mins"
         },
         {
             "language": "Java",
-            "time": "45 hrs 52 mins"
+            "time": "45 hrs 53 mins"
         },
         {
             "language": "JavaScript",
-            "time": "146 hrs 32 mins"
+            "time": "159 hrs 44 mins"
         },
         {
             "language": "Makefile",
@@ -53,11 +53,11 @@
         },
         {
             "language": "Markdown",
-            "time": "39 hrs 18 mins"
+            "time": "39 hrs 39 mins"
         },
         {
             "language": "Python",
-            "time": "1,501 hrs 51 mins"
+            "time": "1,495 hrs 45 mins"
         },
         {
             "language": "R",
@@ -69,7 +69,7 @@
         },
         {
             "language": "SQL",
-            "time": "159 hrs 40 mins"
+            "time": "161 hrs 15 mins"
         },
         {
             "language": "Scala",
@@ -81,11 +81,11 @@
         },
         {
             "language": "Text",
-            "time": "20 hrs 8 mins"
+            "time": "19 hrs 50 mins"
         },
         {
             "language": "YAML",
-            "time": "12 hrs 39 mins"
+            "time": "11 hrs 39 mins"
         }
     ]
 }
