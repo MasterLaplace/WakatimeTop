@@ -1,7 +1,7 @@
 {
-    "total_time": "4,096 hrs 16 mins",
+    "total_time": "4,115 hrs 46 mins",
     "updated": true,
-    "elo": 4097,
+    "elo": 4116,
     "languages": [
         {
             "language": "ASP.NET",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "6 hrs 23 mins"
+            "time": "6 hrs 29 mins"
         },
         {
             "language": "CSS",
@@ -21,7 +21,7 @@
         },
         {
             "language": "Git Config",
-            "time": "4 hrs 52 mins"
+            "time": "5 hrs 10 mins"
         },
         {
             "language": "HTML",
@@ -33,7 +33,7 @@
         },
         {
             "language": "JSON",
-            "time": "77 hrs 33 mins"
+            "time": "81 hrs 10 mins"
         },
         {
             "language": "Java",
@@ -41,11 +41,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,050 hrs 35 mins"
+            "time": "1,052 hrs 25 mins"
         },
         {
             "language": "Markdown",
-            "time": "37 hrs 28 mins"
+            "time": "40 hrs 48 mins"
         },
         {
             "language": "PHP",
@@ -73,7 +73,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,507 hrs 39 mins"
+            "time": "1,515 hrs 16 mins"
         },
         {
             "language": "Vue.js",
@@ -82,6 +82,10 @@
         {
             "language": "XML",
             "time": "6 hrs"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 42 mins"
         }
     ]
 }

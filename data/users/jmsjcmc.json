@@ -1,15 +1,43 @@
 {
-    "total_time": "33 hrs 41 mins",
-    "updated": false,
-    "elo": 68,
+    "total_time": "1,564 hrs 17 mins",
+    "updated": true,
+    "elo": 1599,
     "languages": [
         {
+            "language": "Binary",
+            "time": "33 hrs 3 mins"
+        },
+        {
+            "language": "Blade Template",
+            "time": "28 hrs 42 mins"
+        },
+        {
             "language": "C#",
-            "time": "22 hrs 13 mins"
+            "time": "1,254 hrs 8 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "54 hrs 10 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "14 hrs 38 mins"
         },
         {
             "language": "JavaScript",
-            "time": "11 hrs 28 mins"
+            "time": "65 hrs 21 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "28 hrs 33 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "83 hrs 3 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 39 mins"
         }
     ]
 }

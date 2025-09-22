@@ -1,11 +1,11 @@
 {
-    "total_time": "2,086 hrs 10 mins",
+    "total_time": "2,220 hrs 14 mins",
     "updated": true,
-    "elo": 2087,
+    "elo": 2221,
     "languages": [
         {
             "language": "Bash",
-            "time": "82 hrs 52 mins"
+            "time": "82 hrs 55 mins"
         },
         {
             "language": "Blade Template",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C",
-            "time": "14 hrs 50 mins"
+            "time": "148 hrs 32 mins"
         },
         {
             "language": "C++",
@@ -61,19 +61,19 @@
         },
         {
             "language": "Lua",
-            "time": "23 hrs 49 mins"
+            "time": "23 hrs 55 mins"
         },
         {
             "language": "Markdown",
-            "time": "9 hrs 37 mins"
+            "time": "9 hrs 39 mins"
         },
         {
             "language": "Move",
-            "time": "103 hrs 1 min"
+            "time": "103 hrs 4 mins"
         },
         {
             "language": "PHP",
-            "time": "29 hrs 51 mins"
+            "time": "29 hrs 52 mins"
         },
         {
             "language": "Prisma",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Rust",
-            "time": "875 hrs 21 mins"
+            "time": "875 hrs 22 mins"
         },
         {
             "language": "SQL",
@@ -101,23 +101,23 @@
         },
         {
             "language": "Text",
-            "time": "7 hrs 9 mins"
+            "time": "7 hrs 10 mins"
         },
         {
             "language": "TypeScript",
-            "time": "580 hrs 30 mins"
+            "time": "580 hrs 31 mins"
         },
         {
             "language": "YAML",
-            "time": "97 hrs 7 mins"
+            "time": "97 hrs 9 mins"
         },
         {
             "language": "conf",
-            "time": "15 hrs 59 mins"
+            "time": "16 hrs"
         },
         {
             "language": "gitignore",
-            "time": "5 hrs 27 mins"
+            "time": "5 hrs 28 mins"
         },
         {
             "language": "sshconfig",

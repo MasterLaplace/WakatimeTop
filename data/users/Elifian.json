@@ -1,31 +1,35 @@
 {
-    "total_time": "214 hrs 3 mins",
+    "total_time": "238 hrs 38 mins",
     "updated": true,
-    "elo": 215,
+    "elo": 239,
     "languages": [
         {
             "language": "Gradle",
-            "time": "3 hrs 53 mins"
+            "time": "4 hrs 9 mins"
         },
         {
             "language": "Groovy",
-            "time": "3 hrs 25 mins"
+            "time": "4 hrs 9 mins"
         },
         {
             "language": "JSON",
-            "time": "25 hrs 13 mins"
+            "time": "28 hrs 3 mins"
         },
         {
             "language": "Java",
-            "time": "175 hrs 23 mins"
+            "time": "192 hrs 38 mins"
+        },
+        {
+            "language": "Java Properties",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "Properties",
-            "time": "3 hrs 27 mins"
+            "time": "3 hrs 58 mins"
         },
         {
             "language": "TOML",
-            "time": "2 hrs 42 mins"
+            "time": "3 hrs 11 mins"
         }
     ]
 }

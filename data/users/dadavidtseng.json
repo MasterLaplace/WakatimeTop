@@ -1,31 +1,35 @@
 {
-    "total_time": "1,193 hrs 32 mins",
+    "total_time": "1,242 hrs 28 mins",
     "updated": true,
-    "elo": 1194,
+    "elo": 1243,
     "languages": [
         {
             "language": "C",
-            "time": "9 hrs"
+            "time": "11 hrs 7 mins"
         },
         {
             "language": "C#",
-            "time": "10 hrs 12 mins"
+            "time": "10 hrs 35 mins"
         },
         {
             "language": "C++",
-            "time": "938 hrs 17 mins"
+            "time": "961 hrs 23 mins"
         },
         {
             "language": "C/C",
-            "time": "116 hrs 14 mins"
+            "time": "120 hrs 7 mins"
         },
         {
             "language": "CSS",
             "time": "3 hrs 2 mins"
         },
         {
+            "language": "GitIgnore file",
+            "time": "2 hrs 57 mins"
+        },
+        {
             "language": "HLSL",
-            "time": "12 hrs 5 mins"
+            "time": "12 hrs 38 mins"
         },
         {
             "language": "HTML",
@@ -33,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "9 hrs 29 mins"
+            "time": "10 hrs 6 mins"
         },
         {
             "language": "Java",
@@ -41,27 +45,31 @@
         },
         {
             "language": "JavaScript",
-            "time": "10 hrs 50 mins"
+            "time": "11 hrs 48 mins"
         },
         {
             "language": "Markdown",
-            "time": "20 hrs 19 mins"
+            "time": "20 hrs 52 mins"
         },
         {
             "language": "Objective-C",
-            "time": "12 hrs 24 mins"
+            "time": "13 hrs 2 mins"
         },
         {
             "language": "PowerShell",
-            "time": "3 hrs 19 mins"
+            "time": "3 hrs 26 mins"
+        },
+        {
+            "language": "Vcxproj",
+            "time": "5 hrs 4 mins"
         },
         {
             "language": "XML",
-            "time": "17 hrs 5 mins"
+            "time": "24 hrs 1 min"
         },
         {
             "language": "textmate",
-            "time": "3 hrs 10 mins"
+            "time": "4 hrs 14 mins"
         }
     ]
 }

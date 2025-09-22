@@ -1,6 +1,15 @@
 {
-    "total_time": "0 mins",
-    "updated": false,
-    "elo": 108,
-    "languages": []
+    "total_time": "8 hrs 41 mins",
+    "updated": true,
+    "elo": 117,
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "4 hrs 28 mins"
+        },
+        {
+            "language": "Terraform",
+            "time": "4 hrs 13 mins"
+        }
+    ]
 }

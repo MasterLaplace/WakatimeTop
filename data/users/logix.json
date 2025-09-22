@@ -1,7 +1,7 @@
 {
-    "total_time": "2,820 hrs",
+    "total_time": "2,865 hrs 55 mins",
     "updated": true,
-    "elo": 2820,
+    "elo": 2866,
     "languages": [
         {
             "language": "Assembly",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Bash",
-            "time": "69 hrs 16 mins"
+            "time": "69 hrs 51 mins"
         },
         {
             "language": "Blade Template",
-            "time": "24 hrs"
+            "time": "24 hrs 20 mins"
         },
         {
             "language": "CSS",
@@ -21,7 +21,7 @@
         },
         {
             "language": "Docker",
-            "time": "68 hrs 38 mins"
+            "time": "69 hrs 4 mins"
         },
         {
             "language": "Git Config",
@@ -37,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "153 hrs 33 mins"
+            "time": "154 hrs 8 mins"
         },
         {
             "language": "JavaScript",
@@ -49,7 +49,7 @@
         },
         {
             "language": "Markdown",
-            "time": "48 hrs 18 mins"
+            "time": "48 hrs 22 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -57,7 +57,7 @@
         },
         {
             "language": "PHP",
-            "time": "516 hrs 57 mins"
+            "time": "535 hrs 45 mins"
         },
         {
             "language": "Python",
@@ -81,7 +81,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,472 hrs 31 mins"
+            "time": "1,496 hrs 54 mins"
         },
         {
             "language": "XML",
@@ -89,7 +89,7 @@
         },
         {
             "language": "YAML",
-            "time": "106 hrs 46 mins"
+            "time": "107 hrs 30 mins"
         }
     ]
 }

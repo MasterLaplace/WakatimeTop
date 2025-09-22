@@ -1,7 +1,7 @@
 {
-    "total_time": "8 hrs 11 mins",
-    "updated": false,
-    "elo": 73,
+    "total_time": "11 hrs 38 mins",
+    "updated": true,
+    "elo": 76,
     "languages": [
         {
             "language": "Jupyter",
@@ -9,7 +9,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "2 hrs 45 mins"
+            "time": "2 hrs 49 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "3 hrs 23 mins"
         }
     ]
 }

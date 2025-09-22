@@ -1,6 +1,11 @@
 {
-    "total_time": "0 mins",
-    "updated": false,
-    "elo": 57,
-    "languages": []
+    "total_time": "2 hrs 33 mins",
+    "updated": true,
+    "elo": 60,
+    "languages": [
+        {
+            "language": "Python",
+            "time": "2 hrs 33 mins"
+        }
+    ]
 }

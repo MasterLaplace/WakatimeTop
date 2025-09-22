@@ -1,7 +1,7 @@
 {
-    "total_time": "760 hrs 23 mins",
+    "total_time": "814 hrs",
     "updated": true,
-    "elo": 816,
+    "elo": 869,
     "languages": [
         {
             "language": "Bash",
@@ -9,15 +9,15 @@
         },
         {
             "language": "C",
-            "time": "12 hrs 3 mins"
+            "time": "12 hrs 16 mins"
         },
         {
             "language": "C++",
-            "time": "652 hrs 46 mins"
+            "time": "705 hrs 5 mins"
         },
         {
             "language": "CMake",
-            "time": "34 hrs 40 mins"
+            "time": "35 hrs 28 mins"
         },
         {
             "language": "GLSL",
@@ -25,7 +25,7 @@
         },
         {
             "language": "JSON",
-            "time": "3 hrs 58 mins"
+            "time": "4 hrs 6 mins"
         },
         {
             "language": "Java",
@@ -37,11 +37,11 @@
         },
         {
             "language": "conf",
-            "time": "6 hrs 32 mins"
+            "time": "6 hrs 39 mins"
         },
         {
             "language": "fish",
-            "time": "2 hrs 42 mins"
+            "time": "2 hrs 44 mins"
         }
     ]
 }

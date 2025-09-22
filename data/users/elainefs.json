@@ -1,11 +1,15 @@
 {
-    "total_time": "7 hrs 33 mins",
+    "total_time": "12 hrs 49 mins",
     "updated": true,
-    "elo": 76,
+    "elo": 81,
     "languages": [
         {
+            "language": "Markdown",
+            "time": "5 hrs 50 mins"
+        },
+        {
             "language": "Python",
-            "time": "7 hrs 33 mins"
+            "time": "6 hrs 59 mins"
         }
     ]
 }

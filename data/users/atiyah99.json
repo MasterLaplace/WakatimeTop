@@ -1,15 +1,19 @@
 {
-    "total_time": "52 hrs 19 mins",
+    "total_time": "49 hrs 56 mins",
     "updated": true,
     "elo": 106,
     "languages": [
         {
+            "language": "Docker",
+            "time": "2 hrs 50 mins"
+        },
+        {
             "language": "JavaScript",
-            "time": "18 hrs 11 mins"
+            "time": "10 hrs 36 mins"
         },
         {
             "language": "Kotlin",
-            "time": "34 hrs 8 mins"
+            "time": "36 hrs 30 mins"
         }
     ]
 }

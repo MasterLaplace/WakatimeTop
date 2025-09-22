@@ -1,7 +1,7 @@
 {
-    "total_time": "4,511 hrs 42 mins",
-    "updated": false,
-    "elo": 4494,
+    "total_time": "4,523 hrs 34 mins",
+    "updated": true,
+    "elo": 4506,
     "languages": [
         {
             "language": ".env file",
@@ -45,11 +45,11 @@
         },
         {
             "language": "INI",
-            "time": "37 hrs 30 mins"
+            "time": "37 hrs 35 mins"
         },
         {
             "language": "JSON",
-            "time": "68 hrs 38 mins"
+            "time": "68 hrs 39 mins"
         },
         {
             "language": "Java",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Lua",
-            "time": "613 hrs 17 mins"
+            "time": "620 hrs 31 mins"
         },
         {
             "language": "MDX",
@@ -85,7 +85,7 @@
         },
         {
             "language": "SQL",
-            "time": "14 hrs 58 mins"
+            "time": "14 hrs 59 mins"
         },
         {
             "language": "Text",
@@ -97,7 +97,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "253 hrs 1 min"
+            "time": "257 hrs 32 mins"
         },
         {
             "language": "Vue.js",

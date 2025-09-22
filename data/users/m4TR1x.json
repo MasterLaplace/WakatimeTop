@@ -1,19 +1,27 @@
 {
-    "total_time": "16 hrs 1 mins",
+    "total_time": "33 hrs 52 mins",
     "updated": true,
-    "elo": 51,
+    "elo": 68,
     "languages": [
         {
+            "language": "C#",
+            "time": "6 hrs 39 mins"
+        },
+        {
             "language": "Java",
-            "time": "6 hrs 17 mins"
+            "time": "15 hrs 49 mins"
         },
         {
             "language": "PowerShell",
-            "time": "4 hrs 31 mins"
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "Python",
             "time": "5 hrs 13 mins"
+        },
+        {
+            "language": "XML",
+            "time": "3 hrs 41 mins"
         }
     ]
 }

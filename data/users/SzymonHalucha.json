@@ -1,0 +1,43 @@
+{
+    "total_time": "1,888 hrs",
+    "updated": true,
+    "elo": 1888,
+    "languages": [
+        {
+            "language": "C",
+            "time": "4 hrs 5 mins"
+        },
+        {
+            "language": "C#",
+            "time": "1,706 hrs 42 mins"
+        },
+        {
+            "language": "GLSL",
+            "time": "5 hrs 23 mins"
+        },
+        {
+            "language": "HLSL",
+            "time": "57 hrs 49 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "13 hrs 49 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "81 hrs 31 mins"
+        },
+        {
+            "language": "Python",
+            "time": "3 hrs 52 mins"
+        },
+        {
+            "language": "XML",
+            "time": "8 hrs 52 mins"
+        },
+        {
+            "language": "Zig",
+            "time": "5 hrs 57 mins"
+        }
+    ]
+}

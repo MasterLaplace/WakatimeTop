@@ -1,11 +1,11 @@
 {
-    "total_time": "5,474 hrs 24 mins",
+    "total_time": "5,550 hrs 27 mins",
     "updated": true,
-    "elo": 5475,
+    "elo": 5551,
     "languages": [
         {
             "language": "Bash",
-            "time": "11 hrs 18 mins"
+            "time": "11 hrs 46 mins"
         },
         {
             "language": "CSV",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Dart",
-            "time": "4,563 hrs 10 mins"
+            "time": "4,625 hrs 25 mins"
         },
         {
             "language": "Docker",
@@ -21,7 +21,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "6 hrs 40 mins"
+            "time": "6 hrs 44 mins"
         },
         {
             "language": "Gradle",
@@ -33,15 +33,15 @@
         },
         {
             "language": "HTML",
-            "time": "18 hrs 12 mins"
+            "time": "18 hrs 45 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "4 hrs 40 mins"
+            "time": "4 hrs 55 mins"
         },
         {
             "language": "JSON",
-            "time": "45 hrs 5 mins"
+            "time": "45 hrs 36 mins"
         },
         {
             "language": "Java",
@@ -49,7 +49,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "24 hrs 33 mins"
+            "time": "24 hrs 59 mins"
         },
         {
             "language": "Kotlin",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Markdown",
-            "time": "52 hrs 9 mins"
+            "time": "52 hrs 37 mins"
         },
         {
             "language": "Properties",
@@ -73,27 +73,31 @@
         },
         {
             "language": "Swift",
-            "time": "3 hrs 58 mins"
+            "time": "4 hrs 25 mins"
         },
         {
             "language": "Text",
-            "time": "67 hrs 17 mins"
+            "time": "69 hrs 12 mins"
         },
         {
             "language": "TypeScript",
-            "time": "125 hrs 32 mins"
+            "time": "125 hrs 45 mins"
+        },
+        {
+            "language": "XCodeProjectFiles",
+            "time": "2 hrs 37 mins"
         },
         {
             "language": "XML",
-            "time": "30 hrs 42 mins"
+            "time": "30 hrs 43 mins"
         },
         {
             "language": "YAML",
-            "time": "215 hrs 21 mins"
+            "time": "220 hrs 36 mins"
         },
         {
             "language": "textmate",
-            "time": "4 hrs 49 mins"
+            "time": "5 hrs 24 mins"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "total_time": "91 hrs 27 mins",
+    "total_time": "62 hrs 19 mins",
     "updated": true,
     "elo": 223,
     "languages": [
@@ -8,20 +8,20 @@
             "time": "3 hrs 22 mins"
         },
         {
-            "language": "HTTP Request",
-            "time": "10 hrs 19 mins"
+            "language": "Go",
+            "time": "6 hrs 5 mins"
         },
         {
-            "language": "Java",
-            "time": "3 hrs 44 mins"
+            "language": "Markdown",
+            "time": "8 hrs 6 mins"
         },
         {
-            "language": "JavaScript",
-            "time": "19 hrs 19 mins"
+            "language": "Python",
+            "time": "5 hrs"
         },
         {
             "language": "Shell",
-            "time": "3 hrs 7 mins"
+            "time": "10 hrs 57 mins"
         },
         {
             "language": "Text",
@@ -29,11 +29,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "25 hrs 23 mins"
-        },
-        {
-            "language": "Vue",
-            "time": "2 hrs 54 mins"
+            "time": "5 hrs 30 mins"
         }
     ]
 }

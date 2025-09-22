@@ -1,15 +1,11 @@
 {
-    "total_time": "1,389 hrs 45 mins",
+    "total_time": "247 hrs 32 mins",
     "updated": true,
     "elo": 1390,
     "languages": [
         {
             "language": ".env file",
             "time": "2 hrs 34 mins"
-        },
-        {
-            "language": "Bash",
-            "time": "8 hrs 49 mins"
         },
         {
             "language": "CSS",
@@ -28,20 +24,8 @@
             "time": "4 hrs 41 mins"
         },
         {
-            "language": "Env File",
-            "time": "2 hrs 52 mins"
-        },
-        {
             "language": "GitIgnore file",
             "time": "9 hrs 32 mins"
-        },
-        {
-            "language": "Gradle",
-            "time": "9 hrs 52 mins"
-        },
-        {
-            "language": "Groovy",
-            "time": "20 hrs 35 mins"
         },
         {
             "language": "HTML",
@@ -53,19 +37,11 @@
         },
         {
             "language": "Java",
-            "time": "737 hrs 59 mins"
+            "time": "42 hrs 52 mins"
         },
         {
             "language": "Java Properties",
             "time": "4 hrs 54 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "56 hrs 51 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "160 hrs 32 mins"
         },
         {
             "language": "Properties",
@@ -76,24 +52,8 @@
             "time": "8 hrs 7 mins"
         },
         {
-            "language": "SQL",
-            "time": "22 hrs 40 mins"
-        },
-        {
-            "language": "Text",
-            "time": "7 hrs 29 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "81 hrs 18 mins"
-        },
-        {
             "language": "XML",
             "time": "16 hrs 36 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "76 hrs 8 mins"
         }
     ]
 }

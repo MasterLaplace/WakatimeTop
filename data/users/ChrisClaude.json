@@ -1,7 +1,7 @@
 {
-    "total_time": "1,188 hrs 17 mins",
+    "total_time": "1,201 hrs 55 mins",
     "updated": true,
-    "elo": 1189,
+    "elo": 1202,
     "languages": [
         {
             "language": "Bash",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Binary",
-            "time": "15 hrs 59 mins"
+            "time": "15 hrs 41 mins"
         },
         {
             "language": "C#",
-            "time": "326 hrs 21 mins"
+            "time": "317 hrs 21 mins"
         },
         {
             "language": "C++",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Git Config",
-            "time": "6 hrs 26 mins"
+            "time": "6 hrs 27 mins"
         },
         {
             "language": "Go",
@@ -41,15 +41,15 @@
         },
         {
             "language": "HTTP Request",
-            "time": "34 hrs 56 mins"
+            "time": "43 hrs 39 mins"
         },
         {
             "language": "JSON",
-            "time": "49 hrs 49 mins"
+            "time": "52 hrs 22 mins"
         },
         {
             "language": "Markdown",
-            "time": "11 hrs 35 mins"
+            "time": "14 hrs 46 mins"
         },
         {
             "language": "Org",
@@ -61,7 +61,7 @@
         },
         {
             "language": "SQL",
-            "time": "4 hrs 19 mins"
+            "time": "3 hrs 49 mins"
         },
         {
             "language": "Terraform",
@@ -73,11 +73,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "627 hrs 3 mins"
+            "time": "635 hrs 55 mins"
         },
         {
             "language": "YAML",
-            "time": "19 hrs 37 mins"
+            "time": "19 hrs 43 mins"
         }
     ]
 }

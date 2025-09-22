@@ -1,23 +1,31 @@
 {
-    "total_time": "40 hrs 45 mins",
+    "total_time": "49 hrs 4 mins",
     "updated": true,
-    "elo": 59,
+    "elo": 68,
     "languages": [
         {
+            "language": "Blade Template",
+            "time": "4 hrs 30 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "2 hrs 58 mins"
+        },
+        {
             "language": "HTTP Request",
-            "time": "8 hrs 43 mins"
+            "time": "5 hrs 39 mins"
         },
         {
             "language": "JSON",
-            "time": "5 hrs 25 mins"
+            "time": "6 hrs 30 mins"
         },
         {
             "language": "PHP",
-            "time": "20 hrs 14 mins"
+            "time": "21 hrs 31 mins"
         },
         {
             "language": "SQL",
-            "time": "6 hrs 23 mins"
+            "time": "7 hrs 56 mins"
         }
     ]
 }

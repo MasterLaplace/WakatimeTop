@@ -1,31 +1,15 @@
 {
-    "total_time": "59 hrs 20 mins",
+    "total_time": "17 hrs 10 mins",
     "updated": true,
     "elo": 135,
     "languages": [
         {
             "language": "C#",
-            "time": "8 hrs 59 mins"
+            "time": "4 hrs 59 mins"
         },
         {
             "language": "Java",
-            "time": "32 hrs"
-        },
-        {
-            "language": "Kotlin",
-            "time": "6 hrs 21 mins"
-        },
-        {
-            "language": "SQL",
-            "time": "4 hrs 9 mins"
-        },
-        {
-            "language": "Vue.js",
-            "time": "2 hrs 59 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "4 hrs 52 mins"
+            "time": "12 hrs 11 mins"
         }
     ]
 }

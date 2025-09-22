@@ -1,7 +1,7 @@
 {
-    "total_time": "2,761 hrs 49 mins",
+    "total_time": "2,797 hrs 25 mins",
     "updated": true,
-    "elo": 2762,
+    "elo": 2798,
     "languages": [
         {
             "language": "Bash",
@@ -33,7 +33,7 @@
         },
         {
             "language": "JSON",
-            "time": "12 hrs 6 mins"
+            "time": "12 hrs 13 mins"
         },
         {
             "language": "JavaScript",
@@ -41,15 +41,15 @@
         },
         {
             "language": "Kotlin",
-            "time": "2,195 hrs"
+            "time": "2,225 hrs 22 mins"
         },
         {
             "language": "Markdown",
-            "time": "103 hrs 6 mins"
+            "time": "103 hrs 7 mins"
         },
         {
             "language": "Python",
-            "time": "107 hrs 48 mins"
+            "time": "111 hrs 44 mins"
         },
         {
             "language": "SQL",
@@ -57,11 +57,11 @@
         },
         {
             "language": "SqlDelight",
-            "time": "36 hrs 26 mins"
+            "time": "36 hrs 33 mins"
         },
         {
             "language": "SqlDelight Migration",
-            "time": "2 hrs 31 mins"
+            "time": "2 hrs 32 mins"
         },
         {
             "language": "TOML",
@@ -69,15 +69,15 @@
         },
         {
             "language": "Text",
-            "time": "5 hrs 27 mins"
+            "time": "5 hrs 31 mins"
         },
         {
             "language": "TypeScript",
-            "time": "88 hrs 56 mins"
+            "time": "89 hrs 46 mins"
         },
         {
             "language": "XML",
-            "time": "20 hrs 40 mins"
+            "time": "20 hrs 48 mins"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "total_time": "34 hrs 41 mins",
+    "total_time": "37 hrs 1 mins",
     "updated": true,
-    "elo": 116,
+    "elo": 119,
     "languages": [
         {
-            "language": "Java",
-            "time": "9 hrs 32 mins"
+            "language": "Dart",
+            "time": "8 hrs 43 mins"
         },
         {
             "language": "PHP",
-            "time": "3 hrs 37 mins"
+            "time": "8 hrs 17 mins"
         },
         {
             "language": "Protocol Buffer",
@@ -17,7 +17,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "18 hrs 42 mins"
+            "time": "17 hrs 11 mins"
         }
     ]
 }

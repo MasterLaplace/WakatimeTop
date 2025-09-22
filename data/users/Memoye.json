@@ -1,11 +1,11 @@
 {
-    "total_time": "2,803 hrs 41 mins",
+    "total_time": "2,885 hrs 27 mins",
     "updated": true,
-    "elo": 2804,
+    "elo": 2886,
     "languages": [
         {
             "language": ".env file",
-            "time": "3 hrs 10 mins"
+            "time": "3 hrs 11 mins"
         },
         {
             "language": "Astro",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "7 hrs 23 mins"
+            "time": "7 hrs 25 mins"
         },
         {
             "language": "CSS",
@@ -21,7 +21,11 @@
         },
         {
             "language": "Dart",
-            "time": "34 hrs 22 mins"
+            "time": "86 hrs 58 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "2 hrs 50 mins"
         },
         {
             "language": "HTML",
@@ -33,11 +37,11 @@
         },
         {
             "language": "JSON",
-            "time": "32 hrs 37 mins"
+            "time": "32 hrs 38 mins"
         },
         {
             "language": "JavaScript",
-            "time": "1,013 hrs 22 mins"
+            "time": "1,014 hrs 30 mins"
         },
         {
             "language": "Markdown",
@@ -57,7 +61,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,578 hrs 57 mins"
+            "time": "1,604 hrs 5 mins"
         }
     ]
 }

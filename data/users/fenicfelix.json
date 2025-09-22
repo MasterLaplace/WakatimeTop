@@ -1,15 +1,19 @@
 {
-    "total_time": "40 hrs 18 mins",
+    "total_time": "50 hrs 15 mins",
     "updated": true,
-    "elo": 132,
+    "elo": 142,
     "languages": [
         {
+            "language": "Blade Template",
+            "time": "5 hrs 35 mins"
+        },
+        {
             "language": "Dart",
-            "time": "16 hrs 4 mins"
+            "time": "13 hrs 16 mins"
         },
         {
             "language": "PHP",
-            "time": "11 hrs 8 mins"
+            "time": "18 hrs 18 mins"
         },
         {
             "language": "Solidity",

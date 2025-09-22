@@ -1,7 +1,7 @@
 {
-    "total_time": "2,150 hrs 33 mins",
+    "total_time": "2,179 hrs 40 mins",
     "updated": true,
-    "elo": 2151,
+    "elo": 2180,
     "languages": [
         {
             "language": "Blade Template",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Dart",
-            "time": "1,901 hrs 56 mins"
+            "time": "1,927 hrs 36 mins"
         },
         {
             "language": "Git Config",
@@ -21,15 +21,15 @@
         },
         {
             "language": "Groovy",
-            "time": "10 hrs 6 mins"
+            "time": "10 hrs 12 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "3 hrs 5 mins"
+            "time": "3 hrs 23 mins"
         },
         {
             "language": "JSON",
-            "time": "15 hrs 11 mins"
+            "time": "15 hrs 19 mins"
         },
         {
             "language": "Java Properties",
@@ -37,7 +37,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "45 hrs 32 mins"
+            "time": "45 hrs 34 mins"
         },
         {
             "language": "Markdown",
@@ -64,8 +64,12 @@
             "time": "7 hrs 1 min"
         },
         {
+            "language": "XML",
+            "time": "2 hrs 31 mins"
+        },
+        {
             "language": "YAML",
-            "time": "19 hrs 48 mins"
+            "time": "20 hrs 10 mins"
         }
     ]
 }
