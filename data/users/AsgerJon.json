@@ -1,7 +1,7 @@
 {
-    "total_time": "6,052 hrs 22 mins",
-    "updated": false,
-    "elo": 6051,
+    "total_time": "6,070 hrs 46 mins",
+    "updated": true,
+    "elo": 6069,
     "languages": [
         {
             "language": "Bash",
@@ -33,7 +33,7 @@
         },
         {
             "language": "HTML",
-            "time": "37 hrs 14 mins"
+            "time": "37 hrs 15 mins"
         },
         {
             "language": "INI",
@@ -57,11 +57,11 @@
         },
         {
             "language": "Python",
-            "time": "5,357 hrs 42 mins"
+            "time": "5,376 hrs 4 mins"
         },
         {
             "language": "PythonStub",
-            "time": "5 hrs 39 mins"
+            "time": "5 hrs 40 mins"
         },
         {
             "language": "QML",

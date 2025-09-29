@@ -1,11 +1,11 @@
 {
-    "total_time": "1,053 hrs 34 mins",
+    "total_time": "1,090 hrs 28 mins",
     "updated": true,
-    "elo": 1054,
+    "elo": 1091,
     "languages": [
         {
             "language": "CLASS",
-            "time": "3 hrs 44 mins"
+            "time": "3 hrs 48 mins"
         },
         {
             "language": "CSS",
@@ -25,19 +25,19 @@
         },
         {
             "language": "HTML",
-            "time": "3 hrs 1 min"
+            "time": "3 hrs 58 mins"
         },
         {
             "language": "JSON",
-            "time": "49 hrs 20 mins"
+            "time": "57 hrs 32 mins"
         },
         {
             "language": "Java",
-            "time": "749 hrs 42 mins"
+            "time": "772 hrs 47 mins"
         },
         {
             "language": "Java Properties",
-            "time": "9 hrs 43 mins"
+            "time": "9 hrs 47 mins"
         },
         {
             "language": "Kotlin",
@@ -45,11 +45,11 @@
         },
         {
             "language": "Markdown",
-            "time": "8 hrs 11 mins"
+            "time": "8 hrs 12 mins"
         },
         {
             "language": "Properties",
-            "time": "20 hrs 48 mins"
+            "time": "20 hrs 53 mins"
         },
         {
             "language": "Rust",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Text",
-            "time": "5 hrs 2 mins"
+            "time": "5 hrs 15 mins"
         },
         {
             "language": "TypeScript",
@@ -70,6 +70,10 @@
         {
             "language": "XML",
             "time": "6 hrs 46 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "4 hrs 13 mins"
         }
     ]
 }

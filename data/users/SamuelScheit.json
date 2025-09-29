@@ -1,19 +1,23 @@
 {
-    "total_time": "53 hrs 26 mins",
+    "total_time": "39 hrs 59 mins",
     "updated": true,
     "elo": 54,
     "languages": [
         {
             "language": "C++",
-            "time": "13 hrs 38 mins"
+            "time": "2 hrs 50 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "3 hrs 50 mins"
         },
         {
             "language": "JSON",
-            "time": "11 hrs 49 mins"
+            "time": "18 hrs 15 mins"
         },
         {
             "language": "TypeScript",
-            "time": "27 hrs 59 mins"
+            "time": "15 hrs 4 mins"
         }
     ]
 }

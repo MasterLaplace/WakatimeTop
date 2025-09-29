@@ -1,15 +1,15 @@
 {
-    "total_time": "3,275 hrs 26 mins",
+    "total_time": "3,380 hrs 12 mins",
     "updated": true,
-    "elo": 3276,
+    "elo": 3381,
     "languages": [
         {
             "language": ".env file",
-            "time": "6 hrs 34 mins"
+            "time": "8 hrs 37 mins"
         },
         {
             "language": "Bash",
-            "time": "9 hrs 25 mins"
+            "time": "9 hrs 51 mins"
         },
         {
             "language": "Blazor",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C#",
-            "time": "2,261 hrs 6 mins"
+            "time": "2,350 hrs 19 mins"
         },
         {
             "language": "CSS",
@@ -29,11 +29,11 @@
         },
         {
             "language": "Csproj",
-            "time": "66 hrs 46 mins"
+            "time": "68 hrs 27 mins"
         },
         {
             "language": "Docker",
-            "time": "41 hrs 12 mins"
+            "time": "41 hrs 36 mins"
         },
         {
             "language": "EditorConfig",
@@ -49,7 +49,7 @@
         },
         {
             "language": "HTML",
-            "time": "34 hrs 7 mins"
+            "time": "34 hrs 24 mins"
         },
         {
             "language": "HTTP Request",
@@ -61,7 +61,7 @@
         },
         {
             "language": "JSON",
-            "time": "65 hrs 28 mins"
+            "time": "67 hrs 8 mins"
         },
         {
             "language": "Java",
@@ -69,15 +69,15 @@
         },
         {
             "language": "JavaScript",
-            "time": "24 hrs 2 mins"
+            "time": "24 hrs 48 mins"
         },
         {
             "language": "Markdown",
-            "time": "59 hrs 21 mins"
+            "time": "63 hrs 4 mins"
         },
         {
             "language": "MsBuild targets file",
-            "time": "4 hrs 19 mins"
+            "time": "4 hrs 20 mins"
         },
         {
             "language": "Nginx Configuration Pro",
@@ -85,11 +85,11 @@
         },
         {
             "language": "Nginx configuration file",
-            "time": "4 hrs 55 mins"
+            "time": "4 hrs 58 mins"
         },
         {
             "language": "Project file properties",
-            "time": "7 hrs 31 mins"
+            "time": "7 hrs 32 mins"
         },
         {
             "language": "Razor",
@@ -105,11 +105,11 @@
         },
         {
             "language": "Solution File",
-            "time": "13 hrs 18 mins"
+            "time": "13 hrs 32 mins"
         },
         {
             "language": "Text",
-            "time": "16 hrs 52 mins"
+            "time": "17 hrs 2 mins"
         },
         {
             "language": "Vue.js",
@@ -121,7 +121,7 @@
         },
         {
             "language": "XML",
-            "time": "76 hrs 40 mins"
+            "time": "77 hrs 57 mins"
         },
         {
             "language": "XML Solution File",
@@ -129,11 +129,11 @@
         },
         {
             "language": "YAML",
-            "time": "109 hrs 33 mins"
+            "time": "112 hrs 3 mins"
         },
         {
             "language": "textmate",
-            "time": "12 hrs 24 mins"
+            "time": "12 hrs 41 mins"
         }
     ]
 }

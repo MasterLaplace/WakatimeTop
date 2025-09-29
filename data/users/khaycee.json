@@ -1,19 +1,23 @@
 {
-    "total_time": "46 hrs 51 mins",
+    "total_time": "61 hrs 11 mins",
     "updated": true,
-    "elo": 146,
+    "elo": 161,
     "languages": [
         {
             "language": "CSS",
-            "time": "4 hrs 35 mins"
+            "time": "2 hrs 54 mins"
         },
         {
             "language": "HTML",
-            "time": "11 hrs 11 mins"
+            "time": "5 hrs 29 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "3 hrs 19 mins"
         },
         {
             "language": "PHP",
-            "time": "9 hrs 47 mins"
+            "time": "27 hrs 31 mins"
         },
         {
             "language": "Smarty",
@@ -21,7 +25,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "5 hrs 59 mins"
+            "time": "6 hrs 39 mins"
         }
     ]
 }

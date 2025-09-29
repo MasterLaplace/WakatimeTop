@@ -1,11 +1,11 @@
 {
-    "total_time": "1,242 hrs 28 mins",
+    "total_time": "1,272 hrs",
     "updated": true,
-    "elo": 1243,
+    "elo": 1272,
     "languages": [
         {
             "language": "C",
-            "time": "11 hrs 7 mins"
+            "time": "13 hrs 12 mins"
         },
         {
             "language": "C#",
@@ -13,11 +13,11 @@
         },
         {
             "language": "C++",
-            "time": "961 hrs 23 mins"
+            "time": "976 hrs 54 mins"
         },
         {
             "language": "C/C",
-            "time": "120 hrs 7 mins"
+            "time": "123 hrs 24 mins"
         },
         {
             "language": "CSS",
@@ -25,7 +25,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "2 hrs 57 mins"
+            "time": "3 hrs 12 mins"
         },
         {
             "language": "HLSL",
@@ -45,31 +45,35 @@
         },
         {
             "language": "JavaScript",
-            "time": "11 hrs 48 mins"
+            "time": "12 hrs 11 mins"
         },
         {
             "language": "Markdown",
-            "time": "20 hrs 52 mins"
+            "time": "21 hrs 49 mins"
         },
         {
             "language": "Objective-C",
-            "time": "13 hrs 2 mins"
+            "time": "14 hrs 57 mins"
         },
         {
             "language": "PowerShell",
-            "time": "3 hrs 26 mins"
+            "time": "3 hrs 27 mins"
         },
         {
             "language": "Vcxproj",
-            "time": "5 hrs 4 mins"
+            "time": "5 hrs 34 mins"
         },
         {
             "language": "XML",
-            "time": "24 hrs 1 min"
+            "time": "25 hrs 16 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 46 mins"
         },
         {
             "language": "textmate",
-            "time": "4 hrs 14 mins"
+            "time": "4 hrs 51 mins"
         }
     ]
 }

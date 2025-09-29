@@ -1,7 +1,7 @@
 {
-    "total_time": "2,002 hrs 50 mins",
+    "total_time": "2,047 hrs 13 mins",
     "updated": true,
-    "elo": 2003,
+    "elo": 2048,
     "languages": [
         {
             "language": "Bash",
@@ -9,19 +9,27 @@
         },
         {
             "language": "Dart",
-            "time": "80 hrs 34 mins"
+            "time": "90 hrs"
+        },
+        {
+            "language": "Go",
+            "time": "4 hrs 42 mins"
         },
         {
             "language": "HTML",
-            "time": "6 hrs 5 mins"
+            "time": "6 hrs 16 mins"
+        },
+        {
+            "language": "HTTP",
+            "time": "3 hrs 36 mins"
         },
         {
             "language": "JSON",
-            "time": "93 hrs 56 mins"
+            "time": "97 hrs 34 mins"
         },
         {
             "language": "JavaScript",
-            "time": "114 hrs 20 mins"
+            "time": "114 hrs 48 mins"
         },
         {
             "language": "LESS",
@@ -29,11 +37,11 @@
         },
         {
             "language": "Lua",
-            "time": "49 hrs 7 mins"
+            "time": "49 hrs 15 mins"
         },
         {
             "language": "Markdown",
-            "time": "107 hrs 14 mins"
+            "time": "108 hrs 46 mins"
         },
         {
             "language": "Org",
@@ -41,15 +49,15 @@
         },
         {
             "language": "SCSS",
-            "time": "64 hrs 19 mins"
+            "time": "65 hrs 51 mins"
         },
         {
             "language": "Text",
-            "time": "2 hrs 35 mins"
+            "time": "2 hrs 44 mins"
         },
         {
             "language": "TypeScript",
-            "time": "931 hrs 6 mins"
+            "time": "950 hrs"
         },
         {
             "language": "Vue.js",
@@ -57,7 +65,7 @@
         },
         {
             "language": "YAML",
-            "time": "6 hrs 4 mins"
+            "time": "6 hrs 11 mins"
         },
         {
             "language": "fish",

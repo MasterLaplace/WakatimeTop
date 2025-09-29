@@ -1,27 +1,31 @@
 {
-    "total_time": "180 hrs 9 mins",
+    "total_time": "197 hrs 29 mins",
     "updated": true,
-    "elo": 181,
+    "elo": 198,
     "languages": [
         {
             "language": "HTML",
-            "time": "10 hrs 2 mins"
+            "time": "10 hrs 20 mins"
         },
         {
             "language": "Java",
-            "time": "147 hrs 5 mins"
+            "time": "159 hrs 46 mins"
         },
         {
             "language": "Java Properties",
-            "time": "4 hrs 1 min"
+            "time": "4 hrs 30 mins"
         },
         {
             "language": "JavaScript",
-            "time": "14 hrs 19 mins"
+            "time": "15 hrs 6 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "XML",
-            "time": "4 hrs 42 mins"
+            "time": "4 hrs 56 mins"
         }
     ]
 }

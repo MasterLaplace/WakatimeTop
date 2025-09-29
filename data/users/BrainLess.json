@@ -1,7 +1,7 @@
 {
-    "total_time": "17 hrs 23 mins",
+    "total_time": "19 hrs 2 mins",
     "updated": true,
-    "elo": 95,
+    "elo": 97,
     "languages": [
         {
             "language": "C++",
@@ -9,7 +9,11 @@
         },
         {
             "language": "Lua",
-            "time": "11 hrs 55 mins"
+            "time": "9 hrs"
+        },
+        {
+            "language": "Svelte",
+            "time": "4 hrs 34 mins"
         }
     ]
 }

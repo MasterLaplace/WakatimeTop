@@ -1,5 +1,5 @@
 {
-    "total_time": "247 hrs 32 mins",
+    "total_time": "229 hrs 24 mins",
     "updated": true,
     "elo": 1390,
     "languages": [
@@ -14,10 +14,6 @@
         {
             "language": "Dart",
             "time": "3 hrs 35 mins"
-        },
-        {
-            "language": "Docker",
-            "time": "9 hrs"
         },
         {
             "language": "ERB",
@@ -37,11 +33,15 @@
         },
         {
             "language": "Java",
-            "time": "42 hrs 52 mins"
+            "time": "27 hrs 9 mins"
         },
         {
             "language": "Java Properties",
             "time": "4 hrs 54 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "2 hrs 34 mins"
         },
         {
             "language": "Properties",
@@ -54,6 +54,10 @@
         {
             "language": "XML",
             "time": "16 hrs 36 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 1 min"
         }
     ]
 }

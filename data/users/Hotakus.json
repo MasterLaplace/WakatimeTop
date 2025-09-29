@@ -1,7 +1,7 @@
 {
-    "total_time": "32 hrs 58 mins",
+    "total_time": "49 hrs 57 mins",
     "updated": true,
-    "elo": 96,
+    "elo": 113,
     "languages": [
         {
             "language": "Java",
@@ -9,11 +9,15 @@
         },
         {
             "language": "Rust",
-            "time": "4 hrs 27 mins"
+            "time": "15 hrs 43 mins"
         },
         {
-            "language": "YAML",
-            "time": "4 hrs 18 mins"
+            "language": "TypeScript",
+            "time": "4 hrs 40 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "5 hrs 21 mins"
         }
     ]
 }

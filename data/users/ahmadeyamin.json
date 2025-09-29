@@ -1,27 +1,19 @@
 {
-    "total_time": "38 hrs 22 mins",
+    "total_time": "17 hrs 16 mins",
     "updated": true,
     "elo": 122,
     "languages": [
-        {
-            "language": "Blade Template",
-            "time": "12 hrs"
-        },
         {
             "language": "Docker",
             "time": "3 hrs 47 mins"
         },
         {
             "language": "PHP",
-            "time": "10 hrs 15 mins"
+            "time": "10 hrs 57 mins"
         },
         {
             "language": "TOML",
             "time": "2 hrs 32 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "9 hrs 48 mins"
         }
     ]
 }

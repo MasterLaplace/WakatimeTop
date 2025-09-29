@@ -1,11 +1,15 @@
 {
-    "total_time": "522 hrs 30 mins",
+    "total_time": "570 hrs 43 mins",
     "updated": true,
-    "elo": 523,
+    "elo": 571,
     "languages": [
         {
             "language": "Bash",
-            "time": "9 hrs 21 mins"
+            "time": "9 hrs 44 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "2 hrs 48 mins"
         },
         {
             "language": "Caddyfile",
@@ -17,11 +21,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "38 hrs 25 mins"
+            "time": "38 hrs 56 mins"
         },
         {
             "language": "Markdown",
-            "time": "10 hrs 22 mins"
+            "time": "10 hrs 30 mins"
         },
         {
             "language": "Python",
@@ -29,7 +33,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "224 hrs 15 mins"
+            "time": "268 hrs 38 mins"
         },
         {
             "language": "YAML",

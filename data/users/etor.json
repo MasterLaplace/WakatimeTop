@@ -1,7 +1,7 @@
 {
-    "total_time": "11,237 hrs 1 mins",
+    "total_time": "11,271 hrs 26 mins",
     "updated": true,
-    "elo": 11238,
+    "elo": 11272,
     "languages": [
         {
             "language": "AMPL",
@@ -25,7 +25,7 @@
         },
         {
             "language": "C",
-            "time": "47 hrs 59 mins"
+            "time": "48 hrs"
         },
         {
             "language": "C#",
@@ -109,7 +109,7 @@
         },
         {
             "language": "Markdown",
-            "time": "269 hrs 57 mins"
+            "time": "271 hrs 22 mins"
         },
         {
             "language": "Nix",
@@ -125,7 +125,7 @@
         },
         {
             "language": "Python",
-            "time": "282 hrs 2 mins"
+            "time": "282 hrs 31 mins"
         },
         {
             "language": "Rust",
@@ -157,7 +157,7 @@
         },
         {
             "language": "Text",
-            "time": "180 hrs 7 mins"
+            "time": "180 hrs 15 mins"
         },
         {
             "language": "Transact-SQL",
@@ -181,11 +181,11 @@
         },
         {
             "language": "Zig",
-            "time": "1,523 hrs 27 mins"
+            "time": "1,554 hrs 39 mins"
         },
         {
             "language": "bigfile",
-            "time": "14 hrs 29 mins"
+            "time": "15 hrs 39 mins"
         },
         {
             "language": "conf",

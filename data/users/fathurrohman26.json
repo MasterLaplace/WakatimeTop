@@ -1,15 +1,19 @@
 {
-    "total_time": "3,090 hrs 8 mins",
+    "total_time": "3,119 hrs 40 mins",
     "updated": true,
-    "elo": 3091,
+    "elo": 3120,
     "languages": [
         {
+            "language": "Astro",
+            "time": "6 hrs 2 mins"
+        },
+        {
             "language": "Bash",
-            "time": "61 hrs 59 mins"
+            "time": "62 hrs 23 mins"
         },
         {
             "language": "Blade Template",
-            "time": "153 hrs 8 mins"
+            "time": "156 hrs 30 mins"
         },
         {
             "language": "C++",
@@ -17,7 +21,7 @@
         },
         {
             "language": "CSS",
-            "time": "18 hrs 10 mins"
+            "time": "18 hrs 27 mins"
         },
         {
             "language": "Dart",
@@ -33,7 +37,7 @@
         },
         {
             "language": "HTML",
-            "time": "93 hrs 12 mins"
+            "time": "95 hrs 5 mins"
         },
         {
             "language": "Image (svg)",
@@ -41,11 +45,11 @@
         },
         {
             "language": "JSON",
-            "time": "28 hrs 53 mins"
+            "time": "28 hrs 54 mins"
         },
         {
             "language": "JavaScript",
-            "time": "139 hrs 2 mins"
+            "time": "139 hrs 6 mins"
         },
         {
             "language": "Markdown",
@@ -53,11 +57,11 @@
         },
         {
             "language": "PHP",
-            "time": "936 hrs 45 mins"
+            "time": "947 hrs 44 mins"
         },
         {
             "language": "Python",
-            "time": "62 hrs 13 mins"
+            "time": "62 hrs 52 mins"
         },
         {
             "language": "Ren'Py",
@@ -69,7 +73,7 @@
         },
         {
             "language": "SQL",
-            "time": "3 hrs 16 mins"
+            "time": "3 hrs 27 mins"
         },
         {
             "language": "TOML",
@@ -81,7 +85,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "436 hrs 55 mins"
+            "time": "442 hrs 35 mins"
         },
         {
             "language": "Vue.js",

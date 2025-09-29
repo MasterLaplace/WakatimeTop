@@ -1,7 +1,7 @@
 {
-    "total_time": "2,694 hrs 25 mins",
+    "total_time": "2,720 hrs",
     "updated": true,
-    "elo": 2695,
+    "elo": 2720,
     "languages": [
         {
             "language": "C",
@@ -9,15 +9,15 @@
         },
         {
             "language": "C++",
-            "time": "533 hrs 5 mins"
+            "time": "535 hrs 6 mins"
         },
         {
             "language": "C/C",
-            "time": "63 hrs 25 mins"
+            "time": "64 hrs"
         },
         {
             "language": "CMake",
-            "time": "14 hrs 55 mins"
+            "time": "15 hrs 5 mins"
         },
         {
             "language": "Docker",
@@ -29,11 +29,11 @@
         },
         {
             "language": "Git",
-            "time": "8 hrs 59 mins"
+            "time": "9 hrs 29 mins"
         },
         {
             "language": "Git Config",
-            "time": "3 hrs 22 mins"
+            "time": "3 hrs 26 mins"
         },
         {
             "language": "GitIgnore file",
@@ -41,11 +41,11 @@
         },
         {
             "language": "HLSL",
-            "time": "7 hrs 8 mins"
+            "time": "7 hrs 31 mins"
         },
         {
             "language": "JSON",
-            "time": "9 hrs 41 mins"
+            "time": "9 hrs 53 mins"
         },
         {
             "language": "Jupyter",
@@ -57,11 +57,11 @@
         },
         {
             "language": "Lua",
-            "time": "15 hrs 58 mins"
+            "time": "15 hrs 59 mins"
         },
         {
             "language": "Markdown",
-            "time": "19 hrs 20 mins"
+            "time": "19 hrs 24 mins"
         },
         {
             "language": "Objective-C",
@@ -77,11 +77,11 @@
         },
         {
             "language": "Rust",
-            "time": "1,557 hrs 26 mins"
+            "time": "1,576 hrs 16 mins"
         },
         {
             "language": "TOML",
-            "time": "77 hrs 29 mins"
+            "time": "79 hrs 55 mins"
         },
         {
             "language": "TSQL",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Text",
-            "time": "6 hrs 52 mins"
+            "time": "7 hrs 11 mins"
         },
         {
             "language": "Unreal Engine",

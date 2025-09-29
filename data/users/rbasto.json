@@ -1,31 +1,31 @@
 {
-    "total_time": "775 hrs 24 mins",
+    "total_time": "795 hrs 27 mins",
     "updated": true,
-    "elo": 776,
+    "elo": 796,
     "languages": [
         {
             "language": "Bash",
-            "time": "10 hrs 39 mins"
+            "time": "11 hrs 50 mins"
         },
         {
             "language": "Blade Template",
-            "time": "9 hrs 1 min"
+            "time": "9 hrs 9 mins"
         },
         {
             "language": "CSS",
-            "time": "3 hrs 18 mins"
+            "time": "3 hrs 19 mins"
         },
         {
             "language": "JSON",
-            "time": "52 hrs 56 mins"
+            "time": "56 hrs 9 mins"
         },
         {
             "language": "JavaScript",
-            "time": "12 hrs 16 mins"
+            "time": "12 hrs 17 mins"
         },
         {
             "language": "Markdown",
-            "time": "16 hrs 7 mins"
+            "time": "19 hrs 16 mins"
         },
         {
             "language": "PHP",
@@ -33,31 +33,35 @@
         },
         {
             "language": "Prisma",
-            "time": "5 hrs 9 mins"
+            "time": "4 hrs 5 mins"
         },
         {
             "language": "SCSS",
-            "time": "8 hrs 4 mins"
+            "time": "8 hrs 3 mins"
         },
         {
             "language": "SQL",
-            "time": "15 hrs 20 mins"
+            "time": "15 hrs 41 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "2 hrs 55 mins"
         },
         {
             "language": "TSConfig",
-            "time": "4 hrs 25 mins"
+            "time": "4 hrs 28 mins"
         },
         {
             "language": "Text",
-            "time": "11 hrs 52 mins"
+            "time": "11 hrs 18 mins"
         },
         {
             "language": "TypeScript",
-            "time": "606 hrs 11 mins"
+            "time": "616 hrs 20 mins"
         },
         {
             "language": "YAML",
-            "time": "3 hrs 36 mins"
+            "time": "4 hrs 7 mins"
         }
     ]
 }

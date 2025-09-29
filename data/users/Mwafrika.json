@@ -1,15 +1,19 @@
 {
-    "total_time": "2,466 hrs 53 mins",
+    "total_time": "2,544 hrs 46 mins",
     "updated": true,
-    "elo": 2467,
+    "elo": 2545,
     "languages": [
+        {
+            "language": "Bash",
+            "time": "2 hrs 40 mins"
+        },
         {
             "language": "Blade Template",
             "time": "8 hrs 21 mins"
         },
         {
             "language": "CSS",
-            "time": "43 hrs 33 mins"
+            "time": "44 hrs 22 mins"
         },
         {
             "language": "Docker",
@@ -18,6 +22,14 @@
         {
             "language": "Elixir",
             "time": "24 hrs 13 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "2 hrs 30 mins"
+        },
+        {
+            "language": "GitIgnore file",
+            "time": "2 hrs 32 mins"
         },
         {
             "language": "Groovy",
@@ -33,7 +45,7 @@
         },
         {
             "language": "JSON",
-            "time": "17 hrs 5 mins"
+            "time": "17 hrs 17 mins"
         },
         {
             "language": "Java",
@@ -41,7 +53,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "445 hrs 20 mins"
+            "time": "445 hrs 35 mins"
         },
         {
             "language": "Kotlin",
@@ -57,7 +69,7 @@
         },
         {
             "language": "Python",
-            "time": "507 hrs 13 mins"
+            "time": "525 hrs 50 mins"
         },
         {
             "language": "Text",
@@ -65,11 +77,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "210 hrs 7 mins"
+            "time": "260 hrs 22 mins"
         },
         {
             "language": "Vue.js",
-            "time": "342 hrs 45 mins"
+            "time": "342 hrs 48 mins"
         },
         {
             "language": "XML",

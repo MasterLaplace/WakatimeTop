@@ -1,23 +1,27 @@
 {
-    "total_time": "57 hrs 37 mins",
+    "total_time": "39 hrs 4 mins",
     "updated": true,
     "elo": 71,
     "languages": [
         {
             "language": "C#",
-            "time": "41 hrs 33 mins"
+            "time": "21 hrs 51 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "5 hrs 39 mins"
         },
         {
             "language": "HTTP Request",
-            "time": "4 hrs 43 mins"
+            "time": "4 hrs 5 mins"
         },
         {
             "language": "JSON",
-            "time": "7 hrs 10 mins"
+            "time": "4 hrs 49 mins"
         },
         {
-            "language": "Markdown",
-            "time": "4 hrs 11 mins"
+            "language": "Python",
+            "time": "2 hrs 40 mins"
         }
     ]
 }

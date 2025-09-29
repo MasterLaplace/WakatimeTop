@@ -1,7 +1,7 @@
 {
-    "total_time": "24 hrs 47 mins",
+    "total_time": "31 hrs 52 mins",
     "updated": true,
-    "elo": 120,
+    "elo": 127,
     "languages": [
         {
             "language": "C",
@@ -18,6 +18,10 @@
         {
             "language": "Tcl",
             "time": "5 hrs 3 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "7 hrs 5 mins"
         }
     ]
 }
