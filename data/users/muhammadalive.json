@@ -1,6 +1,6 @@
 {
-    "total_time": "2,799 hrs 27 mins",
-    "updated": false,
+    "total_time": "2,799 hrs 30 mins",
+    "updated": true,
     "elo": 2800,
     "languages": [
         {
@@ -25,7 +25,7 @@
         },
         {
             "language": "HTML",
-            "time": "75 hrs 8 mins"
+            "time": "75 hrs 9 mins"
         },
         {
             "language": "INI",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Python",
-            "time": "2,081 hrs 35 mins"
+            "time": "2,081 hrs 36 mins"
         },
         {
             "language": "Rust",
@@ -77,7 +77,7 @@
         },
         {
             "language": "YAML",
-            "time": "33 hrs 27 mins"
+            "time": "33 hrs 28 mins"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "total_time": "4,773 hrs 56 mins",
+    "total_time": "4,836 hrs 32 mins",
     "updated": true,
-    "elo": 4774,
+    "elo": 4837,
     "languages": [
         {
             "language": "Bash",
-            "time": "27 hrs 56 mins"
+            "time": "28 hrs 11 mins"
         },
         {
             "language": "C",
-            "time": "10 hrs 37 mins"
+            "time": "10 hrs 40 mins"
         },
         {
             "language": "Docker",
@@ -25,7 +25,7 @@
         },
         {
             "language": "INI",
-            "time": "44 hrs"
+            "time": "44 hrs 20 mins"
         },
         {
             "language": "JSON",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Lua",
-            "time": "154 hrs 9 mins"
+            "time": "154 hrs 40 mins"
         },
         {
             "language": "Makefile",
@@ -41,15 +41,15 @@
         },
         {
             "language": "Markdown",
-            "time": "64 hrs 49 mins"
+            "time": "65 hrs 27 mins"
         },
         {
             "language": "Python",
-            "time": "3,212 hrs 35 mins"
+            "time": "3,266 hrs 50 mins"
         },
         {
             "language": "TOML",
-            "time": "118 hrs 35 mins"
+            "time": "119 hrs 32 mins"
         },
         {
             "language": "TeX",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Text",
-            "time": "37 hrs 33 mins"
+            "time": "37 hrs 47 mins"
         },
         {
             "language": "Vim Script",
@@ -65,7 +65,7 @@
         },
         {
             "language": "YAML",
-            "time": "240 hrs 42 mins"
+            "time": "242 hrs 16 mins"
         },
         {
             "language": "cfg",
@@ -73,7 +73,7 @@
         },
         {
             "language": "conf",
-            "time": "8 hrs 30 mins"
+            "time": "8 hrs 35 mins"
         },
         {
             "language": "confini",
@@ -85,7 +85,7 @@
         },
         {
             "language": "gitrebase",
-            "time": "69 hrs 50 mins"
+            "time": "70 hrs 5 mins"
         },
         {
             "language": "gotpl",
@@ -93,15 +93,15 @@
         },
         {
             "language": "jq",
-            "time": "12 hrs 36 mins"
+            "time": "12 hrs 43 mins"
         },
         {
             "language": "reStructuredText",
-            "time": "54 hrs 49 mins"
+            "time": "55 hrs 14 mins"
         },
         {
             "language": "sh",
-            "time": "41 hrs 16 mins"
+            "time": "41 hrs 26 mins"
         },
         {
             "language": "systemd",
@@ -109,7 +109,7 @@
         },
         {
             "language": "zsh",
-            "time": "499 hrs 50 mins"
+            "time": "502 hrs 37 mins"
         }
     ]
 }

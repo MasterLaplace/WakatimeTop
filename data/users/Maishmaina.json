@@ -1,11 +1,19 @@
 {
-    "total_time": "18 hrs 20 mins",
+    "total_time": "18 hrs 4 mins",
     "updated": true,
     "elo": 116,
     "languages": [
         {
+            "language": "Groovy",
+            "time": "8 hrs 1 min"
+        },
+        {
+            "language": "JSON",
+            "time": "4 hrs 11 mins"
+        },
+        {
             "language": "Vue.js",
-            "time": "18 hrs 20 mins"
+            "time": "5 hrs 52 mins"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "total_time": "1,843 hrs 11 mins",
+    "total_time": "1,903 hrs 42 mins",
     "updated": true,
-    "elo": 1844,
+    "elo": 1904,
     "languages": [
         {
             "language": "Bash",
-            "time": "28 hrs 56 mins"
+            "time": "32 hrs 29 mins"
         },
         {
             "language": "CSS",
@@ -17,27 +17,27 @@
         },
         {
             "language": "Git Config",
-            "time": "12 hrs 11 mins"
+            "time": "12 hrs 12 mins"
         },
         {
             "language": "Go",
-            "time": "36 hrs 14 mins"
+            "time": "36 hrs 52 mins"
         },
         {
             "language": "HTML",
-            "time": "98 hrs 52 mins"
+            "time": "99 hrs 10 mins"
         },
         {
             "language": "JSON",
-            "time": "63 hrs 19 mins"
+            "time": "68 hrs 8 mins"
         },
         {
             "language": "JavaScript",
-            "time": "918 hrs 55 mins"
+            "time": "918 hrs 56 mins"
         },
         {
             "language": "Markdown",
-            "time": "72 hrs 48 mins"
+            "time": "79 hrs 49 mins"
         },
         {
             "language": "PHP",
@@ -45,7 +45,11 @@
         },
         {
             "language": "Python",
-            "time": "48 hrs 35 mins"
+            "time": "55 hrs 1 min"
+        },
+        {
+            "language": "Rust",
+            "time": "3 hrs 55 mins"
         },
         {
             "language": "SCSS",
@@ -53,11 +57,11 @@
         },
         {
             "language": "Text",
-            "time": "5 hrs 33 mins"
+            "time": "5 hrs 45 mins"
         },
         {
             "language": "TypeScript",
-            "time": "98 hrs 51 mins"
+            "time": "129 hrs 23 mins"
         },
         {
             "language": "XML",
@@ -65,7 +69,7 @@
         },
         {
             "language": "YAML",
-            "time": "21 hrs 32 mins"
+            "time": "24 hrs 37 mins"
         }
     ]
 }

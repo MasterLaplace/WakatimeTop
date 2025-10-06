@@ -1,8 +1,12 @@
 {
-    "total_time": "16 hrs 4 mins",
+    "total_time": "16 hrs 1 mins",
     "updated": true,
     "elo": 96,
     "languages": [
+        {
+            "language": "Nim",
+            "time": "6 hrs 39 mins"
+        },
         {
             "language": "PHP",
             "time": "4 hrs 42 mins"
@@ -10,10 +14,6 @@
         {
             "language": "Python",
             "time": "4 hrs 40 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "6 hrs 42 mins"
         }
     ]
 }

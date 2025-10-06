@@ -1,7 +1,7 @@
 {
-    "total_time": "2,898 hrs 25 mins",
+    "total_time": "2,963 hrs 58 mins",
     "updated": true,
-    "elo": 2899,
+    "elo": 2964,
     "languages": [
         {
             "language": ".env file",
@@ -21,7 +21,7 @@
         },
         {
             "language": "Dart",
-            "time": "92 hrs 15 mins"
+            "time": "153 hrs 46 mins"
         },
         {
             "language": "Docker",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Image (svg)",
-            "time": "7 hrs 10 mins"
+            "time": "7 hrs 38 mins"
         },
         {
             "language": "JSON",
@@ -45,7 +45,7 @@
         },
         {
             "language": "Markdown",
-            "time": "11 hrs 19 mins"
+            "time": "11 hrs 28 mins"
         },
         {
             "language": "PHP",
@@ -57,11 +57,15 @@
         },
         {
             "language": "TSConfig",
-            "time": "3 hrs 26 mins"
+            "time": "3 hrs 27 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,609 hrs 35 mins"
+            "time": "1,610 hrs 14 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 45 mins"
         }
     ]
 }

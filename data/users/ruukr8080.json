@@ -1,5 +1,5 @@
 {
-    "total_time": "229 hrs 24 mins",
+    "total_time": "212 hrs 54 mins",
     "updated": true,
     "elo": 1390,
     "languages": [
@@ -28,12 +28,8 @@
             "time": "120 hrs 2 mins"
         },
         {
-            "language": "JSON",
-            "time": "8 hrs 7 mins"
-        },
-        {
             "language": "Java",
-            "time": "27 hrs 9 mins"
+            "time": "16 hrs 43 mins"
         },
         {
             "language": "Java Properties",
@@ -41,7 +37,7 @@
         },
         {
             "language": "Markdown",
-            "time": "2 hrs 34 mins"
+            "time": "3 hrs 2 mins"
         },
         {
             "language": "Properties",
@@ -52,12 +48,12 @@
             "time": "8 hrs 7 mins"
         },
         {
-            "language": "XML",
-            "time": "16 hrs 36 mins"
+            "language": "TypeScript",
+            "time": "5 hrs 36 mins"
         },
         {
-            "language": "YAML",
-            "time": "4 hrs 1 min"
+            "language": "XML",
+            "time": "16 hrs 36 mins"
         }
     ]
 }

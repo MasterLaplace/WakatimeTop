@@ -1,31 +1,19 @@
 {
-    "total_time": "39 hrs 46 mins",
+    "total_time": "19 hrs 30 mins",
     "updated": true,
     "elo": 61,
     "languages": [
         {
-            "language": "HTML",
-            "time": "2 hrs 40 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "6 hrs 23 mins"
-        },
-        {
-            "language": "Lua",
-            "time": "4 hrs 49 mins"
-        },
-        {
             "language": "Markdown",
-            "time": "4 hrs 26 mins"
+            "time": "2 hrs 32 mins"
         },
         {
             "language": "PHP",
-            "time": "18 hrs 54 mins"
+            "time": "8 hrs 49 mins"
         },
         {
-            "language": "conf",
-            "time": "2 hrs 34 mins"
+            "language": "TypeScript",
+            "time": "8 hrs 9 mins"
         }
     ]
 }

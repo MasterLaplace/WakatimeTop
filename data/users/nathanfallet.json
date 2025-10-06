@@ -1,7 +1,7 @@
 {
-    "total_time": "61 hrs 57 mins",
+    "total_time": "75 hrs 6 mins",
     "updated": true,
-    "elo": 107,
+    "elo": 121,
     "languages": [
         {
             "language": "Docker",
@@ -17,15 +17,23 @@
         },
         {
             "language": "Kotlin",
-            "time": "42 hrs"
+            "time": "45 hrs 1 min"
         },
         {
-            "language": "TypeScript",
-            "time": "3 hrs 58 mins"
+            "language": "Markdown",
+            "time": "2 hrs 55 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "3 hrs 35 mins"
+        },
+        {
+            "language": "XML",
+            "time": "6 hrs 3 mins"
         },
         {
             "language": "YAML",
-            "time": "4 hrs 55 mins"
+            "time": "6 hrs 28 mins"
         }
     ]
 }

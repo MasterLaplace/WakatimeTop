@@ -1,19 +1,19 @@
 {
-    "total_time": "436 hrs 3 mins",
+    "total_time": "495 hrs 13 mins",
     "updated": true,
-    "elo": 437,
+    "elo": 496,
     "languages": [
         {
             "language": "Astro",
-            "time": "12 hrs 20 mins"
+            "time": "12 hrs 25 mins"
         },
         {
             "language": "Bash",
-            "time": "8 hrs 3 mins"
+            "time": "8 hrs 31 mins"
         },
         {
             "language": "CSS",
-            "time": "3 hrs 53 mins"
+            "time": "3 hrs 54 mins"
         },
         {
             "language": "Docker",
@@ -21,27 +21,27 @@
         },
         {
             "language": "HTML",
-            "time": "6 hrs 3 mins"
+            "time": "6 hrs 13 mins"
         },
         {
             "language": "JSON",
-            "time": "46 hrs 3 mins"
+            "time": "53 hrs 22 mins"
         },
         {
             "language": "JavaScript",
-            "time": "11 hrs 43 mins"
+            "time": "14 hrs 29 mins"
         },
         {
             "language": "MDX",
-            "time": "3 hrs 51 mins"
+            "time": "4 hrs 19 mins"
         },
         {
             "language": "Makefile",
-            "time": "5 hrs 59 mins"
+            "time": "7 hrs 5 mins"
         },
         {
             "language": "Markdown",
-            "time": "13 hrs 39 mins"
+            "time": "15 hrs"
         },
         {
             "language": "Rust",
@@ -49,19 +49,23 @@
         },
         {
             "language": "TOML",
-            "time": "8 hrs 32 mins"
+            "time": "8 hrs 53 mins"
         },
         {
             "language": "TSConfig",
-            "time": "2 hrs 44 mins"
+            "time": "3 hrs 9 mins"
         },
         {
             "language": "TypeScript",
-            "time": "254 hrs 24 mins"
+            "time": "294 hrs 50 mins"
         },
         {
             "language": "YAML",
-            "time": "26 hrs 44 mins"
+            "time": "28 hrs 27 mins"
+        },
+        {
+            "language": "jsonc",
+            "time": "2 hrs 31 mins"
         }
     ]
 }
