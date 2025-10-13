@@ -1,7 +1,7 @@
 {
-    "total_time": "2,073 hrs 56 mins",
+    "total_time": "2,099 hrs 27 mins",
     "updated": true,
-    "elo": 2074,
+    "elo": 2100,
     "languages": [
         {
             "language": "Bash",
@@ -9,7 +9,7 @@
         },
         {
             "language": "BibTeX",
-            "time": "6 hrs 9 mins"
+            "time": "6 hrs 33 mins"
         },
         {
             "language": "C",
@@ -29,7 +29,7 @@
         },
         {
             "language": "CSV",
-            "time": "5 hrs 41 mins"
+            "time": "5 hrs 43 mins"
         },
         {
             "language": "EJS",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Git Config",
-            "time": "4 hrs 34 mins"
+            "time": "4 hrs 44 mins"
         },
         {
             "language": "Go",
@@ -45,11 +45,11 @@
         },
         {
             "language": "HTML",
-            "time": "16 hrs 32 mins"
+            "time": "16 hrs 40 mins"
         },
         {
             "language": "JSON",
-            "time": "36 hrs 23 mins"
+            "time": "36 hrs 24 mins"
         },
         {
             "language": "Java",
@@ -69,7 +69,11 @@
         },
         {
             "language": "Markdown",
-            "time": "345 hrs 16 mins"
+            "time": "345 hrs 49 mins"
+        },
+        {
+            "language": "OpenEdge ABL",
+            "time": "3 hrs 2 mins"
         },
         {
             "language": "Perl",
@@ -81,7 +85,7 @@
         },
         {
             "language": "Python",
-            "time": "644 hrs 51 mins"
+            "time": "655 hrs 10 mins"
         },
         {
             "language": "SCSS",
@@ -97,11 +101,11 @@
         },
         {
             "language": "TeX",
-            "time": "157 hrs 22 mins"
+            "time": "167 hrs 56 mins"
         },
         {
             "language": "Text",
-            "time": "26 hrs 18 mins"
+            "time": "26 hrs 36 mins"
         },
         {
             "language": "TypeScript",

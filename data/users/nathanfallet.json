@@ -1,39 +1,31 @@
 {
-    "total_time": "75 hrs 6 mins",
+    "total_time": "57 hrs 7 mins",
     "updated": true,
     "elo": 121,
     "languages": [
-        {
-            "language": "Docker",
-            "time": "5 hrs 2 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "2 hrs 32 mins"
-        },
         {
             "language": "Jupyter",
             "time": "3 hrs 30 mins"
         },
         {
             "language": "Kotlin",
-            "time": "45 hrs 1 min"
+            "time": "35 hrs 57 mins"
         },
         {
             "language": "Markdown",
-            "time": "2 hrs 55 mins"
+            "time": "2 hrs 42 mins"
         },
         {
             "language": "PowerShell",
-            "time": "3 hrs 35 mins"
+            "time": "6 hrs 11 mins"
         },
         {
-            "language": "XML",
-            "time": "6 hrs 3 mins"
+            "language": "TypeScript",
+            "time": "3 hrs 5 mins"
         },
         {
             "language": "YAML",
-            "time": "6 hrs 28 mins"
+            "time": "5 hrs 42 mins"
         }
     ]
 }

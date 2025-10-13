@@ -1,11 +1,11 @@
 {
-    "total_time": "8,761 hrs 58 mins",
+    "total_time": "8,780 hrs",
     "updated": true,
-    "elo": 8762,
+    "elo": 8780,
     "languages": [
         {
             "language": ".env file",
-            "time": "22 hrs 27 mins"
+            "time": "22 hrs 30 mins"
         },
         {
             "language": "Bash",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Blade Template",
-            "time": "678 hrs 56 mins"
+            "time": "679 hrs 15 mins"
         },
         {
             "language": "C",
@@ -29,7 +29,7 @@
         },
         {
             "language": "CSS",
-            "time": "59 hrs 45 mins"
+            "time": "59 hrs 46 mins"
         },
         {
             "language": "Docker",
@@ -37,11 +37,15 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "4 hrs 35 mins"
+            "time": "4 hrs 36 mins"
+        },
+        {
+            "language": "Go",
+            "time": "4 hrs 43 mins"
         },
         {
             "language": "Groff",
-            "time": "26 hrs 43 mins"
+            "time": "26 hrs 49 mins"
         },
         {
             "language": "HCL",
@@ -57,7 +61,7 @@
         },
         {
             "language": "JSON",
-            "time": "123 hrs 14 mins"
+            "time": "123 hrs 16 mins"
         },
         {
             "language": "JSX",
@@ -73,7 +77,7 @@
         },
         {
             "language": "Markdown",
-            "time": "70 hrs 37 mins"
+            "time": "71 hrs 23 mins"
         },
         {
             "language": "Nginx Configuration",
@@ -85,7 +89,7 @@
         },
         {
             "language": "PHP",
-            "time": "4,081 hrs 55 mins"
+            "time": "4,082 hrs 51 mins"
         },
         {
             "language": "Python",
@@ -121,7 +125,7 @@
         },
         {
             "language": "Terraform",
-            "time": "123 hrs 59 mins"
+            "time": "124 hrs 8 mins"
         },
         {
             "language": "Terraform Template",
@@ -129,7 +133,7 @@
         },
         {
             "language": "Text",
-            "time": "55 hrs 42 mins"
+            "time": "57 hrs 54 mins"
         },
         {
             "language": "TypeScript",
@@ -141,11 +145,11 @@
         },
         {
             "language": "XML",
-            "time": "8 hrs 52 mins"
+            "time": "8 hrs 58 mins"
         },
         {
             "language": "YAML",
-            "time": "286 hrs 15 mins"
+            "time": "294 hrs 53 mins"
         },
         {
             "language": "sh",

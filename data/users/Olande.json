@@ -1,6 +1,6 @@
 {
-    "total_time": "1,474 hrs 8 mins",
-    "updated": false,
+    "total_time": "293 hrs 15 mins",
+    "updated": true,
     "elo": 2700,
     "languages": [
         {
@@ -16,16 +16,8 @@
             "time": "4 hrs 54 mins"
         },
         {
-            "language": "JSON",
-            "time": "15 hrs 3 mins"
-        },
-        {
             "language": "Jupyter",
-            "time": "161 hrs 26 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "11 hrs 49 mins"
+            "time": "4 hrs 41 mins"
         },
         {
             "language": "Mermaid",
@@ -33,7 +25,7 @@
         },
         {
             "language": "Python",
-            "time": "986 hrs 26 mins"
+            "time": "6 hrs 27 mins"
         },
         {
             "language": "R",
@@ -44,16 +36,8 @@
             "time": "32 hrs 54 mins"
         },
         {
-            "language": "TOML",
-            "time": "6 hrs 35 mins"
-        },
-        {
             "language": "Text",
             "time": "3 hrs 3 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "10 hrs 42 mins"
         }
     ]
 }

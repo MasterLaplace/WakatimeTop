@@ -1,19 +1,19 @@
 {
-    "total_time": "36 hrs 9 mins",
+    "total_time": "38 hrs 31 mins",
     "updated": true,
-    "elo": 75,
+    "elo": 77,
     "languages": [
         {
-            "language": "CSV",
-            "time": "2 hrs 58 mins"
+            "language": "HTTP Request",
+            "time": "5 hrs 52 mins"
         },
         {
             "language": "PHP",
-            "time": "26 hrs 23 mins"
+            "time": "18 hrs 38 mins"
         },
         {
             "language": "SQL",
-            "time": "6 hrs 48 mins"
+            "time": "14 hrs 1 min"
         }
     ]
 }

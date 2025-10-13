@@ -1,7 +1,7 @@
 {
-    "total_time": "8 hrs 48 mins",
+    "total_time": "30 hrs 34 mins",
     "updated": true,
-    "elo": 140,
+    "elo": 162,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,11 @@
         },
         {
             "language": "Java",
-            "time": "2 hrs 40 mins"
+            "time": "10 hrs 27 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "13 hrs 59 mins"
         }
     ]
 }

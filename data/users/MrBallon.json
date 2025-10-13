@@ -1,11 +1,11 @@
 {
-    "total_time": "2,177 hrs 44 mins",
+    "total_time": "2,193 hrs 10 mins",
     "updated": true,
-    "elo": 2178,
+    "elo": 2194,
     "languages": [
         {
             "language": "Bash",
-            "time": "11 hrs 54 mins"
+            "time": "11 hrs 56 mins"
         },
         {
             "language": "C",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C++",
-            "time": "4 hrs 58 mins"
+            "time": "5 hrs 49 mins"
         },
         {
             "language": "CSS",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Git",
-            "time": "17 hrs 48 mins"
+            "time": "17 hrs 58 mins"
         },
         {
             "language": "Git Config",
@@ -37,7 +37,7 @@
         },
         {
             "language": "HTML",
-            "time": "129 hrs 10 mins"
+            "time": "129 hrs 18 mins"
         },
         {
             "language": "JSON",
@@ -49,19 +49,19 @@
         },
         {
             "language": "JavaScript",
-            "time": "391 hrs 50 mins"
+            "time": "392 hrs 38 mins"
         },
         {
             "language": "Lua",
-            "time": "17 hrs 50 mins"
+            "time": "18 hrs 25 mins"
         },
         {
             "language": "Makefile",
-            "time": "7 hrs 4 mins"
+            "time": "7 hrs 5 mins"
         },
         {
             "language": "Markdown",
-            "time": "28 hrs 44 mins"
+            "time": "31 hrs 30 mins"
         },
         {
             "language": "Python",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Rust",
-            "time": "12 hrs 44 mins"
+            "time": "13 hrs 47 mins"
         },
         {
             "language": "SCSS",
@@ -85,11 +85,15 @@
         },
         {
             "language": "Text",
-            "time": "5 hrs 56 mins"
+            "time": "6 hrs 6 mins"
         },
         {
             "language": "TypeScript",
-            "time": "911 hrs 53 mins"
+            "time": "917 hrs 18 mins"
+        },
+        {
+            "language": "Typst",
+            "time": "3 hrs 27 mins"
         },
         {
             "language": "XML",

@@ -1,23 +1,23 @@
 {
-    "total_time": "33 hrs 18 mins",
+    "total_time": "42 hrs 16 mins",
     "updated": true,
-    "elo": 77,
+    "elo": 86,
     "languages": [
         {
-            "language": "Makefile",
-            "time": "3 hrs 40 mins"
-        },
-        {
             "language": "Python",
-            "time": "7 hrs 29 mins"
+            "time": "7 hrs 28 mins"
         },
         {
             "language": "TypeScript",
-            "time": "14 hrs 12 mins"
+            "time": "25 hrs 46 mins"
         },
         {
             "language": "Vue.js",
-            "time": "7 hrs 57 mins"
+            "time": "6 hrs 11 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 51 mins"
         }
     ]
 }

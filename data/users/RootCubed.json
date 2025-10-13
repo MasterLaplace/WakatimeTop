@@ -1,7 +1,7 @@
 {
-    "total_time": "2,851 hrs 14 mins",
+    "total_time": "2,856 hrs 54 mins",
     "updated": true,
-    "elo": 2852,
+    "elo": 2857,
     "languages": [
         {
             "language": "Assembly",
@@ -53,7 +53,7 @@
         },
         {
             "language": "JSON",
-            "time": "82 hrs 41 mins"
+            "time": "83 hrs 50 mins"
         },
         {
             "language": "Java",
@@ -61,7 +61,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "194 hrs 45 mins"
+            "time": "194 hrs 48 mins"
         },
         {
             "language": "LLVM",
@@ -97,7 +97,7 @@
         },
         {
             "language": "Svelte",
-            "time": "172 hrs 59 mins"
+            "time": "176 hrs 37 mins"
         },
         {
             "language": "SystemVerilog",
@@ -113,11 +113,11 @@
         },
         {
             "language": "Text",
-            "time": "169 hrs 7 mins"
+            "time": "169 hrs 8 mins"
         },
         {
             "language": "TypeScript",
-            "time": "144 hrs 46 mins"
+            "time": "145 hrs 32 mins"
         },
         {
             "language": "Typst",
@@ -133,7 +133,7 @@
         },
         {
             "language": "YAML",
-            "time": "49 hrs 30 mins"
+            "time": "49 hrs 33 mins"
         }
     ]
 }

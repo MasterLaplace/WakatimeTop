@@ -1,11 +1,19 @@
 {
-    "total_time": "4 hrs 55 mins",
+    "total_time": "25 hrs 50 mins",
     "updated": true,
-    "elo": 143,
+    "elo": 164,
     "languages": [
         {
             "language": "Dart",
             "time": "4 hrs 55 mins"
+        },
+        {
+            "language": "Python",
+            "time": "16 hrs 5 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "4 hrs 50 mins"
         }
     ]
 }

@@ -1,19 +1,31 @@
 {
-    "total_time": "30 hrs 14 mins",
+    "total_time": "59 hrs 18 mins",
     "updated": true,
-    "elo": 105,
+    "elo": 134,
     "languages": [
         {
             "language": "Blade Template",
-            "time": "7 hrs 36 mins"
+            "time": "7 hrs 23 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "4 hrs 56 mins"
         },
         {
             "language": "PHP",
-            "time": "15 hrs 19 mins"
+            "time": "27 hrs 57 mins"
+        },
+        {
+            "language": "Text",
+            "time": "2 hrs 54 mins"
         },
         {
             "language": "Vue.js",
-            "time": "7 hrs 19 mins"
+            "time": "11 hrs 43 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 25 mins"
         }
     ]
 }

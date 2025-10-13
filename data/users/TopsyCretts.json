@@ -1,7 +1,7 @@
 {
-    "total_time": "1,902 hrs 46 mins",
+    "total_time": "1,945 hrs 40 mins",
     "updated": true,
-    "elo": 1903,
+    "elo": 1946,
     "languages": [
         {
             "language": "Bash",
@@ -32,16 +32,20 @@
             "time": "12 hrs 46 mins"
         },
         {
+            "language": "Image (svg)",
+            "time": "4 hrs 25 mins"
+        },
+        {
             "language": "JSON",
-            "time": "21 hrs 2 mins"
+            "time": "21 hrs 6 mins"
         },
         {
             "language": "Java",
-            "time": "179 hrs 21 mins"
+            "time": "179 hrs 23 mins"
         },
         {
             "language": "Java Properties",
-            "time": "3 hrs 35 mins"
+            "time": "3 hrs 36 mins"
         },
         {
             "language": "JavaScript",
@@ -49,7 +53,7 @@
         },
         {
             "language": "Kotlin",
-            "time": "1,262 hrs 30 mins"
+            "time": "1,296 hrs 48 mins"
         },
         {
             "language": "Markdown",
@@ -57,7 +61,7 @@
         },
         {
             "language": "Properties",
-            "time": "3 hrs 25 mins"
+            "time": "3 hrs 28 mins"
         },
         {
             "language": "Python",
@@ -68,24 +72,28 @@
             "time": "6 hrs 40 mins"
         },
         {
+            "language": "Swift",
+            "time": "2 hrs 36 mins"
+        },
+        {
             "language": "TOML",
-            "time": "10 hrs 53 mins"
+            "time": "11 hrs 43 mins"
         },
         {
             "language": "Text",
-            "time": "4 hrs 43 mins"
+            "time": "4 hrs 46 mins"
         },
         {
             "language": "TypeScript",
-            "time": "194 hrs 39 mins"
+            "time": "194 hrs 40 mins"
         },
         {
             "language": "XML",
-            "time": "62 hrs 39 mins"
+            "time": "63 hrs 8 mins"
         },
         {
             "language": "YAML",
-            "time": "3 hrs 59 mins"
+            "time": "4 hrs 1 min"
         }
     ]
 }

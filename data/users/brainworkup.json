@@ -1,19 +1,19 @@
 {
-    "total_time": "18 hrs 5 mins",
+    "total_time": "17 hrs 4 mins",
     "updated": true,
     "elo": 84,
     "languages": [
         {
+            "language": "Markdown",
+            "time": "3 hrs 46 mins"
+        },
+        {
             "language": "R",
-            "time": "3 hrs 7 mins"
+            "time": "6 hrs 2 mins"
         },
         {
             "language": "RMarkdown",
-            "time": "11 hrs 20 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "3 hrs 38 mins"
+            "time": "7 hrs 16 mins"
         }
     ]
 }

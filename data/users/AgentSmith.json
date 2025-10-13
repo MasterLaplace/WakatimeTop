@@ -1,11 +1,11 @@
 {
-    "total_time": "1,235 hrs 23 mins",
+    "total_time": "1,212 hrs 20 mins",
     "updated": true,
     "elo": 1346,
     "languages": [
         {
             "language": "Bash",
-            "time": "3 hrs 40 mins"
+            "time": "3 hrs 30 mins"
         },
         {
             "language": "C",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C++",
-            "time": "18 hrs 47 mins"
+            "time": "18 hrs 20 mins"
         },
         {
             "language": "Go",
@@ -29,11 +29,11 @@
         },
         {
             "language": "JSON",
-            "time": "39 hrs 11 mins"
+            "time": "38 hrs 53 mins"
         },
         {
             "language": "LLVM",
-            "time": "25 hrs 47 mins"
+            "time": "25 hrs 1 min"
         },
         {
             "language": "Liquid",
@@ -45,15 +45,15 @@
         },
         {
             "language": "Markdown",
-            "time": "56 hrs 32 mins"
+            "time": "56 hrs 18 mins"
         },
         {
             "language": "PHP",
-            "time": "471 hrs 7 mins"
+            "time": "465 hrs 8 mins"
         },
         {
             "language": "Pivot Lang",
-            "time": "76 hrs"
+            "time": "71 hrs 36 mins"
         },
         {
             "language": "Python",
@@ -61,15 +61,15 @@
         },
         {
             "language": "Rust",
-            "time": "366 hrs 59 mins"
+            "time": "357 hrs 6 mins"
         },
         {
             "language": "TOML",
-            "time": "5 hrs 56 mins"
+            "time": "5 hrs 50 mins"
         },
         {
             "language": "Text",
-            "time": "7 hrs 57 mins"
+            "time": "7 hrs 33 mins"
         },
         {
             "language": "TypeScript",
@@ -81,7 +81,7 @@
         },
         {
             "language": "YAML",
-            "time": "7 hrs 49 mins"
+            "time": "7 hrs 27 mins"
         }
     ]
 }

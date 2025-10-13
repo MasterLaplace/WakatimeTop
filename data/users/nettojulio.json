@@ -1,11 +1,11 @@
 {
-    "total_time": "991 hrs 28 mins",
+    "total_time": "1,016 hrs 31 mins",
     "updated": true,
-    "elo": 1024,
+    "elo": 1049,
     "languages": [
         {
             "language": "Bash",
-            "time": "17 hrs 41 mins"
+            "time": "18 hrs 10 mins"
         },
         {
             "language": "C",
@@ -21,11 +21,11 @@
         },
         {
             "language": "Docker",
-            "time": "9 hrs 10 mins"
+            "time": "9 hrs 12 mins"
         },
         {
             "language": "Go",
-            "time": "171 hrs 56 mins"
+            "time": "183 hrs 48 mins"
         },
         {
             "language": "HTML",
@@ -33,7 +33,7 @@
         },
         {
             "language": "JSON",
-            "time": "61 hrs 2 mins"
+            "time": "62 hrs 3 mins"
         },
         {
             "language": "Java",
@@ -41,31 +41,31 @@
         },
         {
             "language": "JavaScript",
-            "time": "45 hrs 19 mins"
+            "time": "45 hrs 55 mins"
         },
         {
             "language": "Makefile",
-            "time": "10 hrs 2 mins"
+            "time": "10 hrs 17 mins"
         },
         {
             "language": "Markdown",
-            "time": "16 hrs 25 mins"
+            "time": "16 hrs 35 mins"
         },
         {
             "language": "Python",
-            "time": "43 hrs 7 mins"
+            "time": "39 hrs"
         },
         {
             "language": "SQL",
-            "time": "39 hrs 49 mins"
+            "time": "39 hrs 16 mins"
         },
         {
             "language": "Text",
-            "time": "20 hrs 27 mins"
+            "time": "20 hrs 45 mins"
         },
         {
             "language": "TypeScript",
-            "time": "403 hrs 37 mins"
+            "time": "418 hrs 33 mins"
         },
         {
             "language": "XML",
@@ -73,7 +73,7 @@
         },
         {
             "language": "YAML",
-            "time": "14 hrs 12 mins"
+            "time": "14 hrs 16 mins"
         }
     ]
 }
