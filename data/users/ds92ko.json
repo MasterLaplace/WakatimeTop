@@ -1,7 +1,7 @@
 {
-    "total_time": "4,144 hrs 24 mins",
-    "updated": false,
-    "elo": 4145,
+    "total_time": "4,151 hrs 56 mins",
+    "updated": true,
+    "elo": 4152,
     "languages": [
         {
             "language": "ASP.NET",
@@ -33,7 +33,7 @@
         },
         {
             "language": "JSON",
-            "time": "81 hrs 20 mins"
+            "time": "82 hrs 40 mins"
         },
         {
             "language": "Java",
@@ -41,11 +41,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,052 hrs 48 mins"
+            "time": "1,052 hrs 51 mins"
         },
         {
             "language": "Markdown",
-            "time": "43 hrs 19 mins"
+            "time": "43 hrs 20 mins"
         },
         {
             "language": "PHP",
@@ -73,7 +73,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,537 hrs 19 mins"
+            "time": "1,542 hrs 56 mins"
         },
         {
             "language": "Vue.js",
@@ -85,7 +85,7 @@
         },
         {
             "language": "YAML",
-            "time": "6 hrs 2 mins"
+            "time": "6 hrs 33 mins"
         }
     ]
 }

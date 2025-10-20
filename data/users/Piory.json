@@ -1,15 +1,19 @@
 {
-    "total_time": "64 hrs 2 mins",
+    "total_time": "38 hrs 44 mins",
     "updated": true,
     "elo": 107,
     "languages": [
+        {
+            "language": "Dart",
+            "time": "10 hrs 27 mins"
+        },
         {
             "language": "Docker",
             "time": "2 hrs 55 mins"
         },
         {
             "language": "Lua",
-            "time": "22 hrs 17 mins"
+            "time": "7 hrs 49 mins"
         },
         {
             "language": "Terraform",
@@ -17,7 +21,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "36 hrs 9 mins"
+            "time": "11 hrs 11 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 41 mins"
         }
     ]
 }

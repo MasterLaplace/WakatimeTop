@@ -1,19 +1,15 @@
 {
-    "total_time": "72 hrs 7 mins",
+    "total_time": "47 hrs 27 mins",
     "updated": true,
     "elo": 168,
     "languages": [
         {
             "language": "Bash",
-            "time": "14 hrs 34 mins"
+            "time": "5 hrs 48 mins"
         },
         {
             "language": "C++",
             "time": "10 hrs 34 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "4 hrs 13 mins"
         },
         {
             "language": "Tcl",
@@ -21,15 +17,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "14 hrs 25 mins"
+            "time": "20 hrs 36 mins"
         },
         {
             "language": "XML",
             "time": "5 hrs 26 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "17 hrs 52 mins"
         }
     ]
 }

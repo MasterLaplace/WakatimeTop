@@ -1,23 +1,15 @@
 {
-    "total_time": "293 hrs 15 mins",
+    "total_time": "126 hrs 54 mins",
     "updated": true,
     "elo": 2700,
     "languages": [
-        {
-            "language": "Bash",
-            "time": "4 hrs 59 mins"
-        },
         {
             "language": "Git",
             "time": "3 hrs 21 mins"
         },
         {
-            "language": "Git Config",
-            "time": "4 hrs 54 mins"
-        },
-        {
             "language": "Jupyter",
-            "time": "4 hrs 41 mins"
+            "time": "10 hrs 39 mins"
         },
         {
             "language": "Mermaid",
@@ -25,19 +17,11 @@
         },
         {
             "language": "Python",
-            "time": "6 hrs 27 mins"
-        },
-        {
-            "language": "R",
-            "time": "227 hrs 31 mins"
+            "time": "74 hrs 35 mins"
         },
         {
             "language": "RMarkdown",
             "time": "32 hrs 54 mins"
-        },
-        {
-            "language": "Text",
-            "time": "3 hrs 3 mins"
         }
     ]
 }

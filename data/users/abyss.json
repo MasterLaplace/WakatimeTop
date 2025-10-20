@@ -1,7 +1,7 @@
 {
-    "total_time": "2,096 hrs 4 mins",
+    "total_time": "2,103 hrs 33 mins",
     "updated": true,
-    "elo": 2097,
+    "elo": 2104,
     "languages": [
         {
             "language": "Bash",
@@ -56,8 +56,12 @@
             "time": "558 hrs 3 mins"
         },
         {
+            "language": "MDX",
+            "time": "4 hrs 19 mins"
+        },
+        {
             "language": "Markdown",
-            "time": "131 hrs 32 mins"
+            "time": "131 hrs 50 mins"
         },
         {
             "language": "Objective-C",
@@ -69,7 +73,7 @@
         },
         {
             "language": "Python",
-            "time": "135 hrs 26 mins"
+            "time": "138 hrs 12 mins"
         },
         {
             "language": "SCSS",
@@ -89,7 +93,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "460 hrs 31 mins"
+            "time": "460 hrs 37 mins"
         },
         {
             "language": "Vue.js",

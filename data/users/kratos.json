@@ -1,19 +1,23 @@
 {
-    "total_time": "35 hrs 55 mins",
+    "total_time": "37 hrs 11 mins",
     "updated": true,
-    "elo": 75,
+    "elo": 77,
     "languages": [
         {
             "language": "C#",
-            "time": "15 hrs 11 mins"
+            "time": "6 hrs 25 mins"
         },
         {
-            "language": "HTTP Request",
-            "time": "7 hrs 6 mins"
+            "language": "Kotlin",
+            "time": "11 hrs 4 mins"
         },
         {
-            "language": "JavaScript",
-            "time": "4 hrs 9 mins"
+            "language": "Markdown",
+            "time": "5 hrs 49 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "4 hrs 24 mins"
         },
         {
             "language": "Vue.js",

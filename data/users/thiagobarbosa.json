@@ -1,19 +1,19 @@
 {
-    "total_time": "2,007 hrs 21 mins",
+    "total_time": "1,979 hrs 5 mins",
     "updated": true,
     "elo": 2409,
     "languages": [
         {
             "language": ".env file",
-            "time": "18 hrs 20 mins"
+            "time": "18 hrs 37 mins"
         },
         {
             "language": "Bash",
-            "time": "28 hrs 57 mins"
+            "time": "28 hrs 28 mins"
         },
         {
             "language": "CSS",
-            "time": "11 hrs 19 mins"
+            "time": "11 hrs 14 mins"
         },
         {
             "language": "Docker",
@@ -25,11 +25,11 @@
         },
         {
             "language": "HTML",
-            "time": "7 hrs 53 mins"
+            "time": "7 hrs 58 mins"
         },
         {
             "language": "JSON",
-            "time": "67 hrs 40 mins"
+            "time": "75 hrs 13 mins"
         },
         {
             "language": "Java",
@@ -37,31 +37,35 @@
         },
         {
             "language": "JavaScript",
-            "time": "27 hrs 43 mins"
+            "time": "27 hrs 28 mins"
+        },
+        {
+            "language": "Jupyter",
+            "time": "16 hrs 42 mins"
         },
         {
             "language": "Kotlin",
-            "time": "2 hrs 52 mins"
+            "time": "2 hrs 41 mins"
         },
         {
             "language": "Markdown",
-            "time": "64 hrs 28 mins"
+            "time": "64 hrs 49 mins"
         },
         {
             "language": "PHP",
-            "time": "6 hrs 23 mins"
+            "time": "6 hrs 13 mins"
         },
         {
             "language": "Python",
-            "time": "49 hrs 21 mins"
+            "time": "63 hrs 21 mins"
         },
         {
             "language": "SQL",
-            "time": "15 hrs 52 mins"
+            "time": "15 hrs 1 min"
         },
         {
             "language": "Shell Script",
-            "time": "5 hrs 37 mins"
+            "time": "5 hrs 29 mins"
         },
         {
             "language": "Svelte",
@@ -69,23 +73,23 @@
         },
         {
             "language": "TSConfig",
-            "time": "4 hrs 54 mins"
+            "time": "4 hrs 53 mins"
         },
         {
             "language": "Text",
-            "time": "9 hrs 26 mins"
+            "time": "9 hrs 6 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,602 hrs 30 mins"
+            "time": "1,539 hrs 8 mins"
         },
         {
             "language": "YAML",
-            "time": "36 hrs 51 mins"
+            "time": "36 hrs 10 mins"
         },
         {
             "language": "textmate",
-            "time": "16 hrs 22 mins"
+            "time": "15 hrs 41 mins"
         }
     ]
 }

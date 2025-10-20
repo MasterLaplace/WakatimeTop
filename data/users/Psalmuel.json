@@ -1,11 +1,15 @@
 {
-    "total_time": "2 hrs 58 mins",
-    "updated": false,
-    "elo": 115,
+    "total_time": "5 hrs 55 mins",
+    "updated": true,
+    "elo": 118,
     "languages": [
         {
             "language": "Cairo",
             "time": "2 hrs 58 mins"
+        },
+        {
+            "language": "Clarity",
+            "time": "2 hrs 57 mins"
         }
     ]
 }

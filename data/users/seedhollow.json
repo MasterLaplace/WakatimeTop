@@ -1,7 +1,7 @@
 {
-    "total_time": "3,183 hrs 26 mins",
+    "total_time": "3,208 hrs 53 mins",
     "updated": true,
-    "elo": 3184,
+    "elo": 3209,
     "languages": [
         {
             "language": "C",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C++",
-            "time": "214 hrs 13 mins"
+            "time": "216 hrs 15 mins"
         },
         {
             "language": "CMake",
@@ -21,11 +21,11 @@
         },
         {
             "language": "Dart",
-            "time": "786 hrs 4 mins"
+            "time": "786 hrs 5 mins"
         },
         {
             "language": "Gradle",
-            "time": "13 hrs 20 mins"
+            "time": "13 hrs 27 mins"
         },
         {
             "language": "Gradle Kotlin DSL",
@@ -33,15 +33,15 @@
         },
         {
             "language": "Groovy",
-            "time": "29 hrs 24 mins"
+            "time": "29 hrs 25 mins"
         },
         {
             "language": "JSON",
-            "time": "11 hrs 36 mins"
+            "time": "11 hrs 46 mins"
         },
         {
             "language": "Java",
-            "time": "89 hrs 24 mins"
+            "time": "90 hrs 10 mins"
         },
         {
             "language": "Java Properties",
@@ -53,11 +53,11 @@
         },
         {
             "language": "Kotlin",
-            "time": "1,249 hrs 20 mins"
+            "time": "1,266 hrs 24 mins"
         },
         {
             "language": "Makefile",
-            "time": "7 hrs 32 mins"
+            "time": "7 hrs 35 mins"
         },
         {
             "language": "Markdown",
@@ -69,7 +69,7 @@
         },
         {
             "language": "ObjectiveC",
-            "time": "112 hrs 35 mins"
+            "time": "112 hrs 54 mins"
         },
         {
             "language": "PHP",
@@ -97,11 +97,11 @@
         },
         {
             "language": "XML",
-            "time": "384 hrs"
+            "time": "388 hrs 50 mins"
         },
         {
             "language": "YAML",
-            "time": "18 hrs 51 mins"
+            "time": "18 hrs 55 mins"
         }
     ]
 }

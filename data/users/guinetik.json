@@ -1,19 +1,23 @@
 {
-    "total_time": "9 hrs 53 mins",
+    "total_time": "15 hrs 3 mins",
     "updated": true,
-    "elo": 4,
+    "elo": 10,
     "languages": [
         {
-            "language": "Markdown",
-            "time": "3 hrs 30 mins"
+            "language": "JavaScript",
+            "time": "2 hrs 50 mins"
         },
         {
-            "language": "PowerShell",
-            "time": "3 hrs 10 mins"
+            "language": "Python",
+            "time": "5 hrs 20 mins"
         },
         {
             "language": "Rust",
             "time": "3 hrs 13 mins"
+        },
+        {
+            "language": "Svelte",
+            "time": "3 hrs 40 mins"
         }
     ]
 }
