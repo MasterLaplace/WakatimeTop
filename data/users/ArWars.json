@@ -1,8 +1,12 @@
 {
-    "total_time": "2 hrs 30 mins",
+    "total_time": "7 hrs 30 mins",
     "updated": true,
-    "elo": 78,
+    "elo": 83,
     "languages": [
+        {
+            "language": "PHP",
+            "time": "5 hrs"
+        },
         {
             "language": "textmate",
             "time": "2 hrs 30 mins"

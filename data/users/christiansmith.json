@@ -1,11 +1,19 @@
 {
-    "total_time": "13 hrs 58 mins",
+    "total_time": "25 hrs 31 mins",
     "updated": true,
-    "elo": 104,
+    "elo": 116,
     "languages": [
         {
+            "language": "Markdown",
+            "time": "4 hrs 1 min"
+        },
+        {
             "language": "Org",
-            "time": "13 hrs 58 mins"
+            "time": "18 hrs 34 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "2 hrs 56 mins"
         }
     ]
 }

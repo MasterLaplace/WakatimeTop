@@ -1,7 +1,7 @@
 {
-    "total_time": "2,857 hrs 49 mins",
+    "total_time": "2,894 hrs 9 mins",
     "updated": true,
-    "elo": 2858,
+    "elo": 2895,
     "languages": [
         {
             "language": "Assembly",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C",
-            "time": "326 hrs 6 mins"
+            "time": "326 hrs 21 mins"
         },
         {
             "language": "C#",
@@ -25,11 +25,11 @@
         },
         {
             "language": "C++",
-            "time": "600 hrs 59 mins"
+            "time": "627 hrs 24 mins"
         },
         {
             "language": "CMake",
-            "time": "13 hrs 1 min"
+            "time": "13 hrs 19 mins"
         },
         {
             "language": "CSS",
@@ -44,6 +44,10 @@
             "time": "4 hrs 3 mins"
         },
         {
+            "language": "Go",
+            "time": "6 hrs 3 mins"
+        },
+        {
             "language": "HTML",
             "time": "15 hrs 28 mins"
         },
@@ -53,7 +57,7 @@
         },
         {
             "language": "JSON",
-            "time": "83 hrs 52 mins"
+            "time": "84 hrs 56 mins"
         },
         {
             "language": "Java",
@@ -61,7 +65,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "195 hrs 11 mins"
+            "time": "195 hrs 16 mins"
         },
         {
             "language": "LLVM",
@@ -81,7 +85,7 @@
         },
         {
             "language": "Objective-C",
-            "time": "7 hrs 42 mins"
+            "time": "7 hrs 43 mins"
         },
         {
             "language": "Prisma",
@@ -89,7 +93,7 @@
         },
         {
             "language": "Python",
-            "time": "409 hrs 23 mins"
+            "time": "409 hrs 31 mins"
         },
         {
             "language": "Rust",
@@ -113,7 +117,7 @@
         },
         {
             "language": "Text",
-            "time": "169 hrs 12 mins"
+            "time": "170 hrs 19 mins"
         },
         {
             "language": "TypeScript",
@@ -121,7 +125,7 @@
         },
         {
             "language": "Typst",
-            "time": "182 hrs 51 mins"
+            "time": "183 hrs 45 mins"
         },
         {
             "language": "XAML",

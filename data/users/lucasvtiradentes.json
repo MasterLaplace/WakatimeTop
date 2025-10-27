@@ -1,7 +1,7 @@
 {
-    "total_time": "6,759 hrs 25 mins",
+    "total_time": "6,837 hrs 24 mins",
     "updated": true,
-    "elo": 6744,
+    "elo": 6822,
     "languages": [
         {
             "language": "Astro",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "245 hrs 14 mins"
+            "time": "251 hrs 15 mins"
         },
         {
             "language": "Batchfile",
@@ -17,11 +17,11 @@
         },
         {
             "language": "CSS",
-            "time": "79 hrs 53 mins"
+            "time": "80 hrs 23 mins"
         },
         {
             "language": "CSV",
-            "time": "5 hrs 43 mins"
+            "time": "5 hrs 46 mins"
         },
         {
             "language": "Docker",
@@ -37,19 +37,23 @@
         },
         {
             "language": "Git Config",
-            "time": "21 hrs 5 mins"
+            "time": "21 hrs 32 mins"
         },
         {
             "language": "HTML",
-            "time": "45 hrs 57 mins"
+            "time": "46 hrs 6 mins"
+        },
+        {
+            "language": "INI",
+            "time": "2 hrs 36 mins"
         },
         {
             "language": "JSON",
-            "time": "370 hrs 41 mins"
+            "time": "376 hrs 47 mins"
         },
         {
             "language": "JavaScript",
-            "time": "950 hrs 49 mins"
+            "time": "951 hrs 41 mins"
         },
         {
             "language": "MDX",
@@ -57,7 +61,7 @@
         },
         {
             "language": "Markdown",
-            "time": "548 hrs 48 mins"
+            "time": "562 hrs 20 mins"
         },
         {
             "language": "Prisma",
@@ -80,12 +84,16 @@
             "time": "7 hrs 10 mins"
         },
         {
+            "language": "Terraform",
+            "time": "2 hrs 36 mins"
+        },
+        {
             "language": "Text",
-            "time": "11 hrs 34 mins"
+            "time": "19 hrs 22 mins"
         },
         {
             "language": "TypeScript",
-            "time": "4,107 hrs 24 mins"
+            "time": "4,144 hrs 28 mins"
         },
         {
             "language": "VB.NET",
@@ -93,7 +101,7 @@
         },
         {
             "language": "YAML",
-            "time": "193 hrs 51 mins"
+            "time": "194 hrs 6 mins"
         }
     ]
 }

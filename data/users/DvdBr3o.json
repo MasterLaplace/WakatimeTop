@@ -1,15 +1,15 @@
 {
-    "total_time": "962 hrs 9 mins",
+    "total_time": "970 hrs 1 mins",
     "updated": true,
-    "elo": 963,
+    "elo": 971,
     "languages": [
         {
             "language": "C",
-            "time": "46 hrs 28 mins"
+            "time": "47 hrs 28 mins"
         },
         {
             "language": "C++",
-            "time": "589 hrs 17 mins"
+            "time": "594 hrs 36 mins"
         },
         {
             "language": "CMake",
@@ -41,11 +41,11 @@
         },
         {
             "language": "Lua",
-            "time": "93 hrs 2 mins"
+            "time": "93 hrs 28 mins"
         },
         {
             "language": "Markdown",
-            "time": "23 hrs 24 mins"
+            "time": "23 hrs 32 mins"
         },
         {
             "language": "Objective-C",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Typst",
-            "time": "11 hrs 11 mins"
+            "time": "12 hrs 10 mins"
         }
     ]
 }

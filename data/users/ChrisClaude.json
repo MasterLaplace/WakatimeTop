@@ -1,31 +1,31 @@
 {
-    "total_time": "1,277 hrs 31 mins",
+    "total_time": "1,295 hrs 24 mins",
     "updated": true,
-    "elo": 1278,
+    "elo": 1296,
     "languages": [
         {
             "language": "Bash",
-            "time": "10 hrs 42 mins"
+            "time": "10 hrs 45 mins"
         },
         {
             "language": "Binary",
-            "time": "10 hrs 53 mins"
+            "time": "7 hrs 9 mins"
         },
         {
             "language": "C#",
-            "time": "267 hrs 11 mins"
+            "time": "262 hrs 34 mins"
         },
         {
             "language": "C++",
-            "time": "9 hrs 42 mins"
+            "time": "9 hrs 48 mins"
         },
         {
             "language": "CSS",
-            "time": "6 hrs 13 mins"
+            "time": "6 hrs 18 mins"
         },
         {
             "language": "Git Config",
-            "time": "6 hrs 39 mins"
+            "time": "6 hrs 51 mins"
         },
         {
             "language": "Go",
@@ -33,19 +33,23 @@
         },
         {
             "language": "HTML",
-            "time": "6 hrs 19 mins"
+            "time": "6 hrs 20 mins"
         },
         {
             "language": "HTTP Request",
-            "time": "64 hrs 58 mins"
+            "time": "73 hrs 50 mins"
         },
         {
             "language": "JSON",
-            "time": "67 hrs 18 mins"
+            "time": "69 hrs 13 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "Markdown",
-            "time": "23 hrs 4 mins"
+            "time": "24 hrs 5 mins"
         },
         {
             "language": "Org",
@@ -57,11 +61,11 @@
         },
         {
             "language": "SQL",
-            "time": "4 hrs 15 mins"
+            "time": "4 hrs 18 mins"
         },
         {
             "language": "TOML",
-            "time": "3 hrs 4 mins"
+            "time": "3 hrs 9 mins"
         },
         {
             "language": "Terraform",
@@ -73,11 +77,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "714 hrs 19 mins"
+            "time": "725 hrs 19 mins"
         },
         {
             "language": "YAML",
-            "time": "25 hrs 12 mins"
+            "time": "25 hrs 32 mins"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "total_time": "2,907 hrs 3 mins",
+    "total_time": "2,962 hrs 20 mins",
     "updated": true,
-    "elo": 2908,
+    "elo": 2963,
     "languages": [
         {
             "language": "Bash",
-            "time": "513 hrs 26 mins"
+            "time": "513 hrs 46 mins"
         },
         {
             "language": "Browserslist",
@@ -13,11 +13,11 @@
         },
         {
             "language": "CSV",
-            "time": "2 hrs 43 mins"
+            "time": "2 hrs 57 mins"
         },
         {
             "language": "Docker",
-            "time": "6 hrs 11 mins"
+            "time": "6 hrs 13 mins"
         },
         {
             "language": "Git Config",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Go",
-            "time": "750 hrs 44 mins"
+            "time": "778 hrs 45 mins"
         },
         {
             "language": "HTML",
@@ -37,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "43 hrs 38 mins"
+            "time": "46 hrs 2 mins"
         },
         {
             "language": "JavaScript",
@@ -49,7 +49,7 @@
         },
         {
             "language": "Markdown",
-            "time": "189 hrs 59 mins"
+            "time": "190 hrs 57 mins"
         },
         {
             "language": "PHP",
@@ -61,11 +61,11 @@
         },
         {
             "language": "Python",
-            "time": "819 hrs 39 mins"
+            "time": "839 hrs 22 mins"
         },
         {
             "language": "SQL",
-            "time": "137 hrs 43 mins"
+            "time": "137 hrs 58 mins"
         },
         {
             "language": "SSH Config",
@@ -73,11 +73,15 @@
         },
         {
             "language": "Text",
-            "time": "14 hrs 3 mins"
+            "time": "14 hrs 23 mins"
         },
         {
             "language": "TypeScript",
             "time": "5 hrs 45 mins"
+        },
+        {
+            "language": "XML",
+            "time": "3 hrs"
         },
         {
             "language": "YAML",

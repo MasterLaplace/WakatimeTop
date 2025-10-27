@@ -1,7 +1,7 @@
 {
-    "total_time": "3,487 hrs 45 mins",
+    "total_time": "3,515 hrs 31 mins",
     "updated": true,
-    "elo": 3488,
+    "elo": 3516,
     "languages": [
         {
             "language": "ActionScript 3",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Assembly",
-            "time": "34 hrs 29 mins"
+            "time": "35 hrs 45 mins"
         },
         {
             "language": "Bash",
-            "time": "26 hrs 16 mins"
+            "time": "26 hrs 22 mins"
         },
         {
             "language": "Blender",
@@ -21,7 +21,7 @@
         },
         {
             "language": "C",
-            "time": "398 hrs 5 mins"
+            "time": "399 hrs 59 mins"
         },
         {
             "language": "C#",
@@ -33,7 +33,7 @@
         },
         {
             "language": "CMake",
-            "time": "4 hrs 3 mins"
+            "time": "4 hrs 4 mins"
         },
         {
             "language": "CSV",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Lua",
-            "time": "9 hrs 35 mins"
+            "time": "9 hrs 36 mins"
         },
         {
             "language": "Makefile",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Markdown",
-            "time": "58 hrs 56 mins"
+            "time": "59 hrs 14 mins"
         },
         {
             "language": "MetaHumanCreator",
@@ -108,6 +108,10 @@
             "time": "41 hrs 35 mins"
         },
         {
+            "language": "SystemVerilog",
+            "time": "11 hrs 40 mins"
+        },
+        {
             "language": "TeX",
             "time": "21 hrs 34 mins"
         },
@@ -137,7 +141,7 @@
         },
         {
             "language": "sh",
-            "time": "806 hrs 37 mins"
+            "time": "819 hrs 7 mins"
         },
         {
             "language": "unity",

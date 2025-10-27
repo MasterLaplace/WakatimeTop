@@ -1,11 +1,11 @@
 {
-    "total_time": "5,834 hrs 1 mins",
+    "total_time": "5,900 hrs 10 mins",
     "updated": true,
-    "elo": 5835,
+    "elo": 5901,
     "languages": [
         {
             "language": "Bash",
-            "time": "10 hrs 24 mins"
+            "time": "10 hrs 26 mins"
         },
         {
             "language": "Blade Template",
@@ -21,15 +21,19 @@
         },
         {
             "language": "C++",
-            "time": "71 hrs"
+            "time": "73 hrs 25 mins"
         },
         {
             "language": "CSS",
-            "time": "69 hrs 52 mins"
+            "time": "69 hrs 54 mins"
         },
         {
             "language": "Dart",
             "time": "8 hrs 22 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "4 hrs 12 mins"
         },
         {
             "language": "Git Config",
@@ -53,31 +57,31 @@
         },
         {
             "language": "HTML",
-            "time": "643 hrs 9 mins"
+            "time": "650 hrs 9 mins"
         },
         {
             "language": "JSON",
-            "time": "21 hrs 44 mins"
+            "time": "21 hrs 57 mins"
         },
         {
             "language": "Java",
-            "time": "2,747 hrs 58 mins"
+            "time": "2,789 hrs 29 mins"
         },
         {
             "language": "Java Properties",
-            "time": "21 hrs 23 mins"
+            "time": "22 hrs 16 mins"
         },
         {
             "language": "JavaScript",
-            "time": "440 hrs 44 mins"
+            "time": "441 hrs 15 mins"
         },
         {
             "language": "Kotlin",
-            "time": "515 hrs 57 mins"
+            "time": "518 hrs 38 mins"
         },
         {
             "language": "Markdown",
-            "time": "40 hrs 42 mins"
+            "time": "44 hrs 51 mins"
         },
         {
             "language": "PHP",
@@ -85,7 +89,7 @@
         },
         {
             "language": "Properties",
-            "time": "13 hrs 24 mins"
+            "time": "13 hrs 55 mins"
         },
         {
             "language": "Pug",
@@ -101,7 +105,7 @@
         },
         {
             "language": "SQL",
-            "time": "16 hrs 35 mins"
+            "time": "16 hrs 43 mins"
         },
         {
             "language": "Text",
@@ -113,11 +117,11 @@
         },
         {
             "language": "XML",
-            "time": "107 hrs 47 mins"
+            "time": "108 hrs 25 mins"
         },
         {
             "language": "YAML",
-            "time": "42 hrs"
+            "time": "43 hrs 13 mins"
         },
         {
             "language": "textmate",

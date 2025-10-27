@@ -1,11 +1,15 @@
 {
-    "total_time": "3 hrs 46 mins",
+    "total_time": "9 hrs 22 mins",
     "updated": true,
-    "elo": 94,
+    "elo": 100,
     "languages": [
         {
-            "language": "Rust",
-            "time": "3 hrs 46 mins"
+            "language": "OpenEdge ABL",
+            "time": "6 hrs 20 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "3 hrs 2 mins"
         }
     ]
 }

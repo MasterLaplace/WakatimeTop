@@ -1,7 +1,7 @@
 {
-    "total_time": "1,509 hrs 1 mins",
+    "total_time": "1,532 hrs 29 mins",
     "updated": true,
-    "elo": 1510,
+    "elo": 1533,
     "languages": [
         {
             "language": "Apache Config",
@@ -9,11 +9,11 @@
         },
         {
             "language": "CSS",
-            "time": "64 hrs 31 mins"
+            "time": "64 hrs 48 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "2 hrs 41 mins"
+            "time": "2 hrs 42 mins"
         },
         {
             "language": "Gradle",
@@ -25,11 +25,11 @@
         },
         {
             "language": "JSON",
-            "time": "24 hrs 34 mins"
+            "time": "24 hrs 58 mins"
         },
         {
             "language": "JavaScript",
-            "time": "144 hrs 27 mins"
+            "time": "144 hrs 35 mins"
         },
         {
             "language": "Kotlin",
@@ -37,7 +37,7 @@
         },
         {
             "language": "PHP",
-            "time": "782 hrs 4 mins"
+            "time": "788 hrs 35 mins"
         },
         {
             "language": "SCSS",
@@ -49,11 +49,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "431 hrs 43 mins"
+            "time": "445 hrs 7 mins"
         },
         {
             "language": "XML",
             "time": "2 hrs 47 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 43 mins"
         },
         {
             "language": "htaccess",

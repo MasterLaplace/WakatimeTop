@@ -1,11 +1,11 @@
 {
-    "total_time": "11,573 hrs 11 mins",
+    "total_time": "11,624 hrs 2 mins",
     "updated": true,
-    "elo": 11701,
+    "elo": 11752,
     "languages": [
         {
             "language": ".env file",
-            "time": "10 hrs 59 mins"
+            "time": "14 hrs 34 mins"
         },
         {
             "language": "Apache Config",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "23 hrs 18 mins"
+            "time": "25 hrs 30 mins"
         },
         {
             "language": "Blade Template",
@@ -21,7 +21,11 @@
         },
         {
             "language": "CSS",
-            "time": "91 hrs 40 mins"
+            "time": "92 hrs 2 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "2 hrs 39 mins"
         },
         {
             "language": "Git Config",
@@ -29,7 +33,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "12 hrs 42 mins"
+            "time": "13 hrs 16 mins"
         },
         {
             "language": "HTML",
@@ -37,23 +41,23 @@
         },
         {
             "language": "JSON",
-            "time": "339 hrs 15 mins"
+            "time": "342 hrs 38 mins"
         },
         {
             "language": "JavaScript",
-            "time": "1,795 hrs 49 mins"
+            "time": "1,797 hrs 17 mins"
         },
         {
             "language": "Markdown",
-            "time": "36 hrs 32 mins"
+            "time": "37 hrs 10 mins"
         },
         {
             "language": "PHP",
-            "time": "7,728 hrs 15 mins"
+            "time": "7,755 hrs 14 mins"
         },
         {
             "language": "Prisma",
-            "time": "3 hrs 11 mins"
+            "time": "3 hrs 28 mins"
         },
         {
             "language": "Python",
@@ -73,7 +77,7 @@
         },
         {
             "language": "Text",
-            "time": "21 hrs 28 mins"
+            "time": "22 hrs 5 mins"
         },
         {
             "language": "Twig",
@@ -81,7 +85,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,105 hrs 46 mins"
+            "time": "1,112 hrs 57 mins"
         },
         {
             "language": "Vue.js",
@@ -89,7 +93,7 @@
         },
         {
             "language": "YAML",
-            "time": "12 hrs 56 mins"
+            "time": "13 hrs 52 mins"
         }
     ]
 }

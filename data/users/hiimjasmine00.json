@@ -1,19 +1,15 @@
 {
-    "total_time": "29 hrs 40 mins",
+    "total_time": "34 hrs 20 mins",
     "updated": true,
-    "elo": 140,
+    "elo": 145,
     "languages": [
         {
             "language": "C++",
-            "time": "19 hrs 46 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "3 hrs 9 mins"
+            "time": "28 hrs 53 mins"
         },
         {
             "language": "Zeek",
-            "time": "6 hrs 45 mins"
+            "time": "5 hrs 27 mins"
         }
     ]
 }

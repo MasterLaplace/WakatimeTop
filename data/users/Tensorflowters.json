@@ -1,11 +1,11 @@
 {
-    "total_time": "563 hrs 51 mins",
+    "total_time": "620 hrs 39 mins",
     "updated": true,
-    "elo": 564,
+    "elo": 621,
     "languages": [
         {
             "language": "Bash",
-            "time": "9 hrs 39 mins"
+            "time": "12 hrs 36 mins"
         },
         {
             "language": "Caddyfile",
@@ -13,51 +13,55 @@
         },
         {
             "language": "Docker",
-            "time": "9 hrs 29 mins"
+            "time": "9 hrs 36 mins"
         },
         {
             "language": "Git Config",
-            "time": "4 hrs 12 mins"
+            "time": "4 hrs 59 mins"
         },
         {
             "language": "JSON",
-            "time": "10 hrs 15 mins"
+            "time": "11 hrs 23 mins"
         },
         {
             "language": "Jupyter Notebook",
-            "time": "4 hrs 27 mins"
+            "time": "4 hrs 28 mins"
         },
         {
             "language": "Makefile",
-            "time": "19 hrs 7 mins"
+            "time": "21 hrs 26 mins"
         },
         {
             "language": "Markdown",
-            "time": "125 hrs 42 mins"
+            "time": "134 hrs 33 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "5 hrs 15 mins"
         },
         {
             "language": "Python",
-            "time": "318 hrs 19 mins"
+            "time": "342 hrs 19 mins"
         },
         {
             "language": "TOML",
-            "time": "9 hrs 44 mins"
+            "time": "11 hrs 17 mins"
         },
         {
             "language": "Terraform",
-            "time": "2 hrs 57 mins"
+            "time": "2 hrs 58 mins"
         },
         {
             "language": "Text",
-            "time": "5 hrs 30 mins"
+            "time": "5 hrs 58 mins"
         },
         {
             "language": "TypeScript",
-            "time": "5 hrs 51 mins"
+            "time": "6 hrs 6 mins"
         },
         {
             "language": "YAML",
-            "time": "33 hrs 12 mins"
+            "time": "42 hrs 18 mins"
         }
     ]
 }

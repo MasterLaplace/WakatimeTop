@@ -1,31 +1,15 @@
 {
-    "total_time": "42 hrs 41 mins",
+    "total_time": "60 hrs 39 mins",
     "updated": true,
-    "elo": 157,
+    "elo": 175,
     "languages": [
-        {
-            "language": "CocoaPods",
-            "time": "5 hrs 16 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "4 hrs 29 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "3 hrs 3 mins"
-        },
         {
             "language": "Solidity",
             "time": "3 hrs 59 mins"
         },
         {
-            "language": "Swift",
-            "time": "3 hrs 31 mins"
-        },
-        {
             "language": "TypeScript",
-            "time": "22 hrs 23 mins"
+            "time": "56 hrs 40 mins"
         }
     ]
 }

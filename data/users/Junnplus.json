@@ -1,11 +1,15 @@
 {
-    "total_time": "4 hrs 49 mins",
+    "total_time": "20 hrs 23 mins",
     "updated": true,
-    "elo": 94,
+    "elo": 110,
     "languages": [
         {
             "language": "Go",
-            "time": "4 hrs 49 mins"
+            "time": "16 hrs 11 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "4 hrs 12 mins"
         }
     ]
 }
