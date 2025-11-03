@@ -1,7 +1,7 @@
 {
-    "total_time": "1,370 hrs 1 mins",
+    "total_time": "1,377 hrs 1 mins",
     "updated": true,
-    "elo": 1371,
+    "elo": 1378,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "25 hrs 13 mins"
+            "time": "25 hrs 45 mins"
         },
         {
             "language": "Blade Template",
@@ -17,11 +17,11 @@
         },
         {
             "language": "C",
-            "time": "232 hrs 9 mins"
+            "time": "232 hrs 24 mins"
         },
         {
             "language": "C++",
-            "time": "190 hrs 37 mins"
+            "time": "191 hrs 38 mins"
         },
         {
             "language": "CMake",
@@ -29,7 +29,7 @@
         },
         {
             "language": "CSS",
-            "time": "9 hrs 47 mins"
+            "time": "10 hrs"
         },
         {
             "language": "GLSL",
@@ -53,15 +53,15 @@
         },
         {
             "language": "Lua",
-            "time": "77 hrs 10 mins"
+            "time": "77 hrs 13 mins"
         },
         {
             "language": "Makefile",
-            "time": "25 hrs 52 mins"
+            "time": "26 hrs"
         },
         {
             "language": "Markdown",
-            "time": "45 hrs 22 mins"
+            "time": "45 hrs 33 mins"
         },
         {
             "language": "PHP",
@@ -73,23 +73,27 @@
         },
         {
             "language": "Python",
-            "time": "115 hrs 32 mins"
+            "time": "115 hrs 44 mins"
         },
         {
             "language": "SQL",
             "time": "14 hrs 18 mins"
         },
         {
+            "language": "Svelte",
+            "time": "3 hrs 49 mins"
+        },
+        {
             "language": "TeX",
-            "time": "8 hrs 16 mins"
+            "time": "8 hrs 27 mins"
         },
         {
             "language": "Text",
-            "time": "4 hrs 41 mins"
+            "time": "5 hrs 3 mins"
         },
         {
             "language": "TypeScript",
-            "time": "18 hrs 4 mins"
+            "time": "18 hrs 7 mins"
         },
         {
             "language": "VHDL",

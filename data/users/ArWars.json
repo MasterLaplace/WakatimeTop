@@ -1,11 +1,19 @@
 {
-    "total_time": "7 hrs 30 mins",
+    "total_time": "23 hrs 59 mins",
     "updated": true,
-    "elo": 83,
+    "elo": 99,
     "languages": [
         {
+            "language": "JavaScript",
+            "time": "7 hrs 34 mins"
+        },
+        {
             "language": "PHP",
-            "time": "5 hrs"
+            "time": "5 hrs 24 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "8 hrs 31 mins"
         },
         {
             "language": "textmate",

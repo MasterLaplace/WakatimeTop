@@ -1,7 +1,7 @@
 {
-    "total_time": "597 hrs 28 mins",
+    "total_time": "671 hrs",
     "updated": true,
-    "elo": 598,
+    "elo": 671,
     "languages": [
         {
             "language": "Astro",
@@ -9,43 +9,43 @@
         },
         {
             "language": "Bash",
-            "time": "10 hrs 10 mins"
+            "time": "11 hrs 40 mins"
         },
         {
             "language": "CSS",
-            "time": "4 hrs 32 mins"
+            "time": "4 hrs 43 mins"
         },
         {
             "language": "Docker",
-            "time": "4 hrs 41 mins"
+            "time": "5 hrs 18 mins"
         },
         {
             "language": "Git Config",
-            "time": "2 hrs 33 mins"
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "HTML",
-            "time": "6 hrs 43 mins"
+            "time": "8 hrs 6 mins"
         },
         {
             "language": "JSON",
-            "time": "71 hrs 3 mins"
+            "time": "78 hrs 45 mins"
         },
         {
             "language": "JavaScript",
-            "time": "18 hrs 34 mins"
+            "time": "23 hrs 52 mins"
         },
         {
             "language": "MDX",
-            "time": "5 hrs 9 mins"
+            "time": "5 hrs 17 mins"
         },
         {
             "language": "Makefile",
-            "time": "7 hrs 21 mins"
+            "time": "7 hrs 24 mins"
         },
         {
             "language": "Markdown",
-            "time": "17 hrs 14 mins"
+            "time": "18 hrs 46 mins"
         },
         {
             "language": "Rust",
@@ -53,23 +53,23 @@
         },
         {
             "language": "TOML",
-            "time": "9 hrs 33 mins"
+            "time": "10 hrs 39 mins"
         },
         {
             "language": "TSConfig",
-            "time": "4 hrs 17 mins"
+            "time": "5 hrs 21 mins"
         },
         {
             "language": "TypeScript",
-            "time": "360 hrs 26 mins"
+            "time": "410 hrs 12 mins"
         },
         {
             "language": "YAML",
-            "time": "32 hrs 32 mins"
+            "time": "35 hrs 25 mins"
         },
         {
             "language": "jsonc",
-            "time": "2 hrs 39 mins"
+            "time": "2 hrs 40 mins"
         }
     ]
 }

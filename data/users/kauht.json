@@ -1,27 +1,35 @@
 {
-    "total_time": "164 hrs 7 mins",
+    "total_time": "197 hrs 10 mins",
     "updated": true,
-    "elo": 165,
+    "elo": 198,
     "languages": [
         {
             "language": "Batchfile",
-            "time": "6 hrs 12 mins"
+            "time": "6 hrs 6 mins"
         },
         {
             "language": "C",
-            "time": "52 hrs 22 mins"
+            "time": "54 hrs 59 mins"
         },
         {
             "language": "C++",
-            "time": "91 hrs 44 mins"
+            "time": "100 hrs 46 mins"
         },
         {
             "language": "CMake",
-            "time": "4 hrs 18 mins"
+            "time": "6 hrs 4 mins"
         },
         {
             "language": "Markdown",
-            "time": "3 hrs 11 mins"
+            "time": "4 hrs 44 mins"
+        },
+        {
+            "language": "Objective-C",
+            "time": "3 hrs 18 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "14 hrs 53 mins"
         },
         {
             "language": "Svelte",

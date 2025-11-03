@@ -1,11 +1,11 @@
 {
-    "total_time": "2,555 hrs 6 mins",
+    "total_time": "2,579 hrs 39 mins",
     "updated": true,
-    "elo": 2556,
+    "elo": 2580,
     "languages": [
         {
             "language": "Bash",
-            "time": "40 hrs 6 mins"
+            "time": "40 hrs 26 mins"
         },
         {
             "language": "CSS",
@@ -21,11 +21,11 @@
         },
         {
             "language": "Docker",
-            "time": "24 hrs 32 mins"
+            "time": "24 hrs 46 mins"
         },
         {
             "language": "Git Config",
-            "time": "5 hrs 40 mins"
+            "time": "5 hrs 47 mins"
         },
         {
             "language": "Go",
@@ -33,7 +33,7 @@
         },
         {
             "language": "HTML",
-            "time": "7 hrs 30 mins"
+            "time": "7 hrs 31 mins"
         },
         {
             "language": "Image (svg)",
@@ -41,15 +41,15 @@
         },
         {
             "language": "JSON",
-            "time": "66 hrs 32 mins"
+            "time": "67 hrs 31 mins"
         },
         {
             "language": "JavaScript",
-            "time": "21 hrs 35 mins"
+            "time": "21 hrs 37 mins"
         },
         {
             "language": "Markdown",
-            "time": "36 hrs 14 mins"
+            "time": "36 hrs 19 mins"
         },
         {
             "language": "Prisma",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Python",
-            "time": "273 hrs 46 mins"
+            "time": "279 hrs 56 mins"
         },
         {
             "language": "Rust",
@@ -81,15 +81,19 @@
         },
         {
             "language": "TSConfig",
-            "time": "3 hrs 46 mins"
+            "time": "3 hrs 49 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,284 hrs 28 mins"
+            "time": "1,296 hrs 58 mins"
         },
         {
             "language": "YAML",
-            "time": "63 hrs 1 min"
+            "time": "63 hrs 59 mins"
+        },
+        {
+            "language": "shell script",
+            "time": "3 hrs 4 mins"
         }
     ]
 }

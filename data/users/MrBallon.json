@@ -1,11 +1,11 @@
 {
-    "total_time": "2,230 hrs 24 mins",
+    "total_time": "2,233 hrs 15 mins",
     "updated": true,
-    "elo": 2231,
+    "elo": 2234,
     "languages": [
         {
             "language": "Bash",
-            "time": "12 hrs 26 mins"
+            "time": "12 hrs 31 mins"
         },
         {
             "language": "C",
@@ -41,7 +41,7 @@
         },
         {
             "language": "JSON",
-            "time": "36 hrs 6 mins"
+            "time": "36 hrs 8 mins"
         },
         {
             "language": "Java",
@@ -53,15 +53,15 @@
         },
         {
             "language": "Lua",
-            "time": "18 hrs 30 mins"
+            "time": "18 hrs 33 mins"
         },
         {
             "language": "Makefile",
-            "time": "7 hrs 7 mins"
+            "time": "7 hrs 9 mins"
         },
         {
             "language": "Markdown",
-            "time": "32 hrs 4 mins"
+            "time": "32 hrs 46 mins"
         },
         {
             "language": "Python",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Rust",
-            "time": "13 hrs 47 mins"
+            "time": "14 hrs 43 mins"
         },
         {
             "language": "SCSS",
@@ -85,11 +85,11 @@
         },
         {
             "language": "Text",
-            "time": "6 hrs 12 mins"
+            "time": "6 hrs 21 mins"
         },
         {
             "language": "TypeScript",
-            "time": "947 hrs 40 mins"
+            "time": "948 hrs 4 mins"
         },
         {
             "language": "Typst",
@@ -109,7 +109,7 @@
         },
         {
             "language": "tmux",
-            "time": "2 hrs 46 mins"
+            "time": "3 hrs 14 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "2,783 hrs 45 mins",
-    "updated": false,
-    "elo": 2782,
+    "total_time": "2,784 hrs 26 mins",
+    "updated": true,
+    "elo": 2783,
     "languages": [
         {
             "language": "C",
@@ -77,11 +77,11 @@
         },
         {
             "language": "Rust",
-            "time": "1,634 hrs 24 mins"
+            "time": "1,634 hrs 38 mins"
         },
         {
             "language": "TOML",
-            "time": "82 hrs 30 mins"
+            "time": "82 hrs 57 mins"
         },
         {
             "language": "TSQL",

@@ -1,7 +1,7 @@
 {
-    "total_time": "1,773 hrs 23 mins",
-    "updated": false,
-    "elo": 1758,
+    "total_time": "1,796 hrs 45 mins",
+    "updated": true,
+    "elo": 1781,
     "languages": [
         {
             "language": "Assembly",
@@ -68,6 +68,10 @@
             "time": "12 hrs 35 mins"
         },
         {
+            "language": "Lean4",
+            "time": "6 hrs 34 mins"
+        },
+        {
             "language": "Makefile",
             "time": "9 hrs 28 mins"
         },
@@ -101,11 +105,11 @@
         },
         {
             "language": "TOML",
-            "time": "9 hrs 2 mins"
+            "time": "9 hrs 3 mins"
         },
         {
             "language": "TeX",
-            "time": "148 hrs 51 mins"
+            "time": "165 hrs 38 mins"
         },
         {
             "language": "Terraform",

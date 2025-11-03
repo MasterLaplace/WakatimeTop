@@ -1,15 +1,15 @@
 {
-    "total_time": "970 hrs 1 mins",
+    "total_time": "975 hrs 32 mins",
     "updated": true,
-    "elo": 971,
+    "elo": 976,
     "languages": [
         {
             "language": "C",
-            "time": "47 hrs 28 mins"
+            "time": "48 hrs 23 mins"
         },
         {
             "language": "C++",
-            "time": "594 hrs 36 mins"
+            "time": "596 hrs 55 mins"
         },
         {
             "language": "CMake",
@@ -41,7 +41,7 @@
         },
         {
             "language": "Lua",
-            "time": "93 hrs 28 mins"
+            "time": "93 hrs 46 mins"
         },
         {
             "language": "Markdown",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Python",
-            "time": "104 hrs 17 mins"
+            "time": "104 hrs 18 mins"
         },
         {
             "language": "Rust",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Typst",
-            "time": "12 hrs 10 mins"
+            "time": "14 hrs 8 mins"
         }
     ]
 }

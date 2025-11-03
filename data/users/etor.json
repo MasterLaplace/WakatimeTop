@@ -1,7 +1,7 @@
 {
-    "total_time": "11,458 hrs 32 mins",
+    "total_time": "11,535 hrs 37 mins",
     "updated": true,
-    "elo": 11459,
+    "elo": 11536,
     "languages": [
         {
             "language": "AMPL",
@@ -25,7 +25,7 @@
         },
         {
             "language": "C",
-            "time": "48 hrs"
+            "time": "48 hrs 57 mins"
         },
         {
             "language": "C#",
@@ -33,7 +33,7 @@
         },
         {
             "language": "CSS",
-            "time": "65 hrs 50 mins"
+            "time": "66 hrs"
         },
         {
             "language": "CSV",
@@ -65,7 +65,7 @@
         },
         {
             "language": "HTML",
-            "time": "166 hrs 22 mins"
+            "time": "166 hrs 48 mins"
         },
         {
             "language": "Haskell",
@@ -77,7 +77,7 @@
         },
         {
             "language": "JSON",
-            "time": "583 hrs 51 mins"
+            "time": "584 hrs"
         },
         {
             "language": "JSX",
@@ -97,11 +97,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "2,851 hrs 15 mins"
+            "time": "2,852 hrs 37 mins"
         },
         {
             "language": "Lua",
-            "time": "111 hrs 14 mins"
+            "time": "113 hrs 45 mins"
         },
         {
             "language": "MDX",
@@ -109,7 +109,7 @@
         },
         {
             "language": "Markdown",
-            "time": "271 hrs 46 mins"
+            "time": "271 hrs 47 mins"
         },
         {
             "language": "Nix",
@@ -181,11 +181,11 @@
         },
         {
             "language": "Zig",
-            "time": "1,735 hrs 38 mins"
+            "time": "1,807 hrs 5 mins"
         },
         {
             "language": "bigfile",
-            "time": "16 hrs 50 mins"
+            "time": "16 hrs 52 mins"
         },
         {
             "language": "conf",

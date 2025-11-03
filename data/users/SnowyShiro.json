@@ -1,7 +1,7 @@
 {
-    "total_time": "2,331 hrs",
+    "total_time": "2,364 hrs 58 mins",
     "updated": true,
-    "elo": 2331,
+    "elo": 2365,
     "languages": [
         {
             "language": "Assembly",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C",
-            "time": "25 hrs 30 mins"
+            "time": "28 hrs 52 mins"
         },
         {
             "language": "C#",
@@ -25,7 +25,7 @@
         },
         {
             "language": "C++",
-            "time": "313 hrs 33 mins"
+            "time": "342 hrs 17 mins"
         },
         {
             "language": "CMake",
@@ -45,7 +45,7 @@
         },
         {
             "language": "JSON",
-            "time": "34 hrs 14 mins"
+            "time": "34 hrs 15 mins"
         },
         {
             "language": "Java",
@@ -57,11 +57,11 @@
         },
         {
             "language": "Linker Script",
-            "time": "4 hrs 1 min"
+            "time": "4 hrs 4 mins"
         },
         {
             "language": "Lua",
-            "time": "497 hrs 48 mins"
+            "time": "498 hrs 6 mins"
         },
         {
             "language": "Luau",
@@ -69,11 +69,11 @@
         },
         {
             "language": "Makefile",
-            "time": "36 hrs 42 mins"
+            "time": "38 hrs 6 mins"
         },
         {
             "language": "Markdown",
-            "time": "11 hrs 25 mins"
+            "time": "11 hrs 26 mins"
         },
         {
             "language": "Python",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Text",
-            "time": "20 hrs 5 mins"
+            "time": "20 hrs 10 mins"
         },
         {
             "language": "TypeScript",

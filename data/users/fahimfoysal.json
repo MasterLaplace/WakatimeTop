@@ -1,19 +1,23 @@
 {
-    "total_time": "390 hrs 54 mins",
+    "total_time": "410 hrs 18 mins",
     "updated": true,
-    "elo": 391,
+    "elo": 411,
     "languages": [
+        {
+            "language": "Bash",
+            "time": "2 hrs 33 mins"
+        },
         {
             "language": "C",
             "time": "37 hrs 53 mins"
         },
         {
             "language": "CSS",
-            "time": "15 hrs 51 mins"
+            "time": "17 hrs 47 mins"
         },
         {
             "language": "Dart",
-            "time": "227 hrs 2 mins"
+            "time": "227 hrs 8 mins"
         },
         {
             "language": "Gradle Kotlin DSL",
@@ -21,19 +25,23 @@
         },
         {
             "language": "HTML",
-            "time": "30 hrs 57 mins"
+            "time": "32 hrs 57 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "5 hrs 23 mins"
         },
         {
             "language": "JavaScript",
-            "time": "11 hrs 5 mins"
+            "time": "13 hrs 51 mins"
         },
         {
             "language": "Markdown",
-            "time": "8 hrs 53 mins"
+            "time": "9 hrs 37 mins"
         },
         {
             "language": "Python",
-            "time": "41 hrs 27 mins"
+            "time": "45 hrs 23 mins"
         },
         {
             "language": "SQL",

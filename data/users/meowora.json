@@ -1,7 +1,7 @@
 {
-    "total_time": "2,025 hrs 17 mins",
+    "total_time": "2,070 hrs 38 mins",
     "updated": true,
-    "elo": 2026,
+    "elo": 2071,
     "languages": [
         {
             "language": "Assembly",
@@ -25,31 +25,31 @@
         },
         {
             "language": "JSON",
-            "time": "99 hrs 14 mins"
+            "time": "101 hrs 47 mins"
         },
         {
             "language": "Java",
-            "time": "882 hrs 7 mins"
+            "time": "887 hrs 2 mins"
         },
         {
             "language": "Java Properties",
-            "time": "9 hrs 37 mins"
+            "time": "9 hrs 38 mins"
         },
         {
             "language": "Kotlin",
-            "time": "882 hrs 19 mins"
+            "time": "914 hrs 2 mins"
         },
         {
             "language": "Markdown",
-            "time": "6 hrs 38 mins"
+            "time": "11 hrs 18 mins"
         },
         {
             "language": "Mixin Json Configuration",
-            "time": "3 hrs 26 mins"
+            "time": "3 hrs 28 mins"
         },
         {
             "language": "Properties",
-            "time": "14 hrs 2 mins"
+            "time": "14 hrs 6 mins"
         },
         {
             "language": "Rust",
@@ -57,15 +57,15 @@
         },
         {
             "language": "TOML",
-            "time": "31 hrs 31 mins"
+            "time": "32 hrs"
         },
         {
             "language": "Text",
-            "time": "12 hrs 25 mins"
+            "time": "12 hrs 40 mins"
         },
         {
             "language": "TypeScript",
-            "time": "6 hrs 12 mins"
+            "time": "6 hrs 46 mins"
         },
         {
             "language": "XML",
@@ -77,7 +77,7 @@
         },
         {
             "language": "textmate",
-            "time": "6 hrs 43 mins"
+            "time": "6 hrs 48 mins"
         }
     ]
 }

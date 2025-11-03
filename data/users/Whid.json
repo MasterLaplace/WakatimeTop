@@ -1,7 +1,7 @@
 {
-    "total_time": "2,168 hrs 30 mins",
-    "updated": false,
-    "elo": 2135,
+    "total_time": "2,172 hrs 10 mins",
+    "updated": true,
+    "elo": 2139,
     "languages": [
         {
             "language": "Binary",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C#",
-            "time": "709 hrs 58 mins"
+            "time": "710 hrs 46 mins"
         },
         {
             "language": "C++",
@@ -22,6 +22,10 @@
         {
             "language": "CSS",
             "time": "39 hrs 10 mins"
+        },
+        {
+            "language": "Csproj",
+            "time": "2 hrs 32 mins"
         },
         {
             "language": "Erlang",
@@ -33,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "43 hrs 27 mins"
+            "time": "43 hrs 38 mins"
         },
         {
             "language": "Java",
@@ -97,7 +101,7 @@
         },
         {
             "language": "XML",
-            "time": "58 hrs 57 mins"
+            "time": "59 hrs 6 mins"
         },
         {
             "language": "YAML",

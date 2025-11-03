@@ -1,11 +1,15 @@
 {
-    "total_time": "21 hrs 29 mins",
+    "total_time": "38 hrs 26 mins",
     "updated": true,
-    "elo": 160,
+    "elo": 177,
     "languages": [
         {
+            "language": "Prisma",
+            "time": "3 hrs 56 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "21 hrs 29 mins"
+            "time": "34 hrs 30 mins"
         }
     ]
 }

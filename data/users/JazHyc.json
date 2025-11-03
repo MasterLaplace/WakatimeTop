@@ -1,8 +1,12 @@
 {
-    "total_time": "1,507 hrs 35 mins",
+    "total_time": "1,516 hrs 3 mins",
     "updated": true,
-    "elo": 1506,
+    "elo": 1515,
     "languages": [
+        {
+            "language": "Astro",
+            "time": "7 hrs 33 mins"
+        },
         {
             "language": "Bash",
             "time": "7 hrs 33 mins"
@@ -49,7 +53,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "30 hrs 36 mins"
+            "time": "31 hrs 2 mins"
         },
         {
             "language": "Makefile",
@@ -65,7 +69,7 @@
         },
         {
             "language": "Python",
-            "time": "877 hrs 4 mins"
+            "time": "877 hrs 6 mins"
         },
         {
             "language": "TOML",
@@ -85,7 +89,7 @@
         },
         {
             "language": "YAML",
-            "time": "60 hrs 49 mins"
+            "time": "61 hrs 16 mins"
         }
     ]
 }

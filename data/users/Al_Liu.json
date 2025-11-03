@@ -1,11 +1,11 @@
 {
-    "total_time": "8,050 hrs 3 mins",
+    "total_time": "8,100 hrs 5 mins",
     "updated": true,
-    "elo": 8051,
+    "elo": 8101,
     "languages": [
         {
             "language": "Bash",
-            "time": "13 hrs 29 mins"
+            "time": "13 hrs 32 mins"
         },
         {
             "language": "C#",
@@ -41,7 +41,7 @@
         },
         {
             "language": "JSON",
-            "time": "16 hrs 56 mins"
+            "time": "16 hrs 58 mins"
         },
         {
             "language": "Java",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Markdown",
-            "time": "120 hrs 12 mins"
+            "time": "120 hrs 41 mins"
         },
         {
             "language": "Protocol Buffer",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Rust",
-            "time": "6,949 hrs 34 mins"
+            "time": "6,998 hrs 25 mins"
         },
         {
             "language": "Svelte",
@@ -73,7 +73,7 @@
         },
         {
             "language": "TOML",
-            "time": "221 hrs 34 mins"
+            "time": "222 hrs 9 mins"
         },
         {
             "language": "Terraform",
@@ -93,7 +93,7 @@
         },
         {
             "language": "YAML",
-            "time": "86 hrs 44 mins"
+            "time": "86 hrs 46 mins"
         },
         {
             "language": "Zig",
