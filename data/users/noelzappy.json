@@ -1,11 +1,11 @@
 {
-    "total_time": "6,380 hrs 26 mins",
+    "total_time": "6,399 hrs 40 mins",
     "updated": true,
-    "elo": 6381,
+    "elo": 6400,
     "languages": [
         {
             "language": "Bash",
-            "time": "95 hrs 31 mins"
+            "time": "95 hrs 45 mins"
         },
         {
             "language": "Blade Template",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Docker",
-            "time": "22 hrs 49 mins"
+            "time": "22 hrs 59 mins"
         },
         {
             "language": "EJS",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Git Config",
-            "time": "14 hrs 51 mins"
+            "time": "14 hrs 55 mins"
         },
         {
             "language": "Groovy",
@@ -45,11 +45,11 @@
         },
         {
             "language": "HTML",
-            "time": "43 hrs 18 mins"
+            "time": "43 hrs 19 mins"
         },
         {
             "language": "JSON",
-            "time": "227 hrs 18 mins"
+            "time": "229 hrs 26 mins"
         },
         {
             "language": "JSX",
@@ -61,11 +61,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "2,734 hrs 32 mins"
+            "time": "2,735 hrs 2 mins"
         },
         {
             "language": "Markdown",
-            "time": "23 hrs 2 mins"
+            "time": "23 hrs 9 mins"
         },
         {
             "language": "PHP",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Prisma",
-            "time": "111 hrs 46 mins"
+            "time": "112 hrs 6 mins"
         },
         {
             "language": "Properties",
@@ -81,19 +81,23 @@
         },
         {
             "language": "Python",
-            "time": "20 hrs 58 mins"
+            "time": "21 hrs 21 mins"
         },
         {
             "language": "SCSS",
-            "time": "4 hrs 4 mins"
+            "time": "4 hrs 21 mins"
         },
         {
             "language": "SQL",
             "time": "7 hrs 28 mins"
         },
         {
+            "language": "Svelte",
+            "time": "5 hrs 29 mins"
+        },
+        {
             "language": "TSConfig",
-            "time": "4 hrs 52 mins"
+            "time": "6 hrs 9 mins"
         },
         {
             "language": "Terraform",
@@ -101,11 +105,11 @@
         },
         {
             "language": "Text",
-            "time": "3 hrs 59 mins"
+            "time": "4 hrs 2 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,683 hrs 5 mins"
+            "time": "2,691 hrs 16 mins"
         },
         {
             "language": "Vue.js",

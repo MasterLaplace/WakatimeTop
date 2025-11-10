@@ -1,11 +1,11 @@
 {
-    "total_time": "3,241 hrs 43 mins",
+    "total_time": "3,274 hrs 27 mins",
     "updated": true,
-    "elo": 3242,
+    "elo": 3275,
     "languages": [
         {
             "language": ".env file",
-            "time": "6 hrs 42 mins"
+            "time": "6 hrs 48 mins"
         },
         {
             "language": "Apache Config",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "8 hrs 31 mins"
+            "time": "8 hrs 37 mins"
         },
         {
             "language": "CSS",
@@ -25,7 +25,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "2 hrs 52 mins"
+            "time": "3 hrs 2 mins"
         },
         {
             "language": "HTML",
@@ -45,11 +45,15 @@
         },
         {
             "language": "Markdown",
-            "time": "11 hrs 52 mins"
+            "time": "11 hrs 56 mins"
         },
         {
             "language": "PHP",
             "time": "1,376 hrs 36 mins"
+        },
+        {
+            "language": "Python",
+            "time": "30 hrs 41 mins"
         },
         {
             "language": "SCSS",
@@ -57,7 +61,7 @@
         },
         {
             "language": "Text",
-            "time": "19 hrs 51 mins"
+            "time": "20 hrs 9 mins"
         },
         {
             "language": "Todotxt",
@@ -77,7 +81,7 @@
         },
         {
             "language": "YAML",
-            "time": "119 hrs 7 mins"
+            "time": "120 hrs 26 mins"
         }
     ]
 }

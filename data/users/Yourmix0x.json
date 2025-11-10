@@ -1,11 +1,15 @@
 {
-    "total_time": "20 hrs 1 mins",
+    "total_time": "17 hrs 27 mins",
     "updated": true,
     "elo": 119,
     "languages": [
         {
+            "language": "Solidity",
+            "time": "4 hrs 10 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "20 hrs 1 min"
+            "time": "13 hrs 17 mins"
         }
     ]
 }

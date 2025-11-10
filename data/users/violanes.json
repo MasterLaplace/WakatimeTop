@@ -1,11 +1,11 @@
 {
-    "total_time": "1,119 hrs 33 mins",
+    "total_time": "1,166 hrs 30 mins",
     "updated": true,
-    "elo": 1120,
+    "elo": 1167,
     "languages": [
         {
             "language": "Bash",
-            "time": "9 hrs 38 mins"
+            "time": "9 hrs 49 mins"
         },
         {
             "language": "Docker",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Go",
-            "time": "439 hrs 22 mins"
+            "time": "471 hrs 40 mins"
         },
         {
             "language": "IDA",
@@ -21,7 +21,7 @@
         },
         {
             "language": "JSON",
-            "time": "6 hrs 8 mins"
+            "time": "6 hrs 10 mins"
         },
         {
             "language": "PHP",
@@ -29,15 +29,15 @@
         },
         {
             "language": "SQL",
-            "time": "8 hrs 35 mins"
+            "time": "8 hrs 53 mins"
         },
         {
             "language": "Text",
-            "time": "3 hrs 7 mins"
+            "time": "3 hrs 14 mins"
         },
         {
             "language": "TypeScript",
-            "time": "579 hrs 14 mins"
+            "time": "592 hrs 44 mins"
         },
         {
             "language": "Vue.js",
@@ -45,7 +45,7 @@
         },
         {
             "language": "textmate",
-            "time": "4 hrs 25 mins"
+            "time": "4 hrs 56 mins"
         }
     ]
 }

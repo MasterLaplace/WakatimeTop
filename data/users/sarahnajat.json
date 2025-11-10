@@ -1,16 +1,8 @@
 {
-    "total_time": "374 hrs 45 mins",
-    "updated": false,
+    "total_time": "248 hrs 59 mins",
+    "updated": true,
     "elo": 786,
     "languages": [
-        {
-            "language": "Bash",
-            "time": "11 hrs 4 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "125 hrs 18 mins"
-        },
         {
             "language": "Image (svg)",
             "time": "14 hrs 58 mins"
@@ -22,10 +14,6 @@
         {
             "language": "JSX",
             "time": "10 hrs 57 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "20 hrs 41 mins"
         },
         {
             "language": "Markdown",
@@ -41,7 +29,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "2 hrs 30 mins"
+            "time": "33 hrs 47 mins"
         }
     ]
 }

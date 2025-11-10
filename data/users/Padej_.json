@@ -1,11 +1,11 @@
 {
-    "total_time": "1,377 hrs 32 mins",
+    "total_time": "1,444 hrs 46 mins",
     "updated": true,
-    "elo": 1378,
+    "elo": 1445,
     "languages": [
         {
             "language": "CLASS",
-            "time": "3 hrs 51 mins"
+            "time": "4 hrs 23 mins"
         },
         {
             "language": "CSS",
@@ -13,63 +13,67 @@
         },
         {
             "language": "GLSL shader",
-            "time": "7 hrs 19 mins"
+            "time": "7 hrs 26 mins"
         },
         {
             "language": "Gradle",
-            "time": "4 hrs 15 mins"
+            "time": "4 hrs 20 mins"
         },
         {
             "language": "Groovy",
-            "time": "2 hrs 50 mins"
+            "time": "3 hrs 17 mins"
         },
         {
             "language": "HTML",
             "time": "5 hrs 7 mins"
         },
         {
+            "language": "INI",
+            "time": "2 hrs 37 mins"
+        },
+        {
             "language": "Image (svg)",
-            "time": "2 hrs 44 mins"
+            "time": "2 hrs 46 mins"
         },
         {
             "language": "JSON",
-            "time": "93 hrs 43 mins"
+            "time": "103 hrs 1 min"
         },
         {
             "language": "Java",
-            "time": "994 hrs 24 mins"
+            "time": "1,041 hrs 1 min"
         },
         {
             "language": "Java Properties",
-            "time": "11 hrs 19 mins"
+            "time": "11 hrs 24 mins"
         },
         {
             "language": "Kotlin",
-            "time": "58 hrs 27 mins"
+            "time": "58 hrs 44 mins"
         },
         {
             "language": "Markdown",
-            "time": "11 hrs 44 mins"
+            "time": "12 hrs 38 mins"
         },
         {
             "language": "Mixin Json Configuration",
-            "time": "2 hrs 33 mins"
+            "time": "2 hrs 35 mins"
         },
         {
             "language": "Properties",
-            "time": "25 hrs 31 mins"
+            "time": "25 hrs 49 mins"
         },
         {
             "language": "Rust",
-            "time": "86 hrs"
+            "time": "86 hrs 5 mins"
         },
         {
             "language": "TOML",
-            "time": "4 hrs 57 mins"
+            "time": "5 hrs 9 mins"
         },
         {
             "language": "Text",
-            "time": "9 hrs 24 mins"
+            "time": "11 hrs 27 mins"
         },
         {
             "language": "TypeScript",
@@ -77,11 +81,11 @@
         },
         {
             "language": "XML",
-            "time": "7 hrs 11 mins"
+            "time": "7 hrs 21 mins"
         },
         {
             "language": "textmate",
-            "time": "9 hrs 43 mins"
+            "time": "13 hrs 6 mins"
         }
     ]
 }

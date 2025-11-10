@@ -1,7 +1,7 @@
 {
-    "total_time": "3,402 hrs 1 mins",
+    "total_time": "3,431 hrs 15 mins",
     "updated": true,
-    "elo": 3403,
+    "elo": 3432,
     "languages": [
         {
             "language": "GitIgnore file",
@@ -21,11 +21,11 @@
         },
         {
             "language": "Java",
-            "time": "2,531 hrs 42 mins"
+            "time": "2,558 hrs 5 mins"
         },
         {
             "language": "Kotlin",
-            "time": "671 hrs 39 mins"
+            "time": "671 hrs 47 mins"
         },
         {
             "language": "MCLang",
@@ -48,12 +48,16 @@
             "time": "15 hrs 58 mins"
         },
         {
+            "language": "Text",
+            "time": "2 hrs 42 mins"
+        },
+        {
             "language": "XML",
             "time": "6 hrs 24 mins"
         },
         {
             "language": "YAML",
-            "time": "79 hrs 1 min"
+            "time": "79 hrs 2 mins"
         }
     ]
 }

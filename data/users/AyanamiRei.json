@@ -1,23 +1,19 @@
 {
-    "total_time": "56 hrs 40 mins",
+    "total_time": "58 hrs 31 mins",
     "updated": true,
-    "elo": 86,
+    "elo": 88,
     "languages": [
         {
             "language": "C++",
-            "time": "15 hrs 36 mins"
+            "time": "35 hrs 33 mins"
         },
         {
             "language": "Groovy",
-            "time": "7 hrs 50 mins"
+            "time": "7 hrs 29 mins"
         },
         {
             "language": "Java",
-            "time": "27 hrs 5 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "6 hrs 9 mins"
+            "time": "15 hrs 29 mins"
         }
     ]
 }

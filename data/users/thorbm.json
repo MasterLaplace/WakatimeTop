@@ -1,7 +1,7 @@
 {
-    "total_time": "476 hrs 25 mins",
-    "updated": false,
-    "elo": 477,
+    "total_time": "487 hrs 45 mins",
+    "updated": true,
+    "elo": 488,
     "languages": [
         {
             "language": "C++",
@@ -17,15 +17,19 @@
         },
         {
             "language": "Java",
-            "time": "398 hrs 7 mins"
+            "time": "403 hrs 11 mins"
         },
         {
             "language": "Python",
             "time": "47 hrs 55 mins"
         },
         {
+            "language": "Svelte",
+            "time": "6 hrs 8 mins"
+        },
+        {
             "language": "YAML",
-            "time": "10 hrs 41 mins"
+            "time": "10 hrs 49 mins"
         }
     ]
 }

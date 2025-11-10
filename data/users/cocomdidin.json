@@ -1,11 +1,15 @@
 {
-    "total_time": "7,346 hrs 46 mins",
+    "total_time": "7,384 hrs 31 mins",
     "updated": true,
-    "elo": 7347,
+    "elo": 7385,
     "languages": [
         {
+            "language": ".env file",
+            "time": "2 hrs 31 mins"
+        },
+        {
             "language": "Bash",
-            "time": "107 hrs 14 mins"
+            "time": "108 hrs 14 mins"
         },
         {
             "language": "Binary",
@@ -13,7 +17,7 @@
         },
         {
             "language": "Blade Template",
-            "time": "1,699 hrs 42 mins"
+            "time": "1,705 hrs 29 mins"
         },
         {
             "language": "C#",
@@ -29,7 +33,7 @@
         },
         {
             "language": "Git Config",
-            "time": "8 hrs 32 mins"
+            "time": "8 hrs 35 mins"
         },
         {
             "language": "Go",
@@ -41,15 +45,15 @@
         },
         {
             "language": "JSON",
-            "time": "65 hrs 17 mins"
+            "time": "65 hrs 19 mins"
         },
         {
             "language": "JavaScript",
-            "time": "162 hrs 32 mins"
+            "time": "162 hrs 43 mins"
         },
         {
             "language": "Markdown",
-            "time": "6 hrs 31 mins"
+            "time": "6 hrs 40 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -57,7 +61,7 @@
         },
         {
             "language": "PHP",
-            "time": "2,831 hrs 59 mins"
+            "time": "2,851 hrs 13 mins"
         },
         {
             "language": "Razor",
@@ -65,15 +69,15 @@
         },
         {
             "language": "SQL",
-            "time": "1,639 hrs 41 mins"
+            "time": "1,642 hrs 27 mins"
         },
         {
             "language": "TypeScript",
-            "time": "159 hrs 36 mins"
+            "time": "160 hrs 18 mins"
         },
         {
             "language": "Vue.js",
-            "time": "406 hrs 27 mins"
+            "time": "411 hrs 47 mins"
         },
         {
             "language": "XML",

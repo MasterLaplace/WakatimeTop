@@ -1,19 +1,23 @@
 {
-    "total_time": "24 hrs 6 mins",
+    "total_time": "37 hrs 3 mins",
     "updated": true,
-    "elo": 105,
+    "elo": 118,
     "languages": [
+        {
+            "language": "HTML",
+            "time": "4 hrs 42 mins"
+        },
         {
             "language": "Lua",
             "time": "2 hrs 51 mins"
         },
         {
-            "language": "Markdown",
-            "time": "5 hrs 5 mins"
+            "language": "Rust",
+            "time": "15 hrs 50 mins"
         },
         {
-            "language": "Rust",
-            "time": "7 hrs 6 mins"
+            "language": "yarn",
+            "time": "4 hrs 36 mins"
         },
         {
             "language": "yarn_spinner",

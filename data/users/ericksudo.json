@@ -1,7 +1,7 @@
 {
-    "total_time": "3,812 hrs 55 mins",
+    "total_time": "3,849 hrs 43 mins",
     "updated": true,
-    "elo": 3813,
+    "elo": 3850,
     "languages": [
         {
             "language": "Bash",
@@ -13,11 +13,11 @@
         },
         {
             "language": "Dart",
-            "time": "660 hrs"
+            "time": "695 hrs 39 mins"
         },
         {
             "language": "Docker",
-            "time": "18 hrs 46 mins"
+            "time": "18 hrs 48 mins"
         },
         {
             "language": "ERB",
@@ -33,11 +33,11 @@
         },
         {
             "language": "JSON",
-            "time": "45 hrs 57 mins"
+            "time": "46 hrs 3 mins"
         },
         {
             "language": "Java",
-            "time": "111 hrs 16 mins"
+            "time": "111 hrs 31 mins"
         },
         {
             "language": "Java Properties",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Markdown",
-            "time": "58 hrs 36 mins"
+            "time": "59 hrs 8 mins"
         },
         {
             "language": "PHP",
@@ -73,7 +73,7 @@
         },
         {
             "language": "SQL",
-            "time": "7 hrs 6 mins"
+            "time": "7 hrs 18 mins"
         },
         {
             "language": "TOML",
@@ -97,7 +97,7 @@
         },
         {
             "language": "YAML",
-            "time": "50 hrs 6 mins"
+            "time": "50 hrs 8 mins"
         }
     ]
 }

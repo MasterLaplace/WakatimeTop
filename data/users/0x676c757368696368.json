@@ -1,7 +1,7 @@
 {
-    "total_time": "4,409 hrs 23 mins",
+    "total_time": "4,446 hrs 26 mins",
     "updated": true,
-    "elo": 4410,
+    "elo": 4447,
     "languages": [
         {
             "language": ".env file",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "11 hrs 10 mins"
+            "time": "11 hrs 17 mins"
         },
         {
             "language": "CSS",
@@ -17,7 +17,7 @@
         },
         {
             "language": "Docker",
-            "time": "14 hrs 50 mins"
+            "time": "14 hrs 52 mins"
         },
         {
             "language": "Ezhil",
@@ -29,7 +29,7 @@
         },
         {
             "language": "GraphQL",
-            "time": "5 hrs 44 mins"
+            "time": "5 hrs 55 mins"
         },
         {
             "language": "Groovy",
@@ -40,16 +40,20 @@
             "time": "21 hrs 25 mins"
         },
         {
+            "language": "HTTP Request",
+            "time": "2 hrs 31 mins"
+        },
+        {
             "language": "Image (svg)",
-            "time": "177 hrs 49 mins"
+            "time": "182 hrs 28 mins"
         },
         {
             "language": "JSON",
-            "time": "29 hrs 50 mins"
+            "time": "30 hrs 40 mins"
         },
         {
             "language": "Java",
-            "time": "26 hrs 54 mins"
+            "time": "27 hrs 9 mins"
         },
         {
             "language": "Java Properties",
@@ -61,7 +65,7 @@
         },
         {
             "language": "Kotlin",
-            "time": "2,483 hrs 53 mins"
+            "time": "2,504 hrs 37 mins"
         },
         {
             "language": "Markdown",
@@ -77,7 +81,7 @@
         },
         {
             "language": "Protocol Buffer",
-            "time": "15 hrs 23 mins"
+            "time": "16 hrs 16 mins"
         },
         {
             "language": "Python",
@@ -85,7 +89,7 @@
         },
         {
             "language": "Rust",
-            "time": "420 hrs 21 mins"
+            "time": "426 hrs 4 mins"
         },
         {
             "language": "SQL",
@@ -97,11 +101,11 @@
         },
         {
             "language": "TOML",
-            "time": "44 hrs 36 mins"
+            "time": "44 hrs 54 mins"
         },
         {
             "language": "Text",
-            "time": "10 hrs 23 mins"
+            "time": "10 hrs 24 mins"
         },
         {
             "language": "TypeScript",
@@ -109,11 +113,11 @@
         },
         {
             "language": "XML",
-            "time": "97 hrs 27 mins"
+            "time": "98 hrs 6 mins"
         },
         {
             "language": "YAML",
-            "time": "70 hrs 57 mins"
+            "time": "71 hrs 7 mins"
         },
         {
             "language": "protobuf",
