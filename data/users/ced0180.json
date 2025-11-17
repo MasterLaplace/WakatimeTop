@@ -1,7 +1,7 @@
 {
-    "total_time": "631 hrs 19 mins",
+    "total_time": "638 hrs 26 mins",
     "updated": true,
-    "elo": 628,
+    "elo": 635,
     "languages": [
         {
             "language": "Bash",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C++",
-            "time": "49 hrs 56 mins"
+            "time": "50 hrs 21 mins"
         },
         {
             "language": "Git Config",
@@ -33,11 +33,15 @@
         },
         {
             "language": "JavaScript",
-            "time": "18 hrs 39 mins"
+            "time": "18 hrs 44 mins"
         },
         {
             "language": "Lua",
             "time": "53 hrs 2 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "3 hrs 46 mins"
         },
         {
             "language": "Markdown",
@@ -49,7 +53,7 @@
         },
         {
             "language": "Rust",
-            "time": "46 hrs 57 mins"
+            "time": "49 hrs 48 mins"
         },
         {
             "language": "Shell",

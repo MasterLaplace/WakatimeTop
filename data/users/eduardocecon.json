@@ -1,15 +1,23 @@
 {
-    "total_time": "16 hrs 33 mins",
+    "total_time": "19 hrs 19 mins",
     "updated": true,
-    "elo": 56,
+    "elo": 59,
     "languages": [
         {
             "language": "C#",
-            "time": "3 hrs 38 mins"
+            "time": "3 hrs 12 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "3 hrs 58 mins"
+        },
+        {
+            "language": "Python",
+            "time": "6 hrs 17 mins"
         },
         {
             "language": "TypeScript",
-            "time": "12 hrs 55 mins"
+            "time": "5 hrs 52 mins"
         }
     ]
 }

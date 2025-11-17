@@ -1,7 +1,7 @@
 {
-    "total_time": "763 hrs 14 mins",
+    "total_time": "784 hrs 20 mins",
     "updated": true,
-    "elo": 764,
+    "elo": 785,
     "languages": [
         {
             "language": "Bash",
@@ -9,7 +9,11 @@
         },
         {
             "language": "C",
-            "time": "122 hrs 56 mins"
+            "time": "140 hrs 52 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "2 hrs 34 mins"
         },
         {
             "language": "Docker",
@@ -17,7 +21,7 @@
         },
         {
             "language": "Markdown",
-            "time": "6 hrs 8 mins"
+            "time": "6 hrs 16 mins"
         },
         {
             "language": "Python",
@@ -33,7 +37,7 @@
         },
         {
             "language": "YAML",
-            "time": "28 hrs 41 mins"
+            "time": "29 hrs 9 mins"
         }
     ]
 }

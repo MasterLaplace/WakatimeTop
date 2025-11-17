@@ -1,19 +1,19 @@
 {
-    "total_time": "65 hrs 45 mins",
+    "total_time": "41 hrs 39 mins",
     "updated": true,
     "elo": 100,
     "languages": [
         {
-            "language": "Blade Template",
-            "time": "2 hrs 52 mins"
-        },
-        {
             "language": "C#",
-            "time": "17 hrs 23 mins"
+            "time": "18 hrs"
         },
         {
             "language": "PHP",
-            "time": "45 hrs 30 mins"
+            "time": "20 hrs 56 mins"
+        },
+        {
+            "language": "Text",
+            "time": "2 hrs 43 mins"
         }
     ]
 }

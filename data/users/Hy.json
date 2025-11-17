@@ -1,7 +1,7 @@
 {
-    "total_time": "929 hrs 34 mins",
+    "total_time": "967 hrs 10 mins",
     "updated": true,
-    "elo": 930,
+    "elo": 968,
     "languages": [
         {
             "language": "Assembly",
@@ -17,11 +17,11 @@
         },
         {
             "language": "C#",
-            "time": "641 hrs 42 mins"
+            "time": "659 hrs 52 mins"
         },
         {
             "language": "C++",
-            "time": "35 hrs 2 mins"
+            "time": "35 hrs 36 mins"
         },
         {
             "language": "CSS",
@@ -49,7 +49,11 @@
         },
         {
             "language": "Unity",
-            "time": "99 hrs 20 mins"
+            "time": "112 hrs 52 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "5 hrs 20 mins"
         }
     ]
 }

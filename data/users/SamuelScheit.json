@@ -1,15 +1,19 @@
 {
-    "total_time": "42 hrs 36 mins",
+    "total_time": "62 hrs 17 mins",
     "updated": true,
-    "elo": 93,
+    "elo": 113,
     "languages": [
         {
             "language": "CMake",
             "time": "3 hrs 50 mins"
         },
         {
+            "language": "GLSL",
+            "time": "5 hrs 51 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "38 hrs 46 mins"
+            "time": "52 hrs 36 mins"
         }
     ]
 }

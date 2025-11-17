@@ -1,27 +1,31 @@
 {
-    "total_time": "43 hrs 13 mins",
+    "total_time": "52 hrs",
     "updated": true,
-    "elo": 49,
+    "elo": 57,
     "languages": [
         {
-            "language": "Bash",
-            "time": "2 hrs 44 mins"
-        },
-        {
             "language": "Blade Template",
-            "time": "10 hrs 22 mins"
+            "time": "5 hrs 28 mins"
         },
         {
-            "language": "JavaScript",
-            "time": "4 hrs 2 mins"
+            "language": "CSS",
+            "time": "5 hrs 9 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "8 hrs 36 mins"
         },
         {
             "language": "Markdown",
-            "time": "10 hrs 59 mins"
+            "time": "12 hrs 25 mins"
         },
         {
             "language": "PHP",
-            "time": "15 hrs 6 mins"
+            "time": "9 hrs 34 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "10 hrs 48 mins"
         }
     ]
 }

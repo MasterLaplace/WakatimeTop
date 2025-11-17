@@ -1,31 +1,19 @@
 {
-    "total_time": "38 hrs 55 mins",
+    "total_time": "29 hrs 23 mins",
     "updated": true,
     "elo": 60,
     "languages": [
         {
-            "language": "Bash",
-            "time": "2 hrs 55 mins"
-        },
-        {
             "language": "Blade Template",
-            "time": "3 hrs 46 mins"
+            "time": "6 hrs 5 mins"
         },
         {
             "language": "Dart",
-            "time": "17 hrs 18 mins"
-        },
-        {
-            "language": "Kotlin",
-            "time": "2 hrs 39 mins"
+            "time": "17 hrs 44 mins"
         },
         {
             "language": "PHP",
-            "time": "9 hrs 17 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "3 hrs"
+            "time": "5 hrs 34 mins"
         }
     ]
 }

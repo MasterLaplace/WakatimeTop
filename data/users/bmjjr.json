@@ -1,7 +1,7 @@
 {
-    "total_time": "5,597 hrs 9 mins",
+    "total_time": "5,610 hrs 51 mins",
     "updated": true,
-    "elo": 5598,
+    "elo": 5611,
     "languages": [
         {
             "language": "Bash",
@@ -33,7 +33,7 @@
         },
         {
             "language": "HTML",
-            "time": "883 hrs 42 mins"
+            "time": "889 hrs 41 mins"
         },
         {
             "language": "INI",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Markdown",
-            "time": "171 hrs 32 mins"
+            "time": "171 hrs 49 mins"
         },
         {
             "language": "PowerShell",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Python",
-            "time": "3,846 hrs 6 mins"
+            "time": "3,848 hrs 55 mins"
         },
         {
             "language": "SQL",
@@ -90,6 +90,10 @@
         {
             "language": "reStructuredText",
             "time": "41 hrs 41 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "4 hrs 37 mins"
         }
     ]
 }

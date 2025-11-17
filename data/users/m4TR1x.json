@@ -1,15 +1,11 @@
 {
-    "total_time": "41 hrs 42 mins",
+    "total_time": "28 hrs 24 mins",
     "updated": true,
     "elo": 83,
     "languages": [
         {
             "language": "C#",
-            "time": "8 hrs 16 mins"
-        },
-        {
-            "language": "Java",
-            "time": "15 hrs 49 mins"
+            "time": "14 hrs 50 mins"
         },
         {
             "language": "PowerShell",
@@ -21,11 +17,7 @@
         },
         {
             "language": "Razor",
-            "time": "2 hrs 39 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "7 hrs 15 mins"
+            "time": "5 hrs 51 mins"
         }
     ]
 }

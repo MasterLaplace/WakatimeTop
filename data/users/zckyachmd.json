@@ -1,15 +1,15 @@
 {
-    "total_time": "1,360 hrs",
+    "total_time": "1,413 hrs 15 mins",
     "updated": true,
-    "elo": 1436,
+    "elo": 1490,
     "languages": [
         {
             "language": "Bash",
-            "time": "54 hrs 6 mins"
+            "time": "55 hrs 57 mins"
         },
         {
             "language": "Blade Template",
-            "time": "159 hrs 29 mins"
+            "time": "161 hrs 5 mins"
         },
         {
             "language": "CSS",
@@ -21,11 +21,11 @@
         },
         {
             "language": "Docker",
-            "time": "19 hrs 49 mins"
+            "time": "20 hrs 5 mins"
         },
         {
             "language": "Git Config",
-            "time": "2 hrs 45 mins"
+            "time": "3 hrs 4 mins"
         },
         {
             "language": "Go",
@@ -33,23 +33,23 @@
         },
         {
             "language": "HTML",
-            "time": "8 hrs 10 mins"
+            "time": "8 hrs 19 mins"
         },
         {
             "language": "INI",
-            "time": "6 hrs 7 mins"
+            "time": "6 hrs 10 mins"
         },
         {
             "language": "JSON",
-            "time": "20 hrs 45 mins"
+            "time": "24 hrs 13 mins"
         },
         {
             "language": "JavaScript",
-            "time": "42 hrs 7 mins"
+            "time": "42 hrs 25 mins"
         },
         {
             "language": "Markdown",
-            "time": "22 hrs 42 mins"
+            "time": "41 hrs 1 min"
         },
         {
             "language": "Nginx configuration file",
@@ -57,23 +57,23 @@
         },
         {
             "language": "PHP",
-            "time": "466 hrs 53 mins"
+            "time": "480 hrs 30 mins"
         },
         {
             "language": "Prisma",
-            "time": "9 hrs 4 mins"
+            "time": "9 hrs 10 mins"
         },
         {
             "language": "SQL",
-            "time": "35 hrs 36 mins"
+            "time": "35 hrs 33 mins"
         },
         {
             "language": "TypeScript",
-            "time": "373 hrs 3 mins"
+            "time": "376 hrs 44 mins"
         },
         {
             "language": "YAML",
-            "time": "45 hrs 20 mins"
+            "time": "54 hrs 55 mins"
         }
     ]
 }

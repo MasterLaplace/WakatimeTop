@@ -1,15 +1,15 @@
 {
-    "total_time": "1,440 hrs 59 mins",
+    "total_time": "1,452 hrs 28 mins",
     "updated": true,
-    "elo": 1730,
+    "elo": 1742,
     "languages": [
         {
             "language": "Bash",
-            "time": "8 hrs 16 mins"
+            "time": "10 hrs"
         },
         {
             "language": "Docker",
-            "time": "4 hrs 54 mins"
+            "time": "5 hrs 49 mins"
         },
         {
             "language": "HCL",
@@ -17,11 +17,11 @@
         },
         {
             "language": "HTML",
-            "time": "2 hrs 47 mins"
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "JSON",
-            "time": "20 hrs 37 mins"
+            "time": "21 hrs 9 mins"
         },
         {
             "language": "Java",
@@ -41,11 +41,11 @@
         },
         {
             "language": "Markdown",
-            "time": "63 hrs 39 mins"
+            "time": "65 hrs 9 mins"
         },
         {
             "language": "Python",
-            "time": "326 hrs 23 mins"
+            "time": "326 hrs 40 mins"
         },
         {
             "language": "Rust",
@@ -53,7 +53,7 @@
         },
         {
             "language": "SQL",
-            "time": "62 hrs 11 mins"
+            "time": "65 hrs 25 mins"
         },
         {
             "language": "TOML",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Terraform",
-            "time": "48 hrs 55 mins"
+            "time": "49 hrs 17 mins"
         },
         {
             "language": "Text",
@@ -73,15 +73,15 @@
         },
         {
             "language": "YAML",
-            "time": "64 hrs 51 mins"
+            "time": "68 hrs 23 mins"
         },
         {
             "language": "i3config",
-            "time": "4 hrs 31 mins"
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "sh",
-            "time": "722 hrs 46 mins"
+            "time": "722 hrs 4 mins"
         }
     ]
 }

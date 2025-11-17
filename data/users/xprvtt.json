@@ -1,7 +1,7 @@
 {
-    "total_time": "439 hrs 47 mins",
-    "updated": false,
-    "elo": 432,
+    "total_time": "445 hrs 32 mins",
+    "updated": true,
+    "elo": 438,
     "languages": [
         {
             "language": "Binary",
@@ -13,15 +13,19 @@
         },
         {
             "language": "C++",
-            "time": "383 hrs"
+            "time": "383 hrs 1 min"
         },
         {
             "language": "JSON",
-            "time": "19 hrs 30 mins"
+            "time": "19 hrs 31 mins"
         },
         {
             "language": "JavaScript",
             "time": "4 hrs 42 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "5 hrs 43 mins"
         },
         {
             "language": "Python",
