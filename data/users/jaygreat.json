@@ -1,11 +1,11 @@
 {
-    "total_time": "2,664 hrs 48 mins",
+    "total_time": "2,687 hrs 51 mins",
     "updated": true,
-    "elo": 2665,
+    "elo": 2688,
     "languages": [
         {
             "language": "Bash",
-            "time": "28 hrs 23 mins"
+            "time": "30 hrs 1 min"
         },
         {
             "language": "C#",
@@ -20,8 +20,12 @@
             "time": "2 hrs 47 mins"
         },
         {
+            "language": "Docker",
+            "time": "3 hrs 4 mins"
+        },
+        {
             "language": "Git Config",
-            "time": "3 hrs 24 mins"
+            "time": "3 hrs 29 mins"
         },
         {
             "language": "Go",
@@ -37,23 +41,23 @@
         },
         {
             "language": "JSON",
-            "time": "41 hrs 20 mins"
+            "time": "41 hrs 37 mins"
         },
         {
             "language": "JavaScript",
-            "time": "370 hrs 1 min"
+            "time": "370 hrs 13 mins"
         },
         {
             "language": "Markdown",
-            "time": "14 hrs 31 mins"
+            "time": "20 hrs 1 min"
         },
         {
             "language": "PHP",
-            "time": "32 hrs 26 mins"
+            "time": "33 hrs 11 mins"
         },
         {
             "language": "Python",
-            "time": "593 hrs 50 mins"
+            "time": "599 hrs 48 mins"
         },
         {
             "language": "Rust",
@@ -73,19 +77,19 @@
         },
         {
             "language": "Text",
-            "time": "17 hrs 52 mins"
+            "time": "18 hrs 18 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,002 hrs 24 mins"
+            "time": "1,007 hrs 21 mins"
         },
         {
             "language": "XML",
-            "time": "11 hrs 35 mins"
+            "time": "11 hrs 38 mins"
         },
         {
             "language": "YAML",
-            "time": "3 hrs 14 mins"
+            "time": "3 hrs 22 mins"
         },
         {
             "language": "textmate",

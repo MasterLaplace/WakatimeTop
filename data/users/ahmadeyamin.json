@@ -1,7 +1,7 @@
 {
-    "total_time": "6 hrs 19 mins",
+    "total_time": "9 hrs 7 mins",
     "updated": true,
-    "elo": 157,
+    "elo": 160,
     "languages": [
         {
             "language": "Docker",
@@ -10,6 +10,10 @@
         {
             "language": "TOML",
             "time": "2 hrs 32 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "2 hrs 48 mins"
         }
     ]
 }

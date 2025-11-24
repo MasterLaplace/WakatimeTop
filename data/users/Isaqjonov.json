@@ -1,12 +1,8 @@
 {
-    "total_time": "57 hrs 26 mins",
+    "total_time": "26 hrs 19 mins",
     "updated": true,
     "elo": 2338,
     "languages": [
-        {
-            "language": "Bash",
-            "time": "4 hrs 2 mins"
-        },
         {
             "language": "Dart",
             "time": "6 hrs 50 mins"
@@ -18,14 +14,6 @@
         {
             "language": "SCSS",
             "time": "11 hrs 31 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "20 hrs 13 mins"
-        },
-        {
-            "language": "Vue.js",
-            "time": "6 hrs 52 mins"
         }
     ]
 }

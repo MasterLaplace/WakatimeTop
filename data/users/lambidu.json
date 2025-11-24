@@ -1,15 +1,31 @@
 {
-    "total_time": "10 hrs 13 mins",
+    "total_time": "35 hrs 38 mins",
     "updated": true,
-    "elo": 113,
+    "elo": 138,
     "languages": [
         {
+            "language": "C#",
+            "time": "10 hrs 14 mins"
+        },
+        {
             "language": "PHP",
-            "time": "3 hrs 25 mins"
+            "time": "3 hrs 16 mins"
+        },
+        {
+            "language": "Razor",
+            "time": "2 hrs 56 mins"
+        },
+        {
+            "language": "SCSS",
+            "time": "6 hrs 38 mins"
         },
         {
             "language": "TypeScript",
-            "time": "6 hrs 48 mins"
+            "time": "9 hrs 3 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 31 mins"
         }
     ]
 }

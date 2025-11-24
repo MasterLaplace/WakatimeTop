@@ -1,15 +1,11 @@
 {
-    "total_time": "37 hrs 59 mins",
+    "total_time": "41 hrs 16 mins",
     "updated": true,
-    "elo": 144,
+    "elo": 148,
     "languages": [
         {
-            "language": "Docker",
-            "time": "2 hrs 55 mins"
-        },
-        {
-            "language": "Go",
-            "time": "3 hrs 43 mins"
+            "language": "SQL",
+            "time": "16 hrs 27 mins"
         },
         {
             "language": "Terraform",
@@ -17,7 +13,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "28 hrs 40 mins"
+            "time": "22 hrs 8 mins"
         }
     ]
 }

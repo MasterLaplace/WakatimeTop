@@ -1,11 +1,15 @@
 {
-    "total_time": "9 hrs 41 mins",
+    "total_time": "12 hrs 14 mins",
     "updated": true,
-    "elo": 152,
+    "elo": 155,
     "languages": [
         {
+            "language": "Python",
+            "time": "6 hrs 19 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "9 hrs 41 mins"
+            "time": "5 hrs 55 mins"
         }
     ]
 }

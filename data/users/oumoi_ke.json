@@ -1,11 +1,19 @@
 {
-    "total_time": "9 hrs 25 mins",
+    "total_time": "14 hrs 40 mins",
     "updated": true,
-    "elo": 176,
+    "elo": 181,
     "languages": [
         {
-            "language": "Java",
-            "time": "9 hrs 25 mins"
+            "language": "Dart",
+            "time": "4 hrs 13 mins"
+        },
+        {
+            "language": "HOCON",
+            "time": "2 hrs 33 mins"
+        },
+        {
+            "language": "Python",
+            "time": "7 hrs 54 mins"
         }
     ]
 }

@@ -1,6 +1,19 @@
 {
-    "total_time": "0 mins",
+    "total_time": "27 hrs 34 mins",
     "updated": true,
-    "elo": 113,
-    "languages": []
+    "elo": 141,
+    "languages": [
+        {
+            "language": "JSON",
+            "time": "3 hrs 12 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "19 hrs 42 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 40 mins"
+        }
+    ]
 }

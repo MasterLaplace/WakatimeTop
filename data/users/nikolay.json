@@ -1,11 +1,11 @@
 {
-    "total_time": "4,894 hrs 54 mins",
+    "total_time": "4,912 hrs 4 mins",
     "updated": true,
-    "elo": 4895,
+    "elo": 4913,
     "languages": [
         {
             "language": "Bash",
-            "time": "182 hrs 48 mins"
+            "time": "182 hrs 53 mins"
         },
         {
             "language": "C",
@@ -65,7 +65,7 @@
         },
         {
             "language": "JSON",
-            "time": "169 hrs 18 mins"
+            "time": "169 hrs 39 mins"
         },
         {
             "language": "Java",
@@ -101,7 +101,7 @@
         },
         {
             "language": "Markdown",
-            "time": "16 hrs 47 mins"
+            "time": "22 hrs 19 mins"
         },
         {
             "language": "Mustache",
@@ -189,11 +189,11 @@
         },
         {
             "language": "YAML",
-            "time": "246 hrs 5 mins"
+            "time": "249 hrs 39 mins"
         },
         {
             "language": "Zig",
-            "time": "55 hrs 24 mins"
+            "time": "60 hrs 15 mins"
         },
         {
             "language": "jsonc",
@@ -201,7 +201,7 @@
         },
         {
             "language": "shell script",
-            "time": "4 hrs 19 mins"
+            "time": "7 hrs 6 mins"
         },
         {
             "language": "terraform",

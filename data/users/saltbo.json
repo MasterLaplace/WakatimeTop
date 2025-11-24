@@ -1,27 +1,15 @@
 {
-    "total_time": "44 hrs 4 mins",
+    "total_time": "22 hrs 14 mins",
     "updated": true,
     "elo": 129,
     "languages": [
         {
             "language": "Go",
-            "time": "21 hrs 29 mins"
-        },
-        {
-            "language": "Protocol Buffer",
-            "time": "3 hrs 35 mins"
-        },
-        {
-            "language": "Swift",
-            "time": "3 hrs 57 mins"
+            "time": "10 hrs 8 mins"
         },
         {
             "language": "TypeScript",
-            "time": "11 hrs 19 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "3 hrs 44 mins"
+            "time": "12 hrs 6 mins"
         }
     ]
 }

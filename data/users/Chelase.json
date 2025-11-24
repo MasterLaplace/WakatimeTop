@@ -1,11 +1,19 @@
 {
-    "total_time": "40 hrs 48 mins",
+    "total_time": "44 hrs",
     "updated": true,
-    "elo": 53,
+    "elo": 56,
     "languages": [
         {
+            "language": "JSON",
+            "time": "2 hrs 42 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "9 hrs 17 mins"
+        },
+        {
             "language": "Vue.js",
-            "time": "40 hrs 48 mins"
+            "time": "32 hrs 1 min"
         }
     ]
 }

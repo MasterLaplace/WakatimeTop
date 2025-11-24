@@ -1,23 +1,19 @@
 {
-    "total_time": "1,289 hrs 13 mins",
+    "total_time": "1,273 hrs 16 mins",
     "updated": true,
     "elo": 1358,
     "languages": [
         {
             "language": "Bash",
-            "time": "7 hrs 6 mins"
+            "time": "7 hrs 11 mins"
         },
         {
             "language": "C",
-            "time": "11 hrs 39 mins"
+            "time": "7 hrs 52 mins"
         },
         {
             "language": "CSS",
-            "time": "14 hrs 31 mins"
-        },
-        {
-            "language": "Cuda",
-            "time": "4 hrs 3 mins"
+            "time": "13 hrs 50 mins"
         },
         {
             "language": "JSON",
@@ -29,15 +25,15 @@
         },
         {
             "language": "Markdown",
-            "time": "11 hrs 30 mins"
+            "time": "9 hrs 41 mins"
         },
         {
             "language": "Prisma",
-            "time": "10 hrs 11 mins"
+            "time": "10 hrs 17 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,189 hrs 39 mins"
+            "time": "1,183 hrs 51 mins"
         }
     ]
 }

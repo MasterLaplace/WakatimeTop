@@ -1,11 +1,15 @@
 {
-    "total_time": "16 hrs 11 mins",
+    "total_time": "45 hrs 48 mins",
     "updated": true,
-    "elo": 121,
+    "elo": 150,
     "languages": [
         {
+            "language": "Go",
+            "time": "17 hrs 29 mins"
+        },
+        {
             "language": "zsh",
-            "time": "16 hrs 11 mins"
+            "time": "28 hrs 19 mins"
         }
     ]
 }

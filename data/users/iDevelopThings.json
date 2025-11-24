@@ -1,11 +1,11 @@
 {
-    "total_time": "17,167 hrs 41 mins",
+    "total_time": "17,261 hrs 23 mins",
     "updated": true,
-    "elo": 17168,
+    "elo": 17262,
     "languages": [
         {
             "language": ".env file",
-            "time": "7 hrs 11 mins"
+            "time": "7 hrs 14 mins"
         },
         {
             "language": "ANTLR v4 grammar file",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Bash",
-            "time": "18 hrs 6 mins"
+            "time": "18 hrs 14 mins"
         },
         {
             "language": "BashPro Shell Script",
@@ -45,19 +45,19 @@
         },
         {
             "language": "C",
-            "time": "801 hrs 53 mins"
+            "time": "802 hrs 6 mins"
         },
         {
             "language": "C#",
-            "time": "1,442 hrs 48 mins"
+            "time": "1,443 hrs 19 mins"
         },
         {
             "language": "C++",
-            "time": "2,949 hrs 36 mins"
+            "time": "3,002 hrs 45 mins"
         },
         {
             "language": "C/C",
-            "time": "213 hrs 32 mins"
+            "time": "230 hrs 33 mins"
         },
         {
             "language": "C/C++",
@@ -69,7 +69,7 @@
         },
         {
             "language": "CSS",
-            "time": "54 hrs 56 mins"
+            "time": "54 hrs 57 mins"
         },
         {
             "language": "Csproj",
@@ -105,7 +105,7 @@
         },
         {
             "language": "INI",
-            "time": "33 hrs 43 mins"
+            "time": "35 hrs 11 mins"
         },
         {
             "language": "JFlex",
@@ -113,7 +113,7 @@
         },
         {
             "language": "JSON",
-            "time": "268 hrs 39 mins"
+            "time": "268 hrs 54 mins"
         },
         {
             "language": "Java",
@@ -121,7 +121,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,378 hrs 34 mins"
+            "time": "1,378 hrs 39 mins"
         },
         {
             "language": "Kotlin",
@@ -133,11 +133,11 @@
         },
         {
             "language": "Log",
-            "time": "11 hrs 28 mins"
+            "time": "11 hrs 29 mins"
         },
         {
             "language": "Markdown",
-            "time": "61 hrs 6 mins"
+            "time": "61 hrs 20 mins"
         },
         {
             "language": "Nginx Configuration",
@@ -145,7 +145,7 @@
         },
         {
             "language": "Objective-C",
-            "time": "146 hrs 29 mins"
+            "time": "148 hrs 48 mins"
         },
         {
             "language": "ObjectiveC",
@@ -157,7 +157,7 @@
         },
         {
             "language": "PHP",
-            "time": "3,445 hrs 29 mins"
+            "time": "3,450 hrs 15 mins"
         },
         {
             "language": "Python",
@@ -173,7 +173,11 @@
         },
         {
             "language": "SQL",
-            "time": "17 hrs 59 mins"
+            "time": "18 hrs 6 mins"
+        },
+        {
+            "language": "Shell Script",
+            "time": "2 hrs 43 mins"
         },
         {
             "language": "Slurm",
@@ -185,11 +189,11 @@
         },
         {
             "language": "Text",
-            "time": "60 hrs 37 mins"
+            "time": "60 hrs 39 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,328 hrs 44 mins"
+            "time": "2,338 hrs 2 mins"
         },
         {
             "language": "USS",
@@ -213,7 +217,7 @@
         },
         {
             "language": "XML",
-            "time": "26 hrs 49 mins"
+            "time": "26 hrs 51 mins"
         },
         {
             "language": "YAML",
@@ -229,11 +233,11 @@
         },
         {
             "language": "uplugin",
-            "time": "8 hrs 39 mins"
+            "time": "9 hrs 36 mins"
         },
         {
             "language": "uproject",
-            "time": "11 hrs 20 mins"
+            "time": "11 hrs 39 mins"
         },
         {
             "language": "vue",

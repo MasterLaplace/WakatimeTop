@@ -1,27 +1,23 @@
 {
-    "total_time": "41 hrs 56 mins",
+    "total_time": "25 hrs 39 mins",
     "updated": true,
     "elo": 42,
     "languages": [
         {
             "language": "Go",
-            "time": "18 hrs 17 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "5 hrs 3 mins"
+            "time": "3 hrs 40 mins"
         },
         {
             "language": "OCaml",
             "time": "9 hrs 26 mins"
         },
         {
-            "language": "Swift",
-            "time": "4 hrs 37 mins"
+            "language": "Python",
+            "time": "7 hrs 56 mins"
         },
         {
-            "language": "fish",
-            "time": "4 hrs 33 mins"
+            "language": "Swift",
+            "time": "4 hrs 37 mins"
         }
     ]
 }

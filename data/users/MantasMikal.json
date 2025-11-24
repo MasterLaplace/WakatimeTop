@@ -1,15 +1,15 @@
 {
-    "total_time": "6,921 hrs 16 mins",
+    "total_time": "6,962 hrs 8 mins",
     "updated": true,
-    "elo": 6922,
+    "elo": 6963,
     "languages": [
         {
             "language": "Bash",
-            "time": "28 hrs 48 mins"
+            "time": "28 hrs 52 mins"
         },
         {
             "language": "CSS",
-            "time": "116 hrs 45 mins"
+            "time": "117 hrs 12 mins"
         },
         {
             "language": "CocoaPods",
@@ -25,7 +25,7 @@
         },
         {
             "language": "GraphQL",
-            "time": "11 hrs 33 mins"
+            "time": "11 hrs 35 mins"
         },
         {
             "language": "Groovy",
@@ -41,7 +41,7 @@
         },
         {
             "language": "JSON",
-            "time": "224 hrs 59 mins"
+            "time": "225 hrs 6 mins"
         },
         {
             "language": "JSX",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Markdown",
-            "time": "15 hrs 24 mins"
+            "time": "15 hrs 30 mins"
         },
         {
             "language": "PHP",
@@ -93,7 +93,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "3,743 hrs 15 mins"
+            "time": "3,775 hrs 53 mins"
+        },
+        {
+            "language": "WebGPU Shading Language",
+            "time": "7 hrs 28 mins"
         },
         {
             "language": "XML",
