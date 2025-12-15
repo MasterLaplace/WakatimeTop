@@ -1,11 +1,11 @@
 {
-    "total_time": "1,163 hrs 28 mins",
-    "updated": false,
-    "elo": 1140,
+    "total_time": "1,176 hrs 42 mins",
+    "updated": true,
+    "elo": 1153,
     "languages": [
         {
             "language": "Bash",
-            "time": "9 hrs 25 mins"
+            "time": "9 hrs 31 mins"
         },
         {
             "language": "C",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C++",
-            "time": "273 hrs 6 mins"
+            "time": "273 hrs 24 mins"
         },
         {
             "language": "CSS",
@@ -49,7 +49,7 @@
         },
         {
             "language": "Markdown",
-            "time": "96 hrs 48 mins"
+            "time": "109 hrs 38 mins"
         },
         {
             "language": "PlantUML",

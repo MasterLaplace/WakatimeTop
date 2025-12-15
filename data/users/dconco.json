@@ -1,19 +1,19 @@
 {
-    "total_time": "711 hrs 36 mins",
+    "total_time": "755 hrs 27 mins",
     "updated": true,
-    "elo": 712,
+    "elo": 756,
     "languages": [
         {
             "language": "Apache Config",
-            "time": "2 hrs 48 mins"
+            "time": "2 hrs 55 mins"
         },
         {
             "language": "Bash",
-            "time": "4 hrs 19 mins"
+            "time": "4 hrs 38 mins"
         },
         {
             "language": "C++",
-            "time": "33 hrs 27 mins"
+            "time": "33 hrs 32 mins"
         },
         {
             "language": "CMake",
@@ -21,31 +21,31 @@
         },
         {
             "language": "CSS",
-            "time": "12 hrs 20 mins"
+            "time": "13 hrs 39 mins"
+        },
+        {
+            "language": "Go",
+            "time": "20 hrs 1 min"
         },
         {
             "language": "HTML",
-            "time": "21 hrs 50 mins"
+            "time": "22 hrs 16 mins"
         },
         {
             "language": "JSON",
-            "time": "26 hrs 37 mins"
+            "time": "26 hrs 56 mins"
         },
         {
             "language": "JavaScript",
-            "time": "65 hrs 7 mins"
+            "time": "69 hrs 11 mins"
         },
         {
             "language": "Markdown",
-            "time": "37 hrs 18 mins"
+            "time": "41 hrs 26 mins"
         },
         {
             "language": "PHP",
-            "time": "319 hrs 44 mins"
-        },
-        {
-            "language": "ParaSail",
-            "time": "3 hrs 56 mins"
+            "time": "313 hrs 47 mins"
         },
         {
             "language": "Terminal",
@@ -57,11 +57,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "148 hrs 28 mins"
+            "time": "170 hrs 25 mins"
         },
         {
             "language": "YAML",
-            "time": "10 hrs 39 mins"
+            "time": "11 hrs 38 mins"
         }
     ]
 }

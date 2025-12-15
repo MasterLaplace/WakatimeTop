@@ -1,7 +1,7 @@
 {
-    "total_time": "2,004 hrs 56 mins",
+    "total_time": "2,082 hrs 29 mins",
     "updated": true,
-    "elo": 2005,
+    "elo": 2083,
     "languages": [
         {
             "language": "Assembly",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Bash",
-            "time": "102 hrs 17 mins"
+            "time": "111 hrs 26 mins"
         },
         {
             "language": "Batchfile",
-            "time": "6 hrs 33 mins"
+            "time": "6 hrs 45 mins"
         },
         {
             "language": "C",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Docker",
-            "time": "52 hrs 19 mins"
+            "time": "63 hrs 10 mins"
         },
         {
             "language": "Git",
@@ -41,11 +41,11 @@
         },
         {
             "language": "Git Config",
-            "time": "13 hrs 11 mins"
+            "time": "13 hrs 44 mins"
         },
         {
             "language": "HTML",
-            "time": "44 hrs 59 mins"
+            "time": "45 hrs 12 mins"
         },
         {
             "language": "Haskell",
@@ -53,15 +53,19 @@
         },
         {
             "language": "INI",
-            "time": "3 hrs 49 mins"
+            "time": "3 hrs 55 mins"
         },
         {
             "language": "JSON",
-            "time": "40 hrs 40 mins"
+            "time": "42 hrs 33 mins"
+        },
+        {
+            "language": "JSON with Comments",
+            "time": "3 hrs 25 mins"
         },
         {
             "language": "JavaScript",
-            "time": "99 hrs 26 mins"
+            "time": "99 hrs 29 mins"
         },
         {
             "language": "Makefile",
@@ -69,11 +73,11 @@
         },
         {
             "language": "Markdown",
-            "time": "87 hrs 29 mins"
+            "time": "90 hrs 36 mins"
         },
         {
             "language": "Python",
-            "time": "646 hrs 29 mins"
+            "time": "684 hrs 17 mins"
         },
         {
             "language": "Roff",
@@ -81,23 +85,23 @@
         },
         {
             "language": "SQL",
-            "time": "5 hrs 24 mins"
+            "time": "6 hrs 56 mins"
         },
         {
             "language": "TOML",
-            "time": "18 hrs 3 mins"
+            "time": "18 hrs 23 mins"
         },
         {
             "language": "Text",
-            "time": "42 hrs 9 mins"
+            "time": "44 hrs 15 mins"
         },
         {
             "language": "TypeScript",
-            "time": "84 hrs 51 mins"
+            "time": "85 hrs 7 mins"
         },
         {
             "language": "YAML",
-            "time": "141 hrs 36 mins"
+            "time": "147 hrs 35 mins"
         }
     ]
 }

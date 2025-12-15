@@ -1,15 +1,19 @@
 {
-    "total_time": "29 hrs 52 mins",
+    "total_time": "31 hrs 44 mins",
     "updated": true,
-    "elo": 110,
+    "elo": 112,
     "languages": [
         {
+            "language": "Binary",
+            "time": "4 hrs 8 mins"
+        },
+        {
             "language": "C#",
-            "time": "23 hrs 53 mins"
+            "time": "24 hrs 55 mins"
         },
         {
             "language": "Text Template",
-            "time": "5 hrs 59 mins"
+            "time": "2 hrs 41 mins"
         }
     ]
 }

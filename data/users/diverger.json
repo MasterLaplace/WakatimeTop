@@ -1,15 +1,23 @@
 {
-    "total_time": "39 hrs 38 mins",
+    "total_time": "63 hrs 13 mins",
     "updated": true,
-    "elo": 215,
+    "elo": 239,
     "languages": [
+        {
+            "language": "BibTeX",
+            "time": "5 hrs 16 mins"
+        },
         {
             "language": "C++",
             "time": "10 hrs 34 mins"
         },
         {
+            "language": "JSON",
+            "time": "8 hrs 45 mins"
+        },
+        {
             "language": "Python",
-            "time": "18 hrs 35 mins"
+            "time": "28 hrs 9 mins"
         },
         {
             "language": "Tcl",

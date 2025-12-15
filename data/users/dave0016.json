@@ -1,15 +1,15 @@
 {
-    "total_time": "60 hrs 36 mins",
+    "total_time": "63 hrs 6 mins",
     "updated": true,
-    "elo": 210,
+    "elo": 213,
     "languages": [
         {
-            "language": "Bash",
-            "time": "2 hrs 35 mins"
+            "language": "Blade Template",
+            "time": "5 hrs 9 mins"
         },
         {
-            "language": "Blade Template",
-            "time": "4 hrs 58 mins"
+            "language": "Docker",
+            "time": "4 hrs 2 mins"
         },
         {
             "language": "GEDCOM",
@@ -17,15 +17,19 @@
         },
         {
             "language": "Markdown",
-            "time": "4 hrs 29 mins"
+            "time": "12 hrs 28 mins"
         },
         {
             "language": "PHP",
-            "time": "33 hrs 46 mins"
+            "time": "19 hrs 34 mins"
         },
         {
             "language": "Vue.js",
             "time": "11 hrs 47 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "7 hrs 5 mins"
         }
     ]
 }

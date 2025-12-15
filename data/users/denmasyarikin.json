@@ -1,11 +1,15 @@
 {
-    "total_time": "11 hrs 12 mins",
+    "total_time": "13 hrs 3 mins",
     "updated": true,
-    "elo": 81,
+    "elo": 83,
     "languages": [
         {
             "language": "PHP",
-            "time": "11 hrs 12 mins"
+            "time": "8 hrs 38 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "4 hrs 25 mins"
         }
     ]
 }

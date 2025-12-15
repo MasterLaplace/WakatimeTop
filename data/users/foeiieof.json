@@ -1,11 +1,11 @@
 {
-    "total_time": "2,286 hrs 4 mins",
+    "total_time": "2,313 hrs 9 mins",
     "updated": true,
-    "elo": 2287,
+    "elo": 2314,
     "languages": [
         {
             "language": "Bash",
-            "time": "24 hrs 2 mins"
+            "time": "24 hrs 15 mins"
         },
         {
             "language": "Blade Template",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C#",
-            "time": "182 hrs 12 mins"
+            "time": "186 hrs 29 mins"
         },
         {
             "language": "CSHTML",
@@ -37,15 +37,19 @@
         },
         {
             "language": "JSON",
-            "time": "45 hrs 26 mins"
+            "time": "45 hrs 45 mins"
         },
         {
             "language": "JavaScript",
-            "time": "87 hrs 45 mins"
+            "time": "87 hrs 47 mins"
         },
         {
             "language": "Lua",
             "time": "25 hrs"
+        },
+        {
+            "language": "Markdown",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -57,7 +61,7 @@
         },
         {
             "language": "Prisma",
-            "time": "13 hrs 56 mins"
+            "time": "16 hrs 11 mins"
         },
         {
             "language": "Python",
@@ -81,7 +85,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,158 hrs 15 mins"
+            "time": "1,175 hrs 42 mins"
         },
         {
             "language": "Vue.js",
@@ -89,7 +93,7 @@
         },
         {
             "language": "XML",
-            "time": "5 hrs 52 mins"
+            "time": "5 hrs 53 mins"
         },
         {
             "language": "YAML",
@@ -97,7 +101,7 @@
         },
         {
             "language": "lir",
-            "time": "4 hrs 31 mins"
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "pem",

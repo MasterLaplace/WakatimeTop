@@ -1,15 +1,15 @@
 {
-    "total_time": "1,064 hrs 25 mins",
+    "total_time": "1,113 hrs 24 mins",
     "updated": true,
-    "elo": 1065,
+    "elo": 1114,
     "languages": [
         {
             "language": "C",
-            "time": "49 hrs 11 mins"
+            "time": "49 hrs 15 mins"
         },
         {
             "language": "C++",
-            "time": "674 hrs 58 mins"
+            "time": "721 hrs 31 mins"
         },
         {
             "language": "CMake",
@@ -17,7 +17,7 @@
         },
         {
             "language": "Cuda",
-            "time": "2 hrs 51 mins"
+            "time": "3 hrs 2 mins"
         },
         {
             "language": "Docker",
@@ -37,15 +37,15 @@
         },
         {
             "language": "JSON",
-            "time": "6 hrs 28 mins"
+            "time": "6 hrs 33 mins"
         },
         {
             "language": "Lua",
-            "time": "99 hrs 45 mins"
+            "time": "101 hrs 24 mins"
         },
         {
             "language": "Markdown",
-            "time": "23 hrs 39 mins"
+            "time": "23 hrs 45 mins"
         },
         {
             "language": "Objective-C",
@@ -53,15 +53,15 @@
         },
         {
             "language": "Python",
-            "time": "104 hrs 43 mins"
+            "time": "104 hrs 45 mins"
         },
         {
             "language": "Rust",
-            "time": "16 hrs 37 mins"
+            "time": "16 hrs 39 mins"
         },
         {
             "language": "TOML",
-            "time": "3 hrs 28 mins"
+            "time": "3 hrs 32 mins"
         },
         {
             "language": "Text",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Typst",
-            "time": "16 hrs 28 mins"
+            "time": "16 hrs 41 mins"
         }
     ]
 }

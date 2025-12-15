@@ -1,7 +1,7 @@
 {
-    "total_time": "3,039 hrs 38 mins",
+    "total_time": "3,092 hrs 23 mins",
     "updated": true,
-    "elo": 3040,
+    "elo": 3093,
     "languages": [
         {
             "language": "Assembly",
@@ -13,23 +13,23 @@
         },
         {
             "language": "Binary",
-            "time": "5 hrs 30 mins"
+            "time": "5 hrs 32 mins"
         },
         {
             "language": "C",
-            "time": "329 hrs 42 mins"
+            "time": "329 hrs 54 mins"
         },
         {
             "language": "C#",
-            "time": "15 hrs 3 mins"
+            "time": "15 hrs 5 mins"
         },
         {
             "language": "C++",
-            "time": "736 hrs 17 mins"
+            "time": "755 hrs 24 mins"
         },
         {
             "language": "CMake",
-            "time": "14 hrs 9 mins"
+            "time": "14 hrs 14 mins"
         },
         {
             "language": "CSS",
@@ -37,7 +37,7 @@
         },
         {
             "language": "CSV",
-            "time": "6 hrs 14 mins"
+            "time": "6 hrs 26 mins"
         },
         {
             "language": "Docker",
@@ -57,7 +57,7 @@
         },
         {
             "language": "JSON",
-            "time": "88 hrs 36 mins"
+            "time": "89 hrs"
         },
         {
             "language": "Java",
@@ -65,7 +65,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "195 hrs 51 mins"
+            "time": "200 hrs 56 mins"
         },
         {
             "language": "LLVM",
@@ -73,11 +73,11 @@
         },
         {
             "language": "Makefile",
-            "time": "15 hrs 20 mins"
+            "time": "15 hrs 32 mins"
         },
         {
             "language": "Markdown",
-            "time": "29 hrs 41 mins"
+            "time": "30 hrs 3 mins"
         },
         {
             "language": "OCaml",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Objective-C",
-            "time": "7 hrs 52 mins"
+            "time": "7 hrs 56 mins"
         },
         {
             "language": "Prisma",
@@ -93,11 +93,11 @@
         },
         {
             "language": "Python",
-            "time": "414 hrs 56 mins"
+            "time": "427 hrs 34 mins"
         },
         {
             "language": "Rust",
-            "time": "115 hrs 54 mins"
+            "time": "116 hrs 29 mins"
         },
         {
             "language": "Svelte",
@@ -117,7 +117,7 @@
         },
         {
             "language": "Text",
-            "time": "180 hrs 9 mins"
+            "time": "182 hrs 27 mins"
         },
         {
             "language": "TypeScript",
@@ -125,7 +125,7 @@
         },
         {
             "language": "Typst",
-            "time": "193 hrs 3 mins"
+            "time": "200 hrs 47 mins"
         },
         {
             "language": "XAML",
@@ -137,7 +137,7 @@
         },
         {
             "language": "YAML",
-            "time": "50 hrs 9 mins"
+            "time": "53 hrs 52 mins"
         }
     ]
 }

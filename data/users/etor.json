@@ -1,7 +1,7 @@
 {
-    "total_time": "11,751 hrs 52 mins",
+    "total_time": "11,911 hrs 22 mins",
     "updated": true,
-    "elo": 11752,
+    "elo": 11912,
     "languages": [
         {
             "language": "AMPL",
@@ -21,15 +21,19 @@
         },
         {
             "language": "Bash",
-            "time": "230 hrs 13 mins"
+            "time": "234 hrs 29 mins"
         },
         {
             "language": "C",
-            "time": "50 hrs 52 mins"
+            "time": "52 hrs 3 mins"
         },
         {
             "language": "C#",
             "time": "3 hrs 29 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "10 hrs 14 mins"
         },
         {
             "language": "CSS",
@@ -101,7 +105,7 @@
         },
         {
             "language": "Lua",
-            "time": "118 hrs 26 mins"
+            "time": "123 hrs 54 mins"
         },
         {
             "language": "MDX",
@@ -109,7 +113,7 @@
         },
         {
             "language": "Markdown",
-            "time": "278 hrs 40 mins"
+            "time": "281 hrs 32 mins"
         },
         {
             "language": "Nix",
@@ -153,11 +157,11 @@
         },
         {
             "language": "TOML",
-            "time": "4 hrs 48 mins"
+            "time": "4 hrs 55 mins"
         },
         {
             "language": "Text",
-            "time": "181 hrs 43 mins"
+            "time": "182 hrs 37 mins"
         },
         {
             "language": "Transact-SQL",
@@ -177,11 +181,11 @@
         },
         {
             "language": "YAML",
-            "time": "42 hrs 9 mins"
+            "time": "42 hrs 19 mins"
         },
         {
             "language": "Zig",
-            "time": "2,000 hrs 51 mins"
+            "time": "2,134 hrs 53 mins"
         },
         {
             "language": "bigfile",
@@ -189,7 +193,7 @@
         },
         {
             "language": "conf",
-            "time": "15 hrs 9 mins"
+            "time": "15 hrs 16 mins"
         },
         {
             "language": "jsonc",
@@ -201,7 +205,7 @@
         },
         {
             "language": "sh",
-            "time": "23 hrs 14 mins"
+            "time": "23 hrs 23 mins"
         }
     ]
 }

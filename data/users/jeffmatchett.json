@@ -1,11 +1,15 @@
 {
-    "total_time": "14 hrs 46 mins",
+    "total_time": "20 hrs 17 mins",
     "updated": true,
-    "elo": 110,
+    "elo": 116,
     "languages": [
         {
             "language": "C#",
-            "time": "9 hrs 20 mins"
+            "time": "9 hrs 33 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "5 hrs 18 mins"
         },
         {
             "language": "Jupyter",

@@ -1,11 +1,11 @@
 {
-    "total_time": "69 hrs",
+    "total_time": "85 hrs 37 mins",
     "updated": true,
-    "elo": 136,
+    "elo": 153,
     "languages": [
         {
-            "language": "Image (svg)",
-            "time": "3 hrs 35 mins"
+            "language": "Bash",
+            "time": "6 hrs 48 mins"
         },
         {
             "language": "Kotlin",
@@ -13,15 +13,11 @@
         },
         {
             "language": "Markdown",
-            "time": "3 hrs 6 mins"
-        },
-        {
-            "language": "SQL",
-            "time": "3 hrs 43 mins"
+            "time": "3 hrs 18 mins"
         },
         {
             "language": "TypeScript",
-            "time": "43 hrs 54 mins"
+            "time": "60 hrs 49 mins"
         }
     ]
 }

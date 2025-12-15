@@ -1,19 +1,11 @@
 {
-    "total_time": "13 hrs 33 mins",
-    "updated": false,
+    "total_time": "4 hrs 23 mins",
+    "updated": true,
     "elo": 123,
     "languages": [
         {
-            "language": "Assembly",
-            "time": "4 hrs 35 mins"
-        },
-        {
-            "language": "Groovy",
-            "time": "6 hrs 28 mins"
-        },
-        {
             "language": "Python",
-            "time": "2 hrs 30 mins"
+            "time": "4 hrs 23 mins"
         }
     ]
 }

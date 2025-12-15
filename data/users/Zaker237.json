@@ -1,19 +1,31 @@
 {
-    "total_time": "63 hrs 18 mins",
+    "total_time": "69 hrs 2 mins",
     "updated": true,
-    "elo": 226,
+    "elo": 232,
     "languages": [
         {
+            "language": "Bash",
+            "time": "3 hrs"
+        },
+        {
             "language": "Dart",
-            "time": "16 hrs 25 mins"
+            "time": "5 hrs 14 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "4 hrs 48 mins"
         },
         {
             "language": "Python",
-            "time": "18 hrs 29 mins"
+            "time": "41 hrs 53 mins"
+        },
+        {
+            "language": "Terraform",
+            "time": "5 hrs 9 mins"
         },
         {
             "language": "TypeScript",
-            "time": "24 hrs 42 mins"
+            "time": "5 hrs 16 mins"
         },
         {
             "language": "YAML",

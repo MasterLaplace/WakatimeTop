@@ -1,5 +1,5 @@
 {
-    "total_time": "63 hrs 2 mins",
+    "total_time": "47 hrs 1 mins",
     "updated": true,
     "elo": 176,
     "languages": [
@@ -8,16 +8,20 @@
             "time": "2 hrs 56 mins"
         },
         {
-            "language": "Lua",
-            "time": "52 hrs 15 mins"
+            "language": "CSS",
+            "time": "9 hrs 37 mins"
         },
         {
             "language": "Rust",
-            "time": "4 hrs 5 mins"
+            "time": "27 hrs 11 mins"
         },
         {
             "language": "Text",
             "time": "3 hrs 46 mins"
+        },
+        {
+            "language": "hyprlang",
+            "time": "3 hrs 31 mins"
         }
     ]
 }

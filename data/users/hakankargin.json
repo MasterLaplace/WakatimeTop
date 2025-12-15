@@ -1,7 +1,7 @@
 {
-    "total_time": "1,509 hrs 18 mins",
+    "total_time": "1,715 hrs 22 mins",
     "updated": true,
-    "elo": 1510,
+    "elo": 1716,
     "languages": [
         {
             "language": "Bash",
@@ -25,11 +25,11 @@
         },
         {
             "language": "Go",
-            "time": "252 hrs 48 mins"
+            "time": "253 hrs 28 mins"
         },
         {
             "language": "Gradle",
-            "time": "24 hrs 27 mins"
+            "time": "32 hrs 10 mins"
         },
         {
             "language": "GraphQL",
@@ -37,19 +37,19 @@
         },
         {
             "language": "Groovy",
-            "time": "28 hrs 50 mins"
+            "time": "38 hrs 23 mins"
         },
         {
             "language": "JSON",
-            "time": "3 hrs 27 mins"
+            "time": "3 hrs 48 mins"
         },
         {
             "language": "Java",
-            "time": "717 hrs 51 mins"
+            "time": "892 hrs 44 mins"
         },
         {
             "language": "Java Properties",
-            "time": "18 hrs 37 mins"
+            "time": "18 hrs 38 mins"
         },
         {
             "language": "Makefile",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Markdown",
-            "time": "3 hrs 12 mins"
+            "time": "3 hrs 38 mins"
         },
         {
             "language": "Objective-C",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Properties",
-            "time": "10 hrs 41 mins"
+            "time": "10 hrs 48 mins"
         },
         {
             "language": "Protocol Buffer",
@@ -77,11 +77,11 @@
         },
         {
             "language": "Python",
-            "time": "78 hrs 53 mins"
+            "time": "80 hrs 40 mins"
         },
         {
             "language": "SQL",
-            "time": "54 hrs 59 mins"
+            "time": "56 hrs 35 mins"
         },
         {
             "language": "TOML",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Text",
-            "time": "4 hrs 49 mins"
+            "time": "4 hrs 57 mins"
         },
         {
             "language": "XML",
@@ -97,7 +97,7 @@
         },
         {
             "language": "YAML",
-            "time": "31 hrs 26 mins"
+            "time": "40 hrs 3 mins"
         },
         {
             "language": "protobuf",
@@ -105,7 +105,7 @@
         },
         {
             "language": "textmate",
-            "time": "7 hrs 29 mins"
+            "time": "7 hrs 41 mins"
         }
     ]
 }

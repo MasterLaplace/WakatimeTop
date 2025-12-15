@@ -1,27 +1,19 @@
 {
-    "total_time": "31 hrs 32 mins",
+    "total_time": "17 hrs 24 mins",
     "updated": true,
     "elo": 106,
     "languages": [
         {
-            "language": "Bash",
-            "time": "2 hrs 46 mins"
-        },
-        {
             "language": "C#",
-            "time": "5 hrs 50 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "3 hrs 56 mins"
+            "time": "10 hrs 17 mins"
         },
         {
             "language": "Nix",
-            "time": "16 hrs 21 mins"
+            "time": "4 hrs 30 mins"
         },
         {
-            "language": "YAML",
-            "time": "2 hrs 39 mins"
+            "language": "Razor",
+            "time": "2 hrs 37 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "3,084 hrs 42 mins",
+    "total_time": "3,100 hrs 37 mins",
     "updated": true,
-    "elo": 3085,
+    "elo": 3101,
     "languages": [
         {
             "language": "AutoHotkey",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "37 hrs 44 mins"
+            "time": "38 hrs 38 mins"
         },
         {
             "language": "Binary",
@@ -29,7 +29,7 @@
         },
         {
             "language": "CSS",
-            "time": "11 hrs 43 mins"
+            "time": "11 hrs 46 mins"
         },
         {
             "language": "Config",
@@ -41,15 +41,15 @@
         },
         {
             "language": "Docker",
-            "time": "8 hrs 25 mins"
+            "time": "8 hrs 26 mins"
         },
         {
             "language": "Ezhil",
-            "time": "3 hrs 39 mins"
+            "time": "3 hrs 40 mins"
         },
         {
             "language": "Git Config",
-            "time": "20 hrs 28 mins"
+            "time": "20 hrs 31 mins"
         },
         {
             "language": "GitIgnore file",
@@ -61,7 +61,7 @@
         },
         {
             "language": "HTML",
-            "time": "123 hrs 12 mins"
+            "time": "125 hrs 13 mins"
         },
         {
             "language": "HTTP Request",
@@ -69,11 +69,11 @@
         },
         {
             "language": "INI",
-            "time": "5 hrs 9 mins"
+            "time": "5 hrs 14 mins"
         },
         {
             "language": "JSON",
-            "time": "233 hrs 45 mins"
+            "time": "237 hrs"
         },
         {
             "language": "JSON with Comments",
@@ -81,7 +81,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "109 hrs 10 mins"
+            "time": "109 hrs 33 mins"
         },
         {
             "language": "Lua",
@@ -93,7 +93,7 @@
         },
         {
             "language": "Markdown",
-            "time": "155 hrs 30 mins"
+            "time": "156 hrs 22 mins"
         },
         {
             "language": "NSIS",
@@ -101,7 +101,7 @@
         },
         {
             "language": "PowerShell",
-            "time": "9 hrs 42 mins"
+            "time": "9 hrs 45 mins"
         },
         {
             "language": "Project file properties",
@@ -113,19 +113,23 @@
         },
         {
             "language": "SCSS",
-            "time": "10 hrs 7 mins"
+            "time": "10 hrs 22 mins"
         },
         {
             "language": "SQL",
-            "time": "15 hrs"
+            "time": "15 hrs 1 min"
         },
         {
             "language": "Solution File",
             "time": "3 hrs 25 mins"
         },
         {
+            "language": "TOML",
+            "time": "3 hrs 35 mins"
+        },
+        {
             "language": "TSConfig",
-            "time": "9 hrs 39 mins"
+            "time": "9 hrs 47 mins"
         },
         {
             "language": "Terraform",
@@ -137,7 +141,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "955 hrs 52 mins"
+            "time": "959 hrs 51 mins"
         },
         {
             "language": "Vue.js",
@@ -149,11 +153,11 @@
         },
         {
             "language": "XML",
-            "time": "110 hrs 59 mins"
+            "time": "111 hrs 9 mins"
         },
         {
             "language": "YAML",
-            "time": "79 hrs 1 min"
+            "time": "79 hrs 7 mins"
         }
     ]
 }

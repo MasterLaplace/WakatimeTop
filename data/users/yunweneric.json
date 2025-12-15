@@ -1,11 +1,19 @@
 {
-    "total_time": "19 hrs 54 mins",
+    "total_time": "25 hrs 56 mins",
     "updated": true,
-    "elo": 125,
+    "elo": 131,
     "languages": [
         {
+            "language": "CocoaPods",
+            "time": "2 hrs 42 mins"
+        },
+        {
             "language": "Dart",
-            "time": "19 hrs 54 mins"
+            "time": "13 hrs 49 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "9 hrs 25 mins"
         }
     ]
 }

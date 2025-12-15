@@ -1,7 +1,7 @@
 {
-    "total_time": "3,368 hrs 5 mins",
-    "updated": false,
-    "elo": 3518,
+    "total_time": "3,374 hrs 25 mins",
+    "updated": true,
+    "elo": 3524,
     "languages": [
         {
             "language": "ActionScript 3",
@@ -21,7 +21,7 @@
         },
         {
             "language": "C",
-            "time": "429 hrs 3 mins"
+            "time": "432 hrs 2 mins"
         },
         {
             "language": "C#",
@@ -69,15 +69,15 @@
         },
         {
             "language": "Lua",
-            "time": "17 hrs 30 mins"
+            "time": "17 hrs 31 mins"
         },
         {
             "language": "Makefile",
-            "time": "25 hrs 21 mins"
+            "time": "25 hrs 22 mins"
         },
         {
             "language": "Markdown",
-            "time": "63 hrs 39 mins"
+            "time": "64 hrs 19 mins"
         },
         {
             "language": "MetaHumanCreator",
@@ -121,7 +121,7 @@
         },
         {
             "language": "Text",
-            "time": "7 hrs 30 mins"
+            "time": "7 hrs 38 mins"
         },
         {
             "language": "Unreal Engine",
@@ -142,6 +142,10 @@
         {
             "language": "conf",
             "time": "6 hrs 38 mins"
+        },
+        {
+            "language": "gitignore",
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "sh",

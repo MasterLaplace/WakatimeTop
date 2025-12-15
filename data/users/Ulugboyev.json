@@ -1,31 +1,35 @@
 {
-    "total_time": "1,002 hrs 26 mins",
+    "total_time": "1,068 hrs 50 mins",
     "updated": true,
-    "elo": 1003,
+    "elo": 1069,
     "languages": [
+        {
+            "language": "Dart",
+            "time": "58 hrs 36 mins"
+        },
         {
             "language": "GitIgnore file",
             "time": "3 hrs 20 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "11 hrs 35 mins"
+            "time": "11 hrs 42 mins"
         },
         {
             "language": "Java",
-            "time": "216 hrs 37 mins"
+            "time": "217 hrs 16 mins"
         },
         {
             "language": "Kotlin",
-            "time": "606 hrs 53 mins"
+            "time": "613 hrs 38 mins"
         },
         {
             "language": "TOML",
-            "time": "2 hrs 35 mins"
+            "time": "2 hrs 39 mins"
         },
         {
             "language": "XML",
-            "time": "161 hrs 26 mins"
+            "time": "161 hrs 39 mins"
         }
     ]
 }
