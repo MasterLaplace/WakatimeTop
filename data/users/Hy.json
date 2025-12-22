@@ -1,7 +1,7 @@
 {
-    "total_time": "1,038 hrs 28 mins",
+    "total_time": "1,063 hrs 52 mins",
     "updated": true,
-    "elo": 1039,
+    "elo": 1064,
     "languages": [
         {
             "language": "Assembly",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C#",
-            "time": "697 hrs 29 mins"
+            "time": "705 hrs 47 mins"
         },
         {
             "language": "C++",
@@ -26,6 +26,10 @@
         {
             "language": "CSS",
             "time": "4 hrs 38 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "2 hrs 38 mins"
         },
         {
             "language": "JSON",
@@ -41,7 +45,7 @@
         },
         {
             "language": "Markdown",
-            "time": "15 hrs 8 mins"
+            "time": "17 hrs 56 mins"
         },
         {
             "language": "TypeScript",
@@ -49,7 +53,7 @@
         },
         {
             "language": "Unity",
-            "time": "126 hrs 22 mins"
+            "time": "138 hrs 2 mins"
         },
         {
             "language": "YAML",

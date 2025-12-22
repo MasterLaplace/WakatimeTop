@@ -1,11 +1,19 @@
 {
-    "total_time": "30 hrs 3 mins",
+    "total_time": "49 hrs",
     "updated": true,
-    "elo": 82,
+    "elo": 100,
     "languages": [
         {
+            "language": "C#",
+            "time": "16 hrs 27 mins"
+        },
+        {
             "language": "Rust",
-            "time": "30 hrs 3 mins"
+            "time": "28 hrs 22 mins"
+        },
+        {
+            "language": "XML",
+            "time": "4 hrs 11 mins"
         }
     ]
 }

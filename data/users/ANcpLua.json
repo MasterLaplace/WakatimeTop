@@ -1,15 +1,15 @@
 {
-    "total_time": "3,659 hrs 1 mins",
-    "updated": false,
-    "elo": 3660,
+    "total_time": "3,935 hrs 13 mins",
+    "updated": true,
+    "elo": 3936,
     "languages": [
         {
             "language": ".env file",
-            "time": "8 hrs 57 mins"
+            "time": "9 hrs 9 mins"
         },
         {
             "language": "Bash",
-            "time": "11 hrs 2 mins"
+            "time": "12 hrs 38 mins"
         },
         {
             "language": "Blazor",
@@ -17,51 +17,51 @@
         },
         {
             "language": "C#",
-            "time": "2,499 hrs 55 mins"
+            "time": "2,648 hrs 25 mins"
         },
         {
             "language": "CSS",
-            "time": "36 hrs 22 mins"
+            "time": "36 hrs 24 mins"
         },
         {
             "language": "Config",
-            "time": "5 hrs 5 mins"
+            "time": "5 hrs 37 mins"
         },
         {
             "language": "Csproj",
-            "time": "72 hrs 18 mins"
+            "time": "79 hrs 30 mins"
         },
         {
             "language": "Docker",
-            "time": "42 hrs 14 mins"
+            "time": "43 hrs 19 mins"
         },
         {
             "language": "EditorConfig",
-            "time": "3 hrs 49 mins"
+            "time": "4 hrs 20 mins"
         },
         {
             "language": "F#",
-            "time": "28 hrs 31 mins"
+            "time": "28 hrs 26 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "5 hrs 48 mins"
+            "time": "6 hrs 49 mins"
         },
         {
             "language": "HTML",
-            "time": "35 hrs 46 mins"
+            "time": "36 hrs 28 mins"
         },
         {
             "language": "HTTP Request",
-            "time": "5 hrs 43 mins"
+            "time": "5 hrs 46 mins"
         },
         {
             "language": "INI",
-            "time": "4 hrs 6 mins"
+            "time": "4 hrs 53 mins"
         },
         {
             "language": "JSON",
-            "time": "78 hrs 26 mins"
+            "time": "85 hrs 31 mins"
         },
         {
             "language": "Java",
@@ -69,15 +69,15 @@
         },
         {
             "language": "JavaScript",
-            "time": "25 hrs 58 mins"
+            "time": "26 hrs 19 mins"
         },
         {
             "language": "Markdown",
-            "time": "133 hrs 51 mins"
+            "time": "193 hrs 12 mins"
         },
         {
             "language": "MsBuild targets file",
-            "time": "4 hrs 37 mins"
+            "time": "6 hrs 30 mins"
         },
         {
             "language": "Nginx Configuration Pro",
@@ -85,19 +85,23 @@
         },
         {
             "language": "Nginx configuration file",
-            "time": "4 hrs 58 mins"
+            "time": "5 hrs 14 mins"
         },
         {
             "language": "Project file properties",
-            "time": "8 hrs 37 mins"
+            "time": "12 hrs 40 mins"
         },
         {
             "language": "Python",
-            "time": "5 hrs 59 mins"
+            "time": "8 hrs 19 mins"
         },
         {
             "language": "Razor",
             "time": "73 hrs 42 mins"
+        },
+        {
+            "language": "Resources",
+            "time": "2 hrs 40 mins"
         },
         {
             "language": "SQL",
@@ -105,19 +109,19 @@
         },
         {
             "language": "Shell Script",
-            "time": "4 hrs 25 mins"
+            "time": "5 hrs 6 mins"
         },
         {
             "language": "Solution File",
-            "time": "14 hrs 28 mins"
+            "time": "15 hrs 21 mins"
         },
         {
             "language": "Text",
-            "time": "20 hrs 21 mins"
+            "time": "23 hrs 42 mins"
         },
         {
             "language": "TypeScript",
-            "time": "4 hrs 35 mins"
+            "time": "5 hrs 51 mins"
         },
         {
             "language": "Vue.js",
@@ -129,19 +133,19 @@
         },
         {
             "language": "XML",
-            "time": "85 hrs 43 mins"
+            "time": "93 hrs 30 mins"
         },
         {
             "language": "XML Solution File",
-            "time": "5 hrs 43 mins"
+            "time": "13 hrs 4 mins"
         },
         {
             "language": "YAML",
-            "time": "117 hrs 41 mins"
+            "time": "130 hrs 32 mins"
         },
         {
             "language": "textmate",
-            "time": "13 hrs 59 mins"
+            "time": "15 hrs 54 mins"
         }
     ]
 }

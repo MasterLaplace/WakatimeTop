@@ -1,11 +1,11 @@
 {
-    "total_time": "1,775 hrs 30 mins",
+    "total_time": "1,821 hrs 1 mins",
     "updated": true,
-    "elo": 1776,
+    "elo": 1822,
     "languages": [
         {
             "language": "Bash",
-            "time": "169 hrs 34 mins"
+            "time": "170 hrs 14 mins"
         },
         {
             "language": "Batchfile",
@@ -17,11 +17,11 @@
         },
         {
             "language": "Docker",
-            "time": "6 hrs 11 mins"
+            "time": "6 hrs 13 mins"
         },
         {
             "language": "ERB",
-            "time": "20 hrs 11 mins"
+            "time": "21 hrs 21 mins"
         },
         {
             "language": "HTML",
@@ -33,15 +33,15 @@
         },
         {
             "language": "JSON",
-            "time": "9 hrs 48 mins"
+            "time": "9 hrs 56 mins"
         },
         {
             "language": "JavaScript",
-            "time": "73 hrs 22 mins"
+            "time": "73 hrs 40 mins"
         },
         {
             "language": "Markdown",
-            "time": "143 hrs 4 mins"
+            "time": "143 hrs 24 mins"
         },
         {
             "language": "Python",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Ruby",
-            "time": "1,065 hrs 4 mins"
+            "time": "1,101 hrs 57 mins"
         },
         {
             "language": "SCSS",
@@ -65,15 +65,15 @@
         },
         {
             "language": "SSH Config",
-            "time": "2 hrs 50 mins"
+            "time": "3 hrs"
         },
         {
             "language": "TypeScript",
-            "time": "122 hrs 19 mins"
+            "time": "127 hrs 24 mins"
         },
         {
             "language": "YAML",
-            "time": "39 hrs 23 mins"
+            "time": "40 hrs 8 mins"
         }
     ]
 }

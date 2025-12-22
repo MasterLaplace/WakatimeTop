@@ -1,15 +1,15 @@
 {
-    "total_time": "7,019 hrs 15 mins",
+    "total_time": "7,049 hrs 41 mins",
     "updated": true,
-    "elo": 7101,
+    "elo": 7131,
     "languages": [
         {
             "language": "Bash",
-            "time": "179 hrs 30 mins"
+            "time": "179 hrs 59 mins"
         },
         {
             "language": "CSS",
-            "time": "23 hrs 6 mins"
+            "time": "23 hrs 9 mins"
         },
         {
             "language": "Dart",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Git Config",
-            "time": "18 hrs 32 mins"
+            "time": "18 hrs 34 mins"
         },
         {
             "language": "Go",
@@ -41,7 +41,7 @@
         },
         {
             "language": "HTML",
-            "time": "43 hrs"
+            "time": "43 hrs 19 mins"
         },
         {
             "language": "INI",
@@ -49,7 +49,7 @@
         },
         {
             "language": "JSON",
-            "time": "320 hrs 1 min"
+            "time": "322 hrs 55 mins"
         },
         {
             "language": "JSX",
@@ -65,7 +65,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "565 hrs 22 mins"
+            "time": "566 hrs 29 mins"
         },
         {
             "language": "Kotlin",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Prisma",
-            "time": "80 hrs 6 mins"
+            "time": "80 hrs 31 mins"
         },
         {
             "language": "Properties",
@@ -121,7 +121,7 @@
         },
         {
             "language": "TSConfig",
-            "time": "7 hrs 40 mins"
+            "time": "7 hrs 44 mins"
         },
         {
             "language": "TSQL",
@@ -133,7 +133,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "4,258 hrs 11 mins"
+            "time": "4,283 hrs 11 mins"
         },
         {
             "language": "Vue.js",
@@ -145,7 +145,7 @@
         },
         {
             "language": "YAML",
-            "time": "246 hrs 29 mins"
+            "time": "246 hrs 32 mins"
         }
     ]
 }

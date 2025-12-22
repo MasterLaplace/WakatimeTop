@@ -1,7 +1,7 @@
 {
-    "total_time": "2,942 hrs 34 mins",
+    "total_time": "2,951 hrs 15 mins",
     "updated": true,
-    "elo": 2943,
+    "elo": 2952,
     "languages": [
         {
             "language": "Astro",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Go",
-            "time": "213 hrs 36 mins"
+            "time": "219 hrs 57 mins"
         },
         {
             "language": "GraphQL",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Lua",
-            "time": "32 hrs 34 mins"
+            "time": "32 hrs 35 mins"
         },
         {
             "language": "MDX",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Markdown",
-            "time": "62 hrs 14 mins"
+            "time": "62 hrs 16 mins"
         },
         {
             "language": "PHP",
@@ -89,7 +89,7 @@
         },
         {
             "language": "SQL",
-            "time": "29 hrs 50 mins"
+            "time": "31 hrs 2 mins"
         },
         {
             "language": "Svelte",
@@ -101,11 +101,11 @@
         },
         {
             "language": "Text",
-            "time": "5 hrs 27 mins"
+            "time": "5 hrs 28 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,794 hrs 12 mins"
+            "time": "1,795 hrs 3 mins"
         },
         {
             "language": "Vue.js",
@@ -117,11 +117,11 @@
         },
         {
             "language": "YAML",
-            "time": "19 hrs"
+            "time": "19 hrs 10 mins"
         },
         {
             "language": "conf",
-            "time": "9 hrs 35 mins"
+            "time": "9 hrs 38 mins"
         }
     ]
 }

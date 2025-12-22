@@ -1,11 +1,15 @@
 {
-    "total_time": "8 hrs 57 mins",
+    "total_time": "15 hrs 39 mins",
     "updated": true,
-    "elo": 95,
+    "elo": 102,
     "languages": [
         {
             "language": "Kotlin",
-            "time": "8 hrs 57 mins"
+            "time": "12 hrs 56 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 43 mins"
         }
     ]
 }

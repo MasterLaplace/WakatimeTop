@@ -1,5 +1,5 @@
 {
-    "total_time": "60 hrs 46 mins",
+    "total_time": "60 hrs 6 mins",
     "updated": true,
     "elo": 232,
     "languages": [
@@ -12,8 +12,16 @@
             "time": "11 hrs 31 mins"
         },
         {
+            "language": "Git Config",
+            "time": "5 hrs 10 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "2 hrs 44 mins"
+        },
+        {
             "language": "Markdown",
-            "time": "35 hrs 25 mins"
+            "time": "26 hrs 51 mins"
         },
         {
             "language": "Terraform",

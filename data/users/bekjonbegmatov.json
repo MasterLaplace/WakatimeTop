@@ -1,6 +1,23 @@
 {
-    "total_time": "0 mins",
-    "updated": false,
-    "elo": 0,
-    "languages": []
+    "total_time": "13 hrs",
+    "updated": true,
+    "elo": 13,
+    "languages": [
+        {
+            "language": "Groff",
+            "time": "2 hrs 53 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "3 hrs 13 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "4 hrs 17 mins"
+        },
+        {
+            "language": "Python",
+            "time": "2 hrs 37 mins"
+        }
+    ]
 }

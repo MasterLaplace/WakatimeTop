@@ -1,19 +1,19 @@
 {
-    "total_time": "1,113 hrs 24 mins",
+    "total_time": "1,131 hrs 51 mins",
     "updated": true,
-    "elo": 1114,
+    "elo": 1132,
     "languages": [
         {
             "language": "C",
-            "time": "49 hrs 15 mins"
+            "time": "49 hrs 16 mins"
         },
         {
             "language": "C++",
-            "time": "721 hrs 31 mins"
+            "time": "727 hrs 14 mins"
         },
         {
             "language": "CMake",
-            "time": "14 hrs 4 mins"
+            "time": "15 hrs 35 mins"
         },
         {
             "language": "Cuda",
@@ -37,15 +37,15 @@
         },
         {
             "language": "JSON",
-            "time": "6 hrs 33 mins"
+            "time": "6 hrs 34 mins"
         },
         {
             "language": "Lua",
-            "time": "101 hrs 24 mins"
+            "time": "110 hrs 13 mins"
         },
         {
             "language": "Markdown",
-            "time": "23 hrs 45 mins"
+            "time": "24 hrs 1 min"
         },
         {
             "language": "Objective-C",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Python",
-            "time": "104 hrs 45 mins"
+            "time": "104 hrs 46 mins"
         },
         {
             "language": "Rust",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Typst",
-            "time": "16 hrs 41 mins"
+            "time": "18 hrs 46 mins"
         }
     ]
 }

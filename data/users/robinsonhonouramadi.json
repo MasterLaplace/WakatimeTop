@@ -1,7 +1,7 @@
 {
-    "total_time": "2,290 hrs 42 mins",
+    "total_time": "2,310 hrs 25 mins",
     "updated": true,
-    "elo": 2291,
+    "elo": 2311,
     "languages": [
         {
             "language": "Apache Config",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "61 hrs 51 mins"
+            "time": "62 hrs 3 mins"
         },
         {
             "language": "CSS",
@@ -25,35 +25,39 @@
         },
         {
             "language": "HTML",
-            "time": "64 hrs 16 mins"
+            "time": "64 hrs 22 mins"
         },
         {
             "language": "HTTP Request",
-            "time": "13 hrs 48 mins"
+            "time": "15 hrs 17 mins"
         },
         {
             "language": "JSON",
-            "time": "39 hrs"
+            "time": "39 hrs 12 mins"
         },
         {
             "language": "JavaScript",
-            "time": "450 hrs 36 mins"
+            "time": "450 hrs 54 mins"
         },
         {
             "language": "Markdown",
-            "time": "12 hrs 2 mins"
+            "time": "12 hrs 13 mins"
         },
         {
             "language": "PHP",
-            "time": "457 hrs 3 mins"
+            "time": "457 hrs 18 mins"
         },
         {
             "language": "Prisma",
             "time": "11 hrs"
         },
         {
+            "language": "Prolog",
+            "time": "3 hrs 32 mins"
+        },
+        {
             "language": "Python",
-            "time": "53 hrs 5 mins"
+            "time": "54 hrs 30 mins"
         },
         {
             "language": "SQL",
@@ -61,11 +65,11 @@
         },
         {
             "language": "Text",
-            "time": "5 hrs 7 mins"
+            "time": "5 hrs 13 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,053 hrs 35 mins"
+            "time": "1,065 hrs 32 mins"
         }
     ]
 }

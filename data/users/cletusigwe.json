@@ -1,7 +1,7 @@
 {
-    "total_time": "21 hrs 2 mins",
+    "total_time": "48 hrs 13 mins",
     "updated": true,
-    "elo": 133,
+    "elo": 160,
     "languages": [
         {
             "language": "Rust",
@@ -9,11 +9,7 @@
         },
         {
             "language": "Solidity",
-            "time": "4 hrs 15 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "12 hrs 48 mins"
+            "time": "44 hrs 14 mins"
         }
     ]
 }
