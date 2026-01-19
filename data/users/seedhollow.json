@@ -1,31 +1,35 @@
 {
-    "total_time": "3,418 hrs 39 mins",
+    "total_time": "3,483 hrs 11 mins",
     "updated": true,
-    "elo": 3419,
+    "elo": 3484,
     "languages": [
         {
+            "language": "Bash",
+            "time": "2 hrs 34 mins"
+        },
+        {
             "language": "C",
-            "time": "99 hrs 45 mins"
+            "time": "100 hrs 2 mins"
         },
         {
             "language": "C#",
-            "time": "18 hrs 29 mins"
+            "time": "18 hrs 58 mins"
         },
         {
             "language": "C++",
-            "time": "236 hrs 14 mins"
+            "time": "242 hrs 59 mins"
         },
         {
             "language": "CMake",
-            "time": "5 hrs 15 mins"
+            "time": "5 hrs 16 mins"
         },
         {
             "language": "Dart",
-            "time": "790 hrs 28 mins"
+            "time": "792 hrs 37 mins"
         },
         {
             "language": "Gradle",
-            "time": "13 hrs 56 mins"
+            "time": "13 hrs 57 mins"
         },
         {
             "language": "Gradle Kotlin DSL",
@@ -33,19 +37,19 @@
         },
         {
             "language": "Groovy",
-            "time": "29 hrs 44 mins"
+            "time": "29 hrs 46 mins"
         },
         {
             "language": "JSON",
-            "time": "11 hrs 46 mins"
+            "time": "11 hrs 48 mins"
         },
         {
             "language": "Java",
-            "time": "96 hrs 56 mins"
+            "time": "98 hrs 7 mins"
         },
         {
             "language": "Java Properties",
-            "time": "7 hrs 5 mins"
+            "time": "7 hrs 15 mins"
         },
         {
             "language": "JavaScript",
@@ -53,23 +57,23 @@
         },
         {
             "language": "Kotlin",
-            "time": "1,393 hrs 2 mins"
+            "time": "1,427 hrs 12 mins"
         },
         {
             "language": "Makefile",
-            "time": "7 hrs 37 mins"
+            "time": "7 hrs 38 mins"
         },
         {
             "language": "Markdown",
-            "time": "5 hrs 25 mins"
+            "time": "5 hrs 35 mins"
         },
         {
             "language": "Objective-C",
-            "time": "70 hrs 27 mins"
+            "time": "70 hrs 33 mins"
         },
         {
             "language": "ObjectiveC",
-            "time": "115 hrs 48 mins"
+            "time": "116 hrs 25 mins"
         },
         {
             "language": "PHP",
@@ -81,15 +85,15 @@
         },
         {
             "language": "Properties",
-            "time": "3 hrs 16 mins"
+            "time": "3 hrs 31 mins"
         },
         {
             "language": "Python",
-            "time": "10 hrs 21 mins"
+            "time": "11 hrs 18 mins"
         },
         {
             "language": "Smali",
-            "time": "11 hrs 2 mins"
+            "time": "11 hrs 34 mins"
         },
         {
             "language": "TypeScript",
@@ -97,11 +101,11 @@
         },
         {
             "language": "XML",
-            "time": "424 hrs 59 mins"
+            "time": "438 hrs"
         },
         {
             "language": "YAML",
-            "time": "19 hrs 42 mins"
+            "time": "20 hrs 44 mins"
         }
     ]
 }

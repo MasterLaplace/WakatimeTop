@@ -1,15 +1,15 @@
 {
-    "total_time": "1,674 hrs 43 mins",
+    "total_time": "1,742 hrs 21 mins",
     "updated": true,
-    "elo": 1737,
+    "elo": 1805,
     "languages": [
         {
             "language": "Bash",
-            "time": "54 hrs 39 mins"
+            "time": "59 hrs 4 mins"
         },
         {
             "language": "Batchfile",
-            "time": "4 hrs 56 mins"
+            "time": "5 hrs 14 mins"
         },
         {
             "language": "CMake",
@@ -17,11 +17,11 @@
         },
         {
             "language": "CSS",
-            "time": "16 hrs 5 mins"
+            "time": "16 hrs 13 mins"
         },
         {
             "language": "Dart",
-            "time": "694 hrs 58 mins"
+            "time": "724 hrs 24 mins"
         },
         {
             "language": "Figma Design",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Git Config",
-            "time": "8 hrs 39 mins"
+            "time": "9 hrs 1 min"
         },
         {
             "language": "Gradle Kotlin DSL",
@@ -37,11 +37,11 @@
         },
         {
             "language": "Groovy",
-            "time": "29 hrs 15 mins"
+            "time": "30 hrs 29 mins"
         },
         {
             "language": "HTML",
-            "time": "19 hrs 12 mins"
+            "time": "19 hrs 24 mins"
         },
         {
             "language": "Image (svg)",
@@ -49,7 +49,7 @@
         },
         {
             "language": "JSON",
-            "time": "41 hrs 40 mins"
+            "time": "42 hrs 19 mins"
         },
         {
             "language": "Java Properties",
@@ -57,19 +57,23 @@
         },
         {
             "language": "JavaScript",
-            "time": "295 hrs 47 mins"
+            "time": "311 hrs 56 mins"
         },
         {
             "language": "Markdown",
-            "time": "30 hrs 29 mins"
+            "time": "31 hrs 11 mins"
         },
         {
             "language": "PHP",
-            "time": "61 hrs 26 mins"
+            "time": "67 hrs 51 mins"
         },
         {
             "language": "Python",
-            "time": "150 hrs 27 mins"
+            "time": "150 hrs 32 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "2 hrs 33 mins"
         },
         {
             "language": "Text",
@@ -77,15 +81,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "153 hrs 40 mins"
+            "time": "154 hrs"
         },
         {
             "language": "XML",
-            "time": "8 hrs 4 mins"
+            "time": "8 hrs 29 mins"
         },
         {
             "language": "YAML",
-            "time": "35 hrs 40 mins"
+            "time": "39 hrs 55 mins"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "total_time": "4,969 hrs 11 mins",
+    "total_time": "4,977 hrs 19 mins",
     "updated": true,
-    "elo": 4970,
+    "elo": 4978,
     "languages": [
         {
             "language": "C#",
-            "time": "1,358 hrs 15 mins"
+            "time": "1,364 hrs 42 mins"
         },
         {
             "language": "CSS",
@@ -17,7 +17,7 @@
         },
         {
             "language": "Gherkin",
-            "time": "63 hrs 20 mins"
+            "time": "63 hrs 41 mins"
         },
         {
             "language": "Git Config",
@@ -25,7 +25,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "5 hrs 11 mins"
+            "time": "5 hrs 21 mins"
         },
         {
             "language": "GraphQL",
@@ -33,23 +33,19 @@
         },
         {
             "language": "HTML",
-            "time": "99 hrs 51 mins"
+            "time": "99 hrs 58 mins"
         },
         {
             "language": "HTTP Request",
-            "time": "31 hrs 47 mins"
-        },
-        {
-            "language": "JAVA",
-            "time": "2 hrs 43 mins"
+            "time": "31 hrs 49 mins"
         },
         {
             "language": "JSON",
-            "time": "58 hrs 41 mins"
+            "time": "58 hrs 57 mins"
         },
         {
             "language": "Java",
-            "time": "2,595 hrs 8 mins"
+            "time": "2,597 hrs 21 mins"
         },
         {
             "language": "Java Properties",
@@ -57,11 +53,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "3 hrs 49 mins"
+            "time": "3 hrs 50 mins"
         },
         {
             "language": "LaTeX source file",
-            "time": "5 hrs 18 mins"
+            "time": "5 hrs 19 mins"
         },
         {
             "language": "Log",
@@ -69,7 +65,7 @@
         },
         {
             "language": "Markdown",
-            "time": "94 hrs 37 mins"
+            "time": "95 hrs 5 mins"
         },
         {
             "language": "Mustache",
@@ -81,15 +77,15 @@
         },
         {
             "language": "Python",
-            "time": "11 hrs 47 mins"
+            "time": "11 hrs 51 mins"
         },
         {
             "language": "Reqnroll",
-            "time": "21 hrs 9 mins"
+            "time": "21 hrs 11 mins"
         },
         {
             "language": "Resources",
-            "time": "3 hrs 32 mins"
+            "time": "3 hrs 33 mins"
         },
         {
             "language": "SCSS",
@@ -97,7 +93,7 @@
         },
         {
             "language": "SQL",
-            "time": "28 hrs 28 mins"
+            "time": "28 hrs 30 mins"
         },
         {
             "language": "SmartyConfig",
@@ -117,7 +113,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "124 hrs 36 mins"
+            "time": "125 hrs"
         },
         {
             "language": "XAML",
@@ -125,7 +121,7 @@
         },
         {
             "language": "XML",
-            "time": "229 hrs 27 mins"
+            "time": "229 hrs 37 mins"
         },
         {
             "language": "YAML",
@@ -133,7 +129,7 @@
         },
         {
             "language": "textmate",
-            "time": "5 hrs 9 mins"
+            "time": "5 hrs 11 mins"
         }
     ]
 }

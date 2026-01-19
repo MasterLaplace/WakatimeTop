@@ -1,0 +1,23 @@
+{
+    "total_time": "80 hrs 39 mins",
+    "updated": true,
+    "elo": 81,
+    "languages": [
+        {
+            "language": "C++",
+            "time": "40 hrs 11 mins"
+        },
+        {
+            "language": "MLIR",
+            "time": "3 hrs 59 mins"
+        },
+        {
+            "language": "Python",
+            "time": "33 hrs 43 mins"
+        },
+        {
+            "language": "TableGen",
+            "time": "2 hrs 46 mins"
+        }
+    ]
+}

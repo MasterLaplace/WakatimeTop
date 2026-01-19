@@ -1,11 +1,15 @@
 {
-    "total_time": "20 hrs 57 mins",
+    "total_time": "23 hrs 15 mins",
     "updated": true,
-    "elo": 131,
+    "elo": 134,
     "languages": [
         {
             "language": "C#",
             "time": "7 hrs 15 mins"
+        },
+        {
+            "language": "Java",
+            "time": "3 hrs 15 mins"
         },
         {
             "language": "Nginx Configuration",
@@ -13,11 +17,7 @@
         },
         {
             "language": "Python",
-            "time": "6 hrs 57 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "3 hrs 29 mins"
+            "time": "9 hrs 29 mins"
         }
     ]
 }

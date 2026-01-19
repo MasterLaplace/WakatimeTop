@@ -1,7 +1,7 @@
 {
-    "total_time": "1,057 hrs 56 mins",
-    "updated": false,
-    "elo": 1052,
+    "total_time": "1,058 hrs 55 mins",
+    "updated": true,
+    "elo": 1053,
     "languages": [
         {
             "language": "Astro",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "7 hrs 53 mins"
+            "time": "8 hrs 1 min"
         },
         {
             "language": "C#",
@@ -25,11 +25,11 @@
         },
         {
             "language": "JSON",
-            "time": "103 hrs 39 mins"
+            "time": "103 hrs 44 mins"
         },
         {
             "language": "JavaScript",
-            "time": "337 hrs 6 mins"
+            "time": "337 hrs 11 mins"
         },
         {
             "language": "Markdown",
@@ -49,7 +49,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "490 hrs 24 mins"
+            "time": "491 hrs 5 mins"
         },
         {
             "language": "XML",

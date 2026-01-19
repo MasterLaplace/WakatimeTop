@@ -1,15 +1,19 @@
 {
-    "total_time": "10 hrs 9 mins",
+    "total_time": "27 hrs 24 mins",
     "updated": true,
-    "elo": 139,
+    "elo": 156,
     "languages": [
         {
             "language": "Dart",
-            "time": "4 hrs 31 mins"
+            "time": "16 hrs 15 mins"
         },
         {
             "language": "Kotlin",
-            "time": "5 hrs 38 mins"
+            "time": "6 hrs 58 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 11 mins"
         }
     ]
 }

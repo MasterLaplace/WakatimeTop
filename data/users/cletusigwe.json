@@ -1,8 +1,12 @@
 {
-    "total_time": "48 hrs 13 mins",
+    "total_time": "103 hrs 55 mins",
     "updated": true,
-    "elo": 160,
+    "elo": 215,
     "languages": [
+        {
+            "language": "Nim",
+            "time": "55 hrs 42 mins"
+        },
         {
             "language": "Rust",
             "time": "3 hrs 59 mins"

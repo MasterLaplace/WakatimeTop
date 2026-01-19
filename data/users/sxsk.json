@@ -1,6 +1,6 @@
 {
-    "total_time": "3,588 hrs 21 mins",
-    "updated": false,
+    "total_time": "3,588 hrs 53 mins",
+    "updated": true,
     "elo": 3589,
     "languages": [
         {
@@ -21,11 +21,11 @@
         },
         {
             "language": "Java",
-            "time": "2,665 hrs 54 mins"
+            "time": "2,666 hrs 24 mins"
         },
         {
             "language": "Kotlin",
-            "time": "706 hrs 47 mins"
+            "time": "706 hrs 48 mins"
         },
         {
             "language": "MCLang",
@@ -61,7 +61,7 @@
         },
         {
             "language": "YAML",
-            "time": "83 hrs 41 mins"
+            "time": "83 hrs 42 mins"
         }
     ]
 }

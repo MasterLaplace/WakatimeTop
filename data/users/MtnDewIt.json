@@ -1,7 +1,7 @@
 {
-    "total_time": "2,932 hrs 23 mins",
+    "total_time": "3,124 hrs 3 mins",
     "updated": true,
-    "elo": 2933,
+    "elo": 3125,
     "languages": [
         {
             "language": "C",
@@ -9,15 +9,15 @@
         },
         {
             "language": "C#",
-            "time": "2,206 hrs 34 mins"
+            "time": "2,320 hrs 2 mins"
         },
         {
             "language": "C++",
-            "time": "279 hrs 51 mins"
+            "time": "280 hrs 49 mins"
         },
         {
             "language": "CSS",
-            "time": "12 hrs 23 mins"
+            "time": "13 hrs 51 mins"
         },
         {
             "language": "GN",
@@ -25,11 +25,11 @@
         },
         {
             "language": "Git Config",
-            "time": "3 hrs 2 mins"
+            "time": "3 hrs 13 mins"
         },
         {
             "language": "HLSL",
-            "time": "82 hrs 2 mins"
+            "time": "83 hrs"
         },
         {
             "language": "HTML",
@@ -37,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "27 hrs 45 mins"
+            "time": "35 hrs 38 mins"
         },
         {
             "language": "Java",
@@ -45,15 +45,23 @@
         },
         {
             "language": "JavaScript",
-            "time": "28 hrs 21 mins"
+            "time": "28 hrs 58 mins"
         },
         {
             "language": "Markdown",
-            "time": "33 hrs 14 mins"
+            "time": "33 hrs 32 mins"
         },
         {
             "language": "Microsoft Visual Studio Solution",
-            "time": "3 hrs 56 mins"
+            "time": "4 hrs 29 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "9 hrs 44 mins"
+        },
+        {
+            "language": "Python",
+            "time": "7 hrs 48 mins"
         },
         {
             "language": "Rust",
@@ -61,19 +69,27 @@
         },
         {
             "language": "Text",
-            "time": "15 hrs 6 mins"
+            "time": "15 hrs 19 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "2 hrs 58 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "6 hrs 57 mins"
         },
         {
             "language": "XAML",
-            "time": "39 hrs 40 mins"
+            "time": "40 hrs 33 mins"
         },
         {
             "language": "XML",
-            "time": "99 hrs 49 mins"
+            "time": "135 hrs 15 mins"
         },
         {
             "language": "YAML",
-            "time": "5 hrs 39 mins"
+            "time": "6 hrs 56 mins"
         }
     ]
 }

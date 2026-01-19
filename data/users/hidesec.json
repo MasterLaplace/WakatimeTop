@@ -1,7 +1,7 @@
 {
-    "total_time": "2,356 hrs 46 mins",
+    "total_time": "2,378 hrs 49 mins",
     "updated": true,
-    "elo": 2357,
+    "elo": 2379,
     "languages": [
         {
             "language": ".env file",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "32 hrs 52 mins"
+            "time": "34 hrs"
         },
         {
             "language": "Blade Template",
@@ -21,35 +21,35 @@
         },
         {
             "language": "CSV",
-            "time": "5 hrs 9 mins"
+            "time": "4 hrs 54 mins"
         },
         {
             "language": "Docker",
-            "time": "3 hrs 18 mins"
+            "time": "3 hrs 23 mins"
         },
         {
             "language": "Go",
-            "time": "12 hrs 54 mins"
+            "time": "10 hrs 34 mins"
         },
         {
             "language": "HTML",
-            "time": "24 hrs 26 mins"
+            "time": "24 hrs 17 mins"
         },
         {
             "language": "JSON",
-            "time": "33 hrs 11 mins"
+            "time": "32 hrs 57 mins"
         },
         {
             "language": "JavaScript",
-            "time": "603 hrs 53 mins"
+            "time": "611 hrs 37 mins"
         },
         {
             "language": "Markdown",
-            "time": "28 hrs 16 mins"
+            "time": "33 hrs 55 mins"
         },
         {
             "language": "PHP",
-            "time": "54 hrs 46 mins"
+            "time": "54 hrs 11 mins"
         },
         {
             "language": "PlantUML file",
@@ -61,23 +61,23 @@
         },
         {
             "language": "Python",
-            "time": "193 hrs 40 mins"
+            "time": "194 hrs 3 mins"
         },
         {
             "language": "SQL",
-            "time": "402 hrs 8 mins"
+            "time": "402 hrs 5 mins"
         },
         {
             "language": "Text",
-            "time": "21 hrs 29 mins"
+            "time": "19 hrs 58 mins"
         },
         {
             "language": "TypeScript",
-            "time": "899 hrs 12 mins"
+            "time": "912 hrs 15 mins"
         },
         {
             "language": "YAML",
-            "time": "13 hrs 54 mins"
+            "time": "13 hrs 2 mins"
         }
     ]
 }

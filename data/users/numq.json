@@ -1,7 +1,7 @@
 {
-    "total_time": "2,682 hrs 17 mins",
+    "total_time": "2,825 hrs 56 mins",
     "updated": true,
-    "elo": 2683,
+    "elo": 2826,
     "languages": [
         {
             "language": "Batchfile",
@@ -9,15 +9,15 @@
         },
         {
             "language": "C",
-            "time": "28 hrs 13 mins"
+            "time": "28 hrs 18 mins"
         },
         {
             "language": "C++",
-            "time": "293 hrs 51 mins"
+            "time": "294 hrs 3 mins"
         },
         {
             "language": "CMake",
-            "time": "48 hrs 9 mins"
+            "time": "48 hrs 10 mins"
         },
         {
             "language": "Docker",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Java",
-            "time": "9 hrs 29 mins"
+            "time": "9 hrs 49 mins"
         },
         {
             "language": "JavaScript",
@@ -45,31 +45,35 @@
         },
         {
             "language": "Kotlin",
-            "time": "1,846 hrs 58 mins"
+            "time": "1,985 hrs 21 mins"
         },
         {
             "language": "Markdown",
-            "time": "58 hrs 26 mins"
+            "time": "58 hrs 52 mins"
         },
         {
             "language": "ObjectiveC",
-            "time": "31 hrs 4 mins"
+            "time": "31 hrs 13 mins"
         },
         {
             "language": "Python",
-            "time": "211 hrs 7 mins"
+            "time": "211 hrs 10 mins"
         },
         {
             "language": "TOML",
-            "time": "6 hrs 3 mins"
+            "time": "6 hrs 12 mins"
         },
         {
             "language": "Text",
-            "time": "5 hrs 49 mins"
+            "time": "5 hrs 54 mins"
         },
         {
             "language": "TypeScript",
             "time": "87 hrs 57 mins"
+        },
+        {
+            "language": "XML",
+            "time": "3 hrs 45 mins"
         },
         {
             "language": "YAML",
@@ -77,7 +81,7 @@
         },
         {
             "language": "textmate",
-            "time": "7 hrs 6 mins"
+            "time": "7 hrs 7 mins"
         }
     ]
 }

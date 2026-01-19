@@ -1,15 +1,15 @@
 {
-    "total_time": "7,387 hrs 3 mins",
+    "total_time": "7,479 hrs 15 mins",
     "updated": true,
-    "elo": 7388,
+    "elo": 7480,
     "languages": [
         {
             "language": "Astro",
-            "time": "19 hrs 1 min"
+            "time": "19 hrs 2 mins"
         },
         {
             "language": "Bash",
-            "time": "79 hrs 2 mins"
+            "time": "80 hrs 12 mins"
         },
         {
             "language": "Blade Template",
@@ -21,11 +21,11 @@
         },
         {
             "language": "CSV",
-            "time": "57 hrs 25 mins"
+            "time": "58 hrs 39 mins"
         },
         {
             "language": "Docker",
-            "time": "8 hrs 49 mins"
+            "time": "8 hrs 53 mins"
         },
         {
             "language": "Ezhil",
@@ -33,11 +33,11 @@
         },
         {
             "language": "Git",
-            "time": "4 hrs 57 mins"
+            "time": "4 hrs 59 mins"
         },
         {
             "language": "Git Config",
-            "time": "6 hrs 11 mins"
+            "time": "6 hrs 21 mins"
         },
         {
             "language": "Gradle",
@@ -45,7 +45,7 @@
         },
         {
             "language": "GraphQL",
-            "time": "20 hrs 5 mins"
+            "time": "20 hrs 4 mins"
         },
         {
             "language": "Groovy",
@@ -53,7 +53,7 @@
         },
         {
             "language": "HTML",
-            "time": "191 hrs 54 mins"
+            "time": "195 hrs 5 mins"
         },
         {
             "language": "Image (svg)",
@@ -61,15 +61,15 @@
         },
         {
             "language": "JSON",
-            "time": "303 hrs 52 mins"
+            "time": "308 hrs 20 mins"
         },
         {
             "language": "Java",
-            "time": "828 hrs 3 mins"
+            "time": "837 hrs 30 mins"
         },
         {
             "language": "JavaScript",
-            "time": "1,234 hrs 37 mins"
+            "time": "1,234 hrs 50 mins"
         },
         {
             "language": "Kotlin",
@@ -77,7 +77,7 @@
         },
         {
             "language": "Markdown",
-            "time": "195 hrs 50 mins"
+            "time": "207 hrs 32 mins"
         },
         {
             "language": "PHP",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Prisma",
-            "time": "22 hrs 7 mins"
+            "time": "22 hrs 35 mins"
         },
         {
             "language": "Properties",
@@ -93,15 +93,15 @@
         },
         {
             "language": "Python",
-            "time": "149 hrs 36 mins"
+            "time": "150 hrs"
         },
         {
             "language": "SCSS",
-            "time": "69 hrs 39 mins"
+            "time": "70 hrs 45 mins"
         },
         {
             "language": "SQL",
-            "time": "72 hrs 24 mins"
+            "time": "77 hrs 19 mins"
         },
         {
             "language": "Scala",
@@ -109,7 +109,7 @@
         },
         {
             "language": "TSConfig",
-            "time": "2 hrs 45 mins"
+            "time": "3 hrs 7 mins"
         },
         {
             "language": "TSQL",
@@ -121,11 +121,11 @@
         },
         {
             "language": "Text",
-            "time": "21 hrs 7 mins"
+            "time": "21 hrs 11 mins"
         },
         {
             "language": "TypeScript",
-            "time": "3,369 hrs 17 mins"
+            "time": "3,412 hrs 13 mins"
         },
         {
             "language": "XML",
@@ -133,11 +133,11 @@
         },
         {
             "language": "YAML",
-            "time": "111 hrs 46 mins"
+            "time": "121 hrs 28 mins"
         },
         {
             "language": "sh",
-            "time": "461 hrs 45 mins"
+            "time": "462 hrs 19 mins"
         }
     ]
 }

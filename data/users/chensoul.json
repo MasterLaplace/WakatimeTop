@@ -1,11 +1,19 @@
 {
-    "total_time": "5 hrs 56 mins",
+    "total_time": "37 hrs 47 mins",
     "updated": true,
-    "elo": 99,
+    "elo": 131,
     "languages": [
         {
             "language": "Java",
-            "time": "5 hrs 56 mins"
+            "time": "23 hrs 1 min"
+        },
+        {
+            "language": "XML",
+            "time": "10 hrs 44 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 2 mins"
         }
     ]
 }

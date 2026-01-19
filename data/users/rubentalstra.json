@@ -1,23 +1,23 @@
 {
-    "total_time": "626 hrs 40 mins",
+    "total_time": "728 hrs 56 mins",
     "updated": true,
-    "elo": 627,
+    "elo": 729,
     "languages": [
         {
             "language": "Bash",
-            "time": "4 hrs 9 mins"
+            "time": "4 hrs 14 mins"
         },
         {
             "language": "CSV",
-            "time": "5 hrs 49 mins"
+            "time": "9 hrs 48 mins"
         },
         {
             "language": "Dart",
-            "time": "159 hrs 19 mins"
+            "time": "159 hrs 31 mins"
         },
         {
             "language": "EJS",
-            "time": "37 hrs 41 mins"
+            "time": "37 hrs 51 mins"
         },
         {
             "language": "Groovy",
@@ -29,43 +29,43 @@
         },
         {
             "language": "JSON",
-            "time": "15 hrs 54 mins"
+            "time": "17 hrs 16 mins"
         },
         {
             "language": "JavaScript",
-            "time": "77 hrs 10 mins"
+            "time": "77 hrs 47 mins"
         },
         {
             "language": "Markdown",
-            "time": "32 hrs 32 mins"
+            "time": "53 hrs 13 mins"
         },
         {
             "language": "Python",
-            "time": "124 hrs 42 mins"
+            "time": "133 hrs 50 mins"
         },
         {
             "language": "Rust",
-            "time": "59 hrs 1 min"
+            "time": "110 hrs 5 mins"
         },
         {
             "language": "TOML",
-            "time": "4 hrs 36 mins"
+            "time": "8 hrs 49 mins"
         },
         {
             "language": "TypeScript",
-            "time": "47 hrs 58 mins"
+            "time": "51 hrs 53 mins"
         },
         {
             "language": "XAML",
-            "time": "5 hrs 34 mins"
+            "time": "5 hrs 35 mins"
         },
         {
             "language": "XML",
-            "time": "13 hrs 54 mins"
+            "time": "15 hrs 40 mins"
         },
         {
             "language": "YAML",
-            "time": "16 hrs 19 mins"
+            "time": "21 hrs 22 mins"
         }
     ]
 }

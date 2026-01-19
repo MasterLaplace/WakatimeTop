@@ -1,7 +1,7 @@
 {
-    "total_time": "384 hrs 16 mins",
-    "updated": false,
-    "elo": 361,
+    "total_time": "386 hrs 25 mins",
+    "updated": true,
+    "elo": 363,
     "languages": [
         {
             "language": "Dart",
@@ -13,23 +13,23 @@
         },
         {
             "language": "JSON",
-            "time": "150 hrs 4 mins"
+            "time": "150 hrs 35 mins"
         },
         {
             "language": "JavaScript",
-            "time": "180 hrs 29 mins"
+            "time": "181 hrs 12 mins"
         },
         {
             "language": "Kotlin",
-            "time": "5 hrs 43 mins"
+            "time": "5 hrs 45 mins"
         },
         {
             "language": "Markdown",
-            "time": "4 hrs 44 mins"
+            "time": "4 hrs 46 mins"
         },
         {
             "language": "TypeScript",
-            "time": "18 hrs 29 mins"
+            "time": "19 hrs 20 mins"
         }
     ]
 }

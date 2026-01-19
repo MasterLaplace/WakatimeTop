@@ -1,31 +1,43 @@
 {
-    "total_time": "1,019 hrs 42 mins",
+    "total_time": "1,144 hrs 55 mins",
     "updated": true,
-    "elo": 1075,
+    "elo": 1200,
     "languages": [
         {
             "language": "Bash",
-            "time": "5 hrs 21 mins"
+            "time": "6 hrs 31 mins"
         },
         {
             "language": "C",
-            "time": "14 hrs 15 mins"
+            "time": "20 hrs 58 mins"
         },
         {
             "language": "C++",
-            "time": "848 hrs 9 mins"
+            "time": "893 hrs 50 mins"
+        },
+        {
+            "language": "C/C",
+            "time": "2 hrs 58 mins"
         },
         {
             "language": "CMake",
-            "time": "73 hrs 22 mins"
+            "time": "124 hrs 49 mins"
+        },
+        {
+            "language": "CMakeLists.txt",
+            "time": "5 hrs 15 mins"
         },
         {
             "language": "GLSL",
-            "time": "27 hrs 24 mins"
+            "time": "27 hrs 23 mins"
+        },
+        {
+            "language": "INI",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "JSON",
-            "time": "9 hrs 58 mins"
+            "time": "13 hrs 14 mins"
         },
         {
             "language": "Java",
@@ -33,31 +45,31 @@
         },
         {
             "language": "Lua",
-            "time": "11 hrs 34 mins"
+            "time": "12 hrs 35 mins"
         },
         {
             "language": "Markdown",
-            "time": "3 hrs 50 mins"
+            "time": "3 hrs 52 mins"
         },
         {
             "language": "NSIS",
-            "time": "3 hrs 51 mins"
+            "time": "5 hrs 11 mins"
         },
         {
             "language": "TOML",
-            "time": "2 hrs 30 mins"
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "Text",
-            "time": "3 hrs 31 mins"
+            "time": "5 hrs 26 mins"
         },
         {
             "language": "conf",
-            "time": "8 hrs 12 mins"
+            "time": "9 hrs 7 mins"
         },
         {
             "language": "fish",
-            "time": "3 hrs 19 mins"
+            "time": "4 hrs 19 mins"
         }
     ]
 }

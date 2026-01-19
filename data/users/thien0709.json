@@ -1,7 +1,7 @@
 {
-    "total_time": "981 hrs 38 mins",
-    "updated": false,
-    "elo": 982,
+    "total_time": "987 hrs 54 mins",
+    "updated": true,
+    "elo": 988,
     "languages": [
         {
             "language": "C++",
@@ -13,7 +13,11 @@
         },
         {
             "language": "Dart",
-            "time": "38 hrs 36 mins"
+            "time": "38 hrs 35 mins"
+        },
+        {
+            "language": "Devicetree",
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "HTML",
@@ -25,31 +29,31 @@
         },
         {
             "language": "Java",
-            "time": "213 hrs 30 mins"
+            "time": "213 hrs 56 mins"
         },
         {
             "language": "JavaScript",
-            "time": "180 hrs 7 mins"
+            "time": "180 hrs 15 mins"
         },
         {
             "language": "Kotlin",
-            "time": "210 hrs 21 mins"
+            "time": "210 hrs 35 mins"
         },
         {
             "language": "Python",
-            "time": "56 hrs 50 mins"
+            "time": "56 hrs 53 mins"
         },
         {
             "language": "TypeScript",
-            "time": "99 hrs 39 mins"
+            "time": "99 hrs 54 mins"
         },
         {
             "language": "XML",
-            "time": "17 hrs 10 mins"
+            "time": "17 hrs 12 mins"
         },
         {
             "language": "YAML",
-            "time": "9 hrs 35 mins"
+            "time": "10 hrs 12 mins"
         }
     ]
 }

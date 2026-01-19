@@ -1,75 +1,79 @@
 {
-    "total_time": "2,766 hrs 32 mins",
+    "total_time": "2,900 hrs 31 mins",
     "updated": true,
-    "elo": 2767,
+    "elo": 2901,
     "languages": [
         {
             "language": "Astro",
-            "time": "118 hrs 15 mins"
+            "time": "118 hrs 25 mins"
         },
         {
             "language": "Bash",
-            "time": "7 hrs 23 mins"
+            "time": "7 hrs 49 mins"
         },
         {
             "language": "CSS",
-            "time": "10 hrs 27 mins"
+            "time": "10 hrs 58 mins"
         },
         {
             "language": "Git",
-            "time": "7 hrs 19 mins"
+            "time": "7 hrs 37 mins"
         },
         {
             "language": "Groovy",
-            "time": "5 hrs 58 mins"
+            "time": "9 hrs 17 mins"
         },
         {
             "language": "HTML",
-            "time": "24 hrs 59 mins"
+            "time": "25 hrs 3 mins"
         },
         {
-            "language": "Image (svg)",
-            "time": "10 hrs 44 mins"
-        },
-        {
-            "language": "JSON",
-            "time": "37 hrs 28 mins"
-        },
-        {
-            "language": "Java",
-            "time": "23 hrs 47 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "62 hrs"
-        },
-        {
-            "language": "Kotlin",
-            "time": "6 hrs 46 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "17 hrs 7 mins"
-        },
-        {
-            "language": "SCSS",
-            "time": "188 hrs 4 mins"
-        },
-        {
-            "language": "Solidity",
+            "language": "HTTP Request",
             "time": "6 hrs 12 mins"
         },
         {
+            "language": "Image (svg)",
+            "time": "20 hrs 33 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "39 hrs 49 mins"
+        },
+        {
+            "language": "Java",
+            "time": "23 hrs 48 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "99 hrs 12 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "9 hrs 50 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "18 hrs 59 mins"
+        },
+        {
+            "language": "SCSS",
+            "time": "188 hrs 38 mins"
+        },
+        {
+            "language": "Solidity",
+            "time": "6 hrs 13 mins"
+        },
+        {
             "language": "TSConfig",
-            "time": "3 hrs 23 mins"
+            "time": "3 hrs 39 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,226 hrs 25 mins"
+            "time": "2,292 hrs 28 mins"
         },
         {
             "language": "XML",
-            "time": "10 hrs 15 mins"
+            "time": "12 hrs 1 min"
         }
     ]
 }

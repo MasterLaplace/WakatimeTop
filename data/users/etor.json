@@ -1,7 +1,7 @@
 {
-    "total_time": "11,916 hrs 22 mins",
+    "total_time": "11,987 hrs 11 mins",
     "updated": true,
-    "elo": 11917,
+    "elo": 11988,
     "languages": [
         {
             "language": "AMPL",
@@ -9,6 +9,10 @@
         },
         {
             "language": "ActionScript 3",
+            "time": "2 hrs 51 mins"
+        },
+        {
+            "language": "Ampl",
             "time": "2 hrs 51 mins"
         },
         {
@@ -21,11 +25,11 @@
         },
         {
             "language": "Bash",
-            "time": "234 hrs 52 mins"
+            "time": "235 hrs 2 mins"
         },
         {
             "language": "C",
-            "time": "52 hrs 3 mins"
+            "time": "52 hrs 5 mins"
         },
         {
             "language": "C#",
@@ -33,11 +37,11 @@
         },
         {
             "language": "CMake",
-            "time": "10 hrs 15 mins"
+            "time": "10 hrs 20 mins"
         },
         {
             "language": "CSS",
-            "time": "68 hrs 7 mins"
+            "time": "68 hrs 36 mins"
         },
         {
             "language": "CSV",
@@ -49,7 +53,7 @@
         },
         {
             "language": "Diff",
-            "time": "5 hrs 6 mins"
+            "time": "5 hrs 7 mins"
         },
         {
             "language": "Docker",
@@ -61,7 +65,7 @@
         },
         {
             "language": "Git",
-            "time": "43 hrs 5 mins"
+            "time": "43 hrs 11 mins"
         },
         {
             "language": "Git Config",
@@ -69,7 +73,7 @@
         },
         {
             "language": "HTML",
-            "time": "172 hrs 6 mins"
+            "time": "173 hrs 43 mins"
         },
         {
             "language": "Haskell",
@@ -77,11 +81,11 @@
         },
         {
             "language": "INI",
-            "time": "2 hrs 42 mins"
+            "time": "3 hrs 25 mins"
         },
         {
             "language": "JSON",
-            "time": "584 hrs"
+            "time": "584 hrs 1 min"
         },
         {
             "language": "JSX",
@@ -101,11 +105,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "2,853 hrs 1 min"
+            "time": "2,869 hrs 42 mins"
         },
         {
             "language": "Lua",
-            "time": "123 hrs 55 mins"
+            "time": "124 hrs 12 mins"
         },
         {
             "language": "MDX",
@@ -113,7 +117,7 @@
         },
         {
             "language": "Markdown",
-            "time": "282 hrs 40 mins"
+            "time": "283 hrs 43 mins"
         },
         {
             "language": "Nix",
@@ -129,7 +133,7 @@
         },
         {
             "language": "Python",
-            "time": "284 hrs 19 mins"
+            "time": "284 hrs 45 mins"
         },
         {
             "language": "Rust",
@@ -137,7 +141,7 @@
         },
         {
             "language": "SCSS",
-            "time": "553 hrs 23 mins"
+            "time": "553 hrs 24 mins"
         },
         {
             "language": "SQL",
@@ -157,11 +161,11 @@
         },
         {
             "language": "TOML",
-            "time": "4 hrs 55 mins"
+            "time": "4 hrs 58 mins"
         },
         {
             "language": "Text",
-            "time": "182 hrs 45 mins"
+            "time": "186 hrs 58 mins"
         },
         {
             "language": "Transact-SQL",
@@ -169,7 +173,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "2,172 hrs 4 mins"
+            "time": "2,172 hrs 52 mins"
         },
         {
             "language": "VimL",
@@ -185,11 +189,11 @@
         },
         {
             "language": "Zig",
-            "time": "2,137 hrs 19 mins"
+            "time": "2,178 hrs 18 mins"
         },
         {
             "language": "bigfile",
-            "time": "17 hrs 7 mins"
+            "time": "17 hrs 18 mins"
         },
         {
             "language": "conf",
@@ -205,7 +209,7 @@
         },
         {
             "language": "sh",
-            "time": "23 hrs 23 mins"
+            "time": "23 hrs 25 mins"
         }
     ]
 }

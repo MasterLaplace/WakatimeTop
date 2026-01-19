@@ -1,11 +1,11 @@
 {
-    "total_time": "2,943 hrs 9 mins",
-    "updated": false,
-    "elo": 2934,
+    "total_time": "2,944 hrs 36 mins",
+    "updated": true,
+    "elo": 2935,
     "languages": [
         {
             "language": "Bash",
-            "time": "68 hrs 50 mins"
+            "time": "68 hrs 39 mins"
         },
         {
             "language": "C",
@@ -21,11 +21,11 @@
         },
         {
             "language": "HTML",
-            "time": "337 hrs 9 mins"
+            "time": "337 hrs 22 mins"
         },
         {
             "language": "JSON",
-            "time": "102 hrs 12 mins"
+            "time": "102 hrs 16 mins"
         },
         {
             "language": "Java",
@@ -33,7 +33,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "555 hrs 47 mins"
+            "time": "555 hrs 18 mins"
         },
         {
             "language": "Lua",
@@ -41,11 +41,11 @@
         },
         {
             "language": "Markdown",
-            "time": "61 hrs 51 mins"
+            "time": "61 hrs 49 mins"
         },
         {
             "language": "PHP",
-            "time": "94 hrs 47 mins"
+            "time": "94 hrs 48 mins"
         },
         {
             "language": "Prisma",
@@ -53,15 +53,15 @@
         },
         {
             "language": "Python",
-            "time": "150 hrs 55 mins"
+            "time": "151 hrs 24 mins"
         },
         {
             "language": "Rust",
-            "time": "14 hrs 53 mins"
+            "time": "14 hrs 55 mins"
         },
         {
             "language": "SCSS",
-            "time": "42 hrs 26 mins"
+            "time": "42 hrs 34 mins"
         },
         {
             "language": "SQL",
@@ -77,7 +77,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "852 hrs"
+            "time": "853 hrs 9 mins"
         },
         {
             "language": "Vim Script",
@@ -97,7 +97,7 @@
         },
         {
             "language": "YAML",
-            "time": "13 hrs 23 mins"
+            "time": "13 hrs 26 mins"
         },
         {
             "language": "tmux",
