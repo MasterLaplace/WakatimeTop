@@ -1,19 +1,23 @@
 {
-    "total_time": "19 hrs 2 mins",
+    "total_time": "19 hrs 35 mins",
     "updated": true,
     "elo": 118,
     "languages": [
         {
             "language": "C#",
-            "time": "10 hrs 47 mins"
+            "time": "8 hrs 38 mins"
         },
         {
             "language": "Jupyter",
             "time": "5 hrs 26 mins"
         },
         {
-            "language": "Rust",
-            "time": "2 hrs 49 mins"
+            "language": "TypeScript",
+            "time": "2 hrs 46 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "2 hrs 45 mins"
         }
     ]
 }

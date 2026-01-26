@@ -1,11 +1,15 @@
 {
-    "total_time": "3,682 hrs 12 mins",
+    "total_time": "3,722 hrs 53 mins",
     "updated": true,
-    "elo": 3683,
+    "elo": 3723,
     "languages": [
         {
+            "language": "Astro",
+            "time": "6 hrs 53 mins"
+        },
+        {
             "language": "Bash",
-            "time": "42 hrs 35 mins"
+            "time": "42 hrs 44 mins"
         },
         {
             "language": "C",
@@ -13,7 +17,7 @@
         },
         {
             "language": "C++",
-            "time": "49 hrs 34 mins"
+            "time": "51 hrs 3 mins"
         },
         {
             "language": "CSS",
@@ -25,23 +29,23 @@
         },
         {
             "language": "Docker",
-            "time": "5 hrs 45 mins"
+            "time": "5 hrs 46 mins"
         },
         {
             "language": "Git Config",
-            "time": "11 hrs 41 mins"
+            "time": "11 hrs 42 mins"
         },
         {
             "language": "Go",
-            "time": "146 hrs 15 mins"
+            "time": "146 hrs 22 mins"
         },
         {
             "language": "Gradle",
-            "time": "3 hrs 59 mins"
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "Groovy",
-            "time": "47 hrs 46 mins"
+            "time": "51 hrs 23 mins"
         },
         {
             "language": "HTML",
@@ -49,7 +53,7 @@
         },
         {
             "language": "JSON",
-            "time": "192 hrs 27 mins"
+            "time": "194 hrs 49 mins"
         },
         {
             "language": "Java",
@@ -57,15 +61,15 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,512 hrs 36 mins"
+            "time": "1,536 hrs 40 mins"
         },
         {
             "language": "Kotlin",
-            "time": "25 hrs 32 mins"
+            "time": "26 hrs 9 mins"
         },
         {
             "language": "Markdown",
-            "time": "29 hrs 57 mins"
+            "time": "30 hrs 13 mins"
         },
         {
             "language": "NASM",
@@ -93,7 +97,7 @@
         },
         {
             "language": "SQL",
-            "time": "18 hrs 47 mins"
+            "time": "18 hrs 48 mins"
         },
         {
             "language": "Solidity",
@@ -113,7 +117,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "305 hrs 20 mins"
+            "time": "305 hrs 51 mins"
         },
         {
             "language": "XML",

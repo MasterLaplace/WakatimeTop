@@ -1,19 +1,19 @@
 {
-    "total_time": "2,548 hrs 42 mins",
+    "total_time": "2,598 hrs 50 mins",
     "updated": true,
-    "elo": 2549,
+    "elo": 2599,
     "languages": [
         {
             "language": "Bash",
-            "time": "32 hrs 27 mins"
+            "time": "34 hrs 36 mins"
         },
         {
             "language": "CSS",
-            "time": "4 hrs 6 mins"
+            "time": "4 hrs 35 mins"
         },
         {
             "language": "CSV",
-            "time": "7 hrs 6 mins"
+            "time": "7 hrs 35 mins"
         },
         {
             "language": "CSV file",
@@ -37,11 +37,11 @@
         },
         {
             "language": "HTML",
-            "time": "10 hrs 8 mins"
+            "time": "10 hrs 25 mins"
         },
         {
             "language": "JSON",
-            "time": "21 hrs 2 mins"
+            "time": "22 hrs 43 mins"
         },
         {
             "language": "Java",
@@ -61,15 +61,15 @@
         },
         {
             "language": "Makefile",
-            "time": "23 hrs 26 mins"
+            "time": "23 hrs 34 mins"
         },
         {
             "language": "Markdown",
-            "time": "268 hrs"
+            "time": "276 hrs 59 mins"
         },
         {
             "language": "Python",
-            "time": "1,584 hrs 56 mins"
+            "time": "1,598 hrs 59 mins"
         },
         {
             "language": "Rust",
@@ -85,11 +85,11 @@
         },
         {
             "language": "TOML",
-            "time": "78 hrs 46 mins"
+            "time": "79 hrs 16 mins"
         },
         {
             "language": "TeX",
-            "time": "55 hrs 25 mins"
+            "time": "55 hrs 40 mins"
         },
         {
             "language": "Text",
@@ -97,7 +97,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "132 hrs 49 mins"
+            "time": "153 hrs 43 mins"
         },
         {
             "language": "Typst",
@@ -105,7 +105,7 @@
         },
         {
             "language": "YAML",
-            "time": "79 hrs 12 mins"
+            "time": "79 hrs 26 mins"
         }
     ]
 }

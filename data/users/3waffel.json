@@ -1,5 +1,5 @@
 {
-    "total_time": "2,298 hrs 13 mins",
+    "total_time": "2,298 hrs 43 mins",
     "updated": true,
     "elo": 2299,
     "languages": [
@@ -53,7 +53,7 @@
         },
         {
             "language": "JSON",
-            "time": "48 hrs 34 mins"
+            "time": "48 hrs 37 mins"
         },
         {
             "language": "Java",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Python",
-            "time": "622 hrs 59 mins"
+            "time": "623 hrs"
         },
         {
             "language": "Rust",
@@ -81,7 +81,7 @@
         },
         {
             "language": "Snakemake",
-            "time": "63 hrs 9 mins"
+            "time": "63 hrs 18 mins"
         },
         {
             "language": "Stylus",
@@ -105,7 +105,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "433 hrs 55 mins"
+            "time": "434 hrs 6 mins"
         },
         {
             "language": "Typst",
@@ -117,7 +117,7 @@
         },
         {
             "language": "YAML",
-            "time": "93 hrs 20 mins"
+            "time": "93 hrs 26 mins"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "total_time": "53 hrs 8 mins",
-    "updated": false,
+    "total_time": "6 hrs 10 mins",
+    "updated": true,
     "elo": 155,
     "languages": [
         {
@@ -8,16 +8,8 @@
             "time": "3 hrs 21 mins"
         },
         {
-            "language": "Java",
-            "time": "29 hrs"
-        },
-        {
             "language": "Markdown",
             "time": "2 hrs 49 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "17 hrs 58 mins"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "total_time": "26 hrs 21 mins",
+    "total_time": "57 hrs 31 mins",
     "updated": true,
-    "elo": 112,
+    "elo": 143,
     "languages": [
         {
             "language": "Binary",
-            "time": "3 hrs 9 mins"
+            "time": "14 hrs 1 min"
         },
         {
             "language": "C#",
-            "time": "9 hrs 16 mins"
+            "time": "21 hrs 46 mins"
         },
         {
             "language": "PowerShell",
@@ -20,12 +20,12 @@
             "time": "5 hrs 13 mins"
         },
         {
-            "language": "Razor",
-            "time": "3 hrs 41 mins"
+            "language": "XAML",
+            "time": "10 hrs 55 mins"
         },
         {
-            "language": "XAML",
-            "time": "2 hrs 32 mins"
+            "language": "YAML",
+            "time": "3 hrs 6 mins"
         }
     ]
 }

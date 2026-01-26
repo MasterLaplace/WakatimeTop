@@ -1,11 +1,11 @@
 {
-    "total_time": "1,877 hrs 47 mins",
+    "total_time": "1,881 hrs 59 mins",
     "updated": true,
-    "elo": 1878,
+    "elo": 1882,
     "languages": [
         {
             "language": "Astro",
-            "time": "50 hrs 18 mins"
+            "time": "51 hrs 16 mins"
         },
         {
             "language": "Bash",
@@ -64,6 +64,10 @@
             "time": "51 hrs 30 mins"
         },
         {
+            "language": "MDX",
+            "time": "2 hrs 43 mins"
+        },
+        {
             "language": "Markdown",
             "time": "32 hrs 44 mins"
         },
@@ -97,7 +101,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "529 hrs 5 mins"
+            "time": "529 hrs 36 mins"
         },
         {
             "language": "XML",

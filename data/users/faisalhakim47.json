@@ -1,11 +1,19 @@
 {
-    "total_time": "14 hrs 8 mins",
+    "total_time": "45 hrs 18 mins",
     "updated": true,
-    "elo": 112,
+    "elo": 143,
     "languages": [
         {
+            "language": "JSON",
+            "time": "2 hrs 52 mins"
+        },
+        {
             "language": "JavaScript",
-            "time": "11 hrs 20 mins"
+            "time": "36 hrs 40 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "2 hrs 58 mins"
         },
         {
             "language": "Python",

@@ -1,7 +1,7 @@
 {
-    "total_time": "1,176 hrs 9 mins",
+    "total_time": "1,183 hrs 38 mins",
     "updated": true,
-    "elo": 1177,
+    "elo": 1184,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "6 hrs 37 mins"
+            "time": "6 hrs 42 mins"
         },
         {
             "language": "C",
@@ -61,7 +61,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "56 hrs 20 mins"
+            "time": "57 hrs 35 mins"
         },
         {
             "language": "KerboScript",
@@ -81,11 +81,11 @@
         },
         {
             "language": "Markdown",
-            "time": "59 hrs 33 mins"
+            "time": "59 hrs 50 mins"
         },
         {
             "language": "Python",
-            "time": "87 hrs 45 mins"
+            "time": "89 hrs 45 mins"
         },
         {
             "language": "Ruby",
@@ -101,15 +101,15 @@
         },
         {
             "language": "TOML",
-            "time": "28 hrs 38 mins"
+            "time": "28 hrs 40 mins"
         },
         {
             "language": "Text",
-            "time": "9 hrs 4 mins"
+            "time": "9 hrs 12 mins"
         },
         {
             "language": "TypeScript",
-            "time": "107 hrs 2 mins"
+            "time": "108 hrs 11 mins"
         },
         {
             "language": "Typst",
@@ -120,8 +120,12 @@
             "time": "4 hrs 13 mins"
         },
         {
+            "language": "XML",
+            "time": "2 hrs 32 mins"
+        },
+        {
             "language": "YAML",
-            "time": "55 hrs 2 mins"
+            "time": "55 hrs 3 mins"
         },
         {
             "language": "fish",

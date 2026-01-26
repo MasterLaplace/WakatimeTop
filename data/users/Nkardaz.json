@@ -1,11 +1,11 @@
 {
-    "total_time": "1,474 hrs 28 mins",
+    "total_time": "1,504 hrs 9 mins",
     "updated": true,
-    "elo": 1475,
+    "elo": 1505,
     "languages": [
         {
             "language": "AutoHotkey",
-            "time": "1,007 hrs 10 mins"
+            "time": "1,007 hrs 29 mins"
         },
         {
             "language": "Blender",
@@ -21,15 +21,15 @@
         },
         {
             "language": "CSS",
-            "time": "22 hrs 47 mins"
+            "time": "23 hrs 19 mins"
         },
         {
             "language": "Git",
-            "time": "2 hrs 38 mins"
+            "time": "3 hrs 12 mins"
         },
         {
             "language": "HTML",
-            "time": "14 hrs 19 mins"
+            "time": "14 hrs 41 mins"
         },
         {
             "language": "INI",
@@ -37,11 +37,11 @@
         },
         {
             "language": "JSON",
-            "time": "130 hrs 34 mins"
+            "time": "133 hrs 15 mins"
         },
         {
             "language": "JavaScript",
-            "time": "29 hrs 9 mins"
+            "time": "33 hrs 47 mins"
         },
         {
             "language": "Lua",
@@ -49,15 +49,23 @@
         },
         {
             "language": "Markdown",
-            "time": "101 hrs 11 mins"
+            "time": "101 hrs 21 mins"
         },
         {
             "language": "PowerShell",
             "time": "14 hrs 28 mins"
         },
         {
+            "language": "Rust",
+            "time": "12 hrs 48 mins"
+        },
+        {
             "language": "Text",
-            "time": "2 hrs 33 mins"
+            "time": "2 hrs 49 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "7 hrs 21 mins"
         },
         {
             "language": "Typst",

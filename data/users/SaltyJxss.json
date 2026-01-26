@@ -1,7 +1,7 @@
 {
-    "total_time": "310 hrs 16 mins",
+    "total_time": "366 hrs 51 mins",
     "updated": true,
-    "elo": 311,
+    "elo": 367,
     "languages": [
         {
             "language": "Binary",
@@ -9,7 +9,7 @@
         },
         {
             "language": "C",
-            "time": "38 hrs"
+            "time": "46 hrs 5 mins"
         },
         {
             "language": "C#",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C++",
-            "time": "136 hrs 52 mins"
+            "time": "174 hrs 43 mins"
         },
         {
             "language": "CSS",
@@ -25,7 +25,11 @@
         },
         {
             "language": "GLSL",
-            "time": "16 hrs 18 mins"
+            "time": "20 hrs 48 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "4 hrs 45 mins"
         },
         {
             "language": "JavaScript",
@@ -33,7 +37,7 @@
         },
         {
             "language": "Objective-C",
-            "time": "14 hrs 19 mins"
+            "time": "15 hrs 43 mins"
         }
     ]
 }

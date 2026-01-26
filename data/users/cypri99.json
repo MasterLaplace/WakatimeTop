@@ -1,11 +1,19 @@
 {
-    "total_time": "4 hrs 53 mins",
+    "total_time": "27 hrs 32 mins",
     "updated": true,
-    "elo": 113,
+    "elo": 136,
     "languages": [
         {
+            "language": "CSV",
+            "time": "7 hrs 45 mins"
+        },
+        {
+            "language": "Go",
+            "time": "8 hrs 33 mins"
+        },
+        {
             "language": "Python",
-            "time": "4 hrs 53 mins"
+            "time": "11 hrs 14 mins"
         }
     ]
 }

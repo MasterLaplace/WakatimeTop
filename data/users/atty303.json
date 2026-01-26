@@ -1,7 +1,7 @@
 {
-    "total_time": "1,338 hrs 26 mins",
+    "total_time": "1,406 hrs 50 mins",
     "updated": true,
-    "elo": 1339,
+    "elo": 1407,
     "languages": [
         {
             "language": "Bash",
@@ -29,7 +29,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "3 hrs 9 mins"
+            "time": "3 hrs 10 mins"
         },
         {
             "language": "GraphQL",
@@ -41,11 +41,11 @@
         },
         {
             "language": "JSON",
-            "time": "33 hrs 57 mins"
+            "time": "34 hrs"
         },
         {
             "language": "Java",
-            "time": "6 hrs 20 mins"
+            "time": "6 hrs 21 mins"
         },
         {
             "language": "JavaScript",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Kotlin",
-            "time": "166 hrs 58 mins"
+            "time": "227 hrs 52 mins"
         },
         {
             "language": "Lua",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Markdown",
-            "time": "184 hrs 10 mins"
+            "time": "188 hrs 33 mins"
         },
         {
             "language": "Nushell",
@@ -93,7 +93,7 @@
         },
         {
             "language": "Scala",
-            "time": "168 hrs 20 mins"
+            "time": "168 hrs 29 mins"
         },
         {
             "language": "Shell",
@@ -101,11 +101,11 @@
         },
         {
             "language": "Shell Script",
-            "time": "3 hrs 22 mins"
+            "time": "3 hrs 26 mins"
         },
         {
             "language": "TOML",
-            "time": "54 hrs 26 mins"
+            "time": "56 hrs 19 mins"
         },
         {
             "language": "Terraform",
@@ -125,15 +125,15 @@
         },
         {
             "language": "XML",
-            "time": "9 hrs 6 mins"
+            "time": "9 hrs 58 mins"
         },
         {
             "language": "YAML",
-            "time": "80 hrs 49 mins"
+            "time": "80 hrs 52 mins"
         },
         {
             "language": "textmate",
-            "time": "6 hrs"
+            "time": "6 hrs 1 min"
         }
     ]
 }

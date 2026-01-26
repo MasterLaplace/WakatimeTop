@@ -1,23 +1,27 @@
 {
-    "total_time": "45 hrs 45 mins",
+    "total_time": "24 hrs 21 mins",
     "updated": true,
     "elo": 103,
     "languages": [
         {
-            "language": "C#",
-            "time": "2 hrs 47 mins"
+            "language": "JSON",
+            "time": "3 hrs 24 mins"
         },
         {
-            "language": "Dart",
-            "time": "21 hrs 24 mins"
+            "language": "Kotlin",
+            "time": "6 hrs 28 mins"
         },
         {
             "language": "Markdown",
-            "time": "4 hrs 10 mins"
+            "time": "6 hrs 32 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "5 hrs 17 mins"
         },
         {
             "language": "TypeScript",
-            "time": "17 hrs 24 mins"
+            "time": "2 hrs 40 mins"
         }
     ]
 }

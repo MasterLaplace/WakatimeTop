@@ -1,5 +1,5 @@
 {
-    "total_time": "29 hrs 34 mins",
+    "total_time": "12 hrs 42 mins",
     "updated": true,
     "elo": 49,
     "languages": [
@@ -9,19 +9,11 @@
         },
         {
             "language": "JSON",
-            "time": "2 hrs 31 mins"
+            "time": "3 hrs 44 mins"
         },
         {
-            "language": "Kotlin",
-            "time": "4 hrs 31 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "3 hrs 4 mins"
-        },
-        {
-            "language": "fish",
-            "time": "13 hrs 5 mins"
+            "language": "Vue.js",
+            "time": "2 hrs 35 mins"
         }
     ]
 }

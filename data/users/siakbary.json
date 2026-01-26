@@ -1,7 +1,7 @@
 {
-    "total_time": "10,122 hrs 4 mins",
+    "total_time": "10,189 hrs 59 mins",
     "updated": true,
-    "elo": 10123,
+    "elo": 10190,
     "languages": [
         {
             "language": "ApacheConf",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "273 hrs 21 mins"
+            "time": "276 hrs 18 mins"
         },
         {
             "language": "C#",
@@ -37,23 +37,23 @@
         },
         {
             "language": "Docker",
-            "time": "165 hrs 56 mins"
+            "time": "166 hrs 9 mins"
         },
         {
             "language": "Git Config",
-            "time": "17 hrs 9 mins"
+            "time": "17 hrs 17 mins"
         },
         {
             "language": "Go",
-            "time": "24 hrs 47 mins"
+            "time": "61 hrs 9 mins"
         },
         {
             "language": "Groovy",
-            "time": "41 hrs 10 mins"
+            "time": "41 hrs 20 mins"
         },
         {
             "language": "HTML",
-            "time": "31 hrs 15 mins"
+            "time": "31 hrs 16 mins"
         },
         {
             "language": "INI",
@@ -61,23 +61,23 @@
         },
         {
             "language": "JSON",
-            "time": "785 hrs 22 mins"
+            "time": "787 hrs 4 mins"
         },
         {
             "language": "Java",
-            "time": "2,376 hrs 14 mins"
+            "time": "2,376 hrs 23 mins"
         },
         {
             "language": "Java Properties",
-            "time": "2 hrs 51 mins"
+            "time": "2 hrs 57 mins"
         },
         {
             "language": "JavaScript",
-            "time": "1,121 hrs 23 mins"
+            "time": "1,123 hrs 8 mins"
         },
         {
             "language": "Kotlin",
-            "time": "84 hrs 17 mins"
+            "time": "84 hrs 26 mins"
         },
         {
             "language": "Lua",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Markdown",
-            "time": "158 hrs 4 mins"
+            "time": "168 hrs 22 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -93,7 +93,7 @@
         },
         {
             "language": "PHP",
-            "time": "1,063 hrs 6 mins"
+            "time": "1,063 hrs 27 mins"
         },
         {
             "language": "Properties",
@@ -101,7 +101,7 @@
         },
         {
             "language": "Protocol Buffer",
-            "time": "691 hrs 50 mins"
+            "time": "691 hrs 51 mins"
         },
         {
             "language": "Python",
@@ -128,12 +128,16 @@
             "time": "2 hrs 36 mins"
         },
         {
+            "language": "TSConfig",
+            "time": "2 hrs 30 mins"
+        },
+        {
             "language": "Text",
-            "time": "287 hrs 20 mins"
+            "time": "287 hrs 34 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,319 hrs 54 mins"
+            "time": "1,328 hrs 41 mins"
         },
         {
             "language": "XML",
@@ -141,7 +145,7 @@
         },
         {
             "language": "YAML",
-            "time": "307 hrs 26 mins"
+            "time": "309 hrs 28 mins"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "total_time": "1,282 hrs 44 mins",
+    "total_time": "1,304 hrs 35 mins",
     "updated": true,
-    "elo": 1283,
+    "elo": 1305,
     "languages": [
         {
             "language": ".env file",
-            "time": "9 hrs 7 mins"
+            "time": "9 hrs 55 mins"
         },
         {
             "language": "Astro",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "9 hrs 56 mins"
+            "time": "10 hrs 29 mins"
         },
         {
             "language": "CSS",
@@ -21,19 +21,19 @@
         },
         {
             "language": "Docker",
-            "time": "4 hrs 1 min"
+            "time": "4 hrs 16 mins"
         },
         {
             "language": "JSON",
-            "time": "128 hrs 16 mins"
+            "time": "134 hrs 34 mins"
         },
         {
             "language": "JavaScript",
-            "time": "26 hrs 26 mins"
+            "time": "26 hrs 32 mins"
         },
         {
             "language": "Markdown",
-            "time": "13 hrs 37 mins"
+            "time": "14 hrs 55 mins"
         },
         {
             "language": "TSConfig",
@@ -45,15 +45,19 @@
         },
         {
             "language": "Text",
-            "time": "5 hrs 46 mins"
+            "time": "5 hrs 52 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,044 hrs 59 mins"
+            "time": "1,054 hrs 2 mins"
         },
         {
             "language": "YAML",
-            "time": "18 hrs 11 mins"
+            "time": "18 hrs 40 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "2 hrs 55 mins"
         }
     ]
 }

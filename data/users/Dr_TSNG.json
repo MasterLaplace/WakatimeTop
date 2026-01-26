@@ -1,6 +1,15 @@
 {
-    "total_time": "0 mins",
-    "updated": false,
-    "elo": 0,
-    "languages": []
+    "total_time": "11 hrs 19 mins",
+    "updated": true,
+    "elo": 12,
+    "languages": [
+        {
+            "language": "C++",
+            "time": "8 hrs 47 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "2 hrs 32 mins"
+        }
+    ]
 }
