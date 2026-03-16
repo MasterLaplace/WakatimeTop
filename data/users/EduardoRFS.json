@@ -1,7 +1,7 @@
 {
-    "total_time": "5,097 hrs 33 mins",
+    "total_time": "5,170 hrs 6 mins",
     "updated": true,
-    "elo": 5096,
+    "elo": 5169,
     "languages": [
         {
             "language": "Agda",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "32 hrs 45 mins"
+            "time": "36 hrs 7 mins"
         },
         {
             "language": "C",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Docker",
-            "time": "10 hrs 1 min"
+            "time": "10 hrs 25 mins"
         },
         {
             "language": "GAS",
@@ -41,11 +41,11 @@
         },
         {
             "language": "JSON",
-            "time": "111 hrs 2 mins"
+            "time": "111 hrs 55 mins"
         },
         {
             "language": "JavaScript",
-            "time": "29 hrs 6 mins"
+            "time": "29 hrs 17 mins"
         },
         {
             "language": "Lean",
@@ -57,15 +57,15 @@
         },
         {
             "language": "Markdown",
-            "time": "1,713 hrs 54 mins"
+            "time": "1,765 hrs 7 mins"
         },
         {
             "language": "Nix",
-            "time": "60 hrs 14 mins"
+            "time": "60 hrs 15 mins"
         },
         {
             "language": "OCaml",
-            "time": "1,602 hrs 55 mins"
+            "time": "1,611 hrs 10 mins"
         },
         {
             "language": "Objective-C",
@@ -81,7 +81,7 @@
         },
         {
             "language": "Rust",
-            "time": "9 hrs 10 mins"
+            "time": "13 hrs 32 mins"
         },
         {
             "language": "S",
@@ -92,12 +92,16 @@
             "time": "7 hrs 38 mins"
         },
         {
+            "language": "Terraform",
+            "time": "2 hrs 51 mins"
+        },
+        {
             "language": "Text",
             "time": "8 hrs 39 mins"
         },
         {
             "language": "TypeScript",
-            "time": "21 hrs 19 mins"
+            "time": "22 hrs 20 mins"
         },
         {
             "language": "V",

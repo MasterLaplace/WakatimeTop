@@ -1,7 +1,7 @@
 {
-    "total_time": "7,640 hrs 23 mins",
-    "updated": false,
-    "elo": 7637,
+    "total_time": "7,642 hrs 16 mins",
+    "updated": true,
+    "elo": 7639,
     "languages": [
         {
             "language": "Bash",
@@ -61,11 +61,11 @@
         },
         {
             "language": "INI",
-            "time": "16 hrs 34 mins"
+            "time": "16 hrs 35 mins"
         },
         {
             "language": "JSON",
-            "time": "206 hrs 29 mins"
+            "time": "206 hrs 59 mins"
         },
         {
             "language": "Java",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Lua",
-            "time": "36 hrs"
+            "time": "36 hrs 1 min"
         },
         {
             "language": "Makefile",
@@ -109,7 +109,7 @@
         },
         {
             "language": "Python",
-            "time": "1,709 hrs 53 mins"
+            "time": "1,711 hrs 14 mins"
         },
         {
             "language": "SCSS",

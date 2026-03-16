@@ -1,15 +1,15 @@
 {
-    "total_time": "2,145 hrs 42 mins",
+    "total_time": "2,348 hrs 10 mins",
     "updated": true,
-    "elo": 2146,
+    "elo": 2349,
     "languages": [
         {
             "language": "Bash",
-            "time": "21 hrs 47 mins"
+            "time": "22 hrs 11 mins"
         },
         {
             "language": "CSS",
-            "time": "14 hrs 21 mins"
+            "time": "15 hrs 44 mins"
         },
         {
             "language": "Docker",
@@ -25,11 +25,11 @@
         },
         {
             "language": "JSON",
-            "time": "59 hrs 11 mins"
+            "time": "64 hrs 54 mins"
         },
         {
             "language": "JavaScript",
-            "time": "114 hrs 39 mins"
+            "time": "118 hrs 22 mins"
         },
         {
             "language": "Less",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Lua",
-            "time": "46 hrs 20 mins"
+            "time": "46 hrs 39 mins"
         },
         {
             "language": "Makefile",
@@ -45,15 +45,15 @@
         },
         {
             "language": "Markdown",
-            "time": "249 hrs 44 mins"
+            "time": "257 hrs 6 mins"
         },
         {
             "language": "Prisma",
-            "time": "4 hrs 34 mins"
+            "time": "4 hrs 55 mins"
         },
         {
             "language": "Python",
-            "time": "3 hrs 43 mins"
+            "time": "3 hrs 55 mins"
         },
         {
             "language": "Rust",
@@ -69,7 +69,7 @@
         },
         {
             "language": "TSConfig",
-            "time": "2 hrs 58 mins"
+            "time": "3 hrs"
         },
         {
             "language": "Text",
@@ -77,15 +77,19 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,361 hrs 10 mins"
+            "time": "1,536 hrs 17 mins"
         },
         {
             "language": "YAML",
-            "time": "61 hrs 53 mins"
+            "time": "66 hrs 1 min"
         },
         {
             "language": "conf",
-            "time": "8 hrs 5 mins"
+            "time": "8 hrs 24 mins"
+        },
+        {
+            "language": "fish",
+            "time": "3 hrs 25 mins"
         },
         {
             "language": "zsh",

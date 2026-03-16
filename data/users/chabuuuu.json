@@ -1,15 +1,15 @@
 {
-    "total_time": "1,753 hrs 11 mins",
+    "total_time": "1,930 hrs 55 mins",
     "updated": true,
-    "elo": 1754,
+    "elo": 1931,
     "languages": [
         {
             "language": ".env file",
-            "time": "19 hrs 32 mins"
+            "time": "27 hrs 56 mins"
         },
         {
             "language": "Bash",
-            "time": "67 hrs 43 mins"
+            "time": "80 hrs 34 mins"
         },
         {
             "language": "CSV",
@@ -17,11 +17,15 @@
         },
         {
             "language": "Docker",
-            "time": "24 hrs 43 mins"
+            "time": "25 hrs 17 mins"
+        },
+        {
+            "language": "Env File",
+            "time": "2 hrs 48 mins"
         },
         {
             "language": "Git Config",
-            "time": "4 hrs 15 mins"
+            "time": "4 hrs 16 mins"
         },
         {
             "language": "Go",
@@ -33,15 +37,15 @@
         },
         {
             "language": "JSON",
-            "time": "16 hrs 22 mins"
+            "time": "16 hrs 23 mins"
         },
         {
             "language": "Java",
-            "time": "892 hrs 24 mins"
+            "time": "1,011 hrs 25 mins"
         },
         {
             "language": "Java Properties",
-            "time": "9 hrs 47 mins"
+            "time": "11 hrs 2 mins"
         },
         {
             "language": "JavaScript",
@@ -49,15 +53,15 @@
         },
         {
             "language": "Markdown",
-            "time": "34 hrs 56 mins"
+            "time": "35 hrs 59 mins"
         },
         {
             "language": "Properties",
-            "time": "9 hrs 50 mins"
+            "time": "13 hrs 10 mins"
         },
         {
             "language": "Python",
-            "time": "92 hrs 1 min"
+            "time": "92 hrs 30 mins"
         },
         {
             "language": "Ruby",
@@ -65,7 +69,7 @@
         },
         {
             "language": "SQL",
-            "time": "91 hrs 31 mins"
+            "time": "94 hrs 24 mins"
         },
         {
             "language": "Text",
@@ -77,11 +81,11 @@
         },
         {
             "language": "XML",
-            "time": "13 hrs 27 mins"
+            "time": "14 hrs 52 mins"
         },
         {
             "language": "YAML",
-            "time": "170 hrs 13 mins"
+            "time": "193 hrs 52 mins"
         }
     ]
 }

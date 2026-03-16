@@ -1,7 +1,7 @@
 {
-    "total_time": "41 hrs 39 mins",
+    "total_time": "43 hrs 7 mins",
     "updated": true,
-    "elo": 90,
+    "elo": 92,
     "languages": [
         {
             "language": "Blade Template",
@@ -9,7 +9,11 @@
         },
         {
             "language": "Dart",
-            "time": "37 hrs"
+            "time": "33 hrs 46 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "4 hrs 42 mins"
         }
     ]
 }

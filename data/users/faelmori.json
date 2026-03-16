@@ -1,15 +1,87 @@
 {
-    "total_time": "48 hrs 20 mins",
-    "updated": false,
-    "elo": 162,
+    "total_time": "1,854 hrs 16 mins",
+    "updated": true,
+    "elo": 1968,
     "languages": [
         {
             "language": "Bash",
-            "time": "14 hrs 33 mins"
+            "time": "192 hrs 23 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "7 hrs 38 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "14 hrs 26 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "10 hrs 56 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "12 hrs 50 mins"
         },
         {
             "language": "Go",
-            "time": "33 hrs 47 mins"
+            "time": "845 hrs 22 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "14 hrs 58 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "92 hrs 30 mins"
+        },
+        {
+            "language": "Java",
+            "time": "7 hrs 42 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "43 hrs"
+        },
+        {
+            "language": "Makefile",
+            "time": "11 hrs 32 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "163 hrs 5 mins"
+        },
+        {
+            "language": "Python",
+            "time": "71 hrs 20 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "2 hrs 43 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "26 hrs 21 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "11 hrs 5 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "5 hrs 2 mins"
+        },
+        {
+            "language": "Text",
+            "time": "31 hrs 19 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "229 hrs 53 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "60 hrs 11 mins"
         }
     ]
 }

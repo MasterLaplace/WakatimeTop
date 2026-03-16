@@ -1,7 +1,7 @@
 {
-    "total_time": "855 hrs 43 mins",
+    "total_time": "859 hrs",
     "updated": true,
-    "elo": 980,
+    "elo": 983,
     "languages": [
         {
             "language": "CSV",
@@ -9,19 +9,15 @@
         },
         {
             "language": "CSV file",
-            "time": "6 hrs 2 mins"
+            "time": "5 hrs 23 mins"
         },
         {
             "language": "JSON",
-            "time": "4 hrs 41 mins"
+            "time": "5 hrs 36 mins"
         },
         {
             "language": "Java",
-            "time": "273 hrs 3 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "4 hrs 19 mins"
+            "time": "303 hrs"
         },
         {
             "language": "Jupyter",
@@ -29,39 +25,39 @@
         },
         {
             "language": "Markdown",
-            "time": "4 hrs 41 mins"
+            "time": "15 hrs 17 mins"
         },
         {
             "language": "Python",
-            "time": "263 hrs 54 mins"
+            "time": "231 hrs 56 mins"
         },
         {
             "language": "SQL",
-            "time": "12 hrs 59 mins"
+            "time": "14 hrs 23 mins"
         },
         {
             "language": "TeX",
-            "time": "113 hrs 32 mins"
+            "time": "115 hrs 15 mins"
         },
         {
             "language": "Text",
-            "time": "5 hrs 48 mins"
+            "time": "5 hrs 34 mins"
         },
         {
             "language": "TypeScript",
-            "time": "12 hrs 32 mins"
+            "time": "18 hrs 6 mins"
         },
         {
             "language": "Vue.js",
-            "time": "77 hrs 21 mins"
+            "time": "65 hrs 9 mins"
         },
         {
             "language": "XML",
-            "time": "17 hrs 11 mins"
+            "time": "18 hrs 3 mins"
         },
         {
             "language": "YAML",
-            "time": "49 hrs 39 mins"
+            "time": "51 hrs 17 mins"
         }
     ]
 }

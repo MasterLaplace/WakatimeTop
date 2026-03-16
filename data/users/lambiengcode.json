@@ -1,7 +1,7 @@
 {
-    "total_time": "10,575 hrs 44 mins",
+    "total_time": "10,639 hrs 56 mins",
     "updated": true,
-    "elo": 10576,
+    "elo": 10640,
     "languages": [
         {
             "language": "Bash",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C++",
-            "time": "137 hrs 29 mins"
+            "time": "137 hrs 31 mins"
         },
         {
             "language": "CMake",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Dart",
-            "time": "7,611 hrs 51 mins"
+            "time": "7,616 hrs 54 mins"
         },
         {
             "language": "Docker",
@@ -41,7 +41,7 @@
         },
         {
             "language": "Git Config",
-            "time": "5 hrs 27 mins"
+            "time": "5 hrs 28 mins"
         },
         {
             "language": "Go",
@@ -61,7 +61,7 @@
         },
         {
             "language": "JSON",
-            "time": "47 hrs 31 mins"
+            "time": "47 hrs 40 mins"
         },
         {
             "language": "Java",
@@ -85,11 +85,11 @@
         },
         {
             "language": "Makefile",
-            "time": "7 hrs 23 mins"
+            "time": "9 hrs 57 mins"
         },
         {
             "language": "Markdown",
-            "time": "87 hrs 36 mins"
+            "time": "108 hrs 33 mins"
         },
         {
             "language": "MySQL",
@@ -125,7 +125,7 @@
         },
         {
             "language": "Rust",
-            "time": "816 hrs 57 mins"
+            "time": "848 hrs 30 mins"
         },
         {
             "language": "Swift",
@@ -133,7 +133,7 @@
         },
         {
             "language": "TOML",
-            "time": "32 hrs 57 mins"
+            "time": "35 hrs 47 mins"
         },
         {
             "language": "Text",
@@ -145,11 +145,11 @@
         },
         {
             "language": "XML",
-            "time": "76 hrs 24 mins"
+            "time": "76 hrs 35 mins"
         },
         {
             "language": "YAML",
-            "time": "347 hrs 27 mins"
+            "time": "348 hrs 19 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "5,181 hrs 12 mins",
+    "total_time": "5,303 hrs 46 mins",
     "updated": true,
-    "elo": 5182,
+    "elo": 5304,
     "languages": [
         {
             "language": "ActionScript 3",
@@ -13,11 +13,11 @@
         },
         {
             "language": "Bash",
-            "time": "119 hrs 45 mins"
+            "time": "128 hrs 49 mins"
         },
         {
             "language": "BibTeX",
-            "time": "11 hrs 13 mins"
+            "time": "12 hrs 35 mins"
         },
         {
             "language": "C",
@@ -33,15 +33,19 @@
         },
         {
             "language": "Git Config",
-            "time": "5 hrs 54 mins"
+            "time": "6 hrs 7 mins"
         },
         {
             "language": "Go",
             "time": "9 hrs 31 mins"
         },
         {
+            "language": "HTML",
+            "time": "3 hrs 57 mins"
+        },
+        {
             "language": "JSON",
-            "time": "79 hrs 21 mins"
+            "time": "82 hrs 53 mins"
         },
         {
             "language": "Java",
@@ -49,11 +53,11 @@
         },
         {
             "language": "JavaScript",
-            "time": "44 hrs 28 mins"
+            "time": "45 hrs 45 mins"
         },
         {
             "language": "MDX",
-            "time": "4 hrs 52 mins"
+            "time": "6 hrs 7 mins"
         },
         {
             "language": "Makefile",
@@ -61,11 +65,11 @@
         },
         {
             "language": "Markdown",
-            "time": "282 hrs 17 mins"
+            "time": "292 hrs 8 mins"
         },
         {
             "language": "Python",
-            "time": "1,452 hrs 35 mins"
+            "time": "1,483 hrs 47 mins"
         },
         {
             "language": "SSH Config",
@@ -77,15 +81,15 @@
         },
         {
             "language": "TeX",
-            "time": "2,905 hrs 12 mins"
+            "time": "2,962 hrs 22 mins"
         },
         {
             "language": "Text",
-            "time": "33 hrs 12 mins"
+            "time": "33 hrs 35 mins"
         },
         {
             "language": "YAML",
-            "time": "8 hrs 20 mins"
+            "time": "11 hrs 38 mins"
         },
         {
             "language": "fish",

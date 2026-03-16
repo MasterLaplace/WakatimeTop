@@ -1,7 +1,7 @@
 {
-    "total_time": "32 hrs 22 mins",
+    "total_time": "43 hrs 4 mins",
     "updated": true,
-    "elo": 115,
+    "elo": 126,
     "languages": [
         {
             "language": "C",
@@ -9,11 +9,19 @@
         },
         {
             "language": "C++",
-            "time": "17 hrs 26 mins"
+            "time": "13 hrs 2 mins"
+        },
+        {
+            "language": "CMake",
+            "time": "2 hrs 44 mins"
         },
         {
             "language": "CSS",
             "time": "7 hrs 48 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "12 hrs 22 mins"
         },
         {
             "language": "JavaScript",

@@ -1,7 +1,7 @@
 {
-    "total_time": "1,546 hrs 50 mins",
+    "total_time": "1,550 hrs 38 mins",
     "updated": true,
-    "elo": 1547,
+    "elo": 1551,
     "languages": [
         {
             "language": "Astro",
@@ -44,8 +44,12 @@
             "time": "71 hrs 24 mins"
         },
         {
+            "language": "HTTP Request",
+            "time": "3 hrs 4 mins"
+        },
+        {
             "language": "Image (svg)",
-            "time": "43 hrs 27 mins"
+            "time": "44 hrs 11 mins"
         },
         {
             "language": "Io",

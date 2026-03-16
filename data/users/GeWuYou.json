@@ -1,7 +1,7 @@
 {
-    "total_time": "3,247 hrs 15 mins",
+    "total_time": "3,520 hrs 7 mins",
     "updated": true,
-    "elo": 3248,
+    "elo": 3521,
     "languages": [
         {
             "language": "ASP.NET",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Bash",
-            "time": "7 hrs 42 mins"
+            "time": "8 hrs 4 mins"
         },
         {
             "language": "C#",
-            "time": "620 hrs 45 mins"
+            "time": "746 hrs 41 mins"
         },
         {
             "language": "Config",
@@ -21,7 +21,7 @@
         },
         {
             "language": "Csproj",
-            "time": "7 hrs 16 mins"
+            "time": "8 hrs 1 min"
         },
         {
             "language": "Dart",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Docker",
-            "time": "13 hrs 1 min"
+            "time": "13 hrs 5 mins"
         },
         {
             "language": "FTL",
@@ -37,11 +37,11 @@
         },
         {
             "language": "GDScript3",
-            "time": "5 hrs 40 mins"
+            "time": "6 hrs 3 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "10 hrs 30 mins"
+            "time": "11 hrs 24 mins"
         },
         {
             "language": "Gradle",
@@ -53,7 +53,7 @@
         },
         {
             "language": "HTML",
-            "time": "3 hrs 3 mins"
+            "time": "3 hrs 5 mins"
         },
         {
             "language": "HTTP Request",
@@ -61,15 +61,15 @@
         },
         {
             "language": "JSON",
-            "time": "19 hrs 12 mins"
+            "time": "22 hrs 27 mins"
         },
         {
             "language": "Java",
-            "time": "858 hrs 31 mins"
+            "time": "955 hrs 52 mins"
         },
         {
             "language": "Java Properties",
-            "time": "6 hrs 18 mins"
+            "time": "6 hrs 28 mins"
         },
         {
             "language": "Jimmer DTO",
@@ -77,11 +77,11 @@
         },
         {
             "language": "Kotlin",
-            "time": "921 hrs 33 mins"
+            "time": "921 hrs 38 mins"
         },
         {
             "language": "Markdown",
-            "time": "42 hrs 57 mins"
+            "time": "55 hrs 53 mins"
         },
         {
             "language": "Nginx",
@@ -101,35 +101,39 @@
         },
         {
             "language": "SQL",
-            "time": "69 hrs 48 mins"
+            "time": "74 hrs 19 mins"
         },
         {
             "language": "TOML",
-            "time": "26 hrs 57 mins"
+            "time": "27 hrs 23 mins"
         },
         {
             "language": "Text",
-            "time": "11 hrs 46 mins"
+            "time": "12 hrs 35 mins"
+        },
+        {
+            "language": "Tscn file",
+            "time": "2 hrs 45 mins"
         },
         {
             "language": "TypeScript",
-            "time": "59 hrs 55 mins"
+            "time": "62 hrs 17 mins"
         },
         {
             "language": "Vue.js",
-            "time": "8 hrs 23 mins"
+            "time": "8 hrs 38 mins"
         },
         {
             "language": "XML",
-            "time": "76 hrs 51 mins"
+            "time": "79 hrs 52 mins"
         },
         {
             "language": "YAML",
-            "time": "211 hrs 3 mins"
+            "time": "227 hrs 31 mins"
         },
         {
             "language": "textmate",
-            "time": "2 hrs 53 mins"
+            "time": "2 hrs 55 mins"
         }
     ]
 }

@@ -1,43 +1,51 @@
 {
-    "total_time": "615 hrs",
-    "updated": false,
-    "elo": 613,
+    "total_time": "688 hrs 2 mins",
+    "updated": true,
+    "elo": 687,
     "languages": [
         {
             "language": "C",
-            "time": "2 hrs 31 mins"
+            "time": "6 hrs 49 mins"
+        },
+        {
+            "language": "C++",
+            "time": "38 hrs 55 mins"
         },
         {
             "language": "Gradle",
-            "time": "7 hrs 40 mins"
+            "time": "7 hrs 48 mins"
         },
         {
             "language": "Groovy",
-            "time": "10 hrs 19 mins"
+            "time": "10 hrs 26 mins"
         },
         {
             "language": "HTML",
-            "time": "3 hrs 52 mins"
+            "time": "4 hrs 17 mins"
         },
         {
             "language": "JSON",
-            "time": "9 hrs 5 mins"
+            "time": "9 hrs 31 mins"
         },
         {
             "language": "Java",
-            "time": "26 hrs 40 mins"
+            "time": "27 hrs 2 mins"
         },
         {
             "language": "JavaScript",
-            "time": "25 hrs 39 mins"
+            "time": "26 hrs 26 mins"
         },
         {
             "language": "Kotlin",
-            "time": "247 hrs 30 mins"
+            "time": "252 hrs 18 mins"
         },
         {
             "language": "Markdown",
-            "time": "14 hrs 25 mins"
+            "time": "15 hrs 1 min"
+        },
+        {
+            "language": "Objective-C",
+            "time": "5 hrs 31 mins"
         },
         {
             "language": "Prolog",
@@ -45,23 +53,27 @@
         },
         {
             "language": "Python",
-            "time": "32 hrs 31 mins"
+            "time": "38 hrs 37 mins"
         },
         {
             "language": "SCSS",
-            "time": "4 hrs 34 mins"
+            "time": "4 hrs 44 mins"
+        },
+        {
+            "language": "Siyuan",
+            "time": "3 hrs 53 mins"
         },
         {
             "language": "TypeScript",
-            "time": "6 hrs 2 mins"
+            "time": "7 hrs 10 mins"
         },
         {
             "language": "Vue.js",
-            "time": "190 hrs 19 mins"
+            "time": "195 hrs 8 mins"
         },
         {
             "language": "XML",
-            "time": "30 hrs 26 mins"
+            "time": "30 hrs 59 mins"
         }
     ]
 }

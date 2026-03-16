@@ -1,39 +1,43 @@
 {
-    "total_time": "1,206 hrs 10 mins",
+    "total_time": "1,486 hrs 11 mins",
     "updated": true,
-    "elo": 1207,
+    "elo": 1487,
     "languages": [
         {
             "language": "Assembly",
-            "time": "4 hrs"
+            "time": "4 hrs 4 mins"
         },
         {
             "language": "Astro",
-            "time": "40 hrs 8 mins"
+            "time": "40 hrs 9 mins"
+        },
+        {
+            "language": "Bash",
+            "time": "3 hrs 58 mins"
         },
         {
             "language": "C",
-            "time": "15 hrs 15 mins"
+            "time": "15 hrs 35 mins"
         },
         {
             "language": "C#",
-            "time": "805 hrs 51 mins"
+            "time": "1,020 hrs 52 mins"
         },
         {
             "language": "C++",
-            "time": "37 hrs 15 mins"
+            "time": "38 hrs 12 mins"
         },
         {
             "language": "CSS",
-            "time": "4 hrs 38 mins"
+            "time": "4 hrs 40 mins"
         },
         {
             "language": "CSV",
-            "time": "2 hrs 43 mins"
+            "time": "6 hrs 24 mins"
         },
         {
             "language": "JSON",
-            "time": "5 hrs 14 mins"
+            "time": "6 hrs 35 mins"
         },
         {
             "language": "Lua",
@@ -41,23 +45,35 @@
         },
         {
             "language": "MDX",
-            "time": "34 hrs 47 mins"
+            "time": "36 hrs 26 mins"
         },
         {
             "language": "Markdown",
-            "time": "26 hrs 8 mins"
+            "time": "37 hrs 48 mins"
+        },
+        {
+            "language": "Python",
+            "time": "3 hrs 35 mins"
+        },
+        {
+            "language": "ShaderLab",
+            "time": "2 hrs 53 mins"
         },
         {
             "language": "TypeScript",
-            "time": "47 hrs 43 mins"
+            "time": "52 hrs 12 mins"
         },
         {
             "language": "Unity",
-            "time": "159 hrs 31 mins"
+            "time": "182 hrs 27 mins"
+        },
+        {
+            "language": "UnityYaml",
+            "time": "4 hrs 5 mins"
         },
         {
             "language": "YAML",
-            "time": "8 hrs 2 mins"
+            "time": "11 hrs 21 mins"
         }
     ]
 }

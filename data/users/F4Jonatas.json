@@ -1,35 +1,39 @@
 {
-    "total_time": "1,387 hrs 12 mins",
+    "total_time": "1,558 hrs 43 mins",
     "updated": true,
-    "elo": 1388,
+    "elo": 1559,
     "languages": [
         {
+            "language": "Bash",
+            "time": "2 hrs 36 mins"
+        },
+        {
             "language": "C++",
-            "time": "65 hrs 28 mins"
+            "time": "113 hrs 49 mins"
         },
         {
             "language": "CSS",
-            "time": "83 hrs 25 mins"
+            "time": "88 hrs 51 mins"
         },
         {
             "language": "Git Config",
-            "time": "2 hrs 32 mins"
+            "time": "4 hrs 18 mins"
         },
         {
             "language": "HTML",
-            "time": "51 hrs 2 mins"
+            "time": "56 hrs 18 mins"
         },
         {
             "language": "INI",
-            "time": "18 hrs 22 mins"
+            "time": "45 hrs 44 mins"
         },
         {
             "language": "JSON",
-            "time": "17 hrs 18 mins"
+            "time": "19 hrs 43 mins"
         },
         {
             "language": "JSON with Comments",
-            "time": "11 hrs 4 mins"
+            "time": "12 hrs 46 mins"
         },
         {
             "language": "Java",
@@ -37,19 +41,19 @@
         },
         {
             "language": "JavaScript",
-            "time": "305 hrs 14 mins"
+            "time": "307 hrs 54 mins"
         },
         {
             "language": "Lua",
-            "time": "158 hrs 36 mins"
+            "time": "214 hrs 25 mins"
         },
         {
             "language": "Markdown",
-            "time": "97 hrs 38 mins"
+            "time": "107 hrs 41 mins"
         },
         {
             "language": "PowerShell",
-            "time": "150 hrs 25 mins"
+            "time": "156 hrs 25 mins"
         },
         {
             "language": "Pug",
@@ -57,7 +61,7 @@
         },
         {
             "language": "Python",
-            "time": "217 hrs 29 mins"
+            "time": "218 hrs 58 mins"
         },
         {
             "language": "SQL",
@@ -73,7 +77,7 @@
         },
         {
             "language": "XML",
-            "time": "9 hrs 17 mins"
+            "time": "9 hrs 53 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "4,078 hrs 57 mins",
-    "updated": false,
-    "elo": 4077,
+    "total_time": "4,250 hrs 18 mins",
+    "updated": true,
+    "elo": 4249,
     "languages": [
         {
             "language": "Bash",
@@ -57,15 +57,15 @@
         },
         {
             "language": "Jupyter Notebook",
-            "time": "14 hrs 25 mins"
+            "time": "15 hrs 3 mins"
         },
         {
             "language": "Markdown",
-            "time": "12 hrs 26 mins"
+            "time": "12 hrs 33 mins"
         },
         {
             "language": "Python",
-            "time": "2,330 hrs 23 mins"
+            "time": "2,500 hrs 59 mins"
         },
         {
             "language": "R",

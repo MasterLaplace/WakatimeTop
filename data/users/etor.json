@@ -1,7 +1,7 @@
 {
-    "total_time": "12,015 hrs 5 mins",
+    "total_time": "12,248 hrs 47 mins",
     "updated": true,
-    "elo": 12016,
+    "elo": 12249,
     "languages": [
         {
             "language": "AMPL",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Bash",
-            "time": "235 hrs 3 mins"
+            "time": "235 hrs 49 mins"
         },
         {
             "language": "C",
@@ -41,7 +41,7 @@
         },
         {
             "language": "CSS",
-            "time": "68 hrs 51 mins"
+            "time": "69 hrs 11 mins"
         },
         {
             "language": "CSV",
@@ -73,7 +73,7 @@
         },
         {
             "language": "HTML",
-            "time": "174 hrs 50 mins"
+            "time": "176 hrs 1 min"
         },
         {
             "language": "Haskell",
@@ -81,11 +81,11 @@
         },
         {
             "language": "INI",
-            "time": "3 hrs 25 mins"
+            "time": "3 hrs 35 mins"
         },
         {
             "language": "JSON",
-            "time": "584 hrs 1 min"
+            "time": "585 hrs 15 mins"
         },
         {
             "language": "JSX",
@@ -105,7 +105,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "2,893 hrs 50 mins"
+            "time": "2,910 hrs 20 mins"
         },
         {
             "language": "Lua",
@@ -117,7 +117,7 @@
         },
         {
             "language": "Markdown",
-            "time": "285 hrs 22 mins"
+            "time": "348 hrs 28 mins"
         },
         {
             "language": "Nix",
@@ -133,7 +133,7 @@
         },
         {
             "language": "Python",
-            "time": "284 hrs 45 mins"
+            "time": "286 hrs 27 mins"
         },
         {
             "language": "Rust",
@@ -165,7 +165,7 @@
         },
         {
             "language": "Text",
-            "time": "186 hrs 58 mins"
+            "time": "200 hrs 20 mins"
         },
         {
             "language": "Transact-SQL",
@@ -173,7 +173,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "2,173 hrs 35 mins"
+            "time": "2,289 hrs 35 mins"
         },
         {
             "language": "VimL",
@@ -181,7 +181,7 @@
         },
         {
             "language": "XML",
-            "time": "90 hrs 3 mins"
+            "time": "90 hrs 14 mins"
         },
         {
             "language": "YAML",
@@ -189,15 +189,15 @@
         },
         {
             "language": "Zig",
-            "time": "2,178 hrs 19 mins"
+            "time": "2,180 hrs 54 mins"
         },
         {
             "language": "bigfile",
-            "time": "17 hrs 18 mins"
+            "time": "19 hrs 21 mins"
         },
         {
             "language": "conf",
-            "time": "15 hrs 17 mins"
+            "time": "29 hrs 49 mins"
         },
         {
             "language": "jsonc",
