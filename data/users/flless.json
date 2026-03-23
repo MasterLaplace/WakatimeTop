@@ -1,11 +1,15 @@
 {
-    "total_time": "20 hrs 23 mins",
+    "total_time": "27 hrs 34 mins",
     "updated": true,
-    "elo": 187,
+    "elo": 194,
     "languages": [
         {
+            "language": "Jinja",
+            "time": "6 hrs 34 mins"
+        },
+        {
             "language": "Python",
-            "time": "20 hrs 23 mins"
+            "time": "21 hrs"
         }
     ]
 }

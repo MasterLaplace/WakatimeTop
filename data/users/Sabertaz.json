@@ -1,11 +1,31 @@
 {
-    "total_time": "3 hrs 39 mins",
+    "total_time": "42 hrs 33 mins",
     "updated": true,
-    "elo": 26,
+    "elo": 65,
     "languages": [
         {
+            "language": "Bash",
+            "time": "8 hrs 20 mins"
+        },
+        {
+            "language": "Git",
+            "time": "4 hrs 9 mins"
+        },
+        {
             "language": "Markdown",
-            "time": "3 hrs 39 mins"
+            "time": "18 hrs 18 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "2 hrs 38 mins"
+        },
+        {
+            "language": "conf",
+            "time": "3 hrs 40 mins"
+        },
+        {
+            "language": "tmux",
+            "time": "5 hrs 28 mins"
         }
     ]
 }

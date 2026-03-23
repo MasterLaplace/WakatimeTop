@@ -1,19 +1,23 @@
 {
-    "total_time": "32 hrs 34 mins",
+    "total_time": "38 hrs 6 mins",
     "updated": true,
-    "elo": 244,
+    "elo": 250,
     "languages": [
         {
             "language": "Java",
             "time": "2 hrs 53 mins"
         },
         {
-            "language": "Python",
-            "time": "22 hrs 55 mins"
+            "language": "JavaScript",
+            "time": "28 hrs 3 mins"
         },
         {
-            "language": "TypeScript",
-            "time": "6 hrs 46 mins"
+            "language": "Nunjucks file",
+            "time": "4 hrs 3 mins"
+        },
+        {
+            "language": "Python",
+            "time": "3 hrs 7 mins"
         }
     ]
 }

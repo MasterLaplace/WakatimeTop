@@ -1,11 +1,15 @@
 {
-    "total_time": "6 hrs 47 mins",
+    "total_time": "23 hrs 41 mins",
     "updated": true,
-    "elo": 120,
+    "elo": 137,
     "languages": [
         {
+            "language": "Emacs Lisp",
+            "time": "9 hrs 20 mins"
+        },
+        {
             "language": "Go",
-            "time": "6 hrs 47 mins"
+            "time": "14 hrs 21 mins"
         }
     ]
 }

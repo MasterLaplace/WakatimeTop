@@ -1,7 +1,7 @@
 {
-    "total_time": "5,170 hrs 6 mins",
+    "total_time": "5,221 hrs 26 mins",
     "updated": true,
-    "elo": 5169,
+    "elo": 5220,
     "languages": [
         {
             "language": "Agda",
@@ -9,15 +9,15 @@
         },
         {
             "language": "Assembly",
-            "time": "3 hrs 21 mins"
+            "time": "3 hrs 22 mins"
         },
         {
             "language": "Bash",
-            "time": "36 hrs 7 mins"
+            "time": "45 hrs 42 mins"
         },
         {
             "language": "C",
-            "time": "106 hrs 7 mins"
+            "time": "106 hrs 11 mins"
         },
         {
             "language": "CameLIGO",
@@ -37,11 +37,11 @@
         },
         {
             "language": "Git Config",
-            "time": "5 hrs 23 mins"
+            "time": "5 hrs 46 mins"
         },
         {
             "language": "JSON",
-            "time": "111 hrs 55 mins"
+            "time": "111 hrs 57 mins"
         },
         {
             "language": "JavaScript",
@@ -57,15 +57,15 @@
         },
         {
             "language": "Markdown",
-            "time": "1,765 hrs 7 mins"
+            "time": "1,794 hrs 25 mins"
         },
         {
             "language": "Nix",
-            "time": "60 hrs 15 mins"
+            "time": "62 hrs 48 mins"
         },
         {
             "language": "OCaml",
-            "time": "1,611 hrs 10 mins"
+            "time": "1,618 hrs 32 mins"
         },
         {
             "language": "Objective-C",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Python",
-            "time": "3 hrs 40 mins"
+            "time": "3 hrs 47 mins"
         },
         {
             "language": "Reason",
@@ -81,7 +81,7 @@
         },
         {
             "language": "Rust",
-            "time": "13 hrs 32 mins"
+            "time": "15 hrs 19 mins"
         },
         {
             "language": "S",
@@ -93,7 +93,7 @@
         },
         {
             "language": "Terraform",
-            "time": "2 hrs 51 mins"
+            "time": "2 hrs 59 mins"
         },
         {
             "language": "Text",

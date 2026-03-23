@@ -1,7 +1,7 @@
 {
-    "total_time": "4,938 hrs 51 mins",
+    "total_time": "4,969 hrs 40 mins",
     "updated": true,
-    "elo": 4939,
+    "elo": 4970,
     "languages": [
         {
             "language": "Assembly",
@@ -17,11 +17,11 @@
         },
         {
             "language": "C++",
-            "time": "2,963 hrs 25 mins"
+            "time": "2,963 hrs 30 mins"
         },
         {
             "language": "CMake",
-            "time": "124 hrs 59 mins"
+            "time": "125 hrs 3 mins"
         },
         {
             "language": "CSS",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Diff",
-            "time": "4 hrs 1 min"
+            "time": "4 hrs 47 mins"
         },
         {
             "language": "Emacs Lisp",
@@ -61,7 +61,7 @@
         },
         {
             "language": "JSON",
-            "time": "71 hrs 50 mins"
+            "time": "82 hrs 13 mins"
         },
         {
             "language": "JavaScript",
@@ -77,7 +77,7 @@
         },
         {
             "language": "Markdown",
-            "time": "105 hrs 58 mins"
+            "time": "106 hrs 31 mins"
         },
         {
             "language": "Python",
@@ -113,7 +113,7 @@
         },
         {
             "language": "YAML",
-            "time": "60 hrs 30 mins"
+            "time": "79 hrs 28 mins"
         }
     ]
 }

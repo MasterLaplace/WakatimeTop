@@ -1,7 +1,7 @@
 {
-    "total_time": "518 hrs 45 mins",
+    "total_time": "529 hrs 7 mins",
     "updated": true,
-    "elo": 519,
+    "elo": 530,
     "languages": [
         {
             "language": "Bash",
@@ -41,7 +41,7 @@
         },
         {
             "language": "Odin",
-            "time": "162 hrs 13 mins"
+            "time": "162 hrs 24 mins"
         },
         {
             "language": "Python",
@@ -49,7 +49,11 @@
         },
         {
             "language": "Rust",
-            "time": "197 hrs 18 mins"
+            "time": "203 hrs 56 mins"
+        },
+        {
+            "language": "Typst",
+            "time": "3 hrs 33 mins"
         },
         {
             "language": "WebGPU Shading Language",

@@ -1,11 +1,15 @@
 {
-    "total_time": "6 hrs 18 mins",
+    "total_time": "11 hrs 37 mins",
     "updated": true,
-    "elo": 42,
+    "elo": 47,
     "languages": [
         {
             "language": "Java",
-            "time": "6 hrs 18 mins"
+            "time": "8 hrs 24 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "3 hrs 13 mins"
         }
     ]
 }

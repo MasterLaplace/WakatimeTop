@@ -1,15 +1,19 @@
 {
-    "total_time": "1,529 hrs 25 mins",
+    "total_time": "1,547 hrs 57 mins",
     "updated": true,
-    "elo": 1530,
+    "elo": 1548,
     "languages": [
         {
             "language": "Dart",
-            "time": "1,484 hrs 50 mins"
+            "time": "1,499 hrs 50 mins"
         },
         {
             "language": "Gradle Kotlin DSL",
             "time": "7 hrs 8 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "2 hrs 59 mins"
         },
         {
             "language": "Python",
@@ -21,11 +25,11 @@
         },
         {
             "language": "XML",
-            "time": "6 hrs 43 mins"
+            "time": "6 hrs 46 mins"
         },
         {
             "language": "YAML",
-            "time": "10 hrs 34 mins"
+            "time": "11 hrs 4 mins"
         }
     ]
 }

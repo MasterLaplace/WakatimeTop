@@ -1,11 +1,11 @@
 {
-    "total_time": "1,021 hrs 13 mins",
+    "total_time": "1,025 hrs 51 mins",
     "updated": true,
-    "elo": 1022,
+    "elo": 1026,
     "languages": [
         {
             "language": "AL",
-            "time": "655 hrs 23 mins"
+            "time": "655 hrs 36 mins"
         },
         {
             "language": "Assembly",
@@ -25,11 +25,15 @@
         },
         {
             "language": "Markdown",
-            "time": "7 hrs 54 mins"
+            "time": "8 hrs 12 mins"
         },
         {
             "language": "PowerShell",
             "time": "21 hrs 48 mins"
+        },
+        {
+            "language": "Python",
+            "time": "4 hrs 7 mins"
         },
         {
             "language": "Text",

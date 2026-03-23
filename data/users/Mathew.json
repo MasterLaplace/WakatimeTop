@@ -1,7 +1,7 @@
 {
-    "total_time": "2,683 hrs 10 mins",
+    "total_time": "2,695 hrs 6 mins",
     "updated": true,
-    "elo": 2684,
+    "elo": 2696,
     "languages": [
         {
             "language": "Bash",
@@ -41,11 +41,11 @@
         },
         {
             "language": "HTML",
-            "time": "10 hrs 45 mins"
+            "time": "10 hrs 46 mins"
         },
         {
             "language": "JSON",
-            "time": "26 hrs 48 mins"
+            "time": "27 hrs 21 mins"
         },
         {
             "language": "Java",
@@ -53,7 +53,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "13 hrs 1 min"
+            "time": "13 hrs 10 mins"
         },
         {
             "language": "Jupyter",
@@ -61,7 +61,7 @@
         },
         {
             "language": "MDX",
-            "time": "4 hrs 29 mins"
+            "time": "4 hrs 31 mins"
         },
         {
             "language": "Makefile",
@@ -69,11 +69,11 @@
         },
         {
             "language": "Markdown",
-            "time": "301 hrs 44 mins"
+            "time": "304 hrs 1 min"
         },
         {
             "language": "Python",
-            "time": "1,628 hrs 19 mins"
+            "time": "1,634 hrs 26 mins"
         },
         {
             "language": "Rust",
@@ -89,11 +89,11 @@
         },
         {
             "language": "TOML",
-            "time": "81 hrs 39 mins"
+            "time": "82 hrs 5 mins"
         },
         {
             "language": "TeX",
-            "time": "57 hrs 7 mins"
+            "time": "58 hrs 57 mins"
         },
         {
             "language": "Text",
@@ -101,15 +101,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "165 hrs 1 min"
+            "time": "165 hrs 14 mins"
         },
         {
             "language": "Typst",
-            "time": "28 hrs 20 mins"
+            "time": "28 hrs 21 mins"
         },
         {
             "language": "YAML",
-            "time": "81 hrs 43 mins"
+            "time": "82 hrs"
         }
     ]
 }

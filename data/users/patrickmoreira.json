@@ -1,5 +1,5 @@
 {
-    "total_time": "732 hrs 11 mins",
+    "total_time": "106 hrs 58 mins",
     "updated": true,
     "elo": 3900,
     "languages": [
@@ -10,10 +10,6 @@
         {
             "language": "Docker",
             "time": "17 hrs 20 mins"
-        },
-        {
-            "language": "Git Config",
-            "time": "4 hrs 14 mins"
         },
         {
             "language": "HTML",
@@ -33,27 +29,15 @@
         },
         {
             "language": "Markdown",
-            "time": "2 hrs 38 mins"
-        },
-        {
-            "language": "Python",
-            "time": "577 hrs 11 mins"
+            "time": "3 hrs 11 mins"
         },
         {
             "language": "TSConfig",
             "time": "4 hrs 29 mins"
         },
         {
-            "language": "Text",
-            "time": "8 hrs 57 mins"
-        },
-        {
             "language": "TypeScript",
-            "time": "6 hrs 28 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "32 hrs 24 mins"
+            "time": "3 hrs 28 mins"
         }
     ]
 }

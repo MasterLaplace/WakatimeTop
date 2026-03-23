@@ -1,7 +1,7 @@
 {
-    "total_time": "324 hrs 41 mins",
+    "total_time": "338 hrs 30 mins",
     "updated": true,
-    "elo": 287,
+    "elo": 301,
     "languages": [
         {
             "language": "C#",
@@ -21,7 +21,7 @@
         },
         {
             "language": "Java",
-            "time": "138 hrs 6 mins"
+            "time": "147 hrs 29 mins"
         },
         {
             "language": "JavaScript",
@@ -29,11 +29,15 @@
         },
         {
             "language": "Markdown",
-            "time": "10 hrs 54 mins"
+            "time": "10 hrs 59 mins"
         },
         {
             "language": "TypeScript",
             "time": "60 hrs 44 mins"
+        },
+        {
+            "language": "XML",
+            "time": "4 hrs 21 mins"
         }
     ]
 }

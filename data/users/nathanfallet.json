@@ -1,15 +1,11 @@
 {
-    "total_time": "79 hrs 32 mins",
+    "total_time": "64 hrs 44 mins",
     "updated": true,
     "elo": 176,
     "languages": [
         {
             "language": "C",
-            "time": "2 hrs 39 mins"
-        },
-        {
-            "language": "Image (svg)",
-            "time": "7 hrs 6 mins"
+            "time": "3 hrs 10 mins"
         },
         {
             "language": "Jupyter",
@@ -17,19 +13,11 @@
         },
         {
             "language": "Kotlin",
-            "time": "32 hrs 57 mins"
+            "time": "49 hrs 39 mins"
         },
         {
-            "language": "SQL",
-            "time": "14 hrs 9 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "10 hrs 19 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "8 hrs 52 mins"
+            "language": "Markdown",
+            "time": "8 hrs 25 mins"
         }
     ]
 }

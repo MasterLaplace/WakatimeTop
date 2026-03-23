@@ -1,11 +1,15 @@
 {
-    "total_time": "6 hrs 35 mins",
+    "total_time": "10 hrs 21 mins",
     "updated": true,
-    "elo": 33,
+    "elo": 37,
     "languages": [
         {
             "language": "ColdFusion",
-            "time": "6 hrs 35 mins"
+            "time": "7 hrs 42 mins"
+        },
+        {
+            "language": "ColdFusion CFC",
+            "time": "2 hrs 39 mins"
         }
     ]
 }
