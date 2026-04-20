@@ -1,7 +1,7 @@
 {
-    "total_time": "10,628 hrs 47 mins",
+    "total_time": "10,823 hrs 17 mins",
     "updated": true,
-    "elo": 10629,
+    "elo": 10824,
     "languages": [
         {
             "language": "ApacheConf",
@@ -13,7 +13,11 @@
         },
         {
             "language": "Bash",
-            "time": "286 hrs 50 mins"
+            "time": "289 hrs 7 mins"
+        },
+        {
+            "language": "Batchfile",
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "C#",
@@ -21,7 +25,7 @@
         },
         {
             "language": "C++",
-            "time": "5 hrs 58 mins"
+            "time": "6 hrs 5 mins"
         },
         {
             "language": "CBM BASIC V2",
@@ -33,19 +37,19 @@
         },
         {
             "language": "CSV",
-            "time": "3 hrs 33 mins"
+            "time": "5 hrs 21 mins"
         },
         {
             "language": "Docker",
-            "time": "166 hrs 11 mins"
+            "time": "166 hrs 22 mins"
         },
         {
             "language": "Git Config",
-            "time": "18 hrs 47 mins"
+            "time": "20 hrs 10 mins"
         },
         {
             "language": "Go",
-            "time": "130 hrs 12 mins"
+            "time": "198 hrs 15 mins"
         },
         {
             "language": "Groovy",
@@ -53,7 +57,7 @@
         },
         {
             "language": "HTML",
-            "time": "31 hrs 49 mins"
+            "time": "33 hrs 9 mins"
         },
         {
             "language": "INI",
@@ -61,23 +65,23 @@
         },
         {
             "language": "JSON",
-            "time": "808 hrs 51 mins"
+            "time": "826 hrs 16 mins"
         },
         {
             "language": "Java",
-            "time": "2,505 hrs 31 mins"
+            "time": "2,524 hrs 4 mins"
         },
         {
             "language": "Java Properties",
-            "time": "4 hrs 5 mins"
+            "time": "4 hrs 49 mins"
         },
         {
             "language": "JavaScript",
-            "time": "1,133 hrs 11 mins"
+            "time": "1,135 hrs 37 mins"
         },
         {
             "language": "Kotlin",
-            "time": "85 hrs 15 mins"
+            "time": "88 hrs 51 mins"
         },
         {
             "language": "Lua",
@@ -85,7 +89,7 @@
         },
         {
             "language": "Markdown",
-            "time": "190 hrs 24 mins"
+            "time": "210 hrs 20 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -101,7 +105,7 @@
         },
         {
             "language": "Protocol Buffer",
-            "time": "741 hrs 30 mins"
+            "time": "745 hrs 21 mins"
         },
         {
             "language": "Python",
@@ -121,7 +125,7 @@
         },
         {
             "language": "Smali",
-            "time": "13 hrs 52 mins"
+            "time": "14 hrs 3 mins"
         },
         {
             "language": "TOML",
@@ -133,19 +137,19 @@
         },
         {
             "language": "Text",
-            "time": "310 hrs 3 mins"
+            "time": "338 hrs 26 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,415 hrs 31 mins"
+            "time": "1,433 hrs 29 mins"
         },
         {
             "language": "XML",
-            "time": "58 hrs 45 mins"
+            "time": "59 hrs 25 mins"
         },
         {
             "language": "YAML",
-            "time": "312 hrs 55 mins"
+            "time": "314 hrs 1 min"
         }
     ]
 }

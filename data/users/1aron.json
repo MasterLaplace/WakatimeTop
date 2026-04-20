@@ -1,7 +1,7 @@
 {
-    "total_time": "8,122 hrs 9 mins",
-    "updated": false,
-    "elo": 8105,
+    "total_time": "8,129 hrs 49 mins",
+    "updated": true,
+    "elo": 8112,
     "languages": [
         {
             "language": "Astro",
@@ -14,6 +14,10 @@
         {
             "language": "CSS",
             "time": "31 hrs 13 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "7 hrs 19 mins"
         },
         {
             "language": "GDScript3",
@@ -41,7 +45,7 @@
         },
         {
             "language": "Markdown",
-            "time": "161 hrs 52 mins"
+            "time": "161 hrs 58 mins"
         },
         {
             "language": "MySQL",
@@ -81,7 +85,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "5,119 hrs 48 mins"
+            "time": "5,120 hrs 3 mins"
         },
         {
             "language": "Vue.js",

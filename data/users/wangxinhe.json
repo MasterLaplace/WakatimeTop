@@ -1,7 +1,7 @@
 {
-    "total_time": "2,298 hrs 7 mins",
+    "total_time": "2,303 hrs 27 mins",
     "updated": true,
-    "elo": 2299,
+    "elo": 2304,
     "languages": [
         {
             "language": "Astro",
@@ -13,15 +13,15 @@
         },
         {
             "language": "C",
-            "time": "96 hrs 58 mins"
+            "time": "96 hrs 59 mins"
         },
         {
             "language": "C++",
-            "time": "37 hrs 16 mins"
+            "time": "39 hrs 46 mins"
         },
         {
             "language": "C/C",
-            "time": "3 hrs 48 mins"
+            "time": "3 hrs 51 mins"
         },
         {
             "language": "C/C++",
@@ -60,8 +60,12 @@
             "time": "49 hrs 26 mins"
         },
         {
+            "language": "INI",
+            "time": "2 hrs 37 mins"
+        },
+        {
             "language": "JSON",
-            "time": "136 hrs 37 mins"
+            "time": "136 hrs 38 mins"
         },
         {
             "language": "Java",
@@ -133,7 +137,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "834 hrs 53 mins"
+            "time": "835 hrs 1 min"
         },
         {
             "language": "Vue.js",

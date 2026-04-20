@@ -1,11 +1,11 @@
 {
-    "total_time": "1,759 hrs 36 mins",
+    "total_time": "1,921 hrs 47 mins",
     "updated": true,
-    "elo": 1760,
+    "elo": 1922,
     "languages": [
         {
             "language": "GLSL shader",
-            "time": "16 hrs 4 mins"
+            "time": "16 hrs 58 mins"
         },
         {
             "language": "Glsl File",
@@ -13,27 +13,35 @@
         },
         {
             "language": "Gradle",
-            "time": "12 hrs 44 mins"
+            "time": "13 hrs 42 mins"
         },
         {
             "language": "Groovy",
-            "time": "23 hrs 10 mins"
+            "time": "24 hrs 19 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "2 hrs 41 mins"
         },
         {
             "language": "INI",
-            "time": "2 hrs 42 mins"
+            "time": "2 hrs 53 mins"
         },
         {
             "language": "JSON",
-            "time": "62 hrs 7 mins"
+            "time": "63 hrs 24 mins"
         },
         {
             "language": "Java",
-            "time": "1,445 hrs 11 mins"
+            "time": "1,596 hrs 51 mins"
         },
         {
             "language": "Java Properties",
-            "time": "18 hrs 59 mins"
+            "time": "19 hrs 9 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "Kotlin",
@@ -41,15 +49,15 @@
         },
         {
             "language": "Properties",
-            "time": "16 hrs 56 mins"
+            "time": "17 hrs 17 mins"
         },
         {
             "language": "TOML",
-            "time": "4 hrs 49 mins"
+            "time": "4 hrs 59 mins"
         },
         {
             "language": "Text",
-            "time": "11 hrs 29 mins"
+            "time": "11 hrs 38 mins"
         },
         {
             "language": "V shell",

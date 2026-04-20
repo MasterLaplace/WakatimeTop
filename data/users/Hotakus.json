@@ -1,8 +1,16 @@
 {
-    "total_time": "24 hrs 13 mins",
-    "updated": false,
-    "elo": 103,
+    "total_time": "59 hrs 50 mins",
+    "updated": true,
+    "elo": 138,
     "languages": [
+        {
+            "language": "C",
+            "time": "27 hrs 9 mins"
+        },
+        {
+            "language": "C/C++",
+            "time": "8 hrs 28 mins"
+        },
         {
             "language": "Java",
             "time": "24 hrs 13 mins"

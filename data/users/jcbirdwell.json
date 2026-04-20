@@ -1,11 +1,11 @@
 {
-    "total_time": "6,420 hrs 51 mins",
+    "total_time": "6,614 hrs 41 mins",
     "updated": true,
-    "elo": 6421,
+    "elo": 6615,
     "languages": [
         {
             "language": "Bash",
-            "time": "18 hrs 32 mins"
+            "time": "19 hrs 24 mins"
         },
         {
             "language": "C",
@@ -17,23 +17,23 @@
         },
         {
             "language": "CSS",
-            "time": "238 hrs 48 mins"
+            "time": "240 hrs 32 mins"
         },
         {
             "language": "Docker",
-            "time": "75 hrs 59 mins"
+            "time": "80 hrs 42 mins"
         },
         {
             "language": "DockerIgnore file",
-            "time": "3 hrs 11 mins"
+            "time": "3 hrs 38 mins"
         },
         {
             "language": "Dockerfile",
-            "time": "40 hrs 29 mins"
+            "time": "42 hrs 9 mins"
         },
         {
             "language": "Env File",
-            "time": "3 hrs 50 mins"
+            "time": "3 hrs 57 mins"
         },
         {
             "language": "GDScript",
@@ -41,39 +41,43 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "10 hrs 8 mins"
+            "time": "10 hrs 33 mins"
         },
         {
             "language": "HTML",
-            "time": "280 hrs 56 mins"
+            "time": "282 hrs"
         },
         {
             "language": "INI",
-            "time": "9 hrs 6 mins"
+            "time": "9 hrs 50 mins"
         },
         {
             "language": "JSON",
-            "time": "27 hrs 57 mins"
+            "time": "29 hrs 5 mins"
         },
         {
             "language": "JavaScript",
-            "time": "176 hrs 58 mins"
+            "time": "177 hrs 42 mins"
+        },
+        {
+            "language": "Jupyter",
+            "time": "9 hrs 55 mins"
         },
         {
             "language": "Markdown",
-            "time": "13 hrs"
+            "time": "13 hrs 3 mins"
         },
         {
             "language": "Nginx Configuration",
-            "time": "12 hrs 17 mins"
+            "time": "22 hrs 42 mins"
         },
         {
             "language": "Nginx configuration file",
-            "time": "21 hrs 45 mins"
+            "time": "26 hrs 51 mins"
         },
         {
             "language": "Python",
-            "time": "2,889 hrs"
+            "time": "2,997 hrs 39 mins"
         },
         {
             "language": "Ruby",
@@ -81,7 +85,7 @@
         },
         {
             "language": "SQL",
-            "time": "449 hrs 41 mins"
+            "time": "458 hrs 55 mins"
         },
         {
             "language": "SourceMap",
@@ -93,23 +97,23 @@
         },
         {
             "language": "TOML",
-            "time": "34 hrs 41 mins"
+            "time": "36 hrs 44 mins"
         },
         {
             "language": "TSConfig",
-            "time": "4 hrs"
+            "time": "4 hrs 13 mins"
         },
         {
             "language": "Text",
-            "time": "30 hrs 52 mins"
+            "time": "31 hrs 15 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,950 hrs 37 mins"
+            "time": "1,978 hrs 26 mins"
         },
         {
             "language": "YAML",
-            "time": "77 hrs 12 mins"
+            "time": "83 hrs 34 mins"
         },
         {
             "language": "requirements.txt",

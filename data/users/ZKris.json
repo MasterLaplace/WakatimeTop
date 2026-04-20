@@ -1,7 +1,7 @@
 {
-    "total_time": "8,159 hrs 50 mins",
+    "total_time": "8,308 hrs 55 mins",
     "updated": true,
-    "elo": 8160,
+    "elo": 8309,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "CLASS",
-            "time": "6 hrs 43 mins"
+            "time": "6 hrs 56 mins"
         },
         {
             "language": "CSV/TSV",
@@ -29,31 +29,31 @@
         },
         {
             "language": "JSON",
-            "time": "24 hrs 28 mins"
+            "time": "24 hrs 41 mins"
         },
         {
             "language": "Java",
-            "time": "1,063 hrs 3 mins"
+            "time": "1,092 hrs 2 mins"
         },
         {
             "language": "Java Properties",
-            "time": "8 hrs 38 mins"
+            "time": "8 hrs 52 mins"
         },
         {
             "language": "Kotlin",
-            "time": "5,749 hrs 30 mins"
+            "time": "5,846 hrs 35 mins"
         },
         {
             "language": "Markdown",
-            "time": "48 hrs 15 mins"
+            "time": "52 hrs 22 mins"
         },
         {
             "language": "Properties",
-            "time": "12 hrs 40 mins"
+            "time": "12 hrs 42 mins"
         },
         {
             "language": "Protocol Buffer",
-            "time": "3 hrs 57 mins"
+            "time": "3 hrs 58 mins"
         },
         {
             "language": "Python",
@@ -61,15 +61,15 @@
         },
         {
             "language": "RuneScape Config Mapping File",
-            "time": "358 hrs 49 mins"
+            "time": "364 hrs 17 mins"
         },
         {
             "language": "RuneScript",
-            "time": "93 hrs 48 mins"
+            "time": "95 hrs 30 mins"
         },
         {
             "language": "RuneScript Symbol",
-            "time": "13 hrs 46 mins"
+            "time": "14 hrs 25 mins"
         },
         {
             "language": "SQL",
@@ -77,27 +77,27 @@
         },
         {
             "language": "TOML",
-            "time": "542 hrs 35 mins"
+            "time": "551 hrs"
         },
         {
             "language": "Text",
-            "time": "35 hrs 53 mins"
+            "time": "36 hrs 48 mins"
         },
         {
             "language": "XML",
-            "time": "14 hrs 49 mins"
+            "time": "14 hrs 52 mins"
         },
         {
             "language": "YAML",
-            "time": "10 hrs 14 mins"
+            "time": "10 hrs 37 mins"
         },
         {
             "language": "protobuf",
-            "time": "3 hrs 43 mins"
+            "time": "3 hrs 48 mins"
         },
         {
             "language": "textmate",
-            "time": "14 hrs 31 mins"
+            "time": "15 hrs 2 mins"
         }
     ]
 }

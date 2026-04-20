@@ -1,7 +1,7 @@
 {
-    "total_time": "3,320 hrs 44 mins",
+    "total_time": "3,342 hrs 48 mins",
     "updated": true,
-    "elo": 3321,
+    "elo": 3343,
     "languages": [
         {
             "language": "Bash",
@@ -13,7 +13,11 @@
         },
         {
             "language": "C#",
-            "time": "519 hrs 23 mins"
+            "time": "519 hrs 59 mins"
+        },
+        {
+            "language": "C++",
+            "time": "3 hrs 52 mins"
         },
         {
             "language": "CLASS",
@@ -21,11 +25,11 @@
         },
         {
             "language": "CSS",
-            "time": "25 hrs 11 mins"
+            "time": "25 hrs 29 mins"
         },
         {
             "language": "CSV",
-            "time": "2 hrs 49 mins"
+            "time": "3 hrs 15 mins"
         },
         {
             "language": "Csproj",
@@ -37,15 +41,19 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "9 hrs 58 mins"
+            "time": "9 hrs 59 mins"
         },
         {
             "language": "HTML",
-            "time": "37 hrs 23 mins"
+            "time": "37 hrs 27 mins"
+        },
+        {
+            "language": "INI",
+            "time": "3 hrs 51 mins"
         },
         {
             "language": "JSON",
-            "time": "74 hrs 20 mins"
+            "time": "76 hrs 46 mins"
         },
         {
             "language": "Java",
@@ -57,15 +65,15 @@
         },
         {
             "language": "JavaScript",
-            "time": "94 hrs 20 mins"
+            "time": "94 hrs 57 mins"
         },
         {
             "language": "Kotlin",
-            "time": "1,145 hrs 49 mins"
+            "time": "1,151 hrs 21 mins"
         },
         {
             "language": "Markdown",
-            "time": "58 hrs 37 mins"
+            "time": "58 hrs 41 mins"
         },
         {
             "language": "PHP",
@@ -85,23 +93,23 @@
         },
         {
             "language": "SQL",
-            "time": "249 hrs 58 mins"
+            "time": "253 hrs 35 mins"
         },
         {
             "language": "TOML",
-            "time": "2 hrs 32 mins"
+            "time": "2 hrs 40 mins"
         },
         {
             "language": "TSConfig",
-            "time": "3 hrs 19 mins"
+            "time": "3 hrs 21 mins"
         },
         {
             "language": "Text",
-            "time": "17 hrs 19 mins"
+            "time": "17 hrs 36 mins"
         },
         {
             "language": "TypeScript",
-            "time": "677 hrs 15 mins"
+            "time": "677 hrs 28 mins"
         },
         {
             "language": "XML",

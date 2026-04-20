@@ -1,7 +1,7 @@
 {
-    "total_time": "36 hrs 41 mins",
+    "total_time": "57 hrs 1 mins",
     "updated": true,
-    "elo": 50,
+    "elo": 71,
     "languages": [
         {
             "language": "Dart",
@@ -9,11 +9,7 @@
         },
         {
             "language": "Elixir",
-            "time": "15 hrs 57 mins"
-        },
-        {
-            "language": "Groff",
-            "time": "4 hrs 22 mins"
+            "time": "4 hrs 16 mins"
         },
         {
             "language": "HTML+EEX",
@@ -21,11 +17,15 @@
         },
         {
             "language": "JavaScript",
-            "time": "3 hrs 34 mins"
+            "time": "3 hrs 26 mins"
         },
         {
-            "language": "Markdown",
-            "time": "4 hrs 12 mins"
+            "language": "Kotlin",
+            "time": "2 hrs 47 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "37 hrs 56 mins"
         }
     ]
 }

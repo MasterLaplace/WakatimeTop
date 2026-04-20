@@ -1,11 +1,11 @@
 {
-    "total_time": "806 hrs 21 mins",
-    "updated": false,
-    "elo": 797,
+    "total_time": "807 hrs 14 mins",
+    "updated": true,
+    "elo": 798,
     "languages": [
         {
             "language": "Docker",
-            "time": "5 hrs 13 mins"
+            "time": "5 hrs 21 mins"
         },
         {
             "language": "Dockerfile",
@@ -21,7 +21,7 @@
         },
         {
             "language": "Python",
-            "time": "649 hrs 4 mins"
+            "time": "649 hrs 41 mins"
         },
         {
             "language": "Rust",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Text",
-            "time": "32 hrs 52 mins"
+            "time": "32 hrs 59 mins"
         },
         {
             "language": "TypeScript",
@@ -41,7 +41,7 @@
         },
         {
             "language": "sh",
-            "time": "53 hrs 13 mins"
+            "time": "53 hrs 14 mins"
         }
     ]
 }

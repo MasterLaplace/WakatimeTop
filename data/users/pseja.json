@@ -1,7 +1,7 @@
 {
-    "total_time": "1,760 hrs 7 mins",
+    "total_time": "1,855 hrs 31 mins",
     "updated": true,
-    "elo": 1761,
+    "elo": 1856,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "28 hrs 38 mins"
+            "time": "32 hrs 55 mins"
         },
         {
             "language": "Blade Template",
@@ -17,15 +17,15 @@
         },
         {
             "language": "C",
-            "time": "264 hrs 10 mins"
+            "time": "267 hrs 9 mins"
         },
         {
             "language": "C++",
-            "time": "314 hrs 52 mins"
+            "time": "379 hrs 35 mins"
         },
         {
             "language": "CMake",
-            "time": "8 hrs 14 mins"
+            "time": "13 hrs 36 mins"
         },
         {
             "language": "CSS",
@@ -36,12 +36,16 @@
             "time": "7 hrs 5 mins"
         },
         {
+            "language": "Graphviz (DOT)",
+            "time": "4 hrs 1 min"
+        },
+        {
             "language": "HTML",
             "time": "29 hrs 55 mins"
         },
         {
             "language": "JSON",
-            "time": "15 hrs 56 mins"
+            "time": "17 hrs 7 mins"
         },
         {
             "language": "Java",
@@ -53,15 +57,15 @@
         },
         {
             "language": "Lua",
-            "time": "78 hrs 13 mins"
+            "time": "78 hrs 15 mins"
         },
         {
             "language": "Makefile",
-            "time": "32 hrs 9 mins"
+            "time": "34 hrs 39 mins"
         },
         {
             "language": "Markdown",
-            "time": "53 hrs 45 mins"
+            "time": "56 hrs 50 mins"
         },
         {
             "language": "PHP",
@@ -69,7 +73,7 @@
         },
         {
             "language": "PlantUML",
-            "time": "10 hrs 16 mins"
+            "time": "10 hrs 19 mins"
         },
         {
             "language": "Prolog",
@@ -77,7 +81,7 @@
         },
         {
             "language": "Python",
-            "time": "143 hrs 14 mins"
+            "time": "147 hrs 6 mins"
         },
         {
             "language": "SQL",
@@ -89,11 +93,11 @@
         },
         {
             "language": "TeX",
-            "time": "35 hrs 38 mins"
+            "time": "37 hrs 27 mins"
         },
         {
             "language": "Text",
-            "time": "6 hrs 13 mins"
+            "time": "7 hrs 43 mins"
         },
         {
             "language": "TypeScript",

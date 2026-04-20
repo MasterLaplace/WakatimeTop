@@ -1,23 +1,31 @@
 {
-    "total_time": "425 hrs 7 mins",
+    "total_time": "505 hrs 59 mins",
     "updated": true,
-    "elo": 426,
+    "elo": 506,
     "languages": [
         {
             "language": "Bash",
-            "time": "5 hrs 37 mins"
+            "time": "6 hrs 41 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "2 hrs 36 mins"
         },
         {
             "language": "Go",
-            "time": "285 hrs 41 mins"
+            "time": "337 hrs 31 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "2 hrs 49 mins"
         },
         {
             "language": "Markdown",
-            "time": "4 hrs 24 mins"
+            "time": "6 hrs 14 mins"
         },
         {
             "language": "PHP",
-            "time": "44 hrs 27 mins"
+            "time": "47 hrs 57 mins"
         },
         {
             "language": "Protocol Buffer",
@@ -25,15 +33,15 @@
         },
         {
             "language": "SQL",
-            "time": "13 hrs 5 mins"
+            "time": "15 hrs 36 mins"
         },
         {
             "language": "TypeScript",
-            "time": "53 hrs 9 mins"
+            "time": "63 hrs 44 mins"
         },
         {
             "language": "YAML",
-            "time": "13 hrs 55 mins"
+            "time": "18 hrs 2 mins"
         }
     ]
 }

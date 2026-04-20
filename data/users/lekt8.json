@@ -1,7 +1,7 @@
 {
-    "total_time": "5,061 hrs 20 mins",
-    "updated": false,
-    "elo": 5048,
+    "total_time": "5,062 hrs 5 mins",
+    "updated": true,
+    "elo": 5049,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "108 hrs 46 mins"
+            "time": "108 hrs 47 mins"
         },
         {
             "language": "C#",
@@ -53,11 +53,11 @@
         },
         {
             "language": "Markdown",
-            "time": "67 hrs 42 mins"
+            "time": "68 hrs"
         },
         {
             "language": "Python",
-            "time": "1,856 hrs 45 mins"
+            "time": "1,857 hrs 3 mins"
         },
         {
             "language": "SQL",
@@ -81,7 +81,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "2,168 hrs 9 mins"
+            "time": "2,168 hrs 17 mins"
         },
         {
             "language": "XML",

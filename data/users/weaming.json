@@ -1,19 +1,31 @@
 {
-    "total_time": "25 hrs 54 mins",
-    "updated": false,
-    "elo": 55,
+    "total_time": "49 hrs 41 mins",
+    "updated": true,
+    "elo": 79,
     "languages": [
         {
+            "language": "Go",
+            "time": "4 hrs 49 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "8 hrs 35 mins"
+        },
+        {
             "language": "OCaml",
-            "time": "9 hrs 26 mins"
+            "time": "2 hrs 57 mins"
         },
         {
             "language": "Python",
-            "time": "4 hrs 48 mins"
+            "time": "11 hrs 2 mins"
         },
         {
             "language": "Swift",
             "time": "5 hrs 48 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "10 hrs 38 mins"
         },
         {
             "language": "Vue.js",

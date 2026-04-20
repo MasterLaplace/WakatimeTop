@@ -1,7 +1,7 @@
 {
-    "total_time": "396 hrs 35 mins",
+    "total_time": "438 hrs 25 mins",
     "updated": true,
-    "elo": 6055,
+    "elo": 6097,
     "languages": [
         {
             "language": "Blade Template",
@@ -32,12 +32,16 @@
             "time": "26 hrs 33 mins"
         },
         {
+            "language": "HTML",
+            "time": "3 hrs 52 mins"
+        },
+        {
             "language": "Java",
-            "time": "11 hrs 26 mins"
+            "time": "7 hrs 1 min"
         },
         {
             "language": "Kotlin",
-            "time": "20 hrs 35 mins"
+            "time": "49 hrs 17 mins"
         },
         {
             "language": "PHP",
@@ -50,6 +54,14 @@
         {
             "language": "Rust",
             "time": "11 hrs 45 mins"
+        },
+        {
+            "language": "Svelte",
+            "time": "10 hrs 48 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 53 mins"
         }
     ]
 }

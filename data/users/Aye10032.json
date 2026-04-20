@@ -1,0 +1,63 @@
+{
+    "total_time": "1,178 hrs 1 mins",
+    "updated": true,
+    "elo": 1179,
+    "languages": [
+        {
+            "language": "CSV",
+            "time": "6 hrs 24 mins"
+        },
+        {
+            "language": "CSV/TSV",
+            "time": "2 hrs 30 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "3 hrs 24 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "19 hrs 9 mins"
+        },
+        {
+            "language": "Java",
+            "time": "13 hrs 56 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "26 hrs 21 mins"
+        },
+        {
+            "language": "Python",
+            "time": "756 hrs 46 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "7 hrs 23 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "16 hrs 44 mins"
+        },
+        {
+            "language": "TSV",
+            "time": "4 hrs 41 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "73 hrs 11 mins"
+        },
+        {
+            "language": "Text",
+            "time": "6 hrs 40 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "232 hrs 52 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "8 hrs"
+        }
+    ]
+}

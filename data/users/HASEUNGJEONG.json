@@ -1,19 +1,19 @@
 {
-    "total_time": "4,843 hrs 10 mins",
+    "total_time": "4,932 hrs 53 mins",
     "updated": true,
-    "elo": 4844,
+    "elo": 4933,
     "languages": [
         {
             "language": "Bash",
-            "time": "23 hrs 25 mins"
+            "time": "23 hrs 42 mins"
         },
         {
             "language": "CSS",
-            "time": "63 hrs 12 mins"
+            "time": "63 hrs 46 mins"
         },
         {
             "language": "Git Config",
-            "time": "8 hrs 45 mins"
+            "time": "9 hrs 16 mins"
         },
         {
             "language": "HTML",
@@ -21,11 +21,11 @@
         },
         {
             "language": "JSON",
-            "time": "74 hrs 20 mins"
+            "time": "77 hrs 39 mins"
         },
         {
             "language": "JavaScript",
-            "time": "1,096 hrs 2 mins"
+            "time": "1,096 hrs 42 mins"
         },
         {
             "language": "MDX",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Markdown",
-            "time": "170 hrs 44 mins"
+            "time": "178 hrs 33 mins"
         },
         {
             "language": "Pug",
@@ -48,16 +48,20 @@
             "time": "54 hrs 8 mins"
         },
         {
+            "language": "TSConfig",
+            "time": "2 hrs 54 mins"
+        },
+        {
             "language": "Text",
-            "time": "5 hrs 12 mins"
+            "time": "6 hrs 2 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,979 hrs 42 mins"
+            "time": "3,052 hrs 6 mins"
         },
         {
             "language": "YAML",
-            "time": "18 hrs 27 mins"
+            "time": "18 hrs 52 mins"
         }
     ]
 }

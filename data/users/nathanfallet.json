@@ -1,11 +1,15 @@
 {
-    "total_time": "64 hrs 44 mins",
+    "total_time": "69 hrs 59 mins",
     "updated": true,
-    "elo": 176,
+    "elo": 181,
     "languages": [
         {
+            "language": "Assembly",
+            "time": "3 hrs 20 mins"
+        },
+        {
             "language": "C",
-            "time": "3 hrs 10 mins"
+            "time": "40 hrs 54 mins"
         },
         {
             "language": "Jupyter",
@@ -13,11 +17,19 @@
         },
         {
             "language": "Kotlin",
-            "time": "49 hrs 39 mins"
+            "time": "12 hrs 40 mins"
         },
         {
             "language": "Markdown",
-            "time": "8 hrs 25 mins"
+            "time": "4 hrs 5 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "2 hrs 53 mins"
+        },
+        {
+            "language": "ca65 assembler",
+            "time": "2 hrs 37 mins"
         }
     ]
 }

@@ -1,35 +1,39 @@
 {
-    "total_time": "1,525 hrs 6 mins",
+    "total_time": "1,631 hrs 25 mins",
     "updated": true,
-    "elo": 1526,
+    "elo": 1632,
     "languages": [
         {
             "language": "BibTeX",
-            "time": "5 hrs 19 mins"
+            "time": "5 hrs 23 mins"
         },
         {
             "language": "CSV",
             "time": "165 hrs 29 mins"
         },
         {
+            "language": "JSON",
+            "time": "7 hrs 42 mins"
+        },
+        {
             "language": "JavaScript",
-            "time": "6 hrs 52 mins"
+            "time": "47 hrs 12 mins"
         },
         {
             "language": "Markdown",
-            "time": "6 hrs 20 mins"
+            "time": "14 hrs 2 mins"
         },
         {
             "language": "Python",
-            "time": "1,061 hrs 3 mins"
+            "time": "1,104 hrs 38 mins"
         },
         {
             "language": "TeX",
-            "time": "271 hrs 11 mins"
+            "time": "277 hrs 54 mins"
         },
         {
             "language": "Text",
-            "time": "2 hrs 40 mins"
+            "time": "2 hrs 53 mins"
         },
         {
             "language": "TypeScript",

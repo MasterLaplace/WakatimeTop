@@ -1,11 +1,11 @@
 {
-    "total_time": "957 hrs",
+    "total_time": "940 hrs 17 mins",
     "updated": true,
     "elo": 957,
     "languages": [
         {
             "language": "Bash",
-            "time": "5 hrs 46 mins"
+            "time": "6 hrs 21 mins"
         },
         {
             "language": "CSS",
@@ -13,55 +13,63 @@
         },
         {
             "language": "GraphQL",
-            "time": "12 hrs 52 mins"
+            "time": "11 hrs 3 mins"
         },
         {
             "language": "JSON",
-            "time": "6 hrs 24 mins"
+            "time": "9 hrs 50 mins"
         },
         {
             "language": "JavaScript",
-            "time": "5 hrs 56 mins"
+            "time": "5 hrs 17 mins"
         },
         {
             "language": "Makefile",
-            "time": "10 hrs 47 mins"
+            "time": "12 hrs 33 mins"
         },
         {
             "language": "Markdown",
-            "time": "49 hrs 7 mins"
+            "time": "57 hrs 56 mins"
         },
         {
             "language": "Nix",
-            "time": "148 hrs 15 mins"
+            "time": "151 hrs 14 mins"
         },
         {
             "language": "Python",
-            "time": "3 hrs 50 mins"
+            "time": "8 hrs 39 mins"
         },
         {
             "language": "Rust",
-            "time": "468 hrs 51 mins"
+            "time": "425 hrs 38 mins"
         },
         {
             "language": "Svelte",
-            "time": "156 hrs 18 mins"
+            "time": "153 hrs 58 mins"
         },
         {
             "language": "TOML",
-            "time": "14 hrs 23 mins"
+            "time": "13 hrs 7 mins"
         },
         {
             "language": "TypeScript",
-            "time": "56 hrs 19 mins"
+            "time": "55 hrs 3 mins"
+        },
+        {
+            "language": "Typst",
+            "time": "6 hrs 7 mins"
         },
         {
             "language": "YAML",
-            "time": "12 hrs 12 mins"
+            "time": "10 hrs 48 mins"
         },
         {
             "language": "sh",
-            "time": "2 hrs 30 mins"
+            "time": "3 hrs"
+        },
+        {
+            "language": "spade",
+            "time": "6 hrs 13 mins"
         }
     ]
 }

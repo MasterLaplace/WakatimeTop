@@ -1,5 +1,5 @@
 {
-    "total_time": "355 hrs 33 mins",
+    "total_time": "350 hrs 32 mins",
     "updated": true,
     "elo": 3358,
     "languages": [
@@ -16,16 +16,12 @@
             "time": "165 hrs 20 mins"
         },
         {
-            "language": "Log",
-            "time": "11 hrs 51 mins"
-        },
-        {
             "language": "Nix",
             "time": "4 hrs 13 mins"
         },
         {
             "language": "PHP",
-            "time": "9 hrs 26 mins"
+            "time": "4 hrs 14 mins"
         },
         {
             "language": "Python",
@@ -44,8 +40,8 @@
             "time": "2 hrs 40 mins"
         },
         {
-            "language": "Text",
-            "time": "6 hrs 17 mins"
+            "language": "TypeScript",
+            "time": "18 hrs 19 mins"
         }
     ]
 }

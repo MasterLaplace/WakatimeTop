@@ -1,19 +1,23 @@
 {
-    "total_time": "972 hrs 43 mins",
+    "total_time": "1,047 hrs 56 mins",
     "updated": true,
-    "elo": 971,
+    "elo": 1046,
     "languages": [
         {
             "language": "Bash",
-            "time": "14 hrs 30 mins"
+            "time": "17 hrs 9 mins"
         },
         {
             "language": "C#",
-            "time": "134 hrs 14 mins"
+            "time": "160 hrs 5 mins"
         },
         {
             "language": "CSS",
             "time": "10 hrs 48 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "3 hrs 19 mins"
         },
         {
             "language": "Git Config",
@@ -25,19 +29,19 @@
         },
         {
             "language": "JSON",
-            "time": "46 hrs 48 mins"
+            "time": "52 hrs 54 mins"
         },
         {
             "language": "JavaScript",
-            "time": "44 hrs 38 mins"
+            "time": "50 hrs 36 mins"
         },
         {
             "language": "Markdown",
-            "time": "31 hrs 6 mins"
+            "time": "42 hrs 11 mins"
         },
         {
             "language": "Python",
-            "time": "546 hrs 39 mins"
+            "time": "560 hrs 28 mins"
         },
         {
             "language": "Razor",
@@ -49,7 +53,7 @@
         },
         {
             "language": "Text",
-            "time": "12 hrs 46 mins"
+            "time": "13 hrs 16 mins"
         },
         {
             "language": "TypeScript",
@@ -57,7 +61,7 @@
         },
         {
             "language": "XAML",
-            "time": "30 hrs 52 mins"
+            "time": "33 hrs 7 mins"
         },
         {
             "language": "XML",
@@ -65,7 +69,7 @@
         },
         {
             "language": "YAML",
-            "time": "38 hrs 6 mins"
+            "time": "41 hrs 47 mins"
         },
         {
             "language": "textmate",

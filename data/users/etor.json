@@ -1,7 +1,7 @@
 {
-    "total_time": "12,269 hrs 56 mins",
+    "total_time": "12,327 hrs 19 mins",
     "updated": true,
-    "elo": 12270,
+    "elo": 12328,
     "languages": [
         {
             "language": "AMPL",
@@ -29,7 +29,7 @@
         },
         {
             "language": "C",
-            "time": "52 hrs 50 mins"
+            "time": "53 hrs 10 mins"
         },
         {
             "language": "C#",
@@ -65,7 +65,7 @@
         },
         {
             "language": "GAP",
-            "time": "11 hrs 19 mins"
+            "time": "11 hrs 21 mins"
         },
         {
             "language": "Git",
@@ -112,6 +112,10 @@
             "time": "2,910 hrs 20 mins"
         },
         {
+            "language": "Lean4",
+            "time": "4 hrs 29 mins"
+        },
+        {
             "language": "Lua",
             "time": "124 hrs 12 mins"
         },
@@ -121,7 +125,7 @@
         },
         {
             "language": "Markdown",
-            "time": "348 hrs 29 mins"
+            "time": "348 hrs 33 mins"
         },
         {
             "language": "Nix",
@@ -148,6 +152,10 @@
             "time": "553 hrs 24 mins"
         },
         {
+            "language": "SMT",
+            "time": "34 hrs 57 mins"
+        },
+        {
             "language": "SQL",
             "time": "21 hrs 45 mins"
         },
@@ -169,7 +177,7 @@
         },
         {
             "language": "Text",
-            "time": "200 hrs 24 mins"
+            "time": "201 hrs 32 mins"
         },
         {
             "language": "Transact-SQL",
@@ -177,7 +185,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "2,297 hrs 3 mins"
+            "time": "2,306 hrs 12 mins"
         },
         {
             "language": "VimL",
@@ -193,15 +201,15 @@
         },
         {
             "language": "Zig",
-            "time": "2,181 hrs 39 mins"
+            "time": "2,181 hrs 44 mins"
         },
         {
             "language": "bigfile",
-            "time": "19 hrs 21 mins"
+            "time": "25 hrs 30 mins"
         },
         {
             "language": "conf",
-            "time": "29 hrs 54 mins"
+            "time": "30 hrs 54 mins"
         },
         {
             "language": "jsonc",

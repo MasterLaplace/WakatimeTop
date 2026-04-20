@@ -1,11 +1,23 @@
 {
-    "total_time": "2 hrs 43 mins",
-    "updated": false,
-    "elo": 71,
+    "total_time": "16 hrs 30 mins",
+    "updated": true,
+    "elo": 85,
     "languages": [
+        {
+            "language": "Blade Template",
+            "time": "4 hrs 1 min"
+        },
+        {
+            "language": "JavaScript",
+            "time": "3 hrs 37 mins"
+        },
         {
             "language": "MDX",
             "time": "2 hrs 43 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "6 hrs 9 mins"
         }
     ]
 }

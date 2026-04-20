@@ -1,5 +1,5 @@
 {
-    "total_time": "75 hrs 44 mins",
+    "total_time": "52 hrs 54 mins",
     "updated": true,
     "elo": 264,
     "languages": [
@@ -13,11 +13,15 @@
         },
         {
             "language": "JSON",
-            "time": "13 hrs 20 mins"
+            "time": "5 hrs 25 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "2 hrs 56 mins"
         },
         {
             "language": "Python",
-            "time": "31 hrs 42 mins"
+            "time": "22 hrs 21 mins"
         },
         {
             "language": "Terraform",
@@ -25,7 +29,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "14 hrs 56 mins"
+            "time": "6 hrs 26 mins"
         }
     ]
 }
