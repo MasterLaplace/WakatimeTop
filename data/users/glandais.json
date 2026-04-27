@@ -1,59 +1,63 @@
 {
-    "total_time": "359 hrs 11 mins",
+    "total_time": "390 hrs 8 mins",
     "updated": true,
-    "elo": 360,
+    "elo": 391,
     "languages": [
         {
             "language": "Bash",
-            "time": "4 hrs 1 min"
+            "time": "4 hrs 35 mins"
+        },
+        {
+            "language": "Dart",
+            "time": "2 hrs 41 mins"
         },
         {
             "language": "Groovy",
-            "time": "4 hrs 46 mins"
+            "time": "5 hrs 5 mins"
         },
         {
             "language": "JSON",
-            "time": "8 hrs 56 mins"
+            "time": "9 hrs 28 mins"
         },
         {
             "language": "Java",
-            "time": "197 hrs 21 mins"
+            "time": "215 hrs 39 mins"
         },
         {
             "language": "Java Properties",
-            "time": "2 hrs 37 mins"
+            "time": "2 hrs 48 mins"
         },
         {
             "language": "JavaScript",
-            "time": "4 hrs 14 mins"
+            "time": "5 hrs"
         },
         {
             "language": "Markdown",
-            "time": "35 hrs 23 mins"
+            "time": "39 hrs 9 mins"
         },
         {
             "language": "Python",
-            "time": "2 hrs 44 mins"
+            "time": "3 hrs 22 mins"
         },
         {
             "language": "SQL",
-            "time": "2 hrs 55 mins"
+            "time": "3 hrs 12 mins"
         },
         {
             "language": "Text",
-            "time": "2 hrs 32 mins"
+            "time": "2 hrs 37 mins"
         },
         {
             "language": "TypeScript",
-            "time": "64 hrs 30 mins"
+            "time": "65 hrs 7 mins"
         },
         {
             "language": "XML",
-            "time": "2 hrs 30 mins"
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "YAML",
-            "time": "26 hrs 42 mins"
+            "time": "28 hrs 34 mins"
         }
     ]
 }

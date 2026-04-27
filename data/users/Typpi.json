@@ -1,59 +1,63 @@
 {
-    "total_time": "490 hrs 3 mins",
+    "total_time": "516 hrs 28 mins",
     "updated": true,
-    "elo": 491,
+    "elo": 517,
     "languages": [
         {
             "language": "Assembly",
-            "time": "3 hrs 2 mins"
+            "time": "3 hrs 5 mins"
         },
         {
             "language": "CSS",
-            "time": "10 hrs 58 mins"
+            "time": "11 hrs 26 mins"
         },
         {
             "language": "Ezhil",
-            "time": "6 hrs 2 mins"
+            "time": "6 hrs 46 mins"
         },
         {
             "language": "Groff",
-            "time": "2 hrs 39 mins"
+            "time": "3 hrs 18 mins"
         },
         {
             "language": "JSON",
-            "time": "96 hrs 25 mins"
+            "time": "101 hrs 26 mins"
         },
         {
             "language": "Java",
             "time": "4 hrs 4 mins"
         },
         {
+            "language": "Java Properties",
+            "time": "3 hrs 10 mins"
+        },
+        {
             "language": "JavaScript",
-            "time": "110 hrs 58 mins"
+            "time": "114 hrs 44 mins"
         },
         {
             "language": "Markdown",
-            "time": "56 hrs 31 mins"
+            "time": "59 hrs 34 mins"
         },
         {
             "language": "PowerShell",
-            "time": "7 hrs 13 mins"
+            "time": "9 hrs 18 mins"
         },
         {
             "language": "TSConfig",
-            "time": "2 hrs 58 mins"
+            "time": "3 hrs 6 mins"
         },
         {
             "language": "Text",
-            "time": "2 hrs 44 mins"
+            "time": "2 hrs 47 mins"
         },
         {
             "language": "TypeScript",
-            "time": "168 hrs 26 mins"
+            "time": "172 hrs 39 mins"
         },
         {
             "language": "YAML",
-            "time": "18 hrs 3 mins"
+            "time": "21 hrs 5 mins"
         }
     ]
 }

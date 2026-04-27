@@ -1,19 +1,27 @@
 {
-    "total_time": "21 hrs 45 mins",
+    "total_time": "30 hrs 26 mins",
     "updated": true,
-    "elo": 24,
+    "elo": 33,
     "languages": [
         {
             "language": "C#",
-            "time": "4 hrs 12 mins"
+            "time": "7 hrs 20 mins"
         },
         {
             "language": "Dart",
-            "time": "14 hrs 58 mins"
+            "time": "8 hrs 9 mins"
         },
         {
-            "language": "Markdown",
-            "time": "2 hrs 35 mins"
+            "language": "Swift",
+            "time": "4 hrs 41 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "3 hrs 15 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "7 hrs 1 min"
         }
     ]
 }

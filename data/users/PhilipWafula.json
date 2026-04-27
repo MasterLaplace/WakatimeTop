@@ -1,15 +1,23 @@
 {
-    "total_time": "40 hrs 33 mins",
+    "total_time": "22 hrs 54 mins",
     "updated": true,
     "elo": 265,
     "languages": [
         {
+            "language": "Bash",
+            "time": "3 hrs 15 mins"
+        },
+        {
             "language": "Java",
-            "time": "37 hrs 34 mins"
+            "time": "13 hrs"
+        },
+        {
+            "language": "SQL",
+            "time": "3 hrs 45 mins"
         },
         {
             "language": "YAML",
-            "time": "2 hrs 59 mins"
+            "time": "2 hrs 54 mins"
         }
     ]
 }

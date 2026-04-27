@@ -1,15 +1,19 @@
 {
-    "total_time": "10 hrs 33 mins",
+    "total_time": "18 hrs 52 mins",
     "updated": true,
-    "elo": 218,
+    "elo": 226,
     "languages": [
         {
-            "language": "Smalltalk",
-            "time": "3 hrs 47 mins"
+            "language": "C#",
+            "time": "4 hrs 26 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "10 hrs 4 mins"
         },
         {
             "language": "TypeScript",
-            "time": "6 hrs 46 mins"
+            "time": "4 hrs 22 mins"
         }
     ]
 }

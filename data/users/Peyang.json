@@ -1,11 +1,11 @@
 {
-    "total_time": "5,030 hrs 25 mins",
+    "total_time": "5,057 hrs 17 mins",
     "updated": true,
-    "elo": 5031,
+    "elo": 5058,
     "languages": [
         {
             "language": "ANTLR v4 grammar file",
-            "time": "7 hrs 20 mins"
+            "time": "7 hrs 29 mins"
         },
         {
             "language": "Assembly",
@@ -17,7 +17,7 @@
         },
         {
             "language": "Bash",
-            "time": "5 hrs 18 mins"
+            "time": "5 hrs 19 mins"
         },
         {
             "language": "Batch",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Batchfile",
-            "time": "7 hrs 3 mins"
+            "time": "7 hrs 4 mins"
         },
         {
             "language": "C#",
@@ -33,7 +33,7 @@
         },
         {
             "language": "CSS",
-            "time": "25 hrs 13 mins"
+            "time": "25 hrs 17 mins"
         },
         {
             "language": "Docker",
@@ -61,7 +61,7 @@
         },
         {
             "language": "HTML",
-            "time": "51 hrs 32 mins"
+            "time": "55 hrs 6 mins"
         },
         {
             "language": "IDEA_MODULE",
@@ -69,15 +69,15 @@
         },
         {
             "language": "JSON",
-            "time": "80 hrs 1 min"
+            "time": "80 hrs 15 mins"
         },
         {
             "language": "Java",
-            "time": "3,125 hrs 52 mins"
+            "time": "3,134 hrs 43 mins"
         },
         {
             "language": "Java Properties",
-            "time": "2 hrs 54 mins"
+            "time": "3 hrs 2 mins"
         },
         {
             "language": "JavaScript",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Kotlin",
-            "time": "34 hrs 9 mins"
+            "time": "35 hrs 14 mins"
         },
         {
             "language": "MCLang",
@@ -97,7 +97,7 @@
         },
         {
             "language": "Markdown",
-            "time": "320 hrs 13 mins"
+            "time": "322 hrs 30 mins"
         },
         {
             "language": "MySQL",
@@ -105,7 +105,7 @@
         },
         {
             "language": "PHP",
-            "time": "17 hrs 11 mins"
+            "time": "24 hrs 10 mins"
         },
         {
             "language": "PlantUML file",
@@ -117,7 +117,7 @@
         },
         {
             "language": "Properties",
-            "time": "19 hrs 20 mins"
+            "time": "19 hrs 33 mins"
         },
         {
             "language": "Protocol Buffer",
@@ -125,15 +125,15 @@
         },
         {
             "language": "Python",
-            "time": "419 hrs 4 mins"
+            "time": "419 hrs 10 mins"
         },
         {
             "language": "Ruby",
-            "time": "5 hrs"
+            "time": "5 hrs 2 mins"
         },
         {
             "language": "SQL",
-            "time": "8 hrs 46 mins"
+            "time": "9 hrs 28 mins"
         },
         {
             "language": "Shell Script",
@@ -145,7 +145,7 @@
         },
         {
             "language": "Text",
-            "time": "37 hrs 53 mins"
+            "time": "38 hrs 4 mins"
         },
         {
             "language": "TypeScript",
@@ -153,7 +153,7 @@
         },
         {
             "language": "Typst",
-            "time": "86 hrs 22 mins"
+            "time": "87 hrs 58 mins"
         },
         {
             "language": "XAML",
@@ -161,15 +161,15 @@
         },
         {
             "language": "XML",
-            "time": "119 hrs 4 mins"
+            "time": "119 hrs 28 mins"
         },
         {
             "language": "YAML",
-            "time": "181 hrs 16 mins"
+            "time": "181 hrs 23 mins"
         },
         {
             "language": "textmate",
-            "time": "4 hrs 40 mins"
+            "time": "4 hrs 48 mins"
         }
     ]
 }

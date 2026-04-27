@@ -1,11 +1,15 @@
 {
-    "total_time": "27 hrs 7 mins",
+    "total_time": "37 hrs 39 mins",
     "updated": true,
-    "elo": 55,
+    "elo": 65,
     "languages": [
         {
             "language": "Elixir",
-            "time": "27 hrs 7 mins"
+            "time": "34 hrs 38 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 1 min"
         }
     ]
 }

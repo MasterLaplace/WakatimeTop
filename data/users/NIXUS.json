@@ -1,7 +1,7 @@
 {
-    "total_time": "10,944 hrs 59 mins",
+    "total_time": "10,985 hrs 43 mins",
     "updated": true,
-    "elo": 10945,
+    "elo": 10986,
     "languages": [
         {
             "language": ".env file",
@@ -21,7 +21,11 @@
         },
         {
             "language": "C#",
-            "time": "736 hrs 5 mins"
+            "time": "749 hrs 31 mins"
+        },
+        {
+            "language": "CSHTML",
+            "time": "3 hrs 35 mins"
         },
         {
             "language": "CSS",
@@ -29,7 +33,7 @@
         },
         {
             "language": "Csproj",
-            "time": "5 hrs 37 mins"
+            "time": "5 hrs 46 mins"
         },
         {
             "language": "Dart",
@@ -53,15 +57,15 @@
         },
         {
             "language": "HTML",
-            "time": "69 hrs 56 mins"
+            "time": "70 hrs 3 mins"
         },
         {
             "language": "JSON",
-            "time": "111 hrs 15 mins"
+            "time": "111 hrs 50 mins"
         },
         {
             "language": "JSON5",
-            "time": "5 hrs 19 mins"
+            "time": "5 hrs 27 mins"
         },
         {
             "language": "Java",
@@ -85,7 +89,7 @@
         },
         {
             "language": "SQL",
-            "time": "17 hrs 22 mins"
+            "time": "17 hrs 25 mins"
         },
         {
             "language": "SourceMap",
@@ -97,15 +101,15 @@
         },
         {
             "language": "Text",
-            "time": "16 hrs 57 mins"
+            "time": "17 hrs 26 mins"
         },
         {
             "language": "TypeScript",
-            "time": "254 hrs 10 mins"
+            "time": "255 hrs 17 mins"
         },
         {
             "language": "Vue",
-            "time": "141 hrs 52 mins"
+            "time": "162 hrs 46 mins"
         },
         {
             "language": "Vue.js",
@@ -113,7 +117,7 @@
         },
         {
             "language": "XML",
-            "time": "31 hrs 39 mins"
+            "time": "31 hrs 50 mins"
         },
         {
             "language": "YAML",

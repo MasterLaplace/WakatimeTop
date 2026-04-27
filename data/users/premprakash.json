@@ -1,6 +1,15 @@
 {
-    "total_time": "0 mins",
-    "updated": false,
-    "elo": 27,
-    "languages": []
+    "total_time": "10 hrs 40 mins",
+    "updated": true,
+    "elo": 38,
+    "languages": [
+        {
+            "language": "Elixir",
+            "time": "7 hrs 57 mins"
+        },
+        {
+            "language": "Python",
+            "time": "2 hrs 43 mins"
+        }
+    ]
 }

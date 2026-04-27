@@ -1,7 +1,7 @@
 {
-    "total_time": "2,500 hrs 45 mins",
+    "total_time": "2,513 hrs 50 mins",
     "updated": true,
-    "elo": 2501,
+    "elo": 2514,
     "languages": [
         {
             "language": "Bash",
@@ -21,7 +21,7 @@
         },
         {
             "language": "C++",
-            "time": "27 hrs 9 mins"
+            "time": "28 hrs 29 mins"
         },
         {
             "language": "CMake",
@@ -73,7 +73,7 @@
         },
         {
             "language": "Markdown",
-            "time": "448 hrs 13 mins"
+            "time": "455 hrs 25 mins"
         },
         {
             "language": "OpenEdge ABL",
@@ -84,12 +84,16 @@
             "time": "20 hrs 35 mins"
         },
         {
+            "language": "PowerShell",
+            "time": "4 hrs 11 mins"
+        },
+        {
             "language": "Prolog",
             "time": "4 hrs 51 mins"
         },
         {
             "language": "Python",
-            "time": "713 hrs 53 mins"
+            "time": "714 hrs 1 min"
         },
         {
             "language": "SCSS",
@@ -109,7 +113,7 @@
         },
         {
             "language": "Text",
-            "time": "28 hrs 7 mins"
+            "time": "28 hrs 21 mins"
         },
         {
             "language": "TypeScript",

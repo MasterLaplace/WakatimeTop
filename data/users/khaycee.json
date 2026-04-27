@@ -1,8 +1,16 @@
 {
-    "total_time": "15 hrs 19 mins",
+    "total_time": "30 hrs 10 mins",
     "updated": true,
-    "elo": 232,
+    "elo": 247,
     "languages": [
+        {
+            "language": "HTML",
+            "time": "8 hrs 41 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "6 hrs 10 mins"
+        },
         {
             "language": "Smarty",
             "time": "15 hrs 19 mins"
