@@ -1,8 +1,20 @@
 {
-    "total_time": "9 hrs 42 mins",
+    "total_time": "44 hrs 48 mins",
     "updated": true,
-    "elo": 165,
+    "elo": 200,
     "languages": [
+        {
+            "language": "Dart",
+            "time": "4 hrs 7 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "23 hrs 41 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "7 hrs 18 mins"
+        },
         {
             "language": "Svelte",
             "time": "9 hrs 42 mins"

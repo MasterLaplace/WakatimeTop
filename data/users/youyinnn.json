@@ -1,11 +1,11 @@
 {
-    "total_time": "5,157 hrs 47 mins",
+    "total_time": "5,351 hrs 4 mins",
     "updated": true,
-    "elo": 5158,
+    "elo": 5352,
     "languages": [
         {
             "language": ".env file",
-            "time": "11 hrs 47 mins"
+            "time": "12 hrs 22 mins"
         },
         {
             "language": "Assembly",
@@ -13,11 +13,11 @@
         },
         {
             "language": "Bash",
-            "time": "64 hrs 28 mins"
+            "time": "65 hrs 58 mins"
         },
         {
             "language": "BibTeX",
-            "time": "17 hrs 2 mins"
+            "time": "18 hrs 24 mins"
         },
         {
             "language": "C#",
@@ -37,11 +37,11 @@
         },
         {
             "language": "CSV",
-            "time": "5 hrs 17 mins"
+            "time": "5 hrs 47 mins"
         },
         {
             "language": "Docker",
-            "time": "35 hrs 6 mins"
+            "time": "36 hrs 48 mins"
         },
         {
             "language": "Dockerfile",
@@ -49,7 +49,7 @@
         },
         {
             "language": "Git Config",
-            "time": "6 hrs 42 mins"
+            "time": "6 hrs 50 mins"
         },
         {
             "language": "HTML",
@@ -57,39 +57,43 @@
         },
         {
             "language": "INI",
-            "time": "8 hrs 18 mins"
+            "time": "8 hrs 30 mins"
         },
         {
             "language": "JSON",
-            "time": "39 hrs 34 mins"
+            "time": "40 hrs 46 mins"
         },
         {
             "language": "Java",
-            "time": "861 hrs 32 mins"
+            "time": "892 hrs 8 mins"
         },
         {
             "language": "JavaScript",
             "time": "61 hrs 58 mins"
         },
         {
+            "language": "Lua",
+            "time": "2 hrs 42 mins"
+        },
+        {
             "language": "Markdown",
-            "time": "51 hrs 51 mins"
+            "time": "57 hrs 49 mins"
         },
         {
             "language": "Python",
-            "time": "2,083 hrs 14 mins"
+            "time": "2,149 hrs 49 mins"
         },
         {
             "language": "SSH Config",
-            "time": "6 hrs 46 mins"
+            "time": "7 hrs 2 mins"
         },
         {
             "language": "Shell Script",
-            "time": "13 hrs 46 mins"
+            "time": "13 hrs 47 mins"
         },
         {
             "language": "TeX",
-            "time": "1,270 hrs 25 mins"
+            "time": "1,339 hrs 37 mins"
         },
         {
             "language": "Terraform",
@@ -97,11 +101,11 @@
         },
         {
             "language": "Text",
-            "time": "23 hrs 15 mins"
+            "time": "23 hrs 58 mins"
         },
         {
             "language": "TypeScript",
-            "time": "19 hrs 34 mins"
+            "time": "19 hrs 36 mins"
         },
         {
             "language": "Vue.js",
@@ -109,15 +113,15 @@
         },
         {
             "language": "XML",
-            "time": "65 hrs 5 mins"
+            "time": "69 hrs 31 mins"
         },
         {
             "language": "YAML",
-            "time": "284 hrs 13 mins"
+            "time": "289 hrs 45 mins"
         },
         {
             "language": "textmate",
-            "time": "6 hrs 26 mins"
+            "time": "6 hrs 29 mins"
         }
     ]
 }

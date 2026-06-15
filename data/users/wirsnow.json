@@ -1,11 +1,11 @@
 {
-    "total_time": "3,217 hrs 33 mins",
+    "total_time": "3,523 hrs 28 mins",
     "updated": true,
-    "elo": 3218,
+    "elo": 3524,
     "languages": [
         {
             "language": "Bash",
-            "time": "5 hrs 36 mins"
+            "time": "6 hrs 18 mins"
         },
         {
             "language": "Batchfile",
@@ -13,11 +13,11 @@
         },
         {
             "language": "C++",
-            "time": "6 hrs 59 mins"
+            "time": "7 hrs 31 mins"
         },
         {
             "language": "CSS",
-            "time": "5 hrs 25 mins"
+            "time": "5 hrs 29 mins"
         },
         {
             "language": "Dart",
@@ -25,11 +25,11 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "7 hrs 13 mins"
+            "time": "9 hrs 6 mins"
         },
         {
             "language": "Go",
-            "time": "159 hrs 39 mins"
+            "time": "186 hrs 19 mins"
         },
         {
             "language": "Gradle",
@@ -41,63 +41,67 @@
         },
         {
             "language": "HTML",
-            "time": "11 hrs 40 mins"
+            "time": "11 hrs 59 mins"
         },
         {
             "language": "INI",
-            "time": "42 hrs 16 mins"
+            "time": "44 hrs 25 mins"
         },
         {
             "language": "JSON",
-            "time": "26 hrs 16 mins"
+            "time": "28 hrs 27 mins"
         },
         {
             "language": "Java",
-            "time": "101 hrs 34 mins"
+            "time": "110 hrs 30 mins"
         },
         {
             "language": "JavaScript",
-            "time": "341 hrs 29 mins"
+            "time": "374 hrs"
         },
         {
             "language": "Jupyter",
-            "time": "341 hrs 51 mins"
+            "time": "358 hrs 51 mins"
         },
         {
             "language": "Kotlin",
-            "time": "129 hrs 5 mins"
+            "time": "148 hrs 2 mins"
         },
         {
             "language": "Markdown",
-            "time": "19 hrs 22 mins"
+            "time": "31 hrs 56 mins"
         },
         {
             "language": "PowerShell",
-            "time": "6 hrs 13 mins"
+            "time": "8 hrs 6 mins"
         },
         {
             "language": "Properties",
-            "time": "2 hrs 31 mins"
+            "time": "2 hrs 50 mins"
         },
         {
             "language": "Python",
-            "time": "1,427 hrs 50 mins"
+            "time": "1,559 hrs 20 mins"
         },
         {
             "language": "RPMSpec",
-            "time": "7 hrs 15 mins"
+            "time": "7 hrs 23 mins"
         },
         {
             "language": "Requirements.txt",
-            "time": "3 hrs 16 mins"
+            "time": "3 hrs 21 mins"
         },
         {
             "language": "SQL",
             "time": "24 hrs 43 mins"
         },
         {
+            "language": "Shell Script",
+            "time": "2 hrs 31 mins"
+        },
+        {
             "language": "Smali",
-            "time": "28 hrs 47 mins"
+            "time": "38 hrs 49 mins"
         },
         {
             "language": "Smarty",
@@ -105,15 +109,19 @@
         },
         {
             "language": "TOML",
-            "time": "3 hrs 38 mins"
+            "time": "5 hrs 30 mins"
         },
         {
             "language": "Text",
-            "time": "53 hrs 25 mins"
+            "time": "60 hrs 4 mins"
         },
         {
             "language": "TypeScript",
-            "time": "127 hrs"
+            "time": "132 hrs 38 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "6 hrs 45 mins"
         },
         {
             "language": "Vue.js",
@@ -121,15 +129,15 @@
         },
         {
             "language": "XML",
-            "time": "48 hrs 24 mins"
+            "time": "50 hrs 19 mins"
         },
         {
             "language": "YAML",
-            "time": "20 hrs 19 mins"
+            "time": "22 hrs 25 mins"
         },
         {
             "language": "textmate",
-            "time": "69 hrs 17 mins"
+            "time": "79 hrs 21 mins"
         }
     ]
 }

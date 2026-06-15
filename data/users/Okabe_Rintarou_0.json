@@ -1,7 +1,7 @@
 {
-    "total_time": "2,294 hrs 45 mins",
-    "updated": false,
-    "elo": 2295,
+    "total_time": "2,300 hrs 25 mins",
+    "updated": true,
+    "elo": 2301,
     "languages": [
         {
             "language": "Api File",
@@ -17,11 +17,11 @@
         },
         {
             "language": "C++",
-            "time": "228 hrs 30 mins"
+            "time": "228 hrs 41 mins"
         },
         {
             "language": "CMake",
-            "time": "7 hrs 59 mins"
+            "time": "8 hrs 2 mins"
         },
         {
             "language": "CSS",
@@ -49,7 +49,7 @@
         },
         {
             "language": "JSON",
-            "time": "23 hrs 45 mins"
+            "time": "24 hrs 25 mins"
         },
         {
             "language": "Java",
@@ -57,7 +57,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "31 hrs 18 mins"
+            "time": "31 hrs 19 mins"
         },
         {
             "language": "Jupyter",
@@ -81,11 +81,11 @@
         },
         {
             "language": "Python",
-            "time": "417 hrs 43 mins"
+            "time": "418 hrs 17 mins"
         },
         {
             "language": "Rust",
-            "time": "222 hrs 45 mins"
+            "time": "223 hrs 34 mins"
         },
         {
             "language": "SQL",
@@ -97,7 +97,7 @@
         },
         {
             "language": "TOML",
-            "time": "4 hrs 47 mins"
+            "time": "4 hrs 57 mins"
         },
         {
             "language": "TeX",
@@ -109,7 +109,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "222 hrs 31 mins"
+            "time": "225 hrs 38 mins"
         },
         {
             "language": "Vue.js",
@@ -121,7 +121,7 @@
         },
         {
             "language": "YAML",
-            "time": "40 hrs 50 mins"
+            "time": "40 hrs 55 mins"
         },
         {
             "language": "textmate",

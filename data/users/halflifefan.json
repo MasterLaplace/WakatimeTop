@@ -1,15 +1,11 @@
 {
-    "total_time": "25 hrs 21 mins",
+    "total_time": "35 hrs 11 mins",
     "updated": true,
-    "elo": 127,
+    "elo": 137,
     "languages": [
         {
             "language": "C++",
-            "time": "11 hrs 46 mins"
-        },
-        {
-            "language": "CSS",
-            "time": "7 hrs 48 mins"
+            "time": "2 hrs 44 mins"
         },
         {
             "language": "JavaScript",
@@ -17,7 +13,11 @@
         },
         {
             "language": "Lua",
-            "time": "3 hrs 16 mins"
+            "time": "23 hrs 58 mins"
+        },
+        {
+            "language": "MDX",
+            "time": "5 hrs 58 mins"
         }
     ]
 }

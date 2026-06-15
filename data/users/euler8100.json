@@ -1,7 +1,7 @@
 {
-    "total_time": "6,327 hrs 1 mins",
+    "total_time": "6,455 hrs 1 mins",
     "updated": true,
-    "elo": 6328,
+    "elo": 6456,
     "languages": [
         {
             "language": "ActionScript 3",
@@ -13,11 +13,11 @@
         },
         {
             "language": "Bash",
-            "time": "111 hrs 17 mins"
+            "time": "116 hrs 42 mins"
         },
         {
             "language": "CSS",
-            "time": "68 hrs 29 mins"
+            "time": "70 hrs 50 mins"
         },
         {
             "language": "Canva Design",
@@ -25,27 +25,27 @@
         },
         {
             "language": "Git Config",
-            "time": "4 hrs 16 mins"
+            "time": "4 hrs 30 mins"
         },
         {
             "language": "HTML",
-            "time": "267 hrs 3 mins"
+            "time": "273 hrs 36 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "31 hrs 49 mins"
+            "time": "31 hrs 55 mins"
         },
         {
             "language": "JSON",
-            "time": "346 hrs 46 mins"
+            "time": "353 hrs 9 mins"
         },
         {
             "language": "JavaScript",
-            "time": "2,763 hrs 34 mins"
+            "time": "2,799 hrs 58 mins"
         },
         {
             "language": "Markdown",
-            "time": "30 hrs 40 mins"
+            "time": "41 hrs 26 mins"
         },
         {
             "language": "Objective-C",
@@ -65,19 +65,23 @@
         },
         {
             "language": "Text",
-            "time": "18 hrs 30 mins"
+            "time": "20 hrs 56 mins"
         },
         {
             "language": "TypeScript",
-            "time": "48 hrs 21 mins"
+            "time": "90 hrs 50 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "23 hrs 4 mins"
         },
         {
             "language": "Vue.js",
-            "time": "2,526 hrs 36 mins"
+            "time": "2,518 hrs 17 mins"
         },
         {
             "language": "XML",
-            "time": "19 hrs 10 mins"
+            "time": "19 hrs 18 mins"
         }
     ]
 }

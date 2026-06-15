@@ -1,7 +1,7 @@
 {
-    "total_time": "20 hrs 26 mins",
+    "total_time": "23 hrs 40 mins",
     "updated": true,
-    "elo": 180,
+    "elo": 183,
     "languages": [
         {
             "language": "Blade Template",
@@ -10,6 +10,10 @@
         {
             "language": "PHP",
             "time": "6 hrs 38 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "3 hrs 14 mins"
         }
     ]
 }

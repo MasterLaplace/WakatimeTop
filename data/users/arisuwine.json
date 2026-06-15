@@ -1,27 +1,39 @@
 {
-    "total_time": "466 hrs 1 mins",
+    "total_time": "690 hrs 2 mins",
     "updated": true,
-    "elo": 467,
+    "elo": 691,
     "languages": [
         {
             "language": "C",
-            "time": "13 hrs 51 mins"
+            "time": "15 hrs 51 mins"
         },
         {
             "language": "C++",
-            "time": "393 hrs 24 mins"
+            "time": "580 hrs 31 mins"
         },
         {
             "language": "CMake",
-            "time": "2 hrs 54 mins"
+            "time": "6 hrs 24 mins"
+        },
+        {
+            "language": "F#",
+            "time": "4 hrs 5 mins"
         },
         {
             "language": "IDA",
-            "time": "53 hrs 11 mins"
+            "time": "59 hrs 52 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "4 hrs 55 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "9 hrs 4 mins"
         },
         {
             "language": "Python",
-            "time": "2 hrs 41 mins"
+            "time": "9 hrs 20 mins"
         }
     ]
 }

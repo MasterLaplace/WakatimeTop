@@ -1,19 +1,19 @@
 {
-    "total_time": "72 hrs 10 mins",
+    "total_time": "56 hrs 28 mins",
     "updated": true,
     "elo": 90,
     "languages": [
         {
+            "language": "Go",
+            "time": "10 hrs 9 mins"
+        },
+        {
             "language": "Kotlin",
-            "time": "39 hrs 6 mins"
+            "time": "17 hrs 31 mins"
         },
         {
             "language": "Swift",
             "time": "28 hrs 48 mins"
-        },
-        {
-            "language": "XML",
-            "time": "4 hrs 16 mins"
         }
     ]
 }

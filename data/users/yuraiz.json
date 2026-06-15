@@ -1,15 +1,15 @@
 {
-    "total_time": "768 hrs 5 mins",
+    "total_time": "892 hrs 49 mins",
     "updated": true,
-    "elo": 769,
+    "elo": 893,
     "languages": [
         {
             "language": "Bash",
-            "time": "16 hrs"
+            "time": "18 hrs 52 mins"
         },
         {
             "language": "C",
-            "time": "197 hrs 30 mins"
+            "time": "265 hrs 27 mins"
         },
         {
             "language": "C#",
@@ -17,11 +17,15 @@
         },
         {
             "language": "C++",
-            "time": "26 hrs 10 mins"
+            "time": "30 hrs 36 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "5 hrs 49 mins"
         },
         {
             "language": "HTML",
-            "time": "3 hrs 52 mins"
+            "time": "6 hrs 28 mins"
         },
         {
             "language": "INI",
@@ -29,11 +33,15 @@
         },
         {
             "language": "JSON",
-            "time": "3 hrs 48 mins"
+            "time": "4 hrs 27 mins"
         },
         {
             "language": "JavaScript",
-            "time": "4 hrs 19 mins"
+            "time": "4 hrs 25 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "5 hrs 18 mins"
         },
         {
             "language": "Nushell",
@@ -41,23 +49,27 @@
         },
         {
             "language": "Objective-C",
-            "time": "3 hrs 32 mins"
+            "time": "7 hrs 12 mins"
         },
         {
             "language": "Odin",
-            "time": "216 hrs 56 mins"
+            "time": "219 hrs 23 mins"
         },
         {
             "language": "Python",
-            "time": "40 hrs 8 mins"
+            "time": "40 hrs 12 mins"
         },
         {
             "language": "Rust",
-            "time": "213 hrs 51 mins"
+            "time": "237 hrs 55 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "3 hrs 17 mins"
         },
         {
             "language": "Text",
-            "time": "3 hrs 22 mins"
+            "time": "4 hrs 51 mins"
         },
         {
             "language": "Typst",

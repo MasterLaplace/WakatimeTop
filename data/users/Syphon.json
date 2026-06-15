@@ -1,27 +1,27 @@
 {
-    "total_time": "2,737 hrs 57 mins",
+    "total_time": "2,818 hrs 9 mins",
     "updated": true,
-    "elo": 2738,
+    "elo": 2819,
     "languages": [
         {
             "language": "Bash",
-            "time": "3 hrs 19 mins"
+            "time": "3 hrs 41 mins"
         },
         {
             "language": "Binary",
-            "time": "44 hrs 1 min"
+            "time": "50 hrs 14 mins"
         },
         {
             "language": "C",
-            "time": "32 hrs 6 mins"
+            "time": "32 hrs 27 mins"
         },
         {
             "language": "C#",
-            "time": "64 hrs 37 mins"
+            "time": "75 hrs 47 mins"
         },
         {
             "language": "C++",
-            "time": "2,009 hrs 23 mins"
+            "time": "2,048 hrs 10 mins"
         },
         {
             "language": "C/C",
@@ -29,7 +29,7 @@
         },
         {
             "language": "CSS",
-            "time": "28 hrs 4 mins"
+            "time": "30 hrs 23 mins"
         },
         {
             "language": "Go",
@@ -37,15 +37,15 @@
         },
         {
             "language": "INI",
-            "time": "6 hrs 49 mins"
+            "time": "6 hrs 58 mins"
         },
         {
             "language": "JSON",
-            "time": "67 hrs 2 mins"
+            "time": "71 hrs 26 mins"
         },
         {
             "language": "JavaScript",
-            "time": "22 hrs 1 min"
+            "time": "22 hrs 5 mins"
         },
         {
             "language": "Lua",
@@ -53,31 +53,35 @@
         },
         {
             "language": "Markdown",
-            "time": "5 hrs 36 mins"
+            "time": "6 hrs 6 mins"
         },
         {
             "language": "Objective-C",
-            "time": "111 hrs 10 mins"
+            "time": "112 hrs 57 mins"
         },
         {
             "language": "Python",
-            "time": "5 hrs 19 mins"
+            "time": "5 hrs 47 mins"
         },
         {
             "language": "Rust",
-            "time": "19 hrs 43 mins"
+            "time": "21 hrs 12 mins"
         },
         {
             "language": "Text",
-            "time": "5 hrs 6 mins"
+            "time": "5 hrs 11 mins"
         },
         {
             "language": "TypeScript",
-            "time": "237 hrs 11 mins"
+            "time": "246 hrs 44 mins"
         },
         {
             "language": "XAML",
             "time": "23 hrs 9 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 31 mins"
         }
     ]
 }

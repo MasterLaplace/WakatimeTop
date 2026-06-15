@@ -1,19 +1,19 @@
 {
-    "total_time": "1,787 hrs 17 mins",
+    "total_time": "1,900 hrs 44 mins",
     "updated": true,
-    "elo": 1788,
+    "elo": 1901,
     "languages": [
         {
             "language": "Ada",
-            "time": "5 hrs 50 mins"
+            "time": "5 hrs 42 mins"
         },
         {
             "language": "Bash",
-            "time": "49 hrs 34 mins"
+            "time": "50 hrs 9 mins"
         },
         {
             "language": "C",
-            "time": "87 hrs 18 mins"
+            "time": "87 hrs 22 mins"
         },
         {
             "language": "C++",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Groovy",
-            "time": "52 hrs 30 mins"
+            "time": "57 hrs 20 mins"
         },
         {
             "language": "HTML",
@@ -37,15 +37,15 @@
         },
         {
             "language": "JSON",
-            "time": "2 hrs 40 mins"
+            "time": "2 hrs 46 mins"
         },
         {
             "language": "Java",
-            "time": "1,370 hrs 15 mins"
+            "time": "1,457 hrs 15 mins"
         },
         {
             "language": "Java Properties",
-            "time": "26 hrs 21 mins"
+            "time": "28 hrs 9 mins"
         },
         {
             "language": "Kotlin",
@@ -57,23 +57,31 @@
         },
         {
             "language": "Makefile",
-            "time": "4 hrs 34 mins"
+            "time": "4 hrs 38 mins"
         },
         {
             "language": "Markdown",
-            "time": "53 hrs 4 mins"
+            "time": "53 hrs 28 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "13 hrs 38 mins"
         },
         {
             "language": "Python",
-            "time": "12 hrs 18 mins"
+            "time": "12 hrs 29 mins"
         },
         {
             "language": "SQL",
             "time": "15 hrs 14 mins"
         },
         {
+            "language": "Smarty",
+            "time": "3 hrs 58 mins"
+        },
+        {
             "language": "Text",
-            "time": "3 hrs 53 mins"
+            "time": "4 hrs"
         },
         {
             "language": "VHDL",
@@ -81,7 +89,7 @@
         },
         {
             "language": "YAML",
-            "time": "12 hrs 47 mins"
+            "time": "13 hrs 37 mins"
         }
     ]
 }

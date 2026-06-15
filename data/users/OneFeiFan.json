@@ -1,47 +1,47 @@
 {
-    "total_time": "819 hrs",
+    "total_time": "1,014 hrs 21 mins",
     "updated": true,
-    "elo": 817,
+    "elo": 1013,
     "languages": [
         {
             "language": "C",
-            "time": "9 hrs"
+            "time": "9 hrs 3 mins"
         },
         {
             "language": "C++",
-            "time": "43 hrs 44 mins"
+            "time": "48 hrs 10 mins"
         },
         {
             "language": "Gradle",
-            "time": "7 hrs 59 mins"
+            "time": "8 hrs 40 mins"
         },
         {
             "language": "Groovy",
-            "time": "10 hrs 53 mins"
+            "time": "11 hrs 30 mins"
         },
         {
             "language": "HTML",
-            "time": "6 hrs 22 mins"
+            "time": "6 hrs 33 mins"
         },
         {
             "language": "JSON",
-            "time": "22 hrs 50 mins"
+            "time": "36 hrs 18 mins"
         },
         {
             "language": "Java",
-            "time": "29 hrs 24 mins"
+            "time": "30 hrs 43 mins"
         },
         {
             "language": "JavaScript",
-            "time": "33 hrs 19 mins"
+            "time": "39 hrs"
         },
         {
             "language": "Kotlin",
-            "time": "283 hrs 29 mins"
+            "time": "317 hrs 13 mins"
         },
         {
             "language": "Markdown",
-            "time": "15 hrs 13 mins"
+            "time": "17 hrs 46 mins"
         },
         {
             "language": "Objective-C",
@@ -49,19 +49,23 @@
         },
         {
             "language": "Prolog",
-            "time": "3 hrs 27 mins"
+            "time": "3 hrs 50 mins"
         },
         {
             "language": "Python",
-            "time": "51 hrs 6 mins"
+            "time": "57 hrs 34 mins"
         },
         {
             "language": "SCSS",
-            "time": "4 hrs 45 mins"
+            "time": "4 hrs 46 mins"
+        },
+        {
+            "language": "Shell Script",
+            "time": "2 hrs 39 mins"
         },
         {
             "language": "Siyuan",
-            "time": "5 hrs 36 mins"
+            "time": "6 hrs 27 mins"
         },
         {
             "language": "TOML",
@@ -69,11 +73,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "38 hrs 53 mins"
+            "time": "139 hrs 59 mins"
         },
         {
             "language": "Vue",
-            "time": "16 hrs 55 mins"
+            "time": "35 hrs 6 mins"
         },
         {
             "language": "Vue.js",
@@ -81,7 +85,7 @@
         },
         {
             "language": "XML",
-            "time": "33 hrs 13 mins"
+            "time": "36 hrs 12 mins"
         }
     ]
 }

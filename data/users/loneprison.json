@@ -1,43 +1,51 @@
 {
-    "total_time": "477 hrs 56 mins",
+    "total_time": "572 hrs 38 mins",
     "updated": true,
-    "elo": 480,
+    "elo": 575,
     "languages": [
         {
             "language": "C#",
-            "time": "280 hrs 31 mins"
+            "time": "342 hrs 49 mins"
         },
         {
             "language": "GDScript3",
-            "time": "17 hrs 30 mins"
+            "time": "16 hrs 41 mins"
         },
         {
             "language": "Godot Resource",
-            "time": "17 hrs 56 mins"
+            "time": "24 hrs 39 mins"
         },
         {
             "language": "JSON",
-            "time": "19 hrs 13 mins"
+            "time": "26 hrs 23 mins"
         },
         {
             "language": "JavaScript",
-            "time": "25 hrs 56 mins"
+            "time": "29 hrs"
         },
         {
             "language": "Markdown",
-            "time": "38 hrs 59 mins"
+            "time": "50 hrs 33 mins"
         },
         {
             "language": "Objective-C",
             "time": "14 hrs 16 mins"
         },
         {
+            "language": "PowerShell",
+            "time": "2 hrs 35 mins"
+        },
+        {
             "language": "Python",
-            "time": "3 hrs 26 mins"
+            "time": "18 hrs 9 mins"
+        },
+        {
+            "language": "Ren'Py",
+            "time": "2 hrs 49 mins"
         },
         {
             "language": "TypeScript",
-            "time": "60 hrs 9 mins"
+            "time": "44 hrs 44 mins"
         }
     ]
 }

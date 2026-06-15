@@ -1,6 +1,31 @@
 {
-    "total_time": "0 mins",
-    "updated": false,
-    "elo": 0,
-    "languages": []
+    "total_time": "58 hrs 24 mins",
+    "updated": true,
+    "elo": 59,
+    "languages": [
+        {
+            "language": "Dart",
+            "time": "34 hrs 30 mins"
+        },
+        {
+            "language": "HTTP Request",
+            "time": "5 hrs 13 mins"
+        },
+        {
+            "language": "Java",
+            "time": "3 hrs 32 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "6 hrs 17 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "4 hrs 57 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 55 mins"
+        }
+    ]
 }

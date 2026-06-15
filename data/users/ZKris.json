@@ -1,7 +1,7 @@
 {
-    "total_time": "8,311 hrs 31 mins",
+    "total_time": "8,549 hrs 15 mins",
     "updated": true,
-    "elo": 8312,
+    "elo": 8550,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "CLASS",
-            "time": "6 hrs 56 mins"
+            "time": "7 hrs 46 mins"
         },
         {
             "language": "CSV/TSV",
@@ -21,39 +21,43 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "4 hrs 30 mins"
+            "time": "4 hrs 34 mins"
         },
         {
             "language": "Gradle",
-            "time": "2 hrs 32 mins"
+            "time": "2 hrs 35 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "7 hrs 15 mins"
         },
         {
             "language": "JSON",
-            "time": "24 hrs 41 mins"
+            "time": "25 hrs 14 mins"
         },
         {
             "language": "Java",
-            "time": "1,092 hrs 6 mins"
+            "time": "1,112 hrs 12 mins"
         },
         {
             "language": "Java Properties",
-            "time": "8 hrs 52 mins"
+            "time": "9 hrs 5 mins"
         },
         {
             "language": "Kotlin",
-            "time": "5,848 hrs 19 mins"
+            "time": "6,024 hrs 25 mins"
         },
         {
             "language": "Markdown",
-            "time": "52 hrs 22 mins"
+            "time": "53 hrs 35 mins"
         },
         {
             "language": "Properties",
-            "time": "12 hrs 42 mins"
+            "time": "12 hrs 52 mins"
         },
         {
             "language": "Protocol Buffer",
-            "time": "3 hrs 58 mins"
+            "time": "4 hrs 38 mins"
         },
         {
             "language": "Python",
@@ -61,43 +65,47 @@
         },
         {
             "language": "RuneScape Config Mapping File",
-            "time": "364 hrs 24 mins"
+            "time": "374 hrs 18 mins"
         },
         {
             "language": "RuneScript",
-            "time": "95 hrs 33 mins"
+            "time": "98 hrs 29 mins"
         },
         {
             "language": "RuneScript Symbol",
-            "time": "14 hrs 30 mins"
+            "time": "15 hrs 27 mins"
         },
         {
             "language": "SQL",
-            "time": "3 hrs 3 mins"
+            "time": "3 hrs 18 mins"
         },
         {
             "language": "TOML",
-            "time": "551 hrs 33 mins"
+            "time": "560 hrs 33 mins"
         },
         {
             "language": "Text",
-            "time": "36 hrs 48 mins"
+            "time": "37 hrs 53 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "4 hrs 46 mins"
         },
         {
             "language": "XML",
-            "time": "14 hrs 52 mins"
+            "time": "14 hrs 53 mins"
         },
         {
             "language": "YAML",
-            "time": "10 hrs 37 mins"
+            "time": "11 hrs 57 mins"
         },
         {
             "language": "protobuf",
-            "time": "3 hrs 48 mins"
+            "time": "3 hrs 54 mins"
         },
         {
             "language": "textmate",
-            "time": "15 hrs 2 mins"
+            "time": "15 hrs 13 mins"
         }
     ]
 }

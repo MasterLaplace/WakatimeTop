@@ -1,5 +1,5 @@
 {
-    "total_time": "38 hrs 52 mins",
+    "total_time": "37 hrs 53 mins",
     "updated": true,
     "elo": 216,
     "languages": [
@@ -8,16 +8,28 @@
             "time": "3 hrs 4 mins"
         },
         {
+            "language": "JavaScript",
+            "time": "2 hrs 39 mins"
+        },
+        {
             "language": "PHP",
-            "time": "24 hrs 38 mins"
+            "time": "7 hrs 57 mins"
         },
         {
             "language": "Python",
             "time": "2 hrs 49 mins"
         },
         {
-            "language": "Terraform",
-            "time": "2 hrs 43 mins"
+            "language": "Twig",
+            "time": "7 hrs 24 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "2 hrs 47 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "5 hrs 35 mins"
         },
         {
             "language": "Vue.js",

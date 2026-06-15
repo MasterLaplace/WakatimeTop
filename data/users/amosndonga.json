@@ -1,15 +1,19 @@
 {
-    "total_time": "13 hrs",
+    "total_time": "32 hrs 26 mins",
     "updated": true,
-    "elo": 71,
+    "elo": 91,
     "languages": [
         {
             "language": "Binary",
-            "time": "3 hrs 31 mins"
+            "time": "6 hrs 49 mins"
         },
         {
             "language": "C#",
-            "time": "6 hrs 19 mins"
+            "time": "16 hrs 38 mins"
+        },
+        {
+            "language": "Razor",
+            "time": "5 hrs 49 mins"
         },
         {
             "language": "XAML",

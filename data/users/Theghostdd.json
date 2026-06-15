@@ -1,19 +1,23 @@
 {
-    "total_time": "51 hrs 44 mins",
+    "total_time": "68 hrs 32 mins",
     "updated": true,
-    "elo": 52,
+    "elo": 69,
     "languages": [
         {
             "language": ".env file",
-            "time": "2 hrs 45 mins"
+            "time": "4 hrs 2 mins"
         },
         {
-            "language": "JSON",
-            "time": "2 hrs 32 mins"
+            "language": "Markdown",
+            "time": "13 hrs 14 mins"
         },
         {
             "language": "TypeScript",
-            "time": "46 hrs 27 mins"
+            "time": "45 hrs 5 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "6 hrs 11 mins"
         }
     ]
 }

@@ -1,39 +1,43 @@
 {
-    "total_time": "674 hrs 16 mins",
+    "total_time": "874 hrs 50 mins",
     "updated": true,
-    "elo": 711,
+    "elo": 911,
     "languages": [
         {
             "language": "Bash",
-            "time": "8 hrs 38 mins"
+            "time": "10 hrs 57 mins"
         },
         {
             "language": "C",
-            "time": "192 hrs 35 mins"
+            "time": "317 hrs 59 mins"
+        },
+        {
+            "language": "C++",
+            "time": "2 hrs 32 mins"
         },
         {
             "language": "CMake",
-            "time": "5 hrs 47 mins"
+            "time": "5 hrs 48 mins"
         },
         {
             "language": "Devicetree",
-            "time": "50 hrs 39 mins"
+            "time": "70 hrs 52 mins"
         },
         {
             "language": "Diff",
-            "time": "9 hrs 9 mins"
+            "time": "13 hrs 8 mins"
         },
         {
             "language": "Docker",
-            "time": "3 hrs 43 mins"
+            "time": "3 hrs 40 mins"
         },
         {
             "language": "Git",
-            "time": "3 hrs 35 mins"
+            "time": "4 hrs 47 mins"
         },
         {
             "language": "Go",
-            "time": "5 hrs 49 mins"
+            "time": "6 hrs"
         },
         {
             "language": "HTML",
@@ -45,39 +49,47 @@
         },
         {
             "language": "IDA",
-            "time": "44 hrs 25 mins"
+            "time": "45 hrs 30 mins"
         },
         {
             "language": "JSON",
-            "time": "6 hrs 6 mins"
+            "time": "7 hrs 47 mins"
         },
         {
             "language": "JavaScript",
-            "time": "4 hrs 48 mins"
+            "time": "5 hrs 40 mins"
+        },
+        {
+            "language": "Kconfig",
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "Makefile",
-            "time": "23 hrs 37 mins"
+            "time": "39 hrs 33 mins"
         },
         {
             "language": "Markdown",
-            "time": "4 hrs 34 mins"
+            "time": "5 hrs 46 mins"
         },
         {
             "language": "Objective-C",
-            "time": "5 hrs 1 min"
+            "time": "5 hrs 50 mins"
         },
         {
             "language": "Python",
-            "time": "198 hrs 33 mins"
+            "time": "207 hrs 57 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "6 hrs 40 mins"
         },
         {
             "language": "Text",
-            "time": "6 hrs 44 mins"
+            "time": "9 hrs 22 mins"
         },
         {
             "language": "TypeScript",
-            "time": "22 hrs 3 mins"
+            "time": "22 hrs 19 mins"
         },
         {
             "language": "Vue.js",
@@ -85,11 +97,11 @@
         },
         {
             "language": "YAML",
-            "time": "18 hrs 21 mins"
+            "time": "19 hrs 49 mins"
         },
         {
             "language": "gitrebase",
-            "time": "2 hrs 57 mins"
+            "time": "3 hrs 11 mins"
         }
     ]
 }

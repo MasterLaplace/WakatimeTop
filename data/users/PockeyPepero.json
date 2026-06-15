@@ -1,23 +1,11 @@
 {
-    "total_time": "25 hrs 21 mins",
+    "total_time": "21 hrs 21 mins",
     "updated": true,
     "elo": 170,
     "languages": [
         {
-            "language": "JavaScript",
-            "time": "2 hrs 53 mins"
-        },
-        {
             "language": "Markdown",
-            "time": "4 hrs 55 mins"
-        },
-        {
-            "language": "PHP",
-            "time": "4 hrs 54 mins"
-        },
-        {
-            "language": "SCSS",
-            "time": "4 hrs 46 mins"
+            "time": "7 hrs 16 mins"
         },
         {
             "language": "Twig",
@@ -25,7 +13,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "5 hrs 12 mins"
+            "time": "11 hrs 24 mins"
         }
     ]
 }

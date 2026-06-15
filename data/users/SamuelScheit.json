@@ -1,8 +1,12 @@
 {
-    "total_time": "13 hrs 50 mins",
+    "total_time": "14 hrs 35 mins",
     "updated": true,
-    "elo": 159,
+    "elo": 160,
     "languages": [
+        {
+            "language": "Bash",
+            "time": "5 hrs 11 mins"
+        },
         {
             "language": "CMake",
             "time": "3 hrs 50 mins"
@@ -14,10 +18,6 @@
         {
             "language": "Text",
             "time": "2 hrs 52 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "4 hrs 26 mins"
         }
     ]
 }

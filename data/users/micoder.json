@@ -1,11 +1,15 @@
 {
-    "total_time": "2,273 hrs 9 mins",
+    "total_time": "2,416 hrs 35 mins",
     "updated": true,
-    "elo": 2274,
+    "elo": 2417,
     "languages": [
         {
             "language": "Bash",
-            "time": "6 hrs 26 mins"
+            "time": "14 hrs 4 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "5 hrs 51 mins"
         },
         {
             "language": "Gradle",
@@ -17,35 +21,39 @@
         },
         {
             "language": "HTML",
-            "time": "4 hrs 39 mins"
+            "time": "9 hrs 40 mins"
         },
         {
             "language": "JSON",
-            "time": "3 hrs 54 mins"
+            "time": "7 hrs 59 mins"
         },
         {
             "language": "Java",
-            "time": "75 hrs 18 mins"
+            "time": "77 hrs 17 mins"
         },
         {
             "language": "Java Properties",
-            "time": "7 hrs 18 mins"
+            "time": "8 hrs 1 min"
         },
         {
             "language": "Kotlin",
-            "time": "1,973 hrs 43 mins"
+            "time": "2,057 hrs 52 mins"
         },
         {
             "language": "Markdown",
-            "time": "20 hrs 24 mins"
+            "time": "31 hrs 55 mins"
         },
         {
             "language": "Prolog",
-            "time": "8 hrs 30 mins"
+            "time": "8 hrs 27 mins"
         },
         {
             "language": "Properties",
-            "time": "5 hrs 19 mins"
+            "time": "5 hrs 24 mins"
+        },
+        {
+            "language": "Python",
+            "time": "6 hrs 48 mins"
         },
         {
             "language": "Shell Script",
@@ -53,23 +61,23 @@
         },
         {
             "language": "Shrinker Config File",
-            "time": "5 hrs 14 mins"
+            "time": "5 hrs 17 mins"
         },
         {
             "language": "TOML",
-            "time": "28 hrs 18 mins"
+            "time": "30 hrs 44 mins"
         },
         {
             "language": "Text",
-            "time": "6 hrs 20 mins"
+            "time": "7 hrs 21 mins"
         },
         {
             "language": "TypeScript",
-            "time": "5 hrs 4 mins"
+            "time": "15 hrs 26 mins"
         },
         {
             "language": "XML",
-            "time": "80 hrs 53 mins"
+            "time": "82 hrs 40 mins"
         }
     ]
 }

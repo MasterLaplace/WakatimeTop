@@ -1,7 +1,7 @@
 {
-    "total_time": "1,425 hrs 53 mins",
-    "updated": false,
-    "elo": 1420,
+    "total_time": "1,426 hrs 30 mins",
+    "updated": true,
+    "elo": 1421,
     "languages": [
         {
             "language": "Bash",
@@ -9,11 +9,11 @@
         },
         {
             "language": "C",
-            "time": "11 hrs 14 mins"
+            "time": "11 hrs 17 mins"
         },
         {
             "language": "C++",
-            "time": "252 hrs 17 mins"
+            "time": "252 hrs 53 mins"
         },
         {
             "language": "HTTP",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Objective-C",
-            "time": "4 hrs 20 mins"
+            "time": "4 hrs 18 mins"
         },
         {
             "language": "Python",

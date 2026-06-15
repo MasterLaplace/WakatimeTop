@@ -1,11 +1,11 @@
 {
-    "total_time": "1,653 hrs",
+    "total_time": "1,677 hrs 36 mins",
     "updated": true,
-    "elo": 1653,
+    "elo": 1678,
     "languages": [
         {
             "language": "Bash",
-            "time": "68 hrs 31 mins"
+            "time": "69 hrs 36 mins"
         },
         {
             "language": "CSS",
@@ -13,27 +13,27 @@
         },
         {
             "language": "Docker",
-            "time": "7 hrs 22 mins"
+            "time": "7 hrs 23 mins"
         },
         {
             "language": "Go",
-            "time": "6 hrs 28 mins"
+            "time": "6 hrs 36 mins"
         },
         {
             "language": "HTML",
-            "time": "61 hrs 40 mins"
+            "time": "61 hrs 51 mins"
         },
         {
             "language": "JSON",
-            "time": "28 hrs 26 mins"
+            "time": "28 hrs 34 mins"
         },
         {
             "language": "JavaScript",
-            "time": "747 hrs 29 mins"
+            "time": "754 hrs 31 mins"
         },
         {
             "language": "Markdown",
-            "time": "23 hrs 29 mins"
+            "time": "31 hrs 27 mins"
         },
         {
             "language": "Prisma",
@@ -41,7 +41,7 @@
         },
         {
             "language": "Python",
-            "time": "24 hrs 18 mins"
+            "time": "26 hrs 58 mins"
         },
         {
             "language": "Rust",
@@ -53,23 +53,23 @@
         },
         {
             "language": "SQL",
-            "time": "12 hrs 55 mins"
+            "time": "13 hrs 45 mins"
         },
         {
             "language": "Text",
-            "time": "5 hrs 15 mins"
+            "time": "7 hrs 26 mins"
         },
         {
             "language": "TypeScript",
-            "time": "554 hrs"
+            "time": "557 hrs 58 mins"
         },
         {
             "language": "Vue.js",
-            "time": "38 hrs 28 mins"
+            "time": "37 hrs 1 min"
         },
         {
             "language": "YAML",
-            "time": "43 hrs 25 mins"
+            "time": "43 hrs 16 mins"
         }
     ]
 }

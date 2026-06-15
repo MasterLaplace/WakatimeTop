@@ -1,43 +1,47 @@
 {
-    "total_time": "3,300 hrs 48 mins",
+    "total_time": "3,598 hrs 21 mins",
     "updated": true,
-    "elo": 3273,
+    "elo": 3571,
     "languages": [
         {
             "language": "Bash",
-            "time": "13 hrs 31 mins"
+            "time": "14 hrs 37 mins"
         },
         {
             "language": "CSS",
-            "time": "16 hrs 18 mins"
+            "time": "18 hrs 48 mins"
         },
         {
             "language": "Git Config",
-            "time": "2 hrs 59 mins"
+            "time": "3 hrs 21 mins"
         },
         {
             "language": "Groovy",
-            "time": "26 hrs 25 mins"
+            "time": "28 hrs 28 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "JSON",
-            "time": "103 hrs 53 mins"
+            "time": "108 hrs 59 mins"
         },
         {
             "language": "Java Properties",
-            "time": "3 hrs 10 mins"
+            "time": "3 hrs 21 mins"
         },
         {
             "language": "JavaScript",
-            "time": "887 hrs 2 mins"
+            "time": "895 hrs 25 mins"
         },
         {
             "language": "Markdown",
-            "time": "8 hrs 27 mins"
+            "time": "23 hrs 46 mins"
         },
         {
             "language": "Prisma",
-            "time": "6 hrs 27 mins"
+            "time": "13 hrs 23 mins"
         },
         {
             "language": "Python",
@@ -45,19 +49,19 @@
         },
         {
             "language": "SQL",
-            "time": "6 hrs 11 mins"
+            "time": "6 hrs 58 mins"
         },
         {
             "language": "TSConfig",
-            "time": "2 hrs 30 mins"
+            "time": "2 hrs 37 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,216 hrs 49 mins"
+            "time": "2,469 hrs"
         },
         {
             "language": "XML",
-            "time": "3 hrs 38 mins"
+            "time": "3 hrs 40 mins"
         }
     ]
 }

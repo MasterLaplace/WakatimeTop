@@ -1,8 +1,12 @@
 {
-    "total_time": "2 hrs 39 mins",
-    "updated": false,
-    "elo": 223,
+    "total_time": "8 hrs 15 mins",
+    "updated": true,
+    "elo": 229,
     "languages": [
+        {
+            "language": "Kotlin",
+            "time": "5 hrs 36 mins"
+        },
         {
             "language": "Python",
             "time": "2 hrs 39 mins"

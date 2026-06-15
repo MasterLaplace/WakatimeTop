@@ -1,7 +1,7 @@
 {
-    "total_time": "20 hrs 35 mins",
-    "updated": false,
-    "elo": 176,
+    "total_time": "23 hrs 57 mins",
+    "updated": true,
+    "elo": 179,
     "languages": [
         {
             "language": "Astro",
@@ -9,11 +9,15 @@
         },
         {
             "language": "Dart",
-            "time": "7 hrs 39 mins"
+            "time": "6 hrs 47 mins"
         },
         {
             "language": "Go",
             "time": "3 hrs 52 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "4 hrs 14 mins"
         },
         {
             "language": "TypeScript",

@@ -1,15 +1,19 @@
 {
-    "total_time": "720 hrs 18 mins",
+    "total_time": "984 hrs 2 mins",
     "updated": true,
-    "elo": 721,
+    "elo": 985,
     "languages": [
         {
+            "language": "Bash",
+            "time": "18 hrs 2 mins"
+        },
+        {
             "language": "C",
-            "time": "241 hrs 31 mins"
+            "time": "380 hrs 16 mins"
         },
         {
             "language": "C++",
-            "time": "36 hrs 9 mins"
+            "time": "36 hrs 13 mins"
         },
         {
             "language": "C/C",
@@ -20,20 +24,28 @@
             "time": "41 hrs 52 mins"
         },
         {
+            "language": "Git Config",
+            "time": "2 hrs 41 mins"
+        },
+        {
             "language": "Makefile",
-            "time": "39 hrs 36 mins"
+            "time": "60 hrs 14 mins"
         },
         {
             "language": "Markdown",
-            "time": "175 hrs 31 mins"
+            "time": "234 hrs 22 mins"
+        },
+        {
+            "language": "Python",
+            "time": "13 hrs 36 mins"
         },
         {
             "language": "Rust",
-            "time": "131 hrs 39 mins"
+            "time": "134 hrs 53 mins"
         },
         {
             "language": "Text",
-            "time": "39 hrs 13 mins"
+            "time": "47 hrs 6 mins"
         },
         {
             "language": "VCL",

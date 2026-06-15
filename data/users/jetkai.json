@@ -1,19 +1,19 @@
 {
-    "total_time": "2,804 hrs 38 mins",
+    "total_time": "2,899 hrs 18 mins",
     "updated": true,
-    "elo": 2805,
+    "elo": 2900,
     "languages": [
         {
             "language": ".env file",
-            "time": "6 hrs 48 mins"
+            "time": "7 hrs 1 min"
         },
         {
             "language": "Bash",
-            "time": "10 hrs 52 mins"
+            "time": "12 hrs 4 mins"
         },
         {
             "language": "CSS",
-            "time": "12 hrs 7 mins"
+            "time": "12 hrs 31 mins"
         },
         {
             "language": "INI",
@@ -21,15 +21,23 @@
         },
         {
             "language": "JSON",
-            "time": "85 hrs 45 mins"
+            "time": "92 hrs 5 mins"
         },
         {
             "language": "JavaScript",
-            "time": "37 hrs 50 mins"
+            "time": "39 hrs 26 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "4 hrs 48 mins"
         },
         {
             "language": "Rust",
-            "time": "3 hrs 50 mins"
+            "time": "9 hrs 48 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "3 hrs 24 mins"
         },
         {
             "language": "Shell Script",
@@ -37,27 +45,27 @@
         },
         {
             "language": "Svelte",
-            "time": "330 hrs 3 mins"
+            "time": "343 hrs 42 mins"
         },
         {
             "language": "TOML",
-            "time": "2 hrs 56 mins"
+            "time": "3 hrs 30 mins"
         },
         {
             "language": "TSConfig",
-            "time": "6 hrs 54 mins"
+            "time": "7 hrs 1 min"
         },
         {
             "language": "Text",
-            "time": "4 hrs 18 mins"
+            "time": "4 hrs 36 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,282 hrs 13 mins"
+            "time": "2,337 hrs 15 mins"
         },
         {
             "language": "YAML",
-            "time": "5 hrs 38 mins"
+            "time": "6 hrs 38 mins"
         },
         {
             "language": "textmate",
@@ -65,7 +73,7 @@
         },
         {
             "language": "yarn.lock",
-            "time": "4 hrs 52 mins"
+            "time": "4 hrs 57 mins"
         }
     ]
 }

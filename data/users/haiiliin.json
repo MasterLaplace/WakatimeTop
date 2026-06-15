@@ -1,75 +1,71 @@
 {
-    "total_time": "1,963 hrs 59 mins",
+    "total_time": "1,915 hrs 40 mins",
     "updated": true,
     "elo": 1964,
     "languages": [
         {
             "language": "C++",
-            "time": "359 hrs 36 mins"
+            "time": "393 hrs 2 mins"
         },
         {
             "language": "C/C",
-            "time": "99 hrs 33 mins"
+            "time": "109 hrs 12 mins"
         },
         {
             "language": "CMake",
-            "time": "6 hrs 30 mins"
-        },
-        {
-            "language": "CSV",
-            "time": "2 hrs 38 mins"
+            "time": "4 hrs 17 mins"
         },
         {
             "language": "HTML",
-            "time": "7 hrs 52 mins"
+            "time": "7 hrs 51 mins"
         },
         {
             "language": "JSON",
-            "time": "24 hrs 43 mins"
+            "time": "22 hrs 4 mins"
         },
         {
             "language": "Jupyter",
-            "time": "446 hrs 46 mins"
+            "time": "467 hrs 36 mins"
         },
         {
             "language": "Makefile",
-            "time": "71 hrs 23 mins"
+            "time": "75 hrs 53 mins"
         },
         {
             "language": "Markdown",
-            "time": "271 hrs 9 mins"
+            "time": "206 hrs 23 mins"
         },
         {
             "language": "Python",
-            "time": "441 hrs 49 mins"
+            "time": "436 hrs 23 mins"
         },
         {
             "language": "PythonStub",
-            "time": "3 hrs 33 mins"
+            "time": "3 hrs 17 mins"
         },
         {
             "language": "RMarkdown",
-            "time": "28 hrs 10 mins"
+            "time": "27 hrs 32 mins"
         },
         {
             "language": "TOML",
-            "time": "17 hrs 38 mins"
+            "time": "10 hrs 27 mins"
         },
         {
             "language": "TeX",
-            "time": "39 hrs 45 mins"
+            "time": "33 hrs 30 mins"
         },
         {
             "language": "Text",
-            "time": "58 hrs 56 mins"
+            "time": "58 hrs 35 mins"
         },
         {
             "language": "YAML",
-            "time": "79 hrs 56 mins"
+            "time": "56 hrs 14 mins"
         },
         {
             "language": "textmate",
-            "time": "4 hrs 2 mins"
+            "time": "3 hrs 24 mins"
         }
     ]
 }

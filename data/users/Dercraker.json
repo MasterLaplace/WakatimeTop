@@ -1,6 +1,6 @@
 {
-    "total_time": "2,645 hrs 24 mins",
-    "updated": false,
+    "total_time": "2,646 hrs",
+    "updated": true,
     "elo": 2642,
     "languages": [
         {
@@ -13,7 +13,7 @@
         },
         {
             "language": "C#",
-            "time": "324 hrs 53 mins"
+            "time": "324 hrs 58 mins"
         },
         {
             "language": "CSS",
@@ -29,7 +29,7 @@
         },
         {
             "language": "Go",
-            "time": "2 hrs 49 mins"
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "HTML",
@@ -37,7 +37,7 @@
         },
         {
             "language": "JSON",
-            "time": "97 hrs 22 mins"
+            "time": "97 hrs 30 mins"
         },
         {
             "language": "JavaScript",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Markdown",
-            "time": "98 hrs 21 mins"
+            "time": "98 hrs 34 mins"
         },
         {
             "language": "Prisma",
@@ -85,11 +85,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,547 hrs 32 mins"
+            "time": "1,547 hrs 36 mins"
         },
         {
             "language": "Vue.js",
-            "time": "191 hrs 48 mins"
+            "time": "191 hrs 52 mins"
         },
         {
             "language": "XAML",
