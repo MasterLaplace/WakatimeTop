@@ -1,15 +1,15 @@
 {
-    "total_time": "1,655 hrs 41 mins",
+    "total_time": "1,709 hrs 47 mins",
     "updated": true,
-    "elo": 1656,
+    "elo": 1710,
     "languages": [
         {
             "language": "Bash",
-            "time": "5 hrs 12 mins"
+            "time": "5 hrs 13 mins"
         },
         {
             "language": "C++",
-            "time": "226 hrs 42 mins"
+            "time": "226 hrs 45 mins"
         },
         {
             "language": "CMake",
@@ -17,7 +17,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "3 hrs 30 mins"
+            "time": "4 hrs 19 mins"
         },
         {
             "language": "Gradle",
@@ -29,7 +29,7 @@
         },
         {
             "language": "JSON",
-            "time": "21 hrs 58 mins"
+            "time": "22 hrs 11 mins"
         },
         {
             "language": "Java",
@@ -45,7 +45,7 @@
         },
         {
             "language": "Julia",
-            "time": "400 hrs 57 mins"
+            "time": "401 hrs 26 mins"
         },
         {
             "language": "Jupyter",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Markdown",
-            "time": "49 hrs 21 mins"
+            "time": "66 hrs 28 mins"
         },
         {
             "language": "Properties",
@@ -76,12 +76,16 @@
             "time": "396 hrs 3 mins"
         },
         {
+            "language": "RON",
+            "time": "2 hrs 49 mins"
+        },
+        {
             "language": "Ren'Py",
-            "time": "18 hrs 4 mins"
+            "time": "18 hrs 9 mins"
         },
         {
             "language": "Rust",
-            "time": "158 hrs 12 mins"
+            "time": "189 hrs 54 mins"
         },
         {
             "language": "Shell Script",
@@ -93,11 +97,11 @@
         },
         {
             "language": "TOML",
-            "time": "7 hrs 24 mins"
+            "time": "8 hrs 2 mins"
         },
         {
             "language": "Text",
-            "time": "38 hrs 9 mins"
+            "time": "38 hrs 19 mins"
         },
         {
             "language": "TypeScript",

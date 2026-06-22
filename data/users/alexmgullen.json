@@ -1,7 +1,7 @@
 {
-    "total_time": "811 hrs 56 mins",
+    "total_time": "832 hrs 31 mins",
     "updated": true,
-    "elo": 812,
+    "elo": 833,
     "languages": [
         {
             "language": "C#",
@@ -9,27 +9,27 @@
         },
         {
             "language": "CSS",
-            "time": "40 hrs 36 mins"
+            "time": "40 hrs 46 mins"
         },
         {
             "language": "CSV",
-            "time": "32 hrs 35 mins"
+            "time": "32 hrs 51 mins"
         },
         {
             "language": "Go",
-            "time": "69 hrs 19 mins"
+            "time": "71 hrs 56 mins"
         },
         {
             "language": "HTML",
-            "time": "134 hrs 40 mins"
+            "time": "137 hrs 2 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "4 hrs 34 mins"
+            "time": "4 hrs 36 mins"
         },
         {
             "language": "JSON",
-            "time": "23 hrs 10 mins"
+            "time": "23 hrs 28 mins"
         },
         {
             "language": "JavaScript",
@@ -41,11 +41,11 @@
         },
         {
             "language": "Markdown",
-            "time": "122 hrs 29 mins"
+            "time": "123 hrs 11 mins"
         },
         {
             "language": "Python",
-            "time": "78 hrs 25 mins"
+            "time": "78 hrs 33 mins"
         },
         {
             "language": "SCSS",
@@ -53,7 +53,7 @@
         },
         {
             "language": "SQL",
-            "time": "14 hrs 58 mins"
+            "time": "15 hrs 38 mins"
         },
         {
             "language": "Text",
@@ -61,7 +61,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "207 hrs 46 mins"
+            "time": "215 hrs 17 mins"
+        },
+        {
+            "language": "Typst",
+            "time": "5 hrs 15 mins"
         },
         {
             "language": "XML",
@@ -73,11 +77,11 @@
         },
         {
             "language": "conf",
-            "time": "3 hrs 3 mins"
+            "time": "3 hrs 17 mins"
         },
         {
             "language": "netrw",
-            "time": "11 hrs 35 mins"
+            "time": "11 hrs 55 mins"
         }
     ]
 }

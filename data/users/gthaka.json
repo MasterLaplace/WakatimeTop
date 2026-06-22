@@ -1,11 +1,15 @@
 {
-    "total_time": "6 hrs 22 mins",
+    "total_time": "40 hrs 39 mins",
     "updated": true,
-    "elo": 60,
+    "elo": 94,
     "languages": [
         {
-            "language": "HTML+EEX",
-            "time": "6 hrs 22 mins"
+            "language": "Elixir",
+            "time": "38 hrs 6 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "2 hrs 33 mins"
         }
     ]
 }

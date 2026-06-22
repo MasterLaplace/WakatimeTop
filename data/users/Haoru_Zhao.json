@@ -1,27 +1,23 @@
 {
-    "total_time": "59 hrs 19 mins",
+    "total_time": "122 hrs 38 mins",
     "updated": true,
-    "elo": 261,
+    "elo": 324,
     "languages": [
         {
             "language": "Bash",
-            "time": "33 hrs 13 mins"
-        },
-        {
-            "language": "C",
-            "time": "4 hrs 6 mins"
-        },
-        {
-            "language": "Cuda",
-            "time": "2 hrs 32 mins"
+            "time": "75 hrs 39 mins"
         },
         {
             "language": "Markdown",
-            "time": "9 hrs 24 mins"
+            "time": "15 hrs 39 mins"
         },
         {
             "language": "Python",
-            "time": "10 hrs 4 mins"
+            "time": "26 hrs 33 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 47 mins"
         }
     ]
 }

@@ -1,51 +1,55 @@
 {
-    "total_time": "1,904 hrs 16 mins",
-    "updated": false,
-    "elo": 1895,
+    "total_time": "2,399 hrs 52 mins",
+    "updated": true,
+    "elo": 2390,
     "languages": [
         {
             "language": "Bash",
-            "time": "29 hrs 39 mins"
+            "time": "63 hrs 15 mins"
         },
         {
             "language": "Blade Template",
-            "time": "255 hrs 38 mins"
+            "time": "258 hrs 15 mins"
         },
         {
             "language": "CSS",
-            "time": "5 hrs 54 mins"
+            "time": "6 hrs 29 mins"
         },
         {
             "language": "Git Config",
-            "time": "2 hrs 41 mins"
+            "time": "3 hrs 7 mins"
         },
         {
             "language": "HTML",
-            "time": "19 hrs 26 mins"
+            "time": "20 hrs 31 mins"
+        },
+        {
+            "language": "INI",
+            "time": "4 hrs 42 mins"
         },
         {
             "language": "JSON",
-            "time": "34 hrs 47 mins"
+            "time": "80 hrs 11 mins"
         },
         {
             "language": "JSX",
-            "time": "365 hrs 9 mins"
+            "time": "365 hrs 2 mins"
         },
         {
             "language": "JavaScript",
-            "time": "90 hrs 36 mins"
+            "time": "103 hrs 8 mins"
         },
         {
             "language": "Markdown",
-            "time": "31 hrs 7 mins"
+            "time": "131 hrs 9 mins"
         },
         {
             "language": "PHP",
-            "time": "820 hrs 26 mins"
+            "time": "999 hrs 53 mins"
         },
         {
             "language": "Python",
-            "time": "5 hrs 58 mins"
+            "time": "14 hrs 48 mins"
         },
         {
             "language": "SCSS",
@@ -57,11 +61,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "211 hrs 25 mins"
+            "time": "315 hrs 32 mins"
         },
         {
             "language": "YAML",
-            "time": "3 hrs 27 mins"
+            "time": "5 hrs 47 mins"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "total_time": "4,349 hrs 56 mins",
+    "total_time": "4,355 hrs 41 mins",
     "updated": true,
-    "elo": 4350,
+    "elo": 4356,
     "languages": [
         {
             "language": ".env file",
-            "time": "2 hrs 52 mins"
+            "time": "3 hrs 4 mins"
         },
         {
             "language": "Bash",
-            "time": "6 hrs 57 mins"
+            "time": "7 hrs"
         },
         {
             "language": "C",
@@ -21,7 +21,7 @@
         },
         {
             "language": "CSS",
-            "time": "22 hrs 18 mins"
+            "time": "22 hrs 20 mins"
         },
         {
             "language": "Dart",
@@ -29,7 +29,7 @@
         },
         {
             "language": "GLSL",
-            "time": "6 hrs 47 mins"
+            "time": "7 hrs 59 mins"
         },
         {
             "language": "GitIgnore file",
@@ -45,11 +45,11 @@
         },
         {
             "language": "HTML",
-            "time": "14 hrs 19 mins"
+            "time": "14 hrs 36 mins"
         },
         {
             "language": "JSON",
-            "time": "231 hrs 28 mins"
+            "time": "231 hrs 44 mins"
         },
         {
             "language": "JSON-lines",
@@ -65,7 +65,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,116 hrs 57 mins"
+            "time": "1,117 hrs 30 mins"
         },
         {
             "language": "Kotlin",
@@ -105,7 +105,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "267 hrs 45 mins"
+            "time": "268 hrs 8 mins"
+        },
+        {
+            "language": "V shell",
+            "time": "2 hrs 47 mins"
         },
         {
             "language": "Vue.js",

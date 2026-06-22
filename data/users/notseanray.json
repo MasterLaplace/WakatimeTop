@@ -1,7 +1,7 @@
 {
-    "total_time": "1,074 hrs 34 mins",
+    "total_time": "1,093 hrs 4 mins",
     "updated": true,
-    "elo": 1300,
+    "elo": 1319,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "3 hrs 32 mins"
+            "time": "3 hrs 24 mins"
         },
         {
             "language": "C",
@@ -33,11 +33,11 @@
         },
         {
             "language": "Markdown",
-            "time": "9 hrs 2 mins"
+            "time": "9 hrs 36 mins"
         },
         {
             "language": "Python",
-            "time": "165 hrs 26 mins"
+            "time": "165 hrs 49 mins"
         },
         {
             "language": "RGBDS Assembly",
@@ -45,15 +45,15 @@
         },
         {
             "language": "Rust",
-            "time": "667 hrs 22 mins"
+            "time": "684 hrs 29 mins"
         },
         {
             "language": "TOML",
-            "time": "2 hrs 56 mins"
+            "time": "3 hrs"
         },
         {
             "language": "Text",
-            "time": "13 hrs 12 mins"
+            "time": "13 hrs 34 mins"
         },
         {
             "language": "TypeScript",
@@ -61,7 +61,7 @@
         },
         {
             "language": "gitignore",
-            "time": "2 hrs 38 mins"
+            "time": "2 hrs 46 mins"
         }
     ]
 }

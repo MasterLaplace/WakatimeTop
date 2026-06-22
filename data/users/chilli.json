@@ -1,11 +1,11 @@
 {
-    "total_time": "4,193 hrs 33 mins",
+    "total_time": "4,229 hrs 37 mins",
     "updated": true,
-    "elo": 4194,
+    "elo": 4230,
     "languages": [
         {
             "language": "Bash",
-            "time": "35 hrs 1 min"
+            "time": "35 hrs 17 mins"
         },
         {
             "language": "Binary",
@@ -41,11 +41,11 @@
         },
         {
             "language": "Git Config",
-            "time": "8 hrs 13 mins"
+            "time": "8 hrs 15 mins"
         },
         {
             "language": "Go",
-            "time": "36 hrs 34 mins"
+            "time": "62 hrs 48 mins"
         },
         {
             "language": "HTML",
@@ -80,6 +80,10 @@
             "time": "429 hrs 7 mins"
         },
         {
+            "language": "SQL",
+            "time": "9 hrs 14 mins"
+        },
+        {
             "language": "Scala",
             "time": "8 hrs 16 mins"
         },
@@ -97,7 +101,7 @@
         },
         {
             "language": "YAML",
-            "time": "15 hrs 51 mins"
+            "time": "16 hrs 9 mins"
         }
     ]
 }

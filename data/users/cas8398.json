@@ -1,23 +1,15 @@
 {
-    "total_time": "14 hrs 45 mins",
+    "total_time": "23 hrs 14 mins",
     "updated": true,
-    "elo": 280,
+    "elo": 289,
     "languages": [
         {
-            "language": "Dart",
-            "time": "4 hrs 48 mins"
-        },
-        {
-            "language": "HTML",
-            "time": "3 hrs 33 mins"
+            "language": "Kotlin",
+            "time": "19 hrs 50 mins"
         },
         {
             "language": "SQL",
             "time": "3 hrs 24 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "3 hrs"
         }
     ]
 }

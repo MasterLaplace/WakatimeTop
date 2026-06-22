@@ -1,11 +1,11 @@
 {
-    "total_time": "3,168 hrs 19 mins",
+    "total_time": "3,210 hrs 15 mins",
     "updated": true,
-    "elo": 3151,
+    "elo": 3193,
     "languages": [
         {
             "language": "Bash",
-            "time": "3 hrs 43 mins"
+            "time": "4 hrs 41 mins"
         },
         {
             "language": "Blade Template",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Docker",
-            "time": "32 hrs 31 mins"
+            "time": "32 hrs 40 mins"
         },
         {
             "language": "ERB",
@@ -49,11 +49,11 @@
         },
         {
             "language": "JSON",
-            "time": "5 hrs 37 mins"
+            "time": "8 hrs 16 mins"
         },
         {
             "language": "JavaScript",
-            "time": "5 hrs 3 mins"
+            "time": "5 hrs 5 mins"
         },
         {
             "language": "Kotlin",
@@ -61,11 +61,11 @@
         },
         {
             "language": "Lua",
-            "time": "29 hrs 39 mins"
+            "time": "29 hrs 46 mins"
         },
         {
             "language": "Markdown",
-            "time": "107 hrs 11 mins"
+            "time": "110 hrs 32 mins"
         },
         {
             "language": "Move",
@@ -85,7 +85,7 @@
         },
         {
             "language": "Rust",
-            "time": "1,148 hrs 56 mins"
+            "time": "1,173 hrs 5 mins"
         },
         {
             "language": "SQL",
@@ -101,27 +101,27 @@
         },
         {
             "language": "TOML",
-            "time": "39 hrs 56 mins"
+            "time": "42 hrs 15 mins"
+        },
+        {
+            "language": "Text",
+            "time": "2 hrs 54 mins"
         },
         {
             "language": "TypeScript",
-            "time": "73 hrs 55 mins"
+            "time": "81 hrs 28 mins"
         },
         {
             "language": "YAML",
-            "time": "123 hrs 15 mins"
-        },
-        {
-            "language": "gitignore",
-            "time": "7 hrs 17 mins"
+            "time": "123 hrs 46 mins"
         },
         {
             "language": "sh",
-            "time": "176 hrs 18 mins"
+            "time": "180 hrs 36 mins"
         },
         {
             "language": "sshconfig",
-            "time": "9 hrs 56 mins"
+            "time": "10 hrs 9 mins"
         },
         {
             "language": "tmux",

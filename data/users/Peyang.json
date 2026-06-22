@@ -1,7 +1,7 @@
 {
-    "total_time": "5,157 hrs 13 mins",
+    "total_time": "5,179 hrs 27 mins",
     "updated": true,
-    "elo": 5158,
+    "elo": 5180,
     "languages": [
         {
             "language": "ANTLR v4 grammar file",
@@ -33,15 +33,15 @@
         },
         {
             "language": "CLASS",
-            "time": "2 hrs 37 mins"
+            "time": "2 hrs 39 mins"
         },
         {
             "language": "CSS",
-            "time": "27 hrs 17 mins"
+            "time": "27 hrs 36 mins"
         },
         {
             "language": "Docker",
-            "time": "7 hrs 25 mins"
+            "time": "7 hrs 27 mins"
         },
         {
             "language": "GUI_DESIGNER_FORM",
@@ -53,7 +53,7 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "7 hrs 48 mins"
+            "time": "8 hrs 22 mins"
         },
         {
             "language": "Gradle",
@@ -61,11 +61,11 @@
         },
         {
             "language": "Groovy",
-            "time": "11 hrs 23 mins"
+            "time": "11 hrs 25 mins"
         },
         {
             "language": "HTML",
-            "time": "55 hrs 44 mins"
+            "time": "56 hrs 4 mins"
         },
         {
             "language": "IDEA_MODULE",
@@ -73,11 +73,11 @@
         },
         {
             "language": "JSON",
-            "time": "80 hrs 55 mins"
+            "time": "81 hrs 15 mins"
         },
         {
             "language": "Java",
-            "time": "3,186 hrs 14 mins"
+            "time": "3,190 hrs 41 mins"
         },
         {
             "language": "Java Properties",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Kotlin",
-            "time": "41 hrs 25 mins"
+            "time": "41 hrs 38 mins"
         },
         {
             "language": "MCLang",
@@ -97,11 +97,11 @@
         },
         {
             "language": "MDX",
-            "time": "187 hrs 35 mins"
+            "time": "188 hrs 56 mins"
         },
         {
             "language": "Markdown",
-            "time": "328 hrs 40 mins"
+            "time": "336 hrs 29 mins"
         },
         {
             "language": "MySQL",
@@ -121,7 +121,7 @@
         },
         {
             "language": "Properties",
-            "time": "20 hrs 4 mins"
+            "time": "20 hrs 5 mins"
         },
         {
             "language": "Protocol Buffer",
@@ -149,11 +149,11 @@
         },
         {
             "language": "Text",
-            "time": "39 hrs 59 mins"
+            "time": "42 hrs 33 mins"
         },
         {
             "language": "TypeScript",
-            "time": "129 hrs"
+            "time": "132 hrs 3 mins"
         },
         {
             "language": "Typst",
@@ -165,15 +165,15 @@
         },
         {
             "language": "XML",
-            "time": "122 hrs 11 mins"
+            "time": "122 hrs 15 mins"
         },
         {
             "language": "YAML",
-            "time": "183 hrs 6 mins"
+            "time": "184 hrs 7 mins"
         },
         {
             "language": "textmate",
-            "time": "5 hrs 16 mins"
+            "time": "5 hrs 18 mins"
         }
     ]
 }

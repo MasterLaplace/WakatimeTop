@@ -1,15 +1,11 @@
 {
-    "total_time": "28 hrs 51 mins",
+    "total_time": "26 hrs 20 mins",
     "updated": true,
     "elo": 64,
     "languages": [
         {
-            "language": "Dart",
-            "time": "3 hrs"
-        },
-        {
             "language": "Go",
-            "time": "8 hrs 4 mins"
+            "time": "5 hrs 14 mins"
         },
         {
             "language": "Kotlin",
@@ -17,11 +13,11 @@
         },
         {
             "language": "Python",
-            "time": "6 hrs 6 mins"
+            "time": "2 hrs 49 mins"
         },
         {
             "language": "TypeScript",
-            "time": "9 hrs 10 mins"
+            "time": "15 hrs 46 mins"
         }
     ]
 }

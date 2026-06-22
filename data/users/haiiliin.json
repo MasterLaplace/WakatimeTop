@@ -1,15 +1,15 @@
 {
-    "total_time": "1,915 hrs 40 mins",
+    "total_time": "1,925 hrs 20 mins",
     "updated": true,
-    "elo": 1964,
+    "elo": 1974,
     "languages": [
         {
             "language": "C++",
-            "time": "393 hrs 2 mins"
+            "time": "391 hrs 56 mins"
         },
         {
             "language": "C/C",
-            "time": "109 hrs 12 mins"
+            "time": "109 hrs 3 mins"
         },
         {
             "language": "CMake",
@@ -17,31 +17,31 @@
         },
         {
             "language": "HTML",
-            "time": "7 hrs 51 mins"
+            "time": "7 hrs 35 mins"
         },
         {
             "language": "JSON",
-            "time": "22 hrs 4 mins"
+            "time": "22 hrs 5 mins"
         },
         {
             "language": "Jupyter",
-            "time": "467 hrs 36 mins"
+            "time": "490 hrs 30 mins"
         },
         {
             "language": "Makefile",
-            "time": "75 hrs 53 mins"
+            "time": "76 hrs 41 mins"
         },
         {
             "language": "Markdown",
-            "time": "206 hrs 23 mins"
+            "time": "205 hrs 10 mins"
         },
         {
             "language": "Python",
-            "time": "436 hrs 23 mins"
+            "time": "428 hrs 13 mins"
         },
         {
             "language": "PythonStub",
-            "time": "3 hrs 17 mins"
+            "time": "3 hrs 16 mins"
         },
         {
             "language": "RMarkdown",
@@ -49,7 +49,7 @@
         },
         {
             "language": "TOML",
-            "time": "10 hrs 27 mins"
+            "time": "10 hrs 26 mins"
         },
         {
             "language": "TeX",
@@ -57,15 +57,15 @@
         },
         {
             "language": "Text",
-            "time": "58 hrs 35 mins"
+            "time": "56 hrs 7 mins"
         },
         {
             "language": "YAML",
-            "time": "56 hrs 14 mins"
+            "time": "55 hrs 48 mins"
         },
         {
             "language": "textmate",
-            "time": "3 hrs 24 mins"
+            "time": "3 hrs 11 mins"
         }
     ]
 }

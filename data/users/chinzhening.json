@@ -1,7 +1,7 @@
 {
-    "total_time": "742 hrs 2 mins",
+    "total_time": "766 hrs 28 mins",
     "updated": true,
-    "elo": 743,
+    "elo": 767,
     "languages": [
         {
             "language": "Astro",
@@ -17,7 +17,7 @@
         },
         {
             "language": "CSV",
-            "time": "6 hrs 46 mins"
+            "time": "6 hrs 49 mins"
         },
         {
             "language": "HTML",
@@ -41,11 +41,11 @@
         },
         {
             "language": "Markdown",
-            "time": "28 hrs 49 mins"
+            "time": "28 hrs 50 mins"
         },
         {
             "language": "Python",
-            "time": "317 hrs 47 mins"
+            "time": "332 hrs 8 mins"
         },
         {
             "language": "Rust",
@@ -57,7 +57,7 @@
         },
         {
             "language": "TOML",
-            "time": "4 hrs 18 mins"
+            "time": "4 hrs 25 mins"
         },
         {
             "language": "TeX",
@@ -73,11 +73,11 @@
         },
         {
             "language": "Typst",
-            "time": "117 hrs 26 mins"
+            "time": "127 hrs 11 mins"
         },
         {
             "language": "YAML",
-            "time": "4 hrs 42 mins"
+            "time": "4 hrs 51 mins"
         }
     ]
 }

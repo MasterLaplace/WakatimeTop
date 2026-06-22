@@ -1,11 +1,11 @@
 {
-    "total_time": "8,363 hrs 27 mins",
+    "total_time": "8,401 hrs 30 mins",
     "updated": true,
-    "elo": 8364,
+    "elo": 8402,
     "languages": [
         {
             "language": ".env file",
-            "time": "39 hrs 46 mins"
+            "time": "40 hrs 7 mins"
         },
         {
             "language": "Apache Config",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "76 hrs 10 mins"
+            "time": "78 hrs 23 mins"
         },
         {
             "language": "C#",
@@ -29,23 +29,23 @@
         },
         {
             "language": "Docker",
-            "time": "5 hrs 2 mins"
+            "time": "5 hrs 6 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "28 hrs 55 mins"
+            "time": "29 hrs 1 min"
         },
         {
             "language": "HTML",
-            "time": "739 hrs 26 mins"
+            "time": "740 hrs 41 mins"
         },
         {
             "language": "JSON",
-            "time": "232 hrs 50 mins"
+            "time": "236 hrs 3 mins"
         },
         {
             "language": "JavaScript",
-            "time": "2,226 hrs 29 mins"
+            "time": "2,249 hrs 31 mins"
         },
         {
             "language": "Log",
@@ -53,11 +53,15 @@
         },
         {
             "language": "Markdown",
-            "time": "45 hrs 39 mins"
+            "time": "46 hrs 40 mins"
         },
         {
             "language": "Nginx Configuration",
             "time": "23 hrs 52 mins"
+        },
+        {
+            "language": "Nginx configuration file",
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "PHP",
@@ -69,19 +73,19 @@
         },
         {
             "language": "SQL",
-            "time": "88 hrs 32 mins"
+            "time": "88 hrs 56 mins"
         },
         {
             "language": "Shell Script",
-            "time": "19 hrs 37 mins"
+            "time": "19 hrs 43 mins"
         },
         {
             "language": "SmartyConfig",
-            "time": "20 hrs 33 mins"
+            "time": "20 hrs 41 mins"
         },
         {
             "language": "Text",
-            "time": "90 hrs 33 mins"
+            "time": "90 hrs 53 mins"
         },
         {
             "language": "Twig",
@@ -89,7 +93,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "60 hrs 33 mins"
+            "time": "63 hrs 48 mins"
         },
         {
             "language": "Vue.js",
@@ -97,7 +101,7 @@
         },
         {
             "language": "XML",
-            "time": "11 hrs 45 mins"
+            "time": "11 hrs 49 mins"
         },
         {
             "language": "YAML",
