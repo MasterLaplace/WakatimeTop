@@ -1,6 +1,6 @@
 {
-    "total_time": "118 hrs 56 mins",
-    "updated": false,
+    "total_time": "97 hrs 3 mins",
+    "updated": true,
     "elo": 1317,
     "languages": [
         {
@@ -20,8 +20,8 @@
             "time": "24 hrs 5 mins"
         },
         {
-            "language": "Python",
-            "time": "8 hrs 31 mins"
+            "language": "PHP",
+            "time": "6 hrs 48 mins"
         },
         {
             "language": "Terminal",
@@ -30,10 +30,6 @@
         {
             "language": "Termux",
             "time": "19 hrs 35 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "20 hrs 10 mins"
         }
     ]
 }

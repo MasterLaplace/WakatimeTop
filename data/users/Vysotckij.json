@@ -1,11 +1,11 @@
 {
-    "total_time": "1,217 hrs 59 mins",
+    "total_time": "1,255 hrs 11 mins",
     "updated": true,
-    "elo": 1218,
+    "elo": 1256,
     "languages": [
         {
             "language": "Bash",
-            "time": "11 hrs 18 mins"
+            "time": "11 hrs 58 mins"
         },
         {
             "language": "CSS",
@@ -13,39 +13,39 @@
         },
         {
             "language": "Git",
-            "time": "6 hrs 40 mins"
+            "time": "7 hrs 29 mins"
         },
         {
             "language": "HTML",
-            "time": "3 hrs 25 mins"
+            "time": "3 hrs 26 mins"
         },
         {
             "language": "INI",
-            "time": "2 hrs 51 mins"
+            "time": "3 hrs 25 mins"
         },
         {
             "language": "JSON",
-            "time": "12 hrs 32 mins"
+            "time": "12 hrs 45 mins"
         },
         {
             "language": "JavaScript",
-            "time": "67 hrs 43 mins"
+            "time": "68 hrs 57 mins"
         },
         {
             "language": "Lua",
-            "time": "38 hrs 39 mins"
+            "time": "40 hrs 27 mins"
         },
         {
             "language": "Markdown",
-            "time": "3 hrs 48 mins"
+            "time": "17 hrs 16 mins"
         },
         {
             "language": "PHP",
-            "time": "863 hrs 35 mins"
+            "time": "875 hrs 35 mins"
         },
         {
             "language": "SCSS",
-            "time": "50 hrs 1 min"
+            "time": "50 hrs 34 mins"
         },
         {
             "language": "Text",
@@ -53,15 +53,15 @@
         },
         {
             "language": "TypeScript",
-            "time": "20 hrs 13 mins"
+            "time": "20 hrs 20 mins"
         },
         {
             "language": "Vim Script",
-            "time": "6 hrs 58 mins"
+            "time": "7 hrs 6 mins"
         },
         {
             "language": "Vue",
-            "time": "20 hrs 30 mins"
+            "time": "23 hrs 31 mins"
         },
         {
             "language": "Vue.js",
@@ -72,8 +72,12 @@
             "time": "5 hrs 17 mins"
         },
         {
+            "language": "conf",
+            "time": "2 hrs 33 mins"
+        },
+        {
             "language": "gitignore",
-            "time": "2 hrs 54 mins"
+            "time": "2 hrs 57 mins"
         }
     ]
 }

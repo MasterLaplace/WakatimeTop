@@ -1,15 +1,15 @@
 {
-    "total_time": "4,217 hrs 58 mins",
+    "total_time": "4,262 hrs 55 mins",
     "updated": true,
-    "elo": 4218,
+    "elo": 4263,
     "languages": [
         {
             "language": "Bash",
-            "time": "87 hrs 6 mins"
+            "time": "87 hrs 42 mins"
         },
         {
             "language": "C++",
-            "time": "13 hrs 58 mins"
+            "time": "14 hrs 11 mins"
         },
         {
             "language": "CSS",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Git Config",
-            "time": "5 hrs 38 mins"
+            "time": "5 hrs 39 mins"
         },
         {
             "language": "Go",
@@ -33,15 +33,15 @@
         },
         {
             "language": "HTML",
-            "time": "58 hrs 58 mins"
+            "time": "58 hrs 59 mins"
         },
         {
             "language": "JSON",
-            "time": "68 hrs 27 mins"
+            "time": "69 hrs 33 mins"
         },
         {
             "language": "JavaScript",
-            "time": "960 hrs 45 mins"
+            "time": "961 hrs 8 mins"
         },
         {
             "language": "Lua",
@@ -49,7 +49,7 @@
         },
         {
             "language": "Markdown",
-            "time": "19 hrs 50 mins"
+            "time": "25 hrs 31 mins"
         },
         {
             "language": "Pug",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Python",
-            "time": "4 hrs 59 mins"
+            "time": "6 hrs 14 mins"
         },
         {
             "language": "SCSS",
@@ -65,11 +65,15 @@
         },
         {
             "language": "SQL",
-            "time": "2 hrs 54 mins"
+            "time": "2 hrs 56 mins"
         },
         {
             "language": "Solidity",
             "time": "17 hrs 16 mins"
+        },
+        {
+            "language": "Swift",
+            "time": "2 hrs 42 mins"
         },
         {
             "language": "TSConfig",
@@ -77,11 +81,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "1,945 hrs 27 mins"
+            "time": "1,959 hrs 23 mins"
         },
         {
             "language": "Vue",
-            "time": "58 hrs 16 mins"
+            "time": "76 hrs 59 mins"
         },
         {
             "language": "Vue.js",
@@ -93,7 +97,7 @@
         },
         {
             "language": "YAML",
-            "time": "9 hrs 21 mins"
+            "time": "9 hrs 39 mins"
         }
     ]
 }

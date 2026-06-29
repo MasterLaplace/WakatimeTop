@@ -1,19 +1,19 @@
 {
-    "total_time": "28 hrs 42 mins",
+    "total_time": "30 hrs 25 mins",
     "updated": true,
-    "elo": 95,
+    "elo": 97,
     "languages": [
         {
             "language": "Bash",
-            "time": "2 hrs 49 mins"
-        },
-        {
-            "language": "Groovy",
-            "time": "2 hrs 36 mins"
+            "time": "2 hrs 31 mins"
         },
         {
             "language": "Kotlin",
-            "time": "23 hrs 17 mins"
+            "time": "23 hrs 18 mins"
+        },
+        {
+            "language": "Python",
+            "time": "4 hrs 36 mins"
         }
     ]
 }

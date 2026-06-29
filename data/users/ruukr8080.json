@@ -1,7 +1,7 @@
 {
-    "total_time": "54 hrs 54 mins",
-    "updated": false,
-    "elo": 1366,
+    "total_time": "61 hrs 20 mins",
+    "updated": true,
+    "elo": 1373,
     "languages": [
         {
             "language": ".env file",
@@ -18,6 +18,10 @@
         {
             "language": "GitIgnore file",
             "time": "9 hrs 32 mins"
+        },
+        {
+            "language": "Gosu",
+            "time": "6 hrs 26 mins"
         },
         {
             "language": "Java Properties",

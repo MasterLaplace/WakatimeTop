@@ -1,7 +1,7 @@
 {
-    "total_time": "83 hrs 28 mins",
+    "total_time": "102 hrs 45 mins",
     "updated": true,
-    "elo": 297,
+    "elo": 316,
     "languages": [
         {
             "language": "Groovy",
@@ -9,7 +9,7 @@
         },
         {
             "language": "JSON",
-            "time": "14 hrs 21 mins"
+            "time": "8 hrs 25 mins"
         },
         {
             "language": "PowerShell",
@@ -17,7 +17,7 @@
         },
         {
             "language": "Python",
-            "time": "48 hrs 34 mins"
+            "time": "67 hrs 3 mins"
         },
         {
             "language": "Terraform",
@@ -25,11 +25,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "5 hrs 31 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "3 hrs 25 mins"
+            "time": "15 hrs 40 mins"
         }
     ]
 }

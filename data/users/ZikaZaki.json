@@ -1,11 +1,15 @@
 {
-    "total_time": "3 hrs 4 mins",
-    "updated": false,
-    "elo": 246,
+    "total_time": "6 hrs 26 mins",
+    "updated": true,
+    "elo": 249,
     "languages": [
         {
             "language": "HTML",
             "time": "3 hrs 4 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 22 mins"
         }
     ]
 }

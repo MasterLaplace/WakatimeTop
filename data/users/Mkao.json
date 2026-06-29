@@ -1,7 +1,7 @@
 {
-    "total_time": "2,490 hrs 17 mins",
+    "total_time": "2,544 hrs 1 mins",
     "updated": true,
-    "elo": 2491,
+    "elo": 2545,
     "languages": [
         {
             "language": "Dart",
@@ -29,15 +29,15 @@
         },
         {
             "language": "Java Properties",
-            "time": "26 hrs 54 mins"
+            "time": "27 hrs 2 mins"
         },
         {
             "language": "Kotlin",
-            "time": "2,222 hrs 33 mins"
+            "time": "2,263 hrs 56 mins"
         },
         {
             "language": "Markdown",
-            "time": "49 hrs 28 mins"
+            "time": "55 hrs 44 mins"
         },
         {
             "language": "Properties",
@@ -49,19 +49,23 @@
         },
         {
             "language": "TOML",
-            "time": "25 hrs 34 mins"
+            "time": "26 hrs 12 mins"
         },
         {
             "language": "Text",
-            "time": "11 hrs 1 min"
+            "time": "11 hrs 2 mins"
         },
         {
             "language": "XML",
-            "time": "48 hrs 19 mins"
+            "time": "48 hrs 32 mins"
         },
         {
             "language": "YAML",
-            "time": "3 hrs 45 mins"
+            "time": "3 hrs 52 mins"
+        },
+        {
+            "language": "textmate",
+            "time": "4 hrs 58 mins"
         }
     ]
 }

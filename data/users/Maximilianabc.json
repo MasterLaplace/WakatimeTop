@@ -1,15 +1,23 @@
 {
-    "total_time": "54 hrs",
+    "total_time": "43 hrs 31 mins",
     "updated": true,
     "elo": 69,
     "languages": [
         {
             "language": "C#",
-            "time": "44 hrs 21 mins"
+            "time": "16 hrs 40 mins"
         },
         {
             "language": "Markdown",
-            "time": "9 hrs 39 mins"
+            "time": "12 hrs 31 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "5 hrs 4 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "9 hrs 16 mins"
         }
     ]
 }

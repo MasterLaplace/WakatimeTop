@@ -1,7 +1,7 @@
 {
-    "total_time": "1,152 hrs 1 mins",
+    "total_time": "1,219 hrs 5 mins",
     "updated": true,
-    "elo": 1153,
+    "elo": 1220,
     "languages": [
         {
             "language": ".env file",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "30 hrs 12 mins"
+            "time": "30 hrs 41 mins"
         },
         {
             "language": "C",
@@ -24,8 +24,12 @@
             "time": "3 hrs 36 mins"
         },
         {
+            "language": "CSS",
+            "time": "3 hrs 1 min"
+        },
+        {
             "language": "Docker",
-            "time": "7 hrs 16 mins"
+            "time": "7 hrs 54 mins"
         },
         {
             "language": "HTML",
@@ -33,15 +37,15 @@
         },
         {
             "language": "JSON",
-            "time": "61 hrs 35 mins"
+            "time": "65 hrs 35 mins"
         },
         {
             "language": "JavaScript",
-            "time": "35 hrs 26 mins"
+            "time": "37 hrs 23 mins"
         },
         {
             "language": "Markdown",
-            "time": "100 hrs 54 mins"
+            "time": "114 hrs 33 mins"
         },
         {
             "language": "Move",
@@ -49,19 +53,19 @@
         },
         {
             "language": "Prisma",
-            "time": "80 hrs 54 mins"
+            "time": "80 hrs 59 mins"
         },
         {
             "language": "Python",
-            "time": "4 hrs 51 mins"
+            "time": "5 hrs 8 mins"
         },
         {
             "language": "SQL",
-            "time": "2 hrs 32 mins"
+            "time": "2 hrs 41 mins"
         },
         {
             "language": "Solidity",
-            "time": "14 hrs 11 mins"
+            "time": "15 hrs 45 mins"
         },
         {
             "language": "Svelte",
@@ -69,7 +73,7 @@
         },
         {
             "language": "TSConfig",
-            "time": "3 hrs 19 mins"
+            "time": "3 hrs 29 mins"
         },
         {
             "language": "TSQL",
@@ -77,15 +81,15 @@
         },
         {
             "language": "Text",
-            "time": "4 hrs 55 mins"
+            "time": "5 hrs 8 mins"
         },
         {
             "language": "TypeScript",
-            "time": "721 hrs 30 mins"
+            "time": "758 hrs 10 mins"
         },
         {
             "language": "YAML",
-            "time": "39 hrs 54 mins"
+            "time": "44 hrs 6 mins"
         }
     ]
 }

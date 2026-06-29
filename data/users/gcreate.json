@@ -1,27 +1,19 @@
 {
-    "total_time": "31 hrs 6 mins",
+    "total_time": "25 hrs 18 mins",
     "updated": true,
     "elo": 65,
     "languages": [
         {
             "language": "Dart",
-            "time": "16 hrs 38 mins"
+            "time": "20 hrs 4 mins"
         },
         {
-            "language": "Makefile",
-            "time": "5 hrs 3 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "3 hrs 37 mins"
+            "language": "Image (svg)",
+            "time": "2 hrs 44 mins"
         },
         {
             "language": "TOML",
             "time": "2 hrs 30 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "3 hrs 18 mins"
         }
     ]
 }

@@ -1,15 +1,19 @@
 {
-    "total_time": "9 hrs",
+    "total_time": "22 hrs 19 mins",
     "updated": true,
-    "elo": 255,
+    "elo": 269,
     "languages": [
         {
-            "language": "Dart",
-            "time": "2 hrs 54 mins"
+            "language": "CSS",
+            "time": "6 hrs 8 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "2 hrs 42 mins"
         },
         {
             "language": "PHP",
-            "time": "6 hrs 6 mins"
+            "time": "13 hrs 29 mins"
         }
     ]
 }

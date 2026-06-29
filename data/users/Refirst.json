@@ -1,7 +1,7 @@
 {
-    "total_time": "6,071 hrs 52 mins",
+    "total_time": "6,099 hrs 37 mins",
     "updated": true,
-    "elo": 6072,
+    "elo": 6100,
     "languages": [
         {
             "language": "Astro",
@@ -17,7 +17,7 @@
         },
         {
             "language": "CSS",
-            "time": "140 hrs 3 mins"
+            "time": "140 hrs 36 mins"
         },
         {
             "language": "Docker",
@@ -41,7 +41,7 @@
         },
         {
             "language": "JSON",
-            "time": "450 hrs 25 mins"
+            "time": "452 hrs 33 mins"
         },
         {
             "language": "Java",
@@ -49,15 +49,19 @@
         },
         {
             "language": "JavaScript",
-            "time": "381 hrs 5 mins"
+            "time": "381 hrs 16 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "8 hrs 48 mins"
         },
         {
             "language": "MDX",
-            "time": "167 hrs 4 mins"
+            "time": "168 hrs 57 mins"
         },
         {
             "language": "Markdown",
-            "time": "216 hrs 29 mins"
+            "time": "218 hrs 28 mins"
         },
         {
             "language": "Python",
@@ -77,19 +81,23 @@
         },
         {
             "language": "TSConfig",
-            "time": "35 hrs 7 mins"
+            "time": "35 hrs 9 mins"
         },
         {
             "language": "TypeScript",
-            "time": "3,978 hrs 49 mins"
+            "time": "3,985 hrs 36 mins"
         },
         {
             "language": "Vue.js",
             "time": "21 hrs 11 mins"
         },
         {
+            "language": "XML",
+            "time": "3 hrs 59 mins"
+        },
+        {
             "language": "YAML",
-            "time": "108 hrs 59 mins"
+            "time": "110 hrs 24 mins"
         },
         {
             "language": "ca65 assembler",

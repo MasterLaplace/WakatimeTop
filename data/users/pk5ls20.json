@@ -1,5 +1,5 @@
 {
-    "total_time": "1,727 hrs 44 mins",
+    "total_time": "1,687 hrs 14 mins",
     "updated": true,
     "elo": 2420,
     "languages": [
@@ -9,19 +9,19 @@
         },
         {
             "language": "C",
-            "time": "13 hrs 32 mins"
+            "time": "14 hrs 3 mins"
         },
         {
             "language": "C#",
-            "time": "4 hrs 30 mins"
+            "time": "4 hrs 21 mins"
         },
         {
             "language": "C++",
-            "time": "176 hrs 48 mins"
+            "time": "179 hrs 45 mins"
         },
         {
             "language": "C/C",
-            "time": "12 hrs 28 mins"
+            "time": "12 hrs 39 mins"
         },
         {
             "language": "C/C++",
@@ -29,7 +29,7 @@
         },
         {
             "language": "CMake",
-            "time": "25 hrs 48 mins"
+            "time": "25 hrs 46 mins"
         },
         {
             "language": "CSV",
@@ -45,19 +45,15 @@
         },
         {
             "language": "GitIgnore file",
-            "time": "3 hrs 41 mins"
+            "time": "3 hrs 24 mins"
         },
         {
             "language": "Go",
             "time": "6 hrs 53 mins"
         },
         {
-            "language": "HTML",
-            "time": "2 hrs 35 mins"
-        },
-        {
             "language": "JSON",
-            "time": "29 hrs 46 mins"
+            "time": "30 hrs 4 mins"
         },
         {
             "language": "Java",
@@ -65,7 +61,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "17 hrs 21 mins"
+            "time": "17 hrs 16 mins"
         },
         {
             "language": "Jupyter",
@@ -73,11 +69,11 @@
         },
         {
             "language": "Kotlin",
-            "time": "158 hrs 53 mins"
+            "time": "159 hrs 16 mins"
         },
         {
             "language": "Markdown",
-            "time": "117 hrs 54 mins"
+            "time": "118 hrs 20 mins"
         },
         {
             "language": "ObjectiveC",
@@ -85,11 +81,11 @@
         },
         {
             "language": "Python",
-            "time": "136 hrs 54 mins"
+            "time": "128 hrs 46 mins"
         },
         {
             "language": "Rust",
-            "time": "792 hrs 19 mins"
+            "time": "765 hrs 25 mins"
         },
         {
             "language": "SQL",
@@ -97,15 +93,15 @@
         },
         {
             "language": "TOML",
-            "time": "53 hrs 29 mins"
+            "time": "49 hrs 24 mins"
         },
         {
             "language": "Text",
-            "time": "42 hrs 22 mins"
+            "time": "42 hrs 51 mins"
         },
         {
             "language": "TypeScript",
-            "time": "23 hrs 41 mins"
+            "time": "23 hrs 1 min"
         },
         {
             "language": "Vue.js",
@@ -117,11 +113,7 @@
         },
         {
             "language": "YAML",
-            "time": "15 hrs 23 mins"
-        },
-        {
-            "language": "textmate",
-            "time": "2 hrs 40 mins"
+            "time": "15 hrs 13 mins"
         }
     ]
 }

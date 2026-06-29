@@ -1,15 +1,11 @@
 {
-    "total_time": "33 hrs 21 mins",
+    "total_time": "39 hrs 29 mins",
     "updated": true,
-    "elo": 65,
+    "elo": 71,
     "languages": [
         {
             "language": "Dart",
-            "time": "7 hrs"
-        },
-        {
-            "language": "HTML",
-            "time": "4 hrs"
+            "time": "7 hrs 34 mins"
         },
         {
             "language": "JHipster JDL",
@@ -17,15 +13,15 @@
         },
         {
             "language": "JavaScript",
-            "time": "7 hrs 33 mins"
-        },
-        {
-            "language": "PHP",
-            "time": "4 hrs 11 mins"
+            "time": "17 hrs 53 mins"
         },
         {
             "language": "TypeScript",
             "time": "7 hrs 6 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 25 mins"
         }
     ]
 }

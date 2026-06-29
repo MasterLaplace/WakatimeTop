@@ -1,7 +1,7 @@
 {
-    "total_time": "2,337 hrs 30 mins",
+    "total_time": "2,358 hrs 16 mins",
     "updated": true,
-    "elo": 2378,
+    "elo": 2399,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "57 hrs 29 mins"
+            "time": "57 hrs 30 mins"
         },
         {
             "language": "BibTeX",
@@ -29,23 +29,23 @@
         },
         {
             "language": "CSV",
-            "time": "2 hrs 44 mins"
+            "time": "2 hrs 55 mins"
         },
         {
             "language": "Docker",
-            "time": "4 hrs 33 mins"
-        },
-        {
-            "language": "Git Config",
             "time": "4 hrs 43 mins"
         },
         {
+            "language": "Git Config",
+            "time": "4 hrs 44 mins"
+        },
+        {
             "language": "HTML",
-            "time": "5 hrs 22 mins"
+            "time": "5 hrs 37 mins"
         },
         {
             "language": "JSON",
-            "time": "16 hrs 33 mins"
+            "time": "17 hrs 2 mins"
         },
         {
             "language": "Java",
@@ -61,11 +61,11 @@
         },
         {
             "language": "Makefile",
-            "time": "6 hrs 51 mins"
+            "time": "7 hrs 50 mins"
         },
         {
             "language": "Markdown",
-            "time": "100 hrs 17 mins"
+            "time": "100 hrs 18 mins"
         },
         {
             "language": "OCaml",
@@ -81,7 +81,7 @@
         },
         {
             "language": "Python",
-            "time": "753 hrs 19 mins"
+            "time": "771 hrs 16 mins"
         },
         {
             "language": "TeX",
@@ -93,7 +93,7 @@
         },
         {
             "language": "YAML",
-            "time": "50 hrs 29 mins"
+            "time": "51 hrs 11 mins"
         }
     ]
 }

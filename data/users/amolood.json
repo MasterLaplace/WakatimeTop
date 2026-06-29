@@ -1,7 +1,7 @@
 {
-    "total_time": "1,087 hrs 11 mins",
+    "total_time": "1,165 hrs 52 mins",
     "updated": true,
-    "elo": 1088,
+    "elo": 1166,
     "languages": [
         {
             "language": ".env file",
@@ -9,43 +9,47 @@
         },
         {
             "language": "Bash",
-            "time": "22 hrs 56 mins"
+            "time": "24 hrs 12 mins"
         },
         {
             "language": "Blade Template",
-            "time": "116 hrs 21 mins"
+            "time": "131 hrs 40 mins"
         },
         {
             "language": "CSS",
-            "time": "4 hrs 51 mins"
+            "time": "5 hrs 40 mins"
         },
         {
             "language": "Dart",
-            "time": "318 hrs 9 mins"
+            "time": "335 hrs 17 mins"
         },
         {
             "language": "HTML",
-            "time": "20 hrs 22 mins"
+            "time": "21 hrs 3 mins"
         },
         {
             "language": "JSON",
-            "time": "14 hrs 30 mins"
+            "time": "14 hrs 38 mins"
         },
         {
             "language": "Java",
-            "time": "4 hrs 45 mins"
+            "time": "6 hrs 27 mins"
+        },
+        {
+            "language": "Java Properties",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "JavaScript",
-            "time": "28 hrs 19 mins"
+            "time": "29 hrs 32 mins"
         },
         {
             "language": "Kotlin",
-            "time": "47 hrs 48 mins"
+            "time": "50 hrs 26 mins"
         },
         {
             "language": "Markdown",
-            "time": "67 hrs 25 mins"
+            "time": "80 hrs 47 mins"
         },
         {
             "language": "Objective-C",
@@ -53,11 +57,11 @@
         },
         {
             "language": "PHP",
-            "time": "281 hrs 19 mins"
+            "time": "298 hrs 2 mins"
         },
         {
             "language": "Python",
-            "time": "27 hrs 5 mins"
+            "time": "28 hrs 46 mins"
         },
         {
             "language": "Smali",
@@ -65,23 +69,23 @@
         },
         {
             "language": "Swift",
-            "time": "34 hrs 55 mins"
+            "time": "35 hrs 6 mins"
         },
         {
             "language": "Text",
-            "time": "5 hrs 23 mins"
+            "time": "5 hrs 32 mins"
         },
         {
             "language": "TypeScript",
-            "time": "6 hrs 43 mins"
+            "time": "6 hrs 58 mins"
         },
         {
             "language": "XML",
-            "time": "29 hrs 37 mins"
+            "time": "30 hrs 25 mins"
         },
         {
             "language": "YAML",
-            "time": "13 hrs 43 mins"
+            "time": "15 hrs 51 mins"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "total_time": "4,459 hrs 4 mins",
+    "total_time": "4,489 hrs 59 mins",
     "updated": true,
-    "elo": 4460,
+    "elo": 4490,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "58 hrs 29 mins"
+            "time": "59 hrs 51 mins"
         },
         {
             "language": "C",
@@ -36,6 +36,10 @@
             "time": "2 hrs 57 mins"
         },
         {
+            "language": "Git",
+            "time": "3 hrs 9 mins"
+        },
+        {
             "language": "Git Config",
             "time": "6 hrs 17 mins"
         },
@@ -45,7 +49,7 @@
         },
         {
             "language": "Go",
-            "time": "948 hrs 35 mins"
+            "time": "957 hrs 39 mins"
         },
         {
             "language": "HTML",
@@ -57,7 +61,7 @@
         },
         {
             "language": "JSON",
-            "time": "39 hrs 2 mins"
+            "time": "39 hrs 18 mins"
         },
         {
             "language": "Java",
@@ -89,7 +93,7 @@
         },
         {
             "language": "Markdown",
-            "time": "392 hrs 30 mins"
+            "time": "396 hrs 42 mins"
         },
         {
             "language": "ObjectiveC",
@@ -105,11 +109,11 @@
         },
         {
             "language": "Python",
-            "time": "1,776 hrs 32 mins"
+            "time": "1,787 hrs 32 mins"
         },
         {
             "language": "SQL",
-            "time": "108 hrs 2 mins"
+            "time": "108 hrs 4 mins"
         },
         {
             "language": "Shell Script",
@@ -117,7 +121,7 @@
         },
         {
             "language": "TOML",
-            "time": "53 hrs 37 mins"
+            "time": "55 hrs 8 mins"
         },
         {
             "language": "TSQL",
@@ -141,7 +145,7 @@
         },
         {
             "language": "YAML",
-            "time": "89 hrs 10 mins"
+            "time": "89 hrs 29 mins"
         },
         {
             "language": "go.mod",

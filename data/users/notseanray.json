@@ -1,7 +1,7 @@
 {
-    "total_time": "1,093 hrs 4 mins",
+    "total_time": "1,100 hrs 26 mins",
     "updated": true,
-    "elo": 1319,
+    "elo": 1326,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "3 hrs 24 mins"
+            "time": "3 hrs 33 mins"
         },
         {
             "language": "C",
@@ -17,7 +17,7 @@
         },
         {
             "language": "CSV",
-            "time": "2 hrs 59 mins"
+            "time": "3 hrs 33 mins"
         },
         {
             "language": "Go",
@@ -25,7 +25,7 @@
         },
         {
             "language": "JSON",
-            "time": "9 hrs 11 mins"
+            "time": "9 hrs 33 mins"
         },
         {
             "language": "Java",
@@ -33,11 +33,11 @@
         },
         {
             "language": "Markdown",
-            "time": "9 hrs 36 mins"
+            "time": "9 hrs 49 mins"
         },
         {
             "language": "Python",
-            "time": "165 hrs 49 mins"
+            "time": "167 hrs 6 mins"
         },
         {
             "language": "RGBDS Assembly",
@@ -45,11 +45,15 @@
         },
         {
             "language": "Rust",
-            "time": "684 hrs 29 mins"
+            "time": "686 hrs 23 mins"
+        },
+        {
+            "language": "Svelte",
+            "time": "2 hrs 55 mins"
         },
         {
             "language": "TOML",
-            "time": "3 hrs"
+            "time": "2 hrs 57 mins"
         },
         {
             "language": "Text",
@@ -61,7 +65,7 @@
         },
         {
             "language": "gitignore",
-            "time": "2 hrs 46 mins"
+            "time": "2 hrs 47 mins"
         }
     ]
 }

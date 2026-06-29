@@ -1,31 +1,15 @@
 {
-    "total_time": "85 hrs 40 mins",
+    "total_time": "59 hrs 2 mins",
     "updated": true,
     "elo": 241,
     "languages": [
         {
             "language": "Dart",
-            "time": "19 hrs 59 mins"
-        },
-        {
-            "language": "Log",
-            "time": "3 hrs 22 mins"
+            "time": "30 hrs 19 mins"
         },
         {
             "language": "PHP",
-            "time": "16 hrs 8 mins"
-        },
-        {
-            "language": "Twig",
-            "time": "7 hrs 7 mins"
-        },
-        {
-            "language": "TypeScript",
-            "time": "6 hrs 9 mins"
-        },
-        {
-            "language": "Vue",
-            "time": "19 hrs 59 mins"
+            "time": "15 hrs 50 mins"
         },
         {
             "language": "Vue.js",
@@ -33,7 +17,7 @@
         },
         {
             "language": "YAML",
-            "time": "2 hrs 39 mins"
+            "time": "2 hrs 36 mins"
         }
     ]
 }

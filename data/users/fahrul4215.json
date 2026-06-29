@@ -1,19 +1,19 @@
 {
-    "total_time": "11 hrs 13 mins",
+    "total_time": "12 hrs 25 mins",
     "updated": true,
-    "elo": 106,
+    "elo": 107,
     "languages": [
         {
-            "language": "Bash",
-            "time": "2 hrs 59 mins"
+            "language": "Go",
+            "time": "3 hrs 8 mins"
         },
         {
-            "language": "PHP",
-            "time": "3 hrs 45 mins"
+            "language": "JavaScript",
+            "time": "6 hrs 1 min"
         },
         {
-            "language": "SQL",
-            "time": "4 hrs 29 mins"
+            "language": "PowerShell",
+            "time": "3 hrs 16 mins"
         }
     ]
 }

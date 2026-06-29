@@ -1,7 +1,7 @@
 {
-    "total_time": "779 hrs 29 mins",
+    "total_time": "802 hrs 29 mins",
     "updated": true,
-    "elo": 780,
+    "elo": 803,
     "languages": [
         {
             "language": "Bash",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Markdown",
-            "time": "117 hrs 45 mins"
+            "time": "121 hrs 47 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -41,11 +41,15 @@
         },
         {
             "language": "PHP",
-            "time": "335 hrs 25 mins"
+            "time": "349 hrs 41 mins"
         },
         {
             "language": "SQL",
-            "time": "17 hrs 29 mins"
+            "time": "18 hrs 31 mins"
+        },
+        {
+            "language": "Smarty",
+            "time": "3 hrs 40 mins"
         },
         {
             "language": "TypeScript",

@@ -1,7 +1,7 @@
 {
-    "total_time": "1,547 hrs 21 mins",
+    "total_time": "1,554 hrs 53 mins",
     "updated": true,
-    "elo": 1548,
+    "elo": 1555,
     "languages": [
         {
             "language": "Assembly",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C++",
-            "time": "120 hrs 51 mins"
+            "time": "120 hrs 59 mins"
         },
         {
             "language": "CMake",
@@ -41,7 +41,7 @@
         },
         {
             "language": "Go",
-            "time": "21 hrs 55 mins"
+            "time": "22 hrs 6 mins"
         },
         {
             "language": "HTML",
@@ -53,7 +53,7 @@
         },
         {
             "language": "JSON",
-            "time": "54 hrs 58 mins"
+            "time": "55 hrs 35 mins"
         },
         {
             "language": "Java",
@@ -61,7 +61,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "63 hrs 32 mins"
+            "time": "63 hrs 34 mins"
         },
         {
             "language": "KerboScript",
@@ -81,7 +81,7 @@
         },
         {
             "language": "Markdown",
-            "time": "104 hrs 2 mins"
+            "time": "104 hrs 17 mins"
         },
         {
             "language": "Nix",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Python",
-            "time": "130 hrs 16 mins"
+            "time": "131 hrs 53 mins"
         },
         {
             "language": "Ruby",
@@ -97,7 +97,7 @@
         },
         {
             "language": "Rust",
-            "time": "545 hrs 32 mins"
+            "time": "545 hrs 45 mins"
         },
         {
             "language": "Swift",
@@ -109,7 +109,7 @@
         },
         {
             "language": "Text",
-            "time": "12 hrs 58 mins"
+            "time": "13 hrs 2 mins"
         },
         {
             "language": "TypeScript",
@@ -117,7 +117,7 @@
         },
         {
             "language": "Typst",
-            "time": "34 hrs 31 mins"
+            "time": "38 hrs 55 mins"
         },
         {
             "language": "V",
@@ -133,7 +133,7 @@
         },
         {
             "language": "fish",
-            "time": "4 hrs 6 mins"
+            "time": "4 hrs 7 mins"
         }
     ]
 }

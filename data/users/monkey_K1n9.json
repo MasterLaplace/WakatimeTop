@@ -1,5 +1,5 @@
 {
-    "total_time": "36 hrs 31 mins",
+    "total_time": "36 hrs 2 mins",
     "updated": true,
     "elo": 75,
     "languages": [
@@ -9,19 +9,19 @@
         },
         {
             "language": "Blazor",
-            "time": "4 hrs 44 mins"
-        },
-        {
-            "language": "C#",
-            "time": "14 hrs 52 mins"
-        },
-        {
-            "language": "F#",
             "time": "2 hrs 42 mins"
         },
         {
+            "language": "C#",
+            "time": "17 hrs 10 mins"
+        },
+        {
+            "language": "F#",
+            "time": "2 hrs 34 mins"
+        },
+        {
             "language": "Razor",
-            "time": "9 hrs 40 mins"
+            "time": "9 hrs 3 mins"
         }
     ]
 }
