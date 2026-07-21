@@ -213,6 +213,15 @@
     fetch('./data/languages.json')
       .then(response => response.json())
       .then(languages => {
+        // Alphanumeric order, case-insensitive: "python" sorts next to "Python",
+        // and "C++11" after "C++2" rather than before it.
+        languages = [...languages].sort((a, b) =>
+          a.replace(/_/g, ' ').localeCompare(b.replace(/_/g, ' '), 'en', {
+            sensitivity: 'base',
+            numeric: true
+          })
+        );
+
         languages.forEach(language => {
           const option = document.createElement('option');
           option.value = language;
