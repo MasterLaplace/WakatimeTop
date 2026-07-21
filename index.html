@@ -276,45 +276,98 @@
       const response = await fetch('./data/global_leaderboard.json');
       const data = await response.json();
 
-      const elos = data.map(player => player.elo);
+      const elos = data.map(player => player.elo).filter(e => e > 0);
 
-      const eloCounts = elos.reduce((acc, elo) => {
-        acc[elo] = (acc[elo] || 0) + 1;
-        return acc;
-      }, {});
+      // The raw Elo values are extremely skewed (a long tail up to ~18k), so a
+      // linear histogram collapses into a spike. We bin on a log scale instead,
+      // which turns the distribution into a readable (near log-normal) bell.
+      const logs = elos.map(Math.log10);
+      const minLog = Math.min(...logs);
+      const maxLog = Math.max(...logs);
+      const BINS = 32;
+      const width = (maxLog - minLog) / BINS;
 
-      const sortedElos = Object.keys(eloCounts).map(Number).sort((a, b) => a - b);
-      const counts = sortedElos.map(elo => eloCounts[elo]);
+      const counts = new Array(BINS).fill(0);
+      logs.forEach(l => {
+        const i = Math.min(BINS - 1, Math.floor((l - minLog) / width));
+        counts[i]++;
+      });
+
+      // Bin centers, back in Elo space, for readable axis labels.
+      const centers = counts.map((_, i) => Math.round(10 ** (minLog + (i + 0.5) * width)));
+
+      // Gaussian-smoothed density overlay (kernel over bin indices).
+      const SIGMA = 1.2;
+      const smooth = counts.map((_, i) => {
+        let num = 0, den = 0;
+        counts.forEach((c, j) => {
+          const w = Math.exp(-((i - j) ** 2) / (2 * SIGMA * SIGMA));
+          num += w * c;
+          den += w;
+        });
+        return num / den;
+      });
 
       const ctx = document.getElementById('eloChart').getContext('2d');
 
+      const gradient = ctx.createLinearGradient(0, 0, 0, 400);
+      gradient.addColorStop(0, 'rgba(75, 192, 192, 0.55)');
+      gradient.addColorStop(1, 'rgba(75, 192, 192, 0.02)');
+
       new Chart(ctx, {
-        type: 'line',
         data: {
-          labels: sortedElos,
-          datasets: [{
-            label: 'Number of users',
-            data: counts,
-            borderColor: 'rgba(75, 192, 192, 1)',
-            backgroundColor: 'rgba(75, 192, 192, 0.2)',
-            fill: true,
-            tension: 0.3
-          }]
+          labels: centers,
+          datasets: [
+            {
+              type: 'bar',
+              label: 'Number of users',
+              data: counts,
+              backgroundColor: 'rgba(75, 192, 192, 0.35)',
+              borderColor: 'rgba(75, 192, 192, 0.7)',
+              borderWidth: 1,
+              borderRadius: 3,
+              categoryPercentage: 1.0,
+              barPercentage: 0.96
+            },
+            {
+              type: 'line',
+              label: 'Smoothed density',
+              data: smooth,
+              borderColor: 'rgba(180, 230, 255, 1)',
+              backgroundColor: gradient,
+              borderWidth: 2,
+              fill: true,
+              tension: 0.4,
+              pointRadius: 0
+            }
+          ]
         },
         options: {
           plugins: {
             title: {
               display: true,
-              text: 'Distribution of Elo scores'
+              text: 'Distribution of Elo scores (log-binned)'
+            },
+            tooltip: {
+              callbacks: {
+                title: items => `~${Number(items[0].label).toLocaleString()} Elo`
+              }
             }
           },
           scales: {
             x: {
               title: {
                 display: true,
-                text: 'Score Elo'
+                text: 'Score Elo (log scale)'
               },
-              type: 'linear'
+              ticks: {
+                maxRotation: 0,
+                autoSkipPadding: 20,
+                callback(value) {
+                  return Number(this.getLabelForValue(value)).toLocaleString();
+                }
+              },
+              grid: { display: false }
             },
             y: {
               title: {
