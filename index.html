@@ -161,10 +161,20 @@
     </label>
   </div>
   <main>
-    <label for="language-select">Choose a language:</label>
+    <label for="language-search">Choose a language:</label>
+    <input id="language-search" type="search" placeholder="Filter languages… (e.g. rust)"
+           autocomplete="off" style="margin: 0 0.5rem; padding: 0.3rem;">
     <select id="language-select">
       <option value="" selected>Global Leaderboard</option>
     </select>
+
+    <div style="margin-top: 1rem;">
+      <label for="user-search">Search a user:</label>
+      <input id="user-search" type="search" placeholder="Username…"
+             autocomplete="off" style="margin: 0 0.5rem; padding: 0.3rem;">
+      <span id="user-search-count" style="opacity: 0.7;"></span>
+    </div>
+
     <table id="leaderboard-table" style="display: none;">
       <thead>
         <tr>
@@ -205,6 +215,10 @@
     const languageSelect = document.getElementById('language-select');
     const leaderboardTable = document.getElementById('leaderboard-table');
     const leaderboardBody = leaderboardTable.querySelector('tbody');
+    const languageSearch = document.getElementById('language-search');
+    const userSearch = document.getElementById('user-search');
+    const userSearchCount = document.getElementById('user-search-count');
+    let allLanguages = [];
 
     /**
      * Fetch the list of languages from the generated languages.json file.
@@ -222,13 +236,41 @@
           })
         );
 
-        languages.forEach(language => {
+        allLanguages = languages;
+        renderLanguageOptions('');
+      });
+
+    /**
+     * Rebuild the dropdown with only the languages matching the search query,
+     * so a specific language can be reached by typing instead of scrolling.
+     * The current selection is preserved whenever it still matches.
+     *
+     * @param {string} query - Substring to match against language names.
+     */
+    function renderLanguageOptions(query) {
+      const needle = query.trim().toLowerCase();
+      const previous = languageSelect.value;
+
+      languageSelect.innerHTML = '<option value="">Global Leaderboard</option>';
+
+      allLanguages
+        .filter(language => language.replace(/_/g, ' ').toLowerCase().includes(needle))
+        .forEach(language => {
           const option = document.createElement('option');
           option.value = language;
           option.textContent = language.replace(/_/g, ' ');
           languageSelect.appendChild(option);
         });
-      });
+
+      languageSelect.value = previous;
+      // The previous selection was filtered out: fall back to the best match.
+      if (!languageSelect.value && previous) {
+        languageSelect.selectedIndex = languageSelect.options.length > 1 ? 1 : 0;
+        languageSelect.dispatchEvent(new Event('change'));
+      }
+    }
+
+    languageSearch.addEventListener('input', () => renderLanguageOptions(languageSearch.value));
 
     /**
      * Fetch and display data for the selected language or global leaderboard.
@@ -247,6 +289,7 @@
           leaderboardBody.innerHTML = '';
           data.forEach((user, index) => {
             const row = document.createElement('tr');
+            row.dataset.username = (user.username || '').toLowerCase();
             row.innerHTML = `
               <td>${index + 1}</td>
               <td><a href="https://wakatime.com/@${user.username}" target="_blank">${user.username}</a></td>
@@ -255,8 +298,28 @@
             leaderboardBody.appendChild(row);
           });
           leaderboardTable.style.display = 'table';
+          applyUserFilter();
         });
     }
+
+    /**
+     * Hide the leaderboard rows whose username does not match the search box.
+     * Ranks stay untouched, so a matching user keeps its real position.
+     */
+    function applyUserFilter() {
+      const needle = userSearch.value.trim().toLowerCase();
+      let matches = 0;
+
+      leaderboardBody.querySelectorAll('tr').forEach(row => {
+        const visible = !needle || row.dataset.username.includes(needle);
+        row.style.display = visible ? '' : 'none';
+        if (visible) matches++;
+      });
+
+      userSearchCount.textContent = needle ? `${matches} match(es)` : '';
+    }
+
+    userSearch.addEventListener('input', applyUserFilter);
 
     /**
      * Fetch and display the global leaderboard data on page load.
