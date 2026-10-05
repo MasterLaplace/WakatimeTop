@@ -1,27 +1,79 @@
 {
-    "total_time": "48 hrs 44 mins",
-    "updated": false,
-    "elo": 45,
+    "total_time": "1,608 hrs 5 mins",
+    "updated": true,
+    "elo": 1605,
     "languages": [
         {
             "language": "Bash",
-            "time": "4 hrs 40 mins"
+            "time": "125 hrs 28 mins"
+        },
+        {
+            "language": "CSS",
+            "time": "16 hrs 45 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "14 hrs 3 mins"
+        },
+        {
+            "language": "Git Config",
+            "time": "3 hrs"
+        },
+        {
+            "language": "Go",
+            "time": "3 hrs 34 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "5 hrs 40 mins"
         },
         {
             "language": "JSON",
-            "time": "3 hrs 30 mins"
+            "time": "90 hrs 21 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "39 hrs"
+        },
+        {
+            "language": "MDX",
+            "time": "2 hrs 44 mins"
         },
         {
             "language": "Markdown",
-            "time": "5 hrs 38 mins"
+            "time": "243 hrs 34 mins"
+        },
+        {
+            "language": "Prisma",
+            "time": "2 hrs 45 mins"
+        },
+        {
+            "language": "Python",
+            "time": "44 hrs 38 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "12 hrs 37 mins"
+        },
+        {
+            "language": "SSH Config",
+            "time": "8 hrs 59 mins"
         },
         {
             "language": "Terraform",
-            "time": "4 hrs 27 mins"
+            "time": "60 hrs 4 mins"
+        },
+        {
+            "language": "Text",
+            "time": "6 hrs 38 mins"
         },
         {
             "language": "TypeScript",
-            "time": "30 hrs 29 mins"
+            "time": "879 hrs 21 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "48 hrs 54 mins"
         }
     ]
 }

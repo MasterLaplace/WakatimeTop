@@ -1,11 +1,35 @@
 {
-    "total_time": "17 hrs 51 mins",
+    "total_time": "91 hrs 43 mins",
     "updated": true,
-    "elo": 71,
+    "elo": 145,
     "languages": [
         {
+            "language": "Diff",
+            "time": "5 hrs 11 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "4 hrs 4 mins"
+        },
+        {
             "language": "Markdown",
-            "time": "17 hrs 51 mins"
+            "time": "62 hrs 48 mins"
+        },
+        {
+            "language": "Python",
+            "time": "5 hrs 27 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "4 hrs 8 mins"
+        },
+        {
+            "language": "Text",
+            "time": "4 hrs 32 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "5 hrs 33 mins"
         }
     ]
 }

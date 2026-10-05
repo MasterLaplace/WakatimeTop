@@ -1,11 +1,11 @@
 {
-    "total_time": "5,737 hrs 18 mins",
+    "total_time": "6,303 hrs 17 mins",
     "updated": true,
-    "elo": 5738,
+    "elo": 6304,
     "languages": [
         {
             "language": "Bash",
-            "time": "183 hrs 4 mins"
+            "time": "202 hrs 5 mins"
         },
         {
             "language": "C",
@@ -13,27 +13,31 @@
         },
         {
             "language": "C++",
-            "time": "85 hrs 12 mins"
+            "time": "85 hrs 27 mins"
         },
         {
             "language": "CSS",
-            "time": "46 hrs 19 mins"
+            "time": "46 hrs 40 mins"
         },
         {
             "language": "CSV",
-            "time": "5 hrs 9 mins"
+            "time": "5 hrs 11 mins"
         },
         {
             "language": "Dart",
-            "time": "207 hrs 16 mins"
+            "time": "358 hrs 41 mins"
+        },
+        {
+            "language": "Diff",
+            "time": "3 hrs"
         },
         {
             "language": "Docker",
-            "time": "18 hrs 45 mins"
+            "time": "20 hrs 22 mins"
         },
         {
             "language": "Go",
-            "time": "42 hrs 6 mins"
+            "time": "42 hrs 47 mins"
         },
         {
             "language": "GraphQL",
@@ -41,39 +45,39 @@
         },
         {
             "language": "HTML",
-            "time": "70 hrs 36 mins"
+            "time": "74 hrs 8 mins"
         },
         {
             "language": "INI",
-            "time": "6 hrs 36 mins"
+            "time": "6 hrs 39 mins"
         },
         {
             "language": "JSON",
-            "time": "180 hrs 32 mins"
+            "time": "191 hrs 10 mins"
         },
         {
             "language": "Java",
-            "time": "11 hrs 8 mins"
+            "time": "11 hrs 29 mins"
         },
         {
             "language": "JavaScript",
-            "time": "564 hrs 50 mins"
+            "time": "580 hrs 51 mins"
         },
         {
             "language": "Lua",
-            "time": "54 hrs 5 mins"
+            "time": "54 hrs 36 mins"
         },
         {
             "language": "Makefile",
-            "time": "5 hrs 9 mins"
+            "time": "8 hrs 5 mins"
         },
         {
             "language": "Markdown",
-            "time": "129 hrs 18 mins"
+            "time": "151 hrs 8 mins"
         },
         {
             "language": "Mustache",
-            "time": "4 hrs 14 mins"
+            "time": "4 hrs 17 mins"
         },
         {
             "language": "Nginx",
@@ -85,7 +89,7 @@
         },
         {
             "language": "Python",
-            "time": "53 hrs 14 mins"
+            "time": "56 hrs 7 mins"
         },
         {
             "language": "Rust",
@@ -93,7 +97,7 @@
         },
         {
             "language": "SQL",
-            "time": "11 hrs 52 mins"
+            "time": "12 hrs 12 mins"
         },
         {
             "language": "Smali",
@@ -105,39 +109,43 @@
         },
         {
             "language": "TSConfig",
-            "time": "15 hrs 4 mins"
+            "time": "15 hrs 27 mins"
         },
         {
             "language": "Text",
-            "time": "11 hrs 55 mins"
+            "time": "12 hrs 8 mins"
         },
         {
             "language": "TypeScript",
-            "time": "3,691 hrs 19 mins"
+            "time": "4,005 hrs 35 mins"
         },
         {
             "language": "XML",
-            "time": "10 hrs 36 mins"
+            "time": "11 hrs 6 mins"
         },
         {
             "language": "YAML",
-            "time": "85 hrs 48 mins"
+            "time": "95 hrs 56 mins"
         },
         {
             "language": "conf",
-            "time": "28 hrs 50 mins"
+            "time": "29 hrs 25 mins"
         },
         {
             "language": "gitignore",
-            "time": "6 hrs 55 mins"
+            "time": "7 hrs 17 mins"
+        },
+        {
+            "language": "hyprlang",
+            "time": "2 hrs 48 mins"
         },
         {
             "language": "sh",
-            "time": "9 hrs 50 mins"
+            "time": "11 hrs 2 mins"
         },
         {
             "language": "sshconfig",
-            "time": "6 hrs 33 mins"
+            "time": "6 hrs 35 mins"
         }
     ]
 }

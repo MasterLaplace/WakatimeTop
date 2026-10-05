@@ -1,15 +1,19 @@
 {
-    "total_time": "28 hrs 41 mins",
+    "total_time": "19 hrs 41 mins",
     "updated": true,
     "elo": 46,
     "languages": [
         {
             "language": "AL",
-            "time": "20 hrs 39 mins"
+            "time": "8 hrs 53 mins"
         },
         {
             "language": "PowerShell",
-            "time": "8 hrs 2 mins"
+            "time": "5 hrs 19 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "5 hrs 29 mins"
         }
     ]
 }

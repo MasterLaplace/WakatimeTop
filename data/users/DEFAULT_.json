@@ -1,0 +1,75 @@
+{
+    "total_time": "1,127 hrs 47 mins",
+    "updated": true,
+    "elo": 1128,
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "32 hrs 36 mins"
+        },
+        {
+            "language": "C",
+            "time": "68 hrs 34 mins"
+        },
+        {
+            "language": "C++",
+            "time": "33 hrs 2 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "4 hrs 25 mins"
+        },
+        {
+            "language": "Go",
+            "time": "28 hrs 40 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "13 hrs 33 mins"
+        },
+        {
+            "language": "Java",
+            "time": "5 hrs 52 mins"
+        },
+        {
+            "language": "Makefile",
+            "time": "17 hrs 53 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "137 hrs 45 mins"
+        },
+        {
+            "language": "Python",
+            "time": "153 hrs 48 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "514 hrs 30 mins"
+        },
+        {
+            "language": "Swift",
+            "time": "19 hrs 56 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "21 hrs 33 mins"
+        },
+        {
+            "language": "TeX",
+            "time": "13 hrs 43 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "2 hrs 30 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "55 hrs 23 mins"
+        },
+        {
+            "language": "reStructuredText",
+            "time": "4 hrs 4 mins"
+        }
+    ]
+}

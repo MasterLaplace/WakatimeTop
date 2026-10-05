@@ -1,7 +1,7 @@
 {
-    "total_time": "4,088 hrs 42 mins",
+    "total_time": "5,565 hrs 13 mins",
     "updated": true,
-    "elo": 4140,
+    "elo": 5617,
     "languages": [
         {
             "language": ".env file",
@@ -9,35 +9,39 @@
         },
         {
             "language": "Bash",
-            "time": "51 hrs 48 mins"
+            "time": "74 hrs 58 mins"
         },
         {
             "language": "CSS",
-            "time": "3 hrs 23 mins"
+            "time": "3 hrs 49 mins"
+        },
+        {
+            "language": "Diff",
+            "time": "2 hrs 50 mins"
         },
         {
             "language": "Docker",
-            "time": "17 hrs 23 mins"
+            "time": "18 hrs 2 mins"
         },
         {
             "language": "Git Config",
-            "time": "3 hrs 30 mins"
+            "time": "4 hrs 20 mins"
         },
         {
             "language": "HTML",
-            "time": "5 hrs 39 mins"
+            "time": "5 hrs 12 mins"
         },
         {
             "language": "JSON",
-            "time": "235 hrs 7 mins"
+            "time": "285 hrs 8 mins"
         },
         {
             "language": "JSON with Comments",
-            "time": "3 hrs 20 mins"
+            "time": "3 hrs 28 mins"
         },
         {
             "language": "JavaScript",
-            "time": "96 hrs 28 mins"
+            "time": "125 hrs 59 mins"
         },
         {
             "language": "Jupyter",
@@ -49,27 +53,27 @@
         },
         {
             "language": "MDX",
-            "time": "3 hrs"
+            "time": "6 hrs 45 mins"
         },
         {
             "language": "Markdown",
-            "time": "227 hrs 2 mins"
+            "time": "534 hrs 53 mins"
         },
         {
             "language": "Prisma",
-            "time": "6 hrs 2 mins"
+            "time": "13 hrs 27 mins"
         },
         {
             "language": "Python",
-            "time": "25 hrs 21 mins"
+            "time": "28 hrs 55 mins"
         },
         {
             "language": "Rust",
-            "time": "266 hrs 40 mins"
+            "time": "469 hrs 12 mins"
         },
         {
             "language": "SQL",
-            "time": "74 hrs 26 mins"
+            "time": "83 hrs 33 mins"
         },
         {
             "language": "Solidity",
@@ -81,27 +85,27 @@
         },
         {
             "language": "TOML",
-            "time": "4 hrs 10 mins"
+            "time": "7 hrs 4 mins"
         },
         {
             "language": "TSConfig",
-            "time": "20 hrs 10 mins"
+            "time": "21 hrs 25 mins"
         },
         {
             "language": "Text",
-            "time": "13 hrs 23 mins"
+            "time": "17 hrs 9 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,845 hrs 25 mins"
+            "time": "3,646 hrs 13 mins"
         },
         {
             "language": "XML",
-            "time": "3 hrs 20 mins"
+            "time": "3 hrs 21 mins"
         },
         {
             "language": "YAML",
-            "time": "91 hrs 13 mins"
+            "time": "111 hrs 59 mins"
         },
         {
             "language": "ZModel",
@@ -109,7 +113,7 @@
         },
         {
             "language": "Zmodel",
-            "time": "5 hrs 55 mins"
+            "time": "11 hrs 34 mins"
         }
     ]
 }

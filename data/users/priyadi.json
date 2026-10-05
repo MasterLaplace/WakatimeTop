@@ -1,55 +1,51 @@
 {
-    "total_time": "563 hrs 2 mins",
+    "total_time": "168 hrs 50 mins",
     "updated": true,
     "elo": 2071,
     "languages": [
         {
             "language": "Bash",
-            "time": "18 hrs 23 mins"
+            "time": "16 hrs 8 mins"
+        },
+        {
+            "language": "Go",
+            "time": "3 hrs 12 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "JSON",
-            "time": "14 hrs 15 mins"
+            "time": "10 hrs 30 mins"
         },
         {
             "language": "JavaScript",
-            "time": "2 hrs 53 mins"
+            "time": "2 hrs 48 mins"
         },
         {
             "language": "MDX",
-            "time": "9 hrs 52 mins"
+            "time": "11 hrs 18 mins"
         },
         {
             "language": "Makefile",
-            "time": "5 hrs 59 mins"
+            "time": "4 hrs 50 mins"
         },
         {
             "language": "Markdown",
-            "time": "75 hrs 35 mins"
+            "time": "47 hrs 8 mins"
         },
         {
             "language": "PHP",
-            "time": "388 hrs 46 mins"
-        },
-        {
-            "language": "PlantUML",
-            "time": "8 hrs 12 mins"
+            "time": "47 hrs 32 mins"
         },
         {
             "language": "Text",
-            "time": "3 hrs 53 mins"
-        },
-        {
-            "language": "Twig",
-            "time": "8 hrs 16 mins"
-        },
-        {
-            "language": "XML",
-            "time": "5 hrs 38 mins"
+            "time": "4 hrs 13 mins"
         },
         {
             "language": "YAML",
-            "time": "21 hrs 20 mins"
+            "time": "18 hrs 20 mins"
         }
     ]
 }

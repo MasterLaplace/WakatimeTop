@@ -1,11 +1,11 @@
 {
-    "total_time": "802 hrs 29 mins",
+    "total_time": "895 hrs 3 mins",
     "updated": true,
-    "elo": 803,
+    "elo": 896,
     "languages": [
         {
             "language": "Bash",
-            "time": "9 hrs 2 mins"
+            "time": "8 hrs 45 mins"
         },
         {
             "language": "Blade Template",
@@ -25,7 +25,7 @@
         },
         {
             "language": "INI",
-            "time": "3 hrs 11 mins"
+            "time": "3 hrs 20 mins"
         },
         {
             "language": "JavaScript",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Markdown",
-            "time": "121 hrs 47 mins"
+            "time": "154 hrs 5 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -41,15 +41,15 @@
         },
         {
             "language": "PHP",
-            "time": "349 hrs 41 mins"
+            "time": "401 hrs 32 mins"
         },
         {
             "language": "SQL",
-            "time": "18 hrs 31 mins"
+            "time": "24 hrs 7 mins"
         },
         {
             "language": "Smarty",
-            "time": "3 hrs 40 mins"
+            "time": "6 hrs 4 mins"
         },
         {
             "language": "TypeScript",
@@ -57,7 +57,7 @@
         },
         {
             "language": "YAML",
-            "time": "13 hrs 17 mins"
+            "time": "13 hrs 50 mins"
         }
     ]
 }

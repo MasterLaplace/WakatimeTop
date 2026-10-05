@@ -1,39 +1,47 @@
 {
-    "total_time": "853 hrs 30 mins",
+    "total_time": "1,019 hrs 9 mins",
     "updated": true,
-    "elo": 854,
+    "elo": 1020,
     "languages": [
         {
+            "language": "CSS",
+            "time": "4 hrs 8 mins"
+        },
+        {
             "language": "Elixir",
-            "time": "688 hrs 17 mins"
+            "time": "837 hrs 48 mins"
         },
         {
             "language": "Elixir Script",
-            "time": "58 hrs 57 mins"
+            "time": "53 hrs 13 mins"
         },
         {
             "language": "HTML",
-            "time": "26 hrs 17 mins"
+            "time": "34 hrs 15 mins"
         },
         {
             "language": "JSON",
-            "time": "7 hrs 4 mins"
+            "time": "5 hrs 20 mins"
         },
         {
             "language": "JavaScript",
-            "time": "29 hrs 18 mins"
+            "time": "35 hrs 24 mins"
         },
         {
             "language": "Markdown",
-            "time": "31 hrs 12 mins"
+            "time": "31 hrs 13 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "6 hrs 31 mins"
         },
         {
             "language": "Text",
-            "time": "6 hrs 29 mins"
+            "time": "6 hrs 15 mins"
         },
         {
             "language": "YAML",
-            "time": "5 hrs 56 mins"
+            "time": "5 hrs 2 mins"
         }
     ]
 }

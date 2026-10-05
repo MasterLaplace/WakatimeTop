@@ -1,11 +1,11 @@
 {
-    "total_time": "2,921 hrs 38 mins",
-    "updated": false,
-    "elo": 2922,
+    "total_time": "2,974 hrs 3 mins",
+    "updated": true,
+    "elo": 2975,
     "languages": [
         {
             "language": "Assembly",
-            "time": "76 hrs 19 mins"
+            "time": "76 hrs 42 mins"
         },
         {
             "language": "Bash",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C",
-            "time": "69 hrs 11 mins"
+            "time": "75 hrs 11 mins"
         },
         {
             "language": "C#",
@@ -25,7 +25,7 @@
         },
         {
             "language": "C++",
-            "time": "792 hrs 34 mins"
+            "time": "831 hrs 5 mins"
         },
         {
             "language": "CMake",
@@ -45,7 +45,7 @@
         },
         {
             "language": "JSON",
-            "time": "38 hrs 39 mins"
+            "time": "39 hrs 20 mins"
         },
         {
             "language": "Java",
@@ -53,15 +53,15 @@
         },
         {
             "language": "JavaScript",
-            "time": "855 hrs 52 mins"
+            "time": "856 hrs 3 mins"
         },
         {
             "language": "Linker Script",
-            "time": "5 hrs 29 mins"
+            "time": "5 hrs 56 mins"
         },
         {
             "language": "Lua",
-            "time": "504 hrs 46 mins"
+            "time": "505 hrs 35 mins"
         },
         {
             "language": "Luau",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Makefile",
-            "time": "59 hrs 51 mins"
+            "time": "61 hrs 41 mins"
         },
         {
             "language": "Markdown",
@@ -81,11 +81,11 @@
         },
         {
             "language": "Python",
-            "time": "18 hrs 10 mins"
+            "time": "18 hrs 11 mins"
         },
         {
             "language": "RGBDS Assembly",
-            "time": "5 hrs 44 mins"
+            "time": "9 hrs 3 mins"
         },
         {
             "language": "Rust",
@@ -97,11 +97,11 @@
         },
         {
             "language": "Text",
-            "time": "21 hrs 37 mins"
+            "time": "21 hrs 45 mins"
         },
         {
             "language": "TypeScript",
-            "time": "87 hrs 33 mins"
+            "time": "87 hrs 38 mins"
         },
         {
             "language": "XML",

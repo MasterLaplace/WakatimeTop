@@ -1,31 +1,31 @@
 {
-    "total_time": "5,180 hrs 48 mins",
+    "total_time": "5,420 hrs 40 mins",
     "updated": true,
-    "elo": 5181,
+    "elo": 5421,
     "languages": [
         {
             "language": "Dart",
-            "time": "4,760 hrs 50 mins"
+            "time": "4,958 hrs 7 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "3 hrs 58 mins"
+            "time": "4 hrs"
         },
         {
             "language": "Gradle",
-            "time": "17 hrs 35 mins"
+            "time": "17 hrs 43 mins"
         },
         {
             "language": "Groovy",
-            "time": "29 hrs 34 mins"
+            "time": "29 hrs 54 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "2 hrs 34 mins"
+            "time": "2 hrs 53 mins"
         },
         {
             "language": "JSON",
-            "time": "58 hrs 16 mins"
+            "time": "60 hrs 51 mins"
         },
         {
             "language": "Java",
@@ -33,15 +33,15 @@
         },
         {
             "language": "Java Properties",
-            "time": "5 hrs 37 mins"
+            "time": "5 hrs 39 mins"
         },
         {
             "language": "Kotlin",
-            "time": "39 hrs 55 mins"
+            "time": "40 hrs 33 mins"
         },
         {
             "language": "Markdown",
-            "time": "20 hrs 30 mins"
+            "time": "43 hrs 8 mins"
         },
         {
             "language": "ObjectiveC",
@@ -52,24 +52,28 @@
             "time": "6 hrs 17 mins"
         },
         {
+            "language": "Python",
+            "time": "2 hrs 30 mins"
+        },
+        {
             "language": "Swift",
-            "time": "25 hrs 16 mins"
+            "time": "26 hrs 25 mins"
         },
         {
             "language": "Text",
-            "time": "38 hrs 3 mins"
+            "time": "44 hrs 50 mins"
         },
         {
             "language": "XML",
-            "time": "35 hrs 12 mins"
+            "time": "38 hrs 10 mins"
         },
         {
             "language": "YAML",
-            "time": "120 hrs 16 mins"
+            "time": "122 hrs 44 mins"
         },
         {
             "language": "textmate",
-            "time": "9 hrs 26 mins"
+            "time": "9 hrs 27 mins"
         }
     ]
 }

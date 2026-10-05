@@ -1,23 +1,23 @@
 {
-    "total_time": "5,328 hrs 19 mins",
+    "total_time": "5,942 hrs 53 mins",
     "updated": true,
-    "elo": 5329,
+    "elo": 5943,
     "languages": [
         {
             "language": "Bash",
-            "time": "94 hrs 3 mins"
+            "time": "121 hrs 27 mins"
         },
         {
             "language": "CSS",
-            "time": "46 hrs 47 mins"
+            "time": "48 hrs 32 mins"
         },
         {
             "language": "Docker",
-            "time": "4 hrs 38 mins"
+            "time": "5 hrs 7 mins"
         },
         {
             "language": "Git Config",
-            "time": "4 hrs 47 mins"
+            "time": "5 hrs 28 mins"
         },
         {
             "language": "Go",
@@ -25,43 +25,51 @@
         },
         {
             "language": "HTML",
-            "time": "44 hrs 35 mins"
+            "time": "51 hrs 32 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "5 hrs 21 mins"
+            "time": "10 hrs 16 mins"
         },
         {
             "language": "JSON",
-            "time": "37 hrs 29 mins"
+            "time": "45 hrs 19 mins"
         },
         {
             "language": "JavaScript",
-            "time": "144 hrs 2 mins"
+            "time": "196 hrs 13 mins"
         },
         {
             "language": "Markdown",
-            "time": "33 hrs 22 mins"
+            "time": "128 hrs 2 mins"
         },
         {
             "language": "Pug",
             "time": "3 hrs 24 mins"
         },
         {
+            "language": "Python",
+            "time": "5 hrs 20 mins"
+        },
+        {
             "language": "SCSS",
-            "time": "17 hrs 13 mins"
+            "time": "17 hrs 18 mins"
         },
         {
             "language": "TSConfig",
-            "time": "3 hrs 43 mins"
+            "time": "3 hrs 48 mins"
+        },
+        {
+            "language": "Text",
+            "time": "5 hrs 14 mins"
         },
         {
             "language": "TypeScript",
-            "time": "4,723 hrs 4 mins"
+            "time": "5,123 hrs 21 mins"
         },
         {
             "language": "YAML",
-            "time": "37 hrs 38 mins"
+            "time": "44 hrs 19 mins"
         }
     ]
 }

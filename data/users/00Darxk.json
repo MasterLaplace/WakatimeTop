@@ -1,7 +1,7 @@
 {
-    "total_time": "2,358 hrs 16 mins",
+    "total_time": "2,533 hrs 32 mins",
     "updated": true,
-    "elo": 2399,
+    "elo": 2574,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "57 hrs 30 mins"
+            "time": "66 hrs 29 mins"
         },
         {
             "language": "BibTeX",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C",
-            "time": "16 hrs 7 mins"
+            "time": "16 hrs 19 mins"
         },
         {
             "language": "C#",
@@ -25,55 +25,55 @@
         },
         {
             "language": "CSS",
-            "time": "7 hrs 9 mins"
+            "time": "7 hrs 10 mins"
         },
         {
             "language": "CSV",
-            "time": "2 hrs 55 mins"
+            "time": "3 hrs 1 min"
         },
         {
             "language": "Docker",
-            "time": "4 hrs 43 mins"
+            "time": "6 hrs 10 mins"
         },
         {
             "language": "Git Config",
-            "time": "4 hrs 44 mins"
+            "time": "5 hrs 7 mins"
         },
         {
             "language": "HTML",
-            "time": "5 hrs 37 mins"
+            "time": "9 hrs 55 mins"
         },
         {
             "language": "JSON",
-            "time": "17 hrs 2 mins"
+            "time": "21 hrs 57 mins"
         },
         {
             "language": "Java",
-            "time": "80 hrs 50 mins"
+            "time": "83 hrs 11 mins"
         },
         {
             "language": "JavaScript",
-            "time": "3 hrs 34 mins"
+            "time": "3 hrs 46 mins"
         },
         {
             "language": "Lua",
-            "time": "2 hrs 56 mins"
+            "time": "6 hrs 52 mins"
         },
         {
             "language": "Makefile",
-            "time": "7 hrs 50 mins"
+            "time": "17 hrs 13 mins"
         },
         {
             "language": "Markdown",
-            "time": "100 hrs 18 mins"
+            "time": "115 hrs 14 mins"
         },
         {
             "language": "OCaml",
-            "time": "7 hrs 21 mins"
+            "time": "7 hrs 27 mins"
         },
         {
             "language": "PHP",
-            "time": "10 hrs 32 mins"
+            "time": "10 hrs 35 mins"
         },
         {
             "language": "PlantUML",
@@ -81,19 +81,23 @@
         },
         {
             "language": "Python",
-            "time": "771 hrs 16 mins"
+            "time": "832 hrs 34 mins"
         },
         {
             "language": "TeX",
-            "time": "1,077 hrs 1 min"
+            "time": "1,102 hrs 13 mins"
         },
         {
             "language": "Text",
-            "time": "17 hrs 20 mins"
+            "time": "17 hrs 42 mins"
         },
         {
             "language": "YAML",
-            "time": "51 hrs 11 mins"
+            "time": "85 hrs 5 mins"
+        },
+        {
+            "language": "conf",
+            "time": "3 hrs 12 mins"
         }
     ]
 }

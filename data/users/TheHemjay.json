@@ -1,15 +1,15 @@
 {
-    "total_time": "1,324 hrs 43 mins",
+    "total_time": "1,404 hrs 58 mins",
     "updated": true,
-    "elo": 1325,
+    "elo": 1405,
     "languages": [
         {
             "language": "Bash",
-            "time": "86 hrs 29 mins"
+            "time": "93 hrs 32 mins"
         },
         {
             "language": "CSS",
-            "time": "18 hrs 59 mins"
+            "time": "21 hrs 14 mins"
         },
         {
             "language": "Docker",
@@ -17,39 +17,43 @@
         },
         {
             "language": "Git Config",
-            "time": "5 hrs 23 mins"
+            "time": "5 hrs 33 mins"
         },
         {
-            "language": "JSON",
-            "time": "77 hrs 6 mins"
-        },
-        {
-            "language": "JavaScript",
-            "time": "237 hrs 17 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "44 hrs 12 mins"
-        },
-        {
-            "language": "SQL",
-            "time": "2 hrs 53 mins"
-        },
-        {
-            "language": "Solidity",
-            "time": "235 hrs 42 mins"
-        },
-        {
-            "language": "TSConfig",
+            "language": "HTML",
             "time": "3 hrs 55 mins"
         },
         {
+            "language": "JSON",
+            "time": "78 hrs 18 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "245 hrs 20 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "47 hrs 2 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "3 hrs 24 mins"
+        },
+        {
+            "language": "Solidity",
+            "time": "235 hrs 48 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "4 hrs 12 mins"
+        },
+        {
             "language": "TypeScript",
-            "time": "605 hrs 26 mins"
+            "time": "659 hrs 4 mins"
         },
         {
             "language": "YAML",
-            "time": "2 hrs 55 mins"
+            "time": "3 hrs 10 mins"
         }
     ]
 }

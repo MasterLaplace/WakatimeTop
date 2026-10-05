@@ -1,15 +1,15 @@
 {
-    "total_time": "1,686 hrs 52 mins",
+    "total_time": "1,784 hrs 41 mins",
     "updated": true,
-    "elo": 1685,
+    "elo": 1783,
     "languages": [
         {
             "language": "Astro",
-            "time": "7 hrs"
+            "time": "7 hrs 51 mins"
         },
         {
             "language": "Bash",
-            "time": "17 hrs 58 mins"
+            "time": "18 hrs 13 mins"
         },
         {
             "language": "C#",
@@ -41,7 +41,7 @@
         },
         {
             "language": "HTML",
-            "time": "71 hrs 32 mins"
+            "time": "73 hrs 17 mins"
         },
         {
             "language": "HTTP Request",
@@ -57,7 +57,7 @@
         },
         {
             "language": "JSON",
-            "time": "43 hrs 51 mins"
+            "time": "45 hrs 10 mins"
         },
         {
             "language": "Java",
@@ -65,7 +65,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "37 hrs 2 mins"
+            "time": "38 hrs 31 mins"
         },
         {
             "language": "Jinja",
@@ -81,15 +81,15 @@
         },
         {
             "language": "Markdown",
-            "time": "26 hrs 32 mins"
+            "time": "39 hrs 16 mins"
         },
         {
             "language": "Python",
-            "time": "15 hrs 23 mins"
+            "time": "15 hrs 44 mins"
         },
         {
             "language": "Ruby",
-            "time": "40 hrs 35 mins"
+            "time": "41 hrs"
         },
         {
             "language": "Rust",
@@ -105,7 +105,7 @@
         },
         {
             "language": "Swift",
-            "time": "549 hrs 13 mins"
+            "time": "615 hrs 21 mins"
         },
         {
             "language": "Terraform",
@@ -113,7 +113,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "501 hrs 57 mins"
+            "time": "511 hrs 34 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 55 mins"
         },
         {
             "language": "YAML",

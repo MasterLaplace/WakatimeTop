@@ -1,7 +1,7 @@
 {
-    "total_time": "2,402 hrs 48 mins",
+    "total_time": "2,811 hrs",
     "updated": true,
-    "elo": 2403,
+    "elo": 2811,
     "languages": [
         {
             "language": "Assembly",
@@ -12,12 +12,20 @@
             "time": "3 hrs 48 mins"
         },
         {
+            "language": "C",
+            "time": "7 hrs 23 mins"
+        },
+        {
             "language": "C#",
-            "time": "9 hrs 5 mins"
+            "time": "9 hrs 6 mins"
+        },
+        {
+            "language": "C++",
+            "time": "124 hrs 30 mins"
         },
         {
             "language": "CSS",
-            "time": "4 hrs 30 mins"
+            "time": "12 hrs 47 mins"
         },
         {
             "language": "Ezhil",
@@ -29,35 +37,43 @@
         },
         {
             "language": "HTML",
-            "time": "5 hrs 28 mins"
+            "time": "5 hrs 29 mins"
         },
         {
             "language": "JSON",
-            "time": "54 hrs"
+            "time": "57 hrs 59 mins"
         },
         {
             "language": "Java",
-            "time": "777 hrs 35 mins"
+            "time": "818 hrs 56 mins"
         },
         {
             "language": "JavaScript",
-            "time": "4 hrs 20 mins"
+            "time": "7 hrs 40 mins"
         },
         {
             "language": "Kotlin",
-            "time": "1,281 hrs 40 mins"
+            "time": "1,450 hrs 49 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "10 hrs 36 mins"
+        },
+        {
+            "language": "Python",
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "RuneScript",
-            "time": "99 hrs 42 mins"
+            "time": "104 hrs 38 mins"
         },
         {
             "language": "RuneScript Symbol",
-            "time": "3 hrs 51 mins"
+            "time": "4 hrs 16 mins"
         },
         {
             "language": "TOML",
-            "time": "23 hrs 41 mins"
+            "time": "28 hrs"
         },
         {
             "language": "TSQL",
@@ -65,11 +81,19 @@
         },
         {
             "language": "Text",
-            "time": "63 hrs 15 mins"
+            "time": "64 hrs 39 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "19 hrs 8 mins"
+        },
+        {
+            "language": "XML",
+            "time": "6 hrs 31 mins"
         },
         {
             "language": "textmate",
-            "time": "38 hrs 1 min"
+            "time": "38 hrs 2 mins"
         }
     ]
 }

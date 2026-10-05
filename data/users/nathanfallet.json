@@ -1,11 +1,15 @@
 {
-    "total_time": "43 hrs 34 mins",
+    "total_time": "66 hrs 32 mins",
     "updated": true,
-    "elo": 181,
+    "elo": 204,
     "languages": [
         {
             "language": "Assembly",
             "time": "3 hrs 20 mins"
+        },
+        {
+            "language": "Java",
+            "time": "3 hrs 52 mins"
         },
         {
             "language": "Jupyter",
@@ -13,19 +17,19 @@
         },
         {
             "language": "Kotlin",
-            "time": "16 hrs 28 mins"
+            "time": "18 hrs 42 mins"
         },
         {
             "language": "Markdown",
-            "time": "10 hrs 19 mins"
+            "time": "21 hrs 59 mins"
         },
         {
-            "language": "TypeScript",
-            "time": "2 hrs 39 mins"
+            "language": "Text",
+            "time": "4 hrs 11 mins"
         },
         {
             "language": "YAML",
-            "time": "7 hrs 18 mins"
+            "time": "10 hrs 58 mins"
         }
     ]
 }

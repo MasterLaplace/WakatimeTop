@@ -1,19 +1,19 @@
 {
-    "total_time": "2,205 hrs 25 mins",
+    "total_time": "2,494 hrs 55 mins",
     "updated": true,
-    "elo": 2206,
+    "elo": 2495,
     "languages": [
         {
             "language": "Bash",
-            "time": "6 hrs 49 mins"
+            "time": "7 hrs 6 mins"
         },
         {
             "language": "C++",
-            "time": "10 hrs 28 mins"
+            "time": "11 hrs 5 mins"
         },
         {
             "language": "CSS",
-            "time": "18 hrs 37 mins"
+            "time": "18 hrs 38 mins"
         },
         {
             "language": "CSV",
@@ -21,51 +21,55 @@
         },
         {
             "language": "Dart",
-            "time": "71 hrs 14 mins"
+            "time": "150 hrs 27 mins"
         },
         {
             "language": "GLSL",
-            "time": "50 hrs 16 mins"
+            "time": "53 hrs 58 mins"
         },
         {
             "language": "HTML",
-            "time": "297 hrs 49 mins"
+            "time": "308 hrs 45 mins"
         },
         {
             "language": "Image (svg)",
-            "time": "4 hrs 15 mins"
+            "time": "4 hrs 16 mins"
         },
         {
             "language": "JSON",
-            "time": "43 hrs 54 mins"
+            "time": "45 hrs 46 mins"
         },
         {
             "language": "JavaScript",
-            "time": "959 hrs 26 mins"
+            "time": "1,074 hrs 12 mins"
+        },
+        {
+            "language": "MDX",
+            "time": "2 hrs 58 mins"
         },
         {
             "language": "Markdown",
-            "time": "101 hrs 41 mins"
+            "time": "143 hrs 47 mins"
         },
         {
             "language": "Python",
-            "time": "28 hrs 5 mins"
+            "time": "28 hrs 56 mins"
         },
         {
             "language": "SCSS",
-            "time": "203 hrs"
+            "time": "211 hrs 14 mins"
         },
         {
             "language": "Text",
-            "time": "6 hrs 3 mins"
+            "time": "7 hrs 28 mins"
         },
         {
             "language": "TypeScript",
-            "time": "395 hrs 10 mins"
+            "time": "415 hrs 46 mins"
         },
         {
             "language": "YAML",
-            "time": "5 hrs 43 mins"
+            "time": "7 hrs 38 mins"
         }
     ]
 }

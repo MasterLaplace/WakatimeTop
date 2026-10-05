@@ -1,15 +1,19 @@
 {
-    "total_time": "30 hrs 42 mins",
+    "total_time": "40 hrs 46 mins",
     "updated": true,
-    "elo": 90,
+    "elo": 100,
     "languages": [
+        {
+            "language": "C++",
+            "time": "13 hrs 15 mins"
+        },
         {
             "language": "Java",
             "time": "13 hrs 25 mins"
         },
         {
             "language": "Markdown",
-            "time": "17 hrs 17 mins"
+            "time": "14 hrs 6 mins"
         }
     ]
 }

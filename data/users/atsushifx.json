@@ -1,31 +1,23 @@
 {
-    "total_time": "80 hrs 29 mins",
+    "total_time": "62 hrs 52 mins",
     "updated": true,
     "elo": 84,
     "languages": [
         {
             "language": "Bash",
-            "time": "7 hrs 9 mins"
+            "time": "21 hrs 2 mins"
         },
         {
             "language": "Git",
-            "time": "13 hrs 12 mins"
+            "time": "11 hrs 9 mins"
         },
         {
             "language": "Markdown",
-            "time": "29 hrs 38 mins"
+            "time": "26 hrs 40 mins"
         },
         {
             "language": "TypeScript",
-            "time": "22 hrs 3 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "4 hrs 58 mins"
-        },
-        {
-            "language": "gitrebase",
-            "time": "3 hrs 29 mins"
+            "time": "4 hrs 1 min"
         }
     ]
 }

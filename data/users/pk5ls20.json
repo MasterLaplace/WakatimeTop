@@ -1,119 +1,123 @@
 {
-    "total_time": "1,687 hrs 14 mins",
+    "total_time": "1,487 hrs 56 mins",
     "updated": true,
     "elo": 2420,
     "languages": [
         {
             "language": "Bash",
-            "time": "2 hrs 56 mins"
+            "time": "4 hrs 56 mins"
         },
         {
             "language": "C",
-            "time": "14 hrs 3 mins"
+            "time": "11 hrs 50 mins"
         },
         {
             "language": "C#",
-            "time": "4 hrs 21 mins"
+            "time": "6 hrs 11 mins"
         },
         {
             "language": "C++",
-            "time": "179 hrs 45 mins"
+            "time": "183 hrs 50 mins"
         },
         {
             "language": "C/C",
-            "time": "12 hrs 39 mins"
+            "time": "11 hrs 47 mins"
         },
         {
             "language": "C/C++",
-            "time": "13 hrs 13 mins"
+            "time": "13 hrs 6 mins"
         },
         {
             "language": "CMake",
-            "time": "25 hrs 46 mins"
+            "time": "27 hrs 10 mins"
         },
         {
             "language": "CSV",
-            "time": "6 hrs 28 mins"
+            "time": "5 hrs 53 mins"
         },
         {
             "language": "CSV/TSV",
-            "time": "4 hrs 6 mins"
-        },
-        {
-            "language": "Docker",
-            "time": "2 hrs 34 mins"
+            "time": "3 hrs 29 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "3 hrs 24 mins"
-        },
-        {
-            "language": "Go",
-            "time": "6 hrs 53 mins"
+            "time": "2 hrs 43 mins"
         },
         {
             "language": "JSON",
-            "time": "30 hrs 4 mins"
+            "time": "26 hrs 22 mins"
         },
         {
             "language": "Java",
-            "time": "5 hrs 10 mins"
+            "time": "15 hrs"
+        },
+        {
+            "language": "Java Properties",
+            "time": "4 hrs 54 mins"
         },
         {
             "language": "JavaScript",
-            "time": "17 hrs 16 mins"
+            "time": "17 hrs 48 mins"
         },
         {
             "language": "Jupyter",
-            "time": "12 hrs 26 mins"
+            "time": "12 hrs 12 mins"
         },
         {
             "language": "Kotlin",
-            "time": "159 hrs 16 mins"
+            "time": "317 hrs 26 mins"
         },
         {
             "language": "Markdown",
-            "time": "118 hrs 20 mins"
+            "time": "189 hrs 27 mins"
         },
         {
             "language": "ObjectiveC",
-            "time": "5 hrs 33 mins"
+            "time": "5 hrs 45 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "3 hrs 23 mins"
+        },
+        {
+            "language": "Prolog",
+            "time": "3 hrs 1 min"
         },
         {
             "language": "Python",
-            "time": "128 hrs 46 mins"
+            "time": "164 hrs 12 mins"
         },
         {
             "language": "Rust",
-            "time": "765 hrs 25 mins"
+            "time": "344 hrs 59 mins"
         },
         {
             "language": "SQL",
-            "time": "16 hrs 39 mins"
+            "time": "4 hrs 53 mins"
         },
         {
             "language": "TOML",
-            "time": "49 hrs 24 mins"
+            "time": "29 hrs 41 mins"
         },
         {
             "language": "Text",
-            "time": "42 hrs 51 mins"
+            "time": "47 hrs 12 mins"
         },
         {
             "language": "TypeScript",
-            "time": "23 hrs 1 min"
-        },
-        {
-            "language": "Vue.js",
-            "time": "16 hrs 54 mins"
+            "time": "8 hrs 18 mins"
         },
         {
             "language": "XML",
-            "time": "4 hrs 48 mins"
+            "time": "12 hrs 54 mins"
         },
         {
             "language": "YAML",
-            "time": "15 hrs 13 mins"
+            "time": "7 hrs 1 min"
+        },
+        {
+            "language": "textmate",
+            "time": "2 hrs 33 mins"
         }
     ]
 }
