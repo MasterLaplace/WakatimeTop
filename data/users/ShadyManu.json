@@ -1,11 +1,11 @@
 {
-    "total_time": "3,057 hrs 40 mins",
+    "total_time": "3,164 hrs 35 mins",
     "updated": true,
-    "elo": 3058,
+    "elo": 3165,
     "languages": [
         {
             "language": "Bash",
-            "time": "3 hrs 40 mins"
+            "time": "5 hrs 20 mins"
         },
         {
             "language": "Binary",
@@ -13,11 +13,11 @@
         },
         {
             "language": "C#",
-            "time": "878 hrs 35 mins"
+            "time": "940 hrs 48 mins"
         },
         {
             "language": "CSS",
-            "time": "10 hrs 11 mins"
+            "time": "10 hrs 24 mins"
         },
         {
             "language": "CSV",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Docker",
-            "time": "6 hrs 19 mins"
+            "time": "6 hrs 26 mins"
         },
         {
             "language": "GraphQL",
@@ -41,15 +41,15 @@
         },
         {
             "language": "HTML",
-            "time": "198 hrs 20 mins"
+            "time": "198 hrs 26 mins"
         },
         {
             "language": "JSON",
-            "time": "104 hrs 20 mins"
+            "time": "105 hrs 7 mins"
         },
         {
             "language": "JavaScript",
-            "time": "21 hrs 20 mins"
+            "time": "21 hrs 45 mins"
         },
         {
             "language": "Less",
@@ -57,11 +57,11 @@
         },
         {
             "language": "Markdown",
-            "time": "93 hrs 12 mins"
+            "time": "100 hrs 40 mins"
         },
         {
             "language": "Python",
-            "time": "18 hrs 14 mins"
+            "time": "24 hrs 54 mins"
         },
         {
             "language": "Resources",
@@ -73,23 +73,27 @@
         },
         {
             "language": "SQL",
-            "time": "27 hrs"
+            "time": "27 hrs 8 mins"
         },
         {
             "language": "Text",
-            "time": "2 hrs 38 mins"
+            "time": "4 hrs 31 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,404 hrs 46 mins"
+            "time": "1,407 hrs 2 mins"
+        },
+        {
+            "language": "Unity3D Asset",
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "XML",
-            "time": "15 hrs 41 mins"
+            "time": "15 hrs 50 mins"
         },
         {
             "language": "YAML",
-            "time": "71 hrs 51 mins"
+            "time": "90 hrs 9 mins"
         }
     ]
 }

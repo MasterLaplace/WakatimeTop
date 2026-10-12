@@ -1,7 +1,7 @@
 {
-    "total_time": "87 hrs 3 mins",
+    "total_time": "91 hrs 53 mins",
     "updated": true,
-    "elo": 1317,
+    "elo": 1321,
     "languages": [
         {
             "language": "Apache Config",
@@ -17,11 +17,11 @@
         },
         {
             "language": "Go",
-            "time": "3 hrs 5 mins"
+            "time": "3 hrs 21 mins"
         },
         {
             "language": "PHP",
-            "time": "17 hrs 48 mins"
+            "time": "14 hrs 32 mins"
         },
         {
             "language": "Terminal",
@@ -30,6 +30,14 @@
         {
             "language": "Termux",
             "time": "19 hrs 35 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "3 hrs 1 min"
+        },
+        {
+            "language": "YAML",
+            "time": "4 hrs 49 mins"
         }
     ]
 }

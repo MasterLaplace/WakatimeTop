@@ -1,11 +1,11 @@
 {
-    "total_time": "4,876 hrs 1 mins",
+    "total_time": "4,927 hrs 11 mins",
     "updated": true,
-    "elo": 4877,
+    "elo": 4928,
     "languages": [
         {
             "language": "Bash",
-            "time": "48 hrs 33 mins"
+            "time": "50 hrs 9 mins"
         },
         {
             "language": "Binary",
@@ -13,7 +13,7 @@
         },
         {
             "language": "C#",
-            "time": "404 hrs 4 mins"
+            "time": "404 hrs 10 mins"
         },
         {
             "language": "CSHTML",
@@ -41,7 +41,7 @@
         },
         {
             "language": "HTML",
-            "time": "30 hrs 46 mins"
+            "time": "31 hrs 17 mins"
         },
         {
             "language": "INI",
@@ -53,11 +53,15 @@
         },
         {
             "language": "JSON",
-            "time": "149 hrs 24 mins"
+            "time": "152 hrs 11 mins"
         },
         {
             "language": "JavaScript",
-            "time": "106 hrs 45 mins"
+            "time": "106 hrs 58 mins"
+        },
+        {
+            "language": "Kotlin",
+            "time": "6 hrs 22 mins"
         },
         {
             "language": "MDX",
@@ -65,7 +69,7 @@
         },
         {
             "language": "Markdown",
-            "time": "460 hrs 17 mins"
+            "time": "474 hrs 40 mins"
         },
         {
             "language": "Microsoft Visual Studio Solution",
@@ -73,15 +77,15 @@
         },
         {
             "language": "Objective-C",
-            "time": "14 hrs 57 mins"
+            "time": "15 hrs 30 mins"
         },
         {
             "language": "Prisma",
-            "time": "74 hrs 4 mins"
+            "time": "74 hrs 22 mins"
         },
         {
             "language": "Python",
-            "time": "42 hrs 57 mins"
+            "time": "46 hrs 13 mins"
         },
         {
             "language": "Razor",
@@ -93,11 +97,11 @@
         },
         {
             "language": "SQL",
-            "time": "106 hrs 43 mins"
+            "time": "109 hrs 48 mins"
         },
         {
             "language": "Swift",
-            "time": "202 hrs 25 mins"
+            "time": "205 hrs 28 mins"
         },
         {
             "language": "TSConfig",
@@ -105,31 +109,31 @@
         },
         {
             "language": "TSV",
-            "time": "40 hrs 56 mins"
+            "time": "42 hrs 25 mins"
         },
         {
             "language": "Text",
-            "time": "26 hrs 58 mins"
+            "time": "28 hrs 1 min"
         },
         {
             "language": "TypeScript",
-            "time": "1,277 hrs 43 mins"
+            "time": "1,285 hrs 8 mins"
         },
         {
             "language": "VB.NET",
-            "time": "1,003 hrs 21 mins"
+            "time": "1,007 hrs 38 mins"
         },
         {
             "language": "Visual Basic",
-            "time": "14 hrs 49 mins"
+            "time": "15 hrs 6 mins"
         },
         {
             "language": "XML",
-            "time": "26 hrs 29 mins"
+            "time": "26 hrs 45 mins"
         },
         {
             "language": "YAML",
-            "time": "6 hrs 12 mins"
+            "time": "6 hrs 22 mins"
         }
     ]
 }

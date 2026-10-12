@@ -1,11 +1,15 @@
 {
-    "total_time": "4 hrs 16 mins",
-    "updated": false,
-    "elo": 5,
+    "total_time": "17 hrs 36 mins",
+    "updated": true,
+    "elo": 18,
     "languages": [
         {
             "language": "Kotlin",
-            "time": "4 hrs 16 mins"
+            "time": "14 hrs 50 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "2 hrs 46 mins"
         }
     ]
 }

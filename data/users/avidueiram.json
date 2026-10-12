@@ -1,23 +1,19 @@
 {
-    "total_time": "38 hrs 57 mins",
+    "total_time": "40 hrs 38 mins",
     "updated": true,
-    "elo": 68,
+    "elo": 70,
     "languages": [
         {
             "language": "Docker",
             "time": "4 hrs 50 mins"
         },
         {
-            "language": "HTML",
+            "language": "Markdown",
             "time": "2 hrs 54 mins"
         },
         {
-            "language": "Markdown",
-            "time": "9 hrs 38 mins"
-        },
-        {
             "language": "TypeScript",
-            "time": "21 hrs 35 mins"
+            "time": "32 hrs 54 mins"
         }
     ]
 }

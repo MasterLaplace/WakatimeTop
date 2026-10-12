@@ -1,0 +1,107 @@
+{
+    "total_time": "6,114 hrs 12 mins",
+    "updated": true,
+    "elo": 6115,
+    "languages": [
+        {
+            "language": "Assembly",
+            "time": "19 hrs 43 mins"
+        },
+        {
+            "language": "Bash",
+            "time": "42 hrs 10 mins"
+        },
+        {
+            "language": "C",
+            "time": "10 hrs 8 mins"
+        },
+        {
+            "language": "C#",
+            "time": "2 hrs 42 mins"
+        },
+        {
+            "language": "C++",
+            "time": "5 hrs 17 mins"
+        },
+        {
+            "language": "CSV",
+            "time": "13 hrs 25 mins"
+        },
+        {
+            "language": "Cassandra CQL",
+            "time": "4 hrs 7 mins"
+        },
+        {
+            "language": "Common Lisp",
+            "time": "108 hrs 14 mins"
+        },
+        {
+            "language": "Cuda",
+            "time": "4 hrs 12 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "3 hrs 54 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "5 hrs 37 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "7 hrs 24 mins"
+        },
+        {
+            "language": "Lua",
+            "time": "28 hrs 8 mins"
+        },
+        {
+            "language": "MQL",
+            "time": "28 hrs 28 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "402 hrs 19 mins"
+        },
+        {
+            "language": "PowerShell",
+            "time": "5 hrs 20 mins"
+        },
+        {
+            "language": "Python",
+            "time": "240 hrs 20 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "4,356 hrs 53 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "75 hrs 13 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "72 hrs 33 mins"
+        },
+        {
+            "language": "Text",
+            "time": "226 hrs 12 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "17 hrs 20 mins"
+        },
+        {
+            "language": "Zig",
+            "time": "14 hrs 12 mins"
+        },
+        {
+            "language": "conf",
+            "time": "17 hrs 56 mins"
+        },
+        {
+            "language": "sh",
+            "time": "402 hrs 25 mins"
+        }
+    ]
+}

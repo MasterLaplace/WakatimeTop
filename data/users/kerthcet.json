@@ -1,11 +1,11 @@
 {
-    "total_time": "1,696 hrs 12 mins",
+    "total_time": "1,693 hrs 49 mins",
     "updated": true,
     "elo": 1697,
     "languages": [
         {
             "language": "Bash",
-            "time": "24 hrs 36 mins"
+            "time": "24 hrs 24 mins"
         },
         {
             "language": "CSS",
@@ -17,11 +17,11 @@
         },
         {
             "language": "Docker",
-            "time": "22 hrs 57 mins"
+            "time": "22 hrs 47 mins"
         },
         {
             "language": "Go",
-            "time": "254 hrs 4 mins"
+            "time": "254 hrs 15 mins"
         },
         {
             "language": "HCL",
@@ -37,15 +37,15 @@
         },
         {
             "language": "Makefile",
-            "time": "22 hrs 28 mins"
+            "time": "22 hrs 26 mins"
         },
         {
             "language": "Markdown",
-            "time": "155 hrs 5 mins"
+            "time": "157 hrs 44 mins"
         },
         {
             "language": "Python",
-            "time": "638 hrs 28 mins"
+            "time": "632 hrs 2 mins"
         },
         {
             "language": "Rust",
@@ -57,7 +57,7 @@
         },
         {
             "language": "TOML",
-            "time": "22 hrs 28 mins"
+            "time": "22 hrs 25 mins"
         },
         {
             "language": "Terraform",
@@ -69,7 +69,7 @@
         },
         {
             "language": "YAML",
-            "time": "188 hrs 50 mins"
+            "time": "190 hrs 30 mins"
         }
     ]
 }

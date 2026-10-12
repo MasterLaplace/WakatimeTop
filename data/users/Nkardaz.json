@@ -1,7 +1,7 @@
 {
-    "total_time": "2,012 hrs 24 mins",
+    "total_time": "2,021 hrs 16 mins",
     "updated": true,
-    "elo": 2013,
+    "elo": 2022,
     "languages": [
         {
             "language": "AutoHotkey",
@@ -17,7 +17,7 @@
         },
         {
             "language": "C#",
-            "time": "16 hrs 59 mins"
+            "time": "18 hrs 40 mins"
         },
         {
             "language": "C++",
@@ -45,7 +45,7 @@
         },
         {
             "language": "JSON",
-            "time": "172 hrs 45 mins"
+            "time": "173 hrs 11 mins"
         },
         {
             "language": "JavaScript",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Markdown",
-            "time": "139 hrs 48 mins"
+            "time": "140 hrs 31 mins"
         },
         {
             "language": "PowerShell",
@@ -73,7 +73,7 @@
         },
         {
             "language": "RON",
-            "time": "3 hrs 10 mins"
+            "time": "3 hrs 48 mins"
         },
         {
             "language": "Rust",
@@ -89,7 +89,7 @@
         },
         {
             "language": "Text",
-            "time": "6 hrs 20 mins"
+            "time": "6 hrs 50 mins"
         },
         {
             "language": "TypeScript",
@@ -97,7 +97,7 @@
         },
         {
             "language": "Typst",
-            "time": "42 hrs 53 mins"
+            "time": "44 hrs 55 mins"
         },
         {
             "language": "Vue",
@@ -105,7 +105,11 @@
         },
         {
             "language": "XAML",
-            "time": "3 hrs 32 mins"
+            "time": "3 hrs 50 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 34 mins"
         },
         {
             "language": "YAML",

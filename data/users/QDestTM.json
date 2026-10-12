@@ -1,11 +1,19 @@
 {
-    "total_time": "24 hrs",
+    "total_time": "30 hrs 17 mins",
     "updated": true,
-    "elo": 53,
+    "elo": 60,
     "languages": [
         {
+            "language": "Binary",
+            "time": "2 hrs 42 mins"
+        },
+        {
             "language": "C#",
-            "time": "12 hrs 41 mins"
+            "time": "14 hrs 6 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "2 hrs 51 mins"
         },
         {
             "language": "JavaScript",
@@ -13,7 +21,7 @@
         },
         {
             "language": "Python",
-            "time": "3 hrs 28 mins"
+            "time": "2 hrs 47 mins"
         }
     ]
 }

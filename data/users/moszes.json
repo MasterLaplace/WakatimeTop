@@ -1,8 +1,20 @@
 {
-    "total_time": "2 hrs 33 mins",
-    "updated": false,
-    "elo": 50,
+    "total_time": "15 hrs 42 mins",
+    "updated": true,
+    "elo": 63,
     "languages": [
+        {
+            "language": "Markdown",
+            "time": "4 hrs 58 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "2 hrs 58 mins"
+        },
+        {
+            "language": "Python",
+            "time": "5 hrs 13 mins"
+        },
         {
             "language": "Svelte",
             "time": "2 hrs 33 mins"

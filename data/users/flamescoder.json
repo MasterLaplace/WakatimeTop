@@ -1,7 +1,7 @@
 {
-    "total_time": "1,677 hrs 6 mins",
+    "total_time": "1,681 hrs 35 mins",
     "updated": true,
-    "elo": 1676,
+    "elo": 1680,
     "languages": [
         {
             "language": "Bash",
@@ -10,6 +10,10 @@
         {
             "language": "C#",
             "time": "21 hrs 16 mins"
+        },
+        {
+            "language": "C++",
+            "time": "2 hrs 43 mins"
         },
         {
             "language": "CSS",
@@ -57,7 +61,7 @@
         },
         {
             "language": "Python",
-            "time": "844 hrs 39 mins"
+            "time": "846 hrs 25 mins"
         },
         {
             "language": "SCSS",

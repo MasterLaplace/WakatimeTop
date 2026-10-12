@@ -1,7 +1,7 @@
 {
-    "total_time": "3,138 hrs 51 mins",
+    "total_time": "3,143 hrs 27 mins",
     "updated": true,
-    "elo": 3139,
+    "elo": 3144,
     "languages": [
         {
             "language": ".env file",
@@ -13,15 +13,15 @@
         },
         {
             "language": "Bash",
-            "time": "67 hrs 6 mins"
+            "time": "67 hrs 21 mins"
         },
         {
             "language": "Blade Template",
-            "time": "663 hrs 30 mins"
+            "time": "663 hrs 42 mins"
         },
         {
             "language": "CSS",
-            "time": "37 hrs 56 mins"
+            "time": "37 hrs 57 mins"
         },
         {
             "language": "Dart",
@@ -37,11 +37,11 @@
         },
         {
             "language": "HTML",
-            "time": "84 hrs 48 mins"
+            "time": "85 hrs"
         },
         {
             "language": "JSON",
-            "time": "43 hrs 43 mins"
+            "time": "43 hrs 47 mins"
         },
         {
             "language": "JSX",
@@ -53,7 +53,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "520 hrs 1 min"
+            "time": "520 hrs 5 mins"
         },
         {
             "language": "Jupyter",
@@ -65,11 +65,11 @@
         },
         {
             "language": "Markdown",
-            "time": "28 hrs 36 mins"
+            "time": "28 hrs 49 mins"
         },
         {
             "language": "PHP",
-            "time": "1,474 hrs 59 mins"
+            "time": "1,475 hrs 40 mins"
         },
         {
             "language": "Python",
@@ -85,7 +85,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "13 hrs 30 mins"
+            "time": "13 hrs 31 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "2 hrs 53 mins"
         },
         {
             "language": "Vue.js",

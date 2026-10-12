@@ -1,23 +1,27 @@
 {
-    "total_time": "17 hrs 21 mins",
+    "total_time": "20 hrs 21 mins",
     "updated": true,
-    "elo": 90,
+    "elo": 93,
     "languages": [
         {
-            "language": "JavaScript",
-            "time": "4 hrs 26 mins"
+            "language": "C",
+            "time": "3 hrs 38 mins"
         },
         {
-            "language": "PHP",
-            "time": "3 hrs 24 mins"
+            "language": "C#",
+            "time": "3 hrs 15 mins"
+        },
+        {
+            "language": "NSIS",
+            "time": "5 hrs 14 mins"
         },
         {
             "language": "Swift",
-            "time": "6 hrs 28 mins"
+            "time": "5 hrs 34 mins"
         },
         {
             "language": "TypeScript",
-            "time": "3 hrs 3 mins"
+            "time": "2 hrs 40 mins"
         }
     ]
 }

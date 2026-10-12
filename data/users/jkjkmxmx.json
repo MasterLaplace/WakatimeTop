@@ -1,11 +1,15 @@
 {
-    "total_time": "5 hrs 40 mins",
+    "total_time": "49 hrs 46 mins",
     "updated": true,
-    "elo": 90,
+    "elo": 134,
     "languages": [
         {
             "language": "Lean4",
-            "time": "2 hrs 44 mins"
+            "time": "42 hrs 5 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "4 hrs 45 mins"
         },
         {
             "language": "TeX",

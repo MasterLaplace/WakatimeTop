@@ -1,12 +1,8 @@
 {
-    "total_time": "142 hrs 48 mins",
+    "total_time": "116 hrs 31 mins",
     "updated": true,
     "elo": 6135,
     "languages": [
-        {
-            "language": "C++",
-            "time": "5 hrs 41 mins"
-        },
         {
             "language": "Dart",
             "time": "8 hrs 22 mins"
@@ -24,20 +20,12 @@
             "time": "26 hrs 33 mins"
         },
         {
-            "language": "Java",
-            "time": "3 hrs 23 mins"
-        },
-        {
             "language": "Kotlin",
-            "time": "57 hrs 4 mins"
+            "time": "48 hrs 18 mins"
         },
         {
             "language": "Kotlin Template Engine File",
-            "time": "19 hrs 55 mins"
-        },
-        {
-            "language": "Markdown",
-            "time": "2 hrs 40 mins"
+            "time": "9 hrs 43 mins"
         },
         {
             "language": "Pug",
@@ -46,6 +34,10 @@
         {
             "language": "Rust",
             "time": "8 hrs 6 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "4 hrs 25 mins"
         }
     ]
 }

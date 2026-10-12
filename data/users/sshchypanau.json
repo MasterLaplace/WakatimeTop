@@ -1,15 +1,31 @@
 {
-    "total_time": "8 hrs 51 mins",
+    "total_time": "38 hrs 38 mins",
     "updated": true,
-    "elo": 9,
+    "elo": 39,
     "languages": [
         {
+            "language": "Bash",
+            "time": "3 hrs 12 mins"
+        },
+        {
             "language": "C#",
-            "time": "3 hrs 39 mins"
+            "time": "9 hrs 24 mins"
         },
         {
             "language": "Markdown",
-            "time": "5 hrs 12 mins"
+            "time": "9 hrs 20 mins"
+        },
+        {
+            "language": "Text",
+            "time": "6 hrs 50 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "6 hrs 23 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "3 hrs 29 mins"
         }
     ]
 }

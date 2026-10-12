@@ -1,7 +1,7 @@
 {
-    "total_time": "21 hrs 11 mins",
+    "total_time": "23 hrs 40 mins",
     "updated": true,
-    "elo": 227,
+    "elo": 229,
     "languages": [
         {
             "language": "C#",
@@ -9,7 +9,19 @@
         },
         {
             "language": "Dart",
-            "time": "18 hrs 41 mins"
+            "time": "10 hrs 34 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "4 hrs 57 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "2 hrs 47 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 52 mins"
         }
     ]
 }
