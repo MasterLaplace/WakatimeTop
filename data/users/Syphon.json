@@ -1,7 +1,7 @@
 {
-    "total_time": "3,158 hrs 53 mins",
+    "total_time": "3,225 hrs 39 mins",
     "updated": true,
-    "elo": 3159,
+    "elo": 3226,
     "languages": [
         {
             "language": "Bash",
@@ -9,23 +9,23 @@
         },
         {
             "language": "Binary",
-            "time": "51 hrs 40 mins"
+            "time": "51 hrs 43 mins"
         },
         {
             "language": "C",
-            "time": "36 hrs 49 mins"
+            "time": "37 hrs 8 mins"
         },
         {
             "language": "C#",
-            "time": "81 hrs 21 mins"
+            "time": "87 hrs 2 mins"
         },
         {
             "language": "C++",
-            "time": "2,256 hrs 50 mins"
+            "time": "2,275 hrs 7 mins"
         },
         {
             "language": "C/C",
-            "time": "26 hrs 49 mins"
+            "time": "27 hrs"
         },
         {
             "language": "CSS",
@@ -37,7 +37,7 @@
         },
         {
             "language": "INI",
-            "time": "8 hrs 53 mins"
+            "time": "9 hrs 17 mins"
         },
         {
             "language": "JSON",
@@ -53,15 +53,19 @@
         },
         {
             "language": "Markdown",
-            "time": "21 hrs 13 mins"
+            "time": "28 hrs 3 mins"
         },
         {
             "language": "Objective-C",
-            "time": "129 hrs 55 mins"
+            "time": "130 hrs 1 min"
+        },
+        {
+            "language": "PowerShell",
+            "time": "2 hrs 39 mins"
         },
         {
             "language": "Python",
-            "time": "21 hrs 24 mins"
+            "time": "52 hrs 42 mins"
         },
         {
             "language": "Rust",
@@ -69,7 +73,7 @@
         },
         {
             "language": "Text",
-            "time": "5 hrs 57 mins"
+            "time": "6 hrs 54 mins"
         },
         {
             "language": "TypeScript",
@@ -81,7 +85,7 @@
         },
         {
             "language": "XML",
-            "time": "5 hrs 35 mins"
+            "time": "5 hrs 36 mins"
         }
     ]
 }

@@ -1,15 +1,23 @@
 {
-    "total_time": "26 hrs 1 mins",
+    "total_time": "27 hrs 29 mins",
     "updated": true,
-    "elo": 90,
+    "elo": 91,
     "languages": [
         {
             "language": "Go",
-            "time": "9 hrs 14 mins"
+            "time": "4 hrs 16 mins"
         },
         {
             "language": "Markdown",
-            "time": "9 hrs 20 mins"
+            "time": "8 hrs 26 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "4 hrs 13 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "2 hrs 34 mins"
         },
         {
             "language": "V",
@@ -17,7 +25,7 @@
         },
         {
             "language": "YAML",
-            "time": "3 hrs 47 mins"
+            "time": "4 hrs 20 mins"
         }
     ]
 }

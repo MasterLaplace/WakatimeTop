@@ -1,7 +1,7 @@
 {
-    "total_time": "1,407 hrs",
-    "updated": false,
-    "elo": 1407,
+    "total_time": "1,429 hrs 18 mins",
+    "updated": true,
+    "elo": 1430,
     "languages": [
         {
             "language": "Astro",
@@ -9,11 +9,11 @@
         },
         {
             "language": "Bash",
-            "time": "31 hrs 48 mins"
+            "time": "33 hrs 28 mins"
         },
         {
             "language": "C",
-            "time": "37 hrs 13 mins"
+            "time": "37 hrs 16 mins"
         },
         {
             "language": "C#",
@@ -25,31 +25,31 @@
         },
         {
             "language": "CSS",
-            "time": "17 hrs 46 mins"
+            "time": "17 hrs 50 mins"
         },
         {
             "language": "Data/Config",
-            "time": "66 hrs 21 mins"
+            "time": "67 hrs 51 mins"
         },
         {
             "language": "Docker",
-            "time": "7 hrs 46 mins"
+            "time": "8 hrs 19 mins"
         },
         {
             "language": "Go",
-            "time": "21 hrs 21 mins"
+            "time": "21 hrs 59 mins"
         },
         {
             "language": "HTML",
-            "time": "43 hrs 55 mins"
+            "time": "44 hrs 9 mins"
         },
         {
             "language": "Java",
-            "time": "20 hrs 1 min"
+            "time": "20 hrs 10 mins"
         },
         {
             "language": "JavaScript",
-            "time": "86 hrs 27 mins"
+            "time": "88 hrs 14 mins"
         },
         {
             "language": "Kotlin",
@@ -57,7 +57,7 @@
         },
         {
             "language": "Markdown",
-            "time": "354 hrs 54 mins"
+            "time": "357 hrs 22 mins"
         },
         {
             "language": "Nix",
@@ -77,7 +77,7 @@
         },
         {
             "language": "Python",
-            "time": "567 hrs 6 mins"
+            "time": "576 hrs 53 mins"
         },
         {
             "language": "RGBDS Assembly",
@@ -101,11 +101,11 @@
         },
         {
             "language": "Text",
-            "time": "14 hrs 45 mins"
+            "time": "15 hrs 2 mins"
         },
         {
             "language": "TypeScript",
-            "time": "11 hrs 2 mins"
+            "time": "14 hrs 10 mins"
         }
     ]
 }

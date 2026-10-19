@@ -1,11 +1,11 @@
 {
-    "total_time": "5,682 hrs 7 mins",
+    "total_time": "5,713 hrs 42 mins",
     "updated": true,
-    "elo": 5683,
+    "elo": 5714,
     "languages": [
         {
             "language": "Bash",
-            "time": "25 hrs 18 mins"
+            "time": "27 hrs 15 mins"
         },
         {
             "language": "C",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Docker",
-            "time": "12 hrs 16 mins"
+            "time": "12 hrs 18 mins"
         },
         {
             "language": "ERB",
@@ -41,11 +41,11 @@
         },
         {
             "language": "HTML",
-            "time": "51 hrs 52 mins"
+            "time": "51 hrs 53 mins"
         },
         {
             "language": "JSON",
-            "time": "197 hrs 17 mins"
+            "time": "197 hrs 56 mins"
         },
         {
             "language": "JSX",
@@ -57,19 +57,23 @@
         },
         {
             "language": "JavaScript",
-            "time": "603 hrs 33 mins"
+            "time": "607 hrs 52 mins"
         },
         {
             "language": "Less",
-            "time": "7 hrs 5 mins"
+            "time": "8 hrs 13 mins"
         },
         {
             "language": "Markdown",
-            "time": "411 hrs 37 mins"
+            "time": "421 hrs 42 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "2 hrs 36 mins"
         },
         {
             "language": "Python",
-            "time": "61 hrs 28 mins"
+            "time": "62 hrs 45 mins"
         },
         {
             "language": "Racket",
@@ -92,20 +96,24 @@
             "time": "141 hrs 10 mins"
         },
         {
+            "language": "Swift",
+            "time": "2 hrs 31 mins"
+        },
+        {
             "language": "TSConfig",
             "time": "3 hrs 37 mins"
         },
         {
             "language": "Text",
-            "time": "10 hrs 46 mins"
+            "time": "10 hrs 54 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,559 hrs 9 mins"
+            "time": "1,561 hrs 51 mins"
         },
         {
             "language": "Vue",
-            "time": "210 hrs 23 mins"
+            "time": "214 hrs 33 mins"
         },
         {
             "language": "Vue.js",

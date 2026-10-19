@@ -1,7 +1,7 @@
 {
-    "total_time": "2,546 hrs 34 mins",
+    "total_time": "2,554 hrs 45 mins",
     "updated": true,
-    "elo": 2587,
+    "elo": 2595,
     "languages": [
         {
             "language": "Assembly",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "69 hrs 33 mins"
+            "time": "69 hrs 57 mins"
         },
         {
             "language": "BibTeX",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Git Config",
-            "time": "5 hrs 11 mins"
+            "time": "5 hrs 25 mins"
         },
         {
             "language": "HTML",
@@ -57,15 +57,15 @@
         },
         {
             "language": "Lua",
-            "time": "7 hrs 19 mins"
+            "time": "7 hrs 20 mins"
         },
         {
             "language": "Makefile",
-            "time": "17 hrs 13 mins"
+            "time": "17 hrs 48 mins"
         },
         {
             "language": "Markdown",
-            "time": "115 hrs 29 mins"
+            "time": "115 hrs 34 mins"
         },
         {
             "language": "OCaml",
@@ -81,23 +81,23 @@
         },
         {
             "language": "Python",
-            "time": "832 hrs 34 mins"
+            "time": "832 hrs 40 mins"
         },
         {
             "language": "TeX",
-            "time": "1,107 hrs 43 mins"
+            "time": "1,113 hrs 24 mins"
         },
         {
             "language": "Text",
-            "time": "17 hrs 42 mins"
+            "time": "17 hrs 44 mins"
         },
         {
             "language": "YAML",
-            "time": "87 hrs 20 mins"
+            "time": "88 hrs 30 mins"
         },
         {
             "language": "conf",
-            "time": "3 hrs 42 mins"
+            "time": "3 hrs 35 mins"
         }
     ]
 }

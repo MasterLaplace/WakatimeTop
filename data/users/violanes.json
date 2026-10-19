@@ -1,7 +1,7 @@
 {
-    "total_time": "1,956 hrs 57 mins",
+    "total_time": "1,957 hrs 37 mins",
     "updated": true,
-    "elo": 1955,
+    "elo": 1956,
     "languages": [
         {
             "language": "Bash",
@@ -21,11 +21,11 @@
         },
         {
             "language": "Go",
-            "time": "745 hrs 37 mins"
+            "time": "745 hrs 38 mins"
         },
         {
             "language": "IDA",
-            "time": "24 hrs 15 mins"
+            "time": "24 hrs 46 mins"
         },
         {
             "language": "JSON",
@@ -65,7 +65,7 @@
         },
         {
             "language": "textmate",
-            "time": "9 hrs 15 mins"
+            "time": "9 hrs 23 mins"
         }
     ]
 }

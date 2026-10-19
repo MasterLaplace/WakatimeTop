@@ -1,23 +1,23 @@
 {
-    "total_time": "1,527 hrs",
+    "total_time": "1,496 hrs 27 mins",
     "updated": true,
     "elo": 1580,
     "languages": [
         {
             "language": "Bash",
-            "time": "6 hrs 37 mins"
+            "time": "6 hrs 33 mins"
         },
         {
             "language": "C",
-            "time": "90 hrs 2 mins"
+            "time": "65 hrs 56 mins"
         },
         {
             "language": "C++",
-            "time": "436 hrs 14 mins"
+            "time": "426 hrs 52 mins"
         },
         {
             "language": "CMake",
-            "time": "6 hrs 7 mins"
+            "time": "5 hrs 56 mins"
         },
         {
             "language": "Cuda",
@@ -25,7 +25,7 @@
         },
         {
             "language": "Devicetree",
-            "time": "11 hrs 1 min"
+            "time": "5 hrs 18 mins"
         },
         {
             "language": "Diff",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Git Config",
-            "time": "3 hrs 41 mins"
+            "time": "3 hrs 50 mins"
         },
         {
             "language": "HTML",
@@ -41,7 +41,7 @@
         },
         {
             "language": "JSON",
-            "time": "7 hrs 50 mins"
+            "time": "8 hrs 4 mins"
         },
         {
             "language": "Java",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Markdown",
-            "time": "134 hrs 36 mins"
+            "time": "134 hrs 29 mins"
         },
         {
             "language": "OASv2-json",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Python",
-            "time": "537 hrs 51 mins"
+            "time": "536 hrs 14 mins"
         },
         {
             "language": "SQL",
@@ -77,7 +77,7 @@
         },
         {
             "language": "TeX",
-            "time": "43 hrs 40 mins"
+            "time": "54 hrs 37 mins"
         },
         {
             "language": "Text",
@@ -89,7 +89,7 @@
         },
         {
             "language": "YAML",
-            "time": "8 hrs 39 mins"
+            "time": "7 hrs 56 mins"
         }
     ]
 }

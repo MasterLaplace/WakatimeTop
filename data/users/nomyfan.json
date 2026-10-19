@@ -1,11 +1,11 @@
 {
-    "total_time": "8,493 hrs 33 mins",
+    "total_time": "8,505 hrs 52 mins",
     "updated": true,
-    "elo": 8494,
+    "elo": 8506,
     "languages": [
         {
             "language": "Bash",
-            "time": "82 hrs 3 mins"
+            "time": "82 hrs 5 mins"
         },
         {
             "language": "C",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Git",
-            "time": "26 hrs 11 mins"
+            "time": "26 hrs 18 mins"
         },
         {
             "language": "Git Config",
@@ -60,8 +60,12 @@
             "time": "2 hrs 44 mins"
         },
         {
+            "language": "Image (svg)",
+            "time": "2 hrs 47 mins"
+        },
+        {
             "language": "JSON",
-            "time": "366 hrs 54 mins"
+            "time": "367 hrs 17 mins"
         },
         {
             "language": "JSX",
@@ -69,7 +73,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "861 hrs 54 mins"
+            "time": "862 hrs 17 mins"
         },
         {
             "language": "LESS",
@@ -89,11 +93,11 @@
         },
         {
             "language": "Markdown",
-            "time": "364 hrs 50 mins"
+            "time": "370 hrs 37 mins"
         },
         {
             "language": "Nix",
-            "time": "12 hrs 5 mins"
+            "time": "12 hrs 10 mins"
         },
         {
             "language": "PowerShell",
@@ -101,7 +105,7 @@
         },
         {
             "language": "Python",
-            "time": "1,041 hrs 32 mins"
+            "time": "1,042 hrs 11 mins"
         },
         {
             "language": "Rust",
@@ -125,7 +129,7 @@
         },
         {
             "language": "Swift",
-            "time": "32 hrs 19 mins"
+            "time": "33 hrs 57 mins"
         },
         {
             "language": "TOML",
@@ -141,7 +145,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "3,320 hrs 45 mins"
+            "time": "3,321 hrs 13 mins"
         },
         {
             "language": "VimL",

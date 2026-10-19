@@ -1,35 +1,19 @@
 {
-    "total_time": "42 hrs 10 mins",
+    "total_time": "21 hrs 40 mins",
     "updated": true,
     "elo": 123,
     "languages": [
         {
             "language": "C#",
-            "time": "9 hrs 49 mins"
+            "time": "12 hrs 6 mins"
         },
         {
             "language": "C++",
             "time": "3 hrs 56 mins"
         },
         {
-            "language": "Markdown",
-            "time": "4 hrs 48 mins"
-        },
-        {
-            "language": "PowerShell",
-            "time": "4 hrs 31 mins"
-        },
-        {
-            "language": "Python",
-            "time": "8 hrs"
-        },
-        {
-            "language": "TypeScript",
-            "time": "2 hrs 31 mins"
-        },
-        {
             "language": "Vue",
-            "time": "8 hrs 35 mins"
+            "time": "5 hrs 38 mins"
         }
     ]
 }

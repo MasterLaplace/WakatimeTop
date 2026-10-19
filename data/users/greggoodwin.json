@@ -1,7 +1,7 @@
 {
-    "total_time": "3,777 hrs 48 mins",
+    "total_time": "3,786 hrs 39 mins",
     "updated": true,
-    "elo": 3778,
+    "elo": 3787,
     "languages": [
         {
             "language": "Astro",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "108 hrs 14 mins"
+            "time": "109 hrs 16 mins"
         },
         {
             "language": "Binary",
@@ -25,7 +25,7 @@
         },
         {
             "language": "C#",
-            "time": "598 hrs 16 mins"
+            "time": "598 hrs 18 mins"
         },
         {
             "language": "CSHTML",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Git Config",
-            "time": "29 hrs 19 mins"
+            "time": "29 hrs 33 mins"
         },
         {
             "language": "GitIgnore file",
@@ -81,7 +81,7 @@
         },
         {
             "language": "JSON",
-            "time": "356 hrs 42 mins"
+            "time": "357 hrs 19 mins"
         },
         {
             "language": "JSON with Comments",
@@ -101,7 +101,7 @@
         },
         {
             "language": "Markdown",
-            "time": "254 hrs 1 min"
+            "time": "254 hrs 41 mins"
         },
         {
             "language": "NSIS",
@@ -110,6 +110,10 @@
         {
             "language": "PowerShell",
             "time": "10 hrs 23 mins"
+        },
+        {
+            "language": "Prisma",
+            "time": "2 hrs 58 mins"
         },
         {
             "language": "Project file properties",
@@ -153,11 +157,15 @@
         },
         {
             "language": "Text",
-            "time": "14 hrs 6 mins"
+            "time": "14 hrs 13 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,093 hrs 30 mins"
+            "time": "1,093 hrs 46 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "2 hrs 32 mins"
         },
         {
             "language": "Vue.js",
@@ -173,7 +181,7 @@
         },
         {
             "language": "YAML",
-            "time": "141 hrs 31 mins"
+            "time": "141 hrs 54 mins"
         },
         {
             "language": "shell script",

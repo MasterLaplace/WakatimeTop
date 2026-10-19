@@ -1,7 +1,7 @@
 {
-    "total_time": "1,781 hrs 1 mins",
+    "total_time": "1,837 hrs 35 mins",
     "updated": true,
-    "elo": 1782,
+    "elo": 1838,
     "languages": [
         {
             "language": "Astro",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "33 hrs 5 mins"
+            "time": "33 hrs 42 mins"
         },
         {
             "language": "C++",
@@ -17,7 +17,7 @@
         },
         {
             "language": "CSS",
-            "time": "7 hrs 51 mins"
+            "time": "7 hrs 52 mins"
         },
         {
             "language": "CSV",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Go",
-            "time": "325 hrs 53 mins"
+            "time": "327 hrs 55 mins"
         },
         {
             "language": "HTML",
@@ -45,7 +45,7 @@
         },
         {
             "language": "JSON",
-            "time": "41 hrs 33 mins"
+            "time": "42 hrs 8 mins"
         },
         {
             "language": "JavaScript",
@@ -57,19 +57,19 @@
         },
         {
             "language": "Markdown",
-            "time": "496 hrs 50 mins"
+            "time": "539 hrs 25 mins"
         },
         {
             "language": "Python",
-            "time": "331 hrs 8 mins"
+            "time": "332 hrs 27 mins"
         },
         {
             "language": "SQL",
-            "time": "23 hrs 44 mins"
+            "time": "24 hrs 7 mins"
         },
         {
             "language": "Swift",
-            "time": "43 hrs 36 mins"
+            "time": "50 hrs 25 mins"
         },
         {
             "language": "TOML",
@@ -77,15 +77,15 @@
         },
         {
             "language": "Text",
-            "time": "46 hrs 21 mins"
+            "time": "47 hrs 41 mins"
         },
         {
             "language": "TypeScript",
-            "time": "162 hrs 37 mins"
+            "time": "163 hrs 7 mins"
         },
         {
             "language": "YAML",
-            "time": "130 hrs 32 mins"
+            "time": "130 hrs 55 mins"
         }
     ]
 }

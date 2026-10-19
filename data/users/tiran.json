@@ -1,19 +1,19 @@
 {
-    "total_time": "10,550 hrs 55 mins",
+    "total_time": "10,601 hrs 55 mins",
     "updated": true,
-    "elo": 10551,
+    "elo": 10602,
     "languages": [
         {
             "language": ".env file",
-            "time": "39 hrs 26 mins"
+            "time": "39 hrs 29 mins"
         },
         {
             "language": "Bash",
-            "time": "101 hrs 41 mins"
+            "time": "109 hrs 43 mins"
         },
         {
             "language": "Blade Template",
-            "time": "698 hrs 9 mins"
+            "time": "698 hrs 13 mins"
         },
         {
             "language": "C",
@@ -33,7 +33,7 @@
         },
         {
             "language": "Docker",
-            "time": "41 hrs 28 mins"
+            "time": "41 hrs 33 mins"
         },
         {
             "language": "GitIgnore file",
@@ -45,7 +45,7 @@
         },
         {
             "language": "Groff",
-            "time": "82 hrs 59 mins"
+            "time": "83 hrs 11 mins"
         },
         {
             "language": "HCL",
@@ -53,15 +53,19 @@
         },
         {
             "language": "HTML",
-            "time": "463 hrs 49 mins"
+            "time": "463 hrs 57 mins"
         },
         {
             "language": "INI",
-            "time": "15 hrs 6 mins"
+            "time": "15 hrs 7 mins"
+        },
+        {
+            "language": "Image (svg)",
+            "time": "2 hrs 45 mins"
         },
         {
             "language": "JSON",
-            "time": "175 hrs 45 mins"
+            "time": "176 hrs 10 mins"
         },
         {
             "language": "JSX",
@@ -69,7 +73,7 @@
         },
         {
             "language": "Java",
-            "time": "24 hrs 53 mins"
+            "time": "25 hrs 1 min"
         },
         {
             "language": "Java Properties",
@@ -77,19 +81,19 @@
         },
         {
             "language": "JavaScript",
-            "time": "980 hrs 16 mins"
+            "time": "984 hrs 4 mins"
         },
         {
             "language": "Kotlin",
-            "time": "4 hrs 31 mins"
+            "time": "4 hrs 32 mins"
         },
         {
             "language": "Log",
-            "time": "19 hrs 4 mins"
+            "time": "19 hrs 8 mins"
         },
         {
             "language": "Markdown",
-            "time": "282 hrs 58 mins"
+            "time": "302 hrs 46 mins"
         },
         {
             "language": "Nginx Configuration",
@@ -101,11 +105,11 @@
         },
         {
             "language": "PHP",
-            "time": "4,638 hrs 38 mins"
+            "time": "4,645 hrs 39 mins"
         },
         {
             "language": "Python",
-            "time": "118 hrs 18 mins"
+            "time": "118 hrs 19 mins"
         },
         {
             "language": "Ruby",
@@ -125,11 +129,11 @@
         },
         {
             "language": "Shell Script",
-            "time": "29 hrs 2 mins"
+            "time": "29 hrs 4 mins"
         },
         {
             "language": "Smarty",
-            "time": "10 hrs 21 mins"
+            "time": "10 hrs 28 mins"
         },
         {
             "language": "TOML",
@@ -137,23 +141,23 @@
         },
         {
             "language": "Terraform",
-            "time": "167 hrs 49 mins"
+            "time": "167 hrs 52 mins"
         },
         {
             "language": "Terraform Template",
-            "time": "43 hrs 5 mins"
+            "time": "43 hrs 6 mins"
         },
         {
             "language": "Text",
-            "time": "82 hrs 57 mins"
+            "time": "85 hrs 56 mins"
         },
         {
             "language": "TypeScript",
-            "time": "215 hrs 31 mins"
+            "time": "216 hrs 11 mins"
         },
         {
             "language": "Vue",
-            "time": "15 hrs 15 mins"
+            "time": "15 hrs 16 mins"
         },
         {
             "language": "Vue.js",
@@ -165,7 +169,7 @@
         },
         {
             "language": "YAML",
-            "time": "683 hrs 3 mins"
+            "time": "687 hrs 33 mins"
         },
         {
             "language": "sh",
@@ -173,7 +177,7 @@
         },
         {
             "language": "textmate",
-            "time": "13 hrs 14 mins"
+            "time": "13 hrs 15 mins"
         }
     ]
 }

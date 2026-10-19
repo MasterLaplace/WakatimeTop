@@ -1,7 +1,7 @@
 {
-    "total_time": "2,068 hrs 8 mins",
+    "total_time": "2,083 hrs 22 mins",
     "updated": true,
-    "elo": 2069,
+    "elo": 2084,
     "languages": [
         {
             "language": "BNF",
@@ -13,11 +13,11 @@
         },
         {
             "language": "C#",
-            "time": "1,109 hrs 4 mins"
+            "time": "1,116 hrs 33 mins"
         },
         {
             "language": "C++",
-            "time": "586 hrs 21 mins"
+            "time": "586 hrs 29 mins"
         },
         {
             "language": "C/C",
@@ -29,11 +29,11 @@
         },
         {
             "language": "CMake",
-            "time": "23 hrs 42 mins"
+            "time": "23 hrs 58 mins"
         },
         {
             "language": "Csproj",
-            "time": "5 hrs 32 mins"
+            "time": "5 hrs 33 mins"
         },
         {
             "language": "GLSL",
@@ -49,11 +49,11 @@
         },
         {
             "language": "HLSL",
-            "time": "3 hrs 10 mins"
+            "time": "4 hrs 30 mins"
         },
         {
             "language": "JSON",
-            "time": "4 hrs 48 mins"
+            "time": "4 hrs 49 mins"
         },
         {
             "language": "Markdown",
@@ -64,12 +64,16 @@
             "time": "2 hrs 50 mins"
         },
         {
+            "language": "Rust",
+            "time": "5 hrs 35 mins"
+        },
+        {
             "language": "ShaderLab",
-            "time": "2 hrs 54 mins"
+            "time": "3 hrs 10 mins"
         },
         {
             "language": "Text",
-            "time": "17 hrs 54 mins"
+            "time": "17 hrs 56 mins"
         },
         {
             "language": "TypeScript",
@@ -81,7 +85,7 @@
         },
         {
             "language": "UnityYaml",
-            "time": "9 hrs 49 mins"
+            "time": "9 hrs 50 mins"
         },
         {
             "language": "Vcxproj",
@@ -93,7 +97,7 @@
         },
         {
             "language": "XML",
-            "time": "21 hrs 2 mins"
+            "time": "21 hrs 7 mins"
         },
         {
             "language": "YAML",

@@ -1,23 +1,35 @@
 {
-    "total_time": "35 hrs 53 mins",
+    "total_time": "58 hrs 12 mins",
     "updated": true,
-    "elo": 53,
+    "elo": 76,
     "languages": [
         {
             "language": "C",
-            "time": "6 hrs 28 mins"
+            "time": "2 hrs 48 mins"
+        },
+        {
+            "language": "C#",
+            "time": "5 hrs 3 mins"
         },
         {
             "language": "C++",
-            "time": "15 hrs 30 mins"
+            "time": "13 hrs 28 mins"
         },
         {
             "language": "Markdown",
-            "time": "10 hrs 13 mins"
+            "time": "13 hrs 49 mins"
+        },
+        {
+            "language": "Objective-C",
+            "time": "3 hrs 10 mins"
         },
         {
             "language": "Python",
-            "time": "3 hrs 42 mins"
+            "time": "14 hrs 49 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "5 hrs 5 mins"
         }
     ]
 }

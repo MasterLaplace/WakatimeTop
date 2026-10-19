@@ -1,15 +1,19 @@
 {
-    "total_time": "2,375 hrs 44 mins",
+    "total_time": "2,411 hrs 34 mins",
     "updated": true,
-    "elo": 2366,
+    "elo": 2402,
     "languages": [
+        {
+            "language": "Astro",
+            "time": "2 hrs 33 mins"
+        },
         {
             "language": "AutoHotkey",
             "time": "62 hrs 1 min"
         },
         {
             "language": "Bash",
-            "time": "7 hrs 55 mins"
+            "time": "8 hrs 11 mins"
         },
         {
             "language": "C",
@@ -17,7 +21,7 @@
         },
         {
             "language": "C++",
-            "time": "236 hrs 14 mins"
+            "time": "236 hrs 38 mins"
         },
         {
             "language": "CMake",
@@ -25,7 +29,7 @@
         },
         {
             "language": "CSS",
-            "time": "9 hrs 25 mins"
+            "time": "9 hrs 50 mins"
         },
         {
             "language": "Gradle",
@@ -45,15 +49,15 @@
         },
         {
             "language": "JSON",
-            "time": "32 hrs 11 mins"
+            "time": "32 hrs 17 mins"
         },
         {
             "language": "Java",
-            "time": "1,111 hrs 2 mins"
+            "time": "1,112 hrs 44 mins"
         },
         {
             "language": "JavaScript",
-            "time": "28 hrs 12 mins"
+            "time": "29 hrs 15 mins"
         },
         {
             "language": "Kotlin",
@@ -69,7 +73,7 @@
         },
         {
             "language": "Markdown",
-            "time": "53 hrs 56 mins"
+            "time": "64 hrs 35 mins"
         },
         {
             "language": "Mermaid",
@@ -77,15 +81,15 @@
         },
         {
             "language": "Nix",
-            "time": "6 hrs 28 mins"
+            "time": "8 hrs 23 mins"
         },
         {
             "language": "Python",
-            "time": "202 hrs 26 mins"
+            "time": "205 hrs 11 mins"
         },
         {
             "language": "Rust",
-            "time": "174 hrs 33 mins"
+            "time": "184 hrs 7 mins"
         },
         {
             "language": "Svelte",
@@ -97,15 +101,15 @@
         },
         {
             "language": "TeX",
-            "time": "12 hrs 44 mins"
+            "time": "16 hrs 26 mins"
         },
         {
             "language": "Text",
-            "time": "16 hrs 22 mins"
+            "time": "16 hrs 25 mins"
         },
         {
             "language": "TypeScript",
-            "time": "56 hrs 36 mins"
+            "time": "57 hrs 19 mins"
         },
         {
             "language": "Typst",

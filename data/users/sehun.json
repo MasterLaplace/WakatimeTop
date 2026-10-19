@@ -1,11 +1,11 @@
 {
-    "total_time": "2,081 hrs 55 mins",
+    "total_time": "2,104 hrs 16 mins",
     "updated": true,
-    "elo": 2080,
+    "elo": 2103,
     "languages": [
         {
             "language": "Bash",
-            "time": "52 hrs 26 mins"
+            "time": "53 hrs 17 mins"
         },
         {
             "language": "C",
@@ -13,7 +13,7 @@
         },
         {
             "language": "CSS",
-            "time": "60 hrs 36 mins"
+            "time": "60 hrs 44 mins"
         },
         {
             "language": "EJS",
@@ -25,7 +25,7 @@
         },
         {
             "language": "HTML",
-            "time": "13 hrs 46 mins"
+            "time": "14 hrs 52 mins"
         },
         {
             "language": "Image (svg)",
@@ -33,15 +33,19 @@
         },
         {
             "language": "JSON",
-            "time": "153 hrs 27 mins"
+            "time": "153 hrs 51 mins"
+        },
+        {
+            "language": "Java",
+            "time": "2 hrs 54 mins"
         },
         {
             "language": "JavaScript",
-            "time": "168 hrs 12 mins"
+            "time": "168 hrs 46 mins"
         },
         {
             "language": "Markdown",
-            "time": "168 hrs 41 mins"
+            "time": "171 hrs 2 mins"
         },
         {
             "language": "Nginx configuration file",
@@ -53,7 +57,7 @@
         },
         {
             "language": "Python",
-            "time": "84 hrs 9 mins"
+            "time": "84 hrs 56 mins"
         },
         {
             "language": "Rust",
@@ -73,15 +77,15 @@
         },
         {
             "language": "Text",
-            "time": "10 hrs 35 mins"
+            "time": "12 hrs 21 mins"
         },
         {
             "language": "TypeScript",
-            "time": "1,184 hrs 10 mins"
+            "time": "1,195 hrs 39 mins"
         },
         {
             "language": "YAML",
-            "time": "19 hrs 48 mins"
+            "time": "19 hrs 49 mins"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "total_time": "750 hrs 36 mins",
-    "updated": false,
+    "total_time": "737 hrs 36 mins",
+    "updated": true,
     "elo": 720,
     "languages": [
         {
@@ -10,10 +10,6 @@
         {
             "language": "Bash",
             "time": "2 hrs 57 mins"
-        },
-        {
-            "language": "C",
-            "time": "3 hrs 12 mins"
         },
         {
             "language": "CSS",
@@ -44,16 +40,8 @@
             "time": "5 hrs 55 mins"
         },
         {
-            "language": "Markdown",
-            "time": "6 hrs 2 mins"
-        },
-        {
             "language": "Python",
             "time": "3 hrs 2 mins"
-        },
-        {
-            "language": "TOML",
-            "time": "3 hrs 46 mins"
         },
         {
             "language": "XML",

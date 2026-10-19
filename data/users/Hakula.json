@@ -1,0 +1,31 @@
+{
+    "total_time": "87 hrs 52 mins",
+    "updated": true,
+    "elo": 88,
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "2 hrs 47 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "34 hrs 30 mins"
+        },
+        {
+            "language": "Nix",
+            "time": "3 hrs 44 mins"
+        },
+        {
+            "language": "Python",
+            "time": "16 hrs 53 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "23 hrs 59 mins"
+        },
+        {
+            "language": "Text",
+            "time": "5 hrs 59 mins"
+        }
+    ]
+}

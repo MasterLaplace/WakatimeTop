@@ -1,7 +1,7 @@
 {
-    "total_time": "5,669 hrs 43 mins",
+    "total_time": "5,804 hrs 5 mins",
     "updated": true,
-    "elo": 5670,
+    "elo": 5805,
     "languages": [
         {
             "language": "Assembly",
@@ -41,7 +41,7 @@
         },
         {
             "language": "Git Config",
-            "time": "10 hrs"
+            "time": "10 hrs 1 min"
         },
         {
             "language": "GitIgnore file",
@@ -49,7 +49,7 @@
         },
         {
             "language": "Go",
-            "time": "1,001 hrs 20 mins"
+            "time": "1,012 hrs 57 mins"
         },
         {
             "language": "HTML",
@@ -61,7 +61,7 @@
         },
         {
             "language": "JSON",
-            "time": "46 hrs 15 mins"
+            "time": "46 hrs 59 mins"
         },
         {
             "language": "Java",
@@ -69,7 +69,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "20 hrs 32 mins"
+            "time": "20 hrs 35 mins"
         },
         {
             "language": "Jupyter",
@@ -89,11 +89,11 @@
         },
         {
             "language": "Makefile",
-            "time": "6 hrs 51 mins"
+            "time": "6 hrs 52 mins"
         },
         {
             "language": "Markdown",
-            "time": "632 hrs 39 mins"
+            "time": "668 hrs 53 mins"
         },
         {
             "language": "ObjectiveC",
@@ -105,11 +105,15 @@
         },
         {
             "language": "PowerShell",
-            "time": "7 hrs 47 mins"
+            "time": "12 hrs 16 mins"
         },
         {
             "language": "Python",
-            "time": "2,563 hrs 45 mins"
+            "time": "2,627 hrs 11 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "7 hrs 56 mins"
         },
         {
             "language": "SQL",
@@ -121,7 +125,7 @@
         },
         {
             "language": "TOML",
-            "time": "65 hrs 34 mins"
+            "time": "65 hrs 58 mins"
         },
         {
             "language": "TSQL",
@@ -129,11 +133,11 @@
         },
         {
             "language": "Text",
-            "time": "91 hrs 45 mins"
+            "time": "95 hrs 4 mins"
         },
         {
             "language": "TypeScript",
-            "time": "10 hrs 14 mins"
+            "time": "16 hrs 12 mins"
         },
         {
             "language": "Vue",
@@ -149,7 +153,7 @@
         },
         {
             "language": "YAML",
-            "time": "116 hrs 28 mins"
+            "time": "116 hrs 38 mins"
         },
         {
             "language": "go.mod",

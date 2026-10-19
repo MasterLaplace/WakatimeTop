@@ -1,19 +1,19 @@
 {
-    "total_time": "1,166 hrs 29 mins",
+    "total_time": "1,248 hrs 40 mins",
     "updated": true,
-    "elo": 1167,
+    "elo": 1249,
     "languages": [
         {
             "language": "Bash",
-            "time": "32 hrs 36 mins"
+            "time": "30 hrs 57 mins"
         },
         {
             "language": "C",
-            "time": "69 hrs 26 mins"
+            "time": "66 hrs 28 mins"
         },
         {
             "language": "C++",
-            "time": "31 hrs 53 mins"
+            "time": "31 hrs 43 mins"
         },
         {
             "language": "Docker",
@@ -21,11 +21,15 @@
         },
         {
             "language": "Go",
-            "time": "28 hrs 10 mins"
+            "time": "27 hrs 55 mins"
+        },
+        {
+            "language": "Image (png)",
+            "time": "2 hrs 38 mins"
         },
         {
             "language": "JSON",
-            "time": "15 hrs 24 mins"
+            "time": "20 hrs 22 mins"
         },
         {
             "language": "Java",
@@ -33,19 +37,19 @@
         },
         {
             "language": "Makefile",
-            "time": "17 hrs 57 mins"
+            "time": "17 hrs 56 mins"
         },
         {
             "language": "Markdown",
-            "time": "152 hrs 35 mins"
+            "time": "172 hrs 29 mins"
         },
         {
             "language": "Python",
-            "time": "175 hrs 38 mins"
+            "time": "227 hrs 1 min"
         },
         {
             "language": "Rust",
-            "time": "514 hrs 30 mins"
+            "time": "516 hrs 2 mins"
         },
         {
             "language": "Swift",
@@ -53,11 +57,11 @@
         },
         {
             "language": "TOML",
-            "time": "21 hrs 33 mins"
+            "time": "21 hrs 34 mins"
         },
         {
             "language": "TeX",
-            "time": "14 hrs 37 mins"
+            "time": "21 hrs 21 mins"
         },
         {
             "language": "Vue",
@@ -65,7 +69,7 @@
         },
         {
             "language": "YAML",
-            "time": "55 hrs 24 mins"
+            "time": "55 hrs 28 mins"
         },
         {
             "language": "reStructuredText",

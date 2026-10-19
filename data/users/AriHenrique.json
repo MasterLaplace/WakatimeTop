@@ -1,19 +1,23 @@
 {
-    "total_time": "11 hrs 22 mins",
+    "total_time": "20 hrs 13 mins",
     "updated": true,
-    "elo": 30,
+    "elo": 39,
     "languages": [
         {
             "language": "Markdown",
-            "time": "4 hrs"
+            "time": "5 hrs 29 mins"
         },
         {
             "language": "Python",
-            "time": "2 hrs 39 mins"
+            "time": "6 hrs 3 mins"
         },
         {
             "language": "SQL",
-            "time": "4 hrs 43 mins"
+            "time": "5 hrs 50 mins"
+        },
+        {
+            "language": "Terraform",
+            "time": "2 hrs 51 mins"
         }
     ]
 }

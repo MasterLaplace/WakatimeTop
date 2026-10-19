@@ -1,11 +1,11 @@
 {
-    "total_time": "1,081 hrs 38 mins",
-    "updated": false,
-    "elo": 1080,
+    "total_time": "1,082 hrs 24 mins",
+    "updated": true,
+    "elo": 1081,
     "languages": [
         {
             "language": "Bash",
-            "time": "14 hrs 28 mins"
+            "time": "14 hrs 53 mins"
         },
         {
             "language": "Blade Template",
@@ -21,7 +21,7 @@
         },
         {
             "language": "JSON",
-            "time": "16 hrs 3 mins"
+            "time": "16 hrs 16 mins"
         },
         {
             "language": "JavaScript",
@@ -33,7 +33,7 @@
         },
         {
             "language": "TypeScript",
-            "time": "225 hrs 35 mins"
+            "time": "225 hrs 43 mins"
         }
     ]
 }

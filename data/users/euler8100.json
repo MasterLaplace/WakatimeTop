@@ -1,7 +1,7 @@
 {
-    "total_time": "6,683 hrs 26 mins",
+    "total_time": "6,689 hrs 20 mins",
     "updated": true,
-    "elo": 6684,
+    "elo": 6690,
     "languages": [
         {
             "language": "ActionScript 3",
@@ -13,7 +13,7 @@
         },
         {
             "language": "Bash",
-            "time": "120 hrs 2 mins"
+            "time": "120 hrs 4 mins"
         },
         {
             "language": "CSS",
@@ -29,7 +29,7 @@
         },
         {
             "language": "HTML",
-            "time": "286 hrs 23 mins"
+            "time": "287 hrs 58 mins"
         },
         {
             "language": "Image (svg)",
@@ -37,15 +37,15 @@
         },
         {
             "language": "JSON",
-            "time": "363 hrs 19 mins"
+            "time": "364 hrs 8 mins"
         },
         {
             "language": "JavaScript",
-            "time": "2,865 hrs 55 mins"
+            "time": "2,865 hrs 59 mins"
         },
         {
             "language": "Markdown",
-            "time": "74 hrs 53 mins"
+            "time": "74 hrs 55 mins"
         },
         {
             "language": "Objective-C",
@@ -61,7 +61,7 @@
         },
         {
             "language": "Python",
-            "time": "15 hrs 40 mins"
+            "time": "15 hrs 46 mins"
         },
         {
             "language": "SCSS",
@@ -69,15 +69,15 @@
         },
         {
             "language": "Text",
-            "time": "23 hrs 14 mins"
+            "time": "23 hrs 15 mins"
         },
         {
             "language": "TypeScript",
-            "time": "114 hrs 4 mins"
+            "time": "114 hrs 24 mins"
         },
         {
             "language": "Vue",
-            "time": "76 hrs 43 mins"
+            "time": "76 hrs 57 mins"
         },
         {
             "language": "Vue.js",
@@ -86,6 +86,10 @@
         {
             "language": "XML",
             "time": "20 hrs 22 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "2 hrs 41 mins"
         }
     ]
 }

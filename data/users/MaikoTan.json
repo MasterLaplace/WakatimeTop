@@ -1,0 +1,75 @@
+{
+    "total_time": "1,098 hrs 48 mins",
+    "updated": true,
+    "elo": 1099,
+    "languages": [
+        {
+            "language": "Bash",
+            "time": "14 hrs 23 mins"
+        },
+        {
+            "language": "Docker",
+            "time": "10 hrs 5 mins"
+        },
+        {
+            "language": "HTML",
+            "time": "3 hrs 57 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "38 hrs 27 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "13 hrs 34 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "53 hrs 40 mins"
+        },
+        {
+            "language": "Nix",
+            "time": "92 hrs 43 mins"
+        },
+        {
+            "language": "PHP",
+            "time": "5 hrs"
+        },
+        {
+            "language": "PowerShell",
+            "time": "3 hrs 14 mins"
+        },
+        {
+            "language": "Python",
+            "time": "79 hrs 2 mins"
+        },
+        {
+            "language": "Rust",
+            "time": "40 hrs 18 mins"
+        },
+        {
+            "language": "TOML",
+            "time": "3 hrs 30 mins"
+        },
+        {
+            "language": "TSConfig",
+            "time": "3 hrs 14 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "185 hrs 29 mins"
+        },
+        {
+            "language": "Vue",
+            "time": "331 hrs 24 mins"
+        },
+        {
+            "language": "Vue.js",
+            "time": "196 hrs 22 mins"
+        },
+        {
+            "language": "YAML",
+            "time": "24 hrs 26 mins"
+        }
+    ]
+}

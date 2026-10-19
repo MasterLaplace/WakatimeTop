@@ -1,11 +1,11 @@
 {
-    "total_time": "1,922 hrs 1 mins",
+    "total_time": "1,934 hrs 27 mins",
     "updated": true,
-    "elo": 1923,
+    "elo": 1935,
     "languages": [
         {
             "language": "Assembly",
-            "time": "9 hrs 56 mins"
+            "time": "10 hrs"
         },
         {
             "language": "Bash",
@@ -13,11 +13,11 @@
         },
         {
             "language": "C",
-            "time": "61 hrs 6 mins"
+            "time": "61 hrs 28 mins"
         },
         {
             "language": "C++",
-            "time": "195 hrs 21 mins"
+            "time": "200 hrs 43 mins"
         },
         {
             "language": "CMake",
@@ -57,11 +57,11 @@
         },
         {
             "language": "Markdown",
-            "time": "41 hrs 36 mins"
+            "time": "41 hrs 38 mins"
         },
         {
             "language": "Nix",
-            "time": "60 hrs 1 min"
+            "time": "60 hrs 14 mins"
         },
         {
             "language": "Python",
@@ -69,15 +69,15 @@
         },
         {
             "language": "Rust",
-            "time": "430 hrs 38 mins"
+            "time": "436 hrs 8 mins"
         },
         {
             "language": "TOML",
-            "time": "13 hrs 15 mins"
+            "time": "14 hrs 1 min"
         },
         {
             "language": "TeX",
-            "time": "103 hrs 17 mins"
+            "time": "103 hrs 23 mins"
         },
         {
             "language": "Text",
@@ -101,7 +101,7 @@
         },
         {
             "language": "shell script",
-            "time": "2 hrs 43 mins"
+            "time": "2 hrs 44 mins"
         }
     ]
 }

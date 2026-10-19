@@ -1,5 +1,5 @@
 {
-    "total_time": "2,016 hrs 58 mins",
+    "total_time": "2,004 hrs 54 mins",
     "updated": true,
     "elo": 2081,
     "languages": [
@@ -9,39 +9,39 @@
         },
         {
             "language": "C++",
-            "time": "367 hrs 3 mins"
+            "time": "355 hrs 36 mins"
         },
         {
             "language": "C/C",
-            "time": "104 hrs 22 mins"
+            "time": "100 hrs 50 mins"
         },
         {
             "language": "CMake",
-            "time": "4 hrs 22 mins"
+            "time": "4 hrs 13 mins"
         },
         {
             "language": "HTML",
-            "time": "7 hrs 11 mins"
+            "time": "7 hrs 10 mins"
         },
         {
             "language": "JSON",
-            "time": "22 hrs 24 mins"
+            "time": "22 hrs 23 mins"
         },
         {
             "language": "Jupyter",
-            "time": "683 hrs 12 mins"
+            "time": "671 hrs 26 mins"
         },
         {
             "language": "Makefile",
-            "time": "88 hrs 37 mins"
+            "time": "88 hrs 9 mins"
         },
         {
             "language": "Markdown",
-            "time": "204 hrs 9 mins"
+            "time": "203 hrs 4 mins"
         },
         {
             "language": "Python",
-            "time": "343 hrs 22 mins"
+            "time": "339 hrs 12 mins"
         },
         {
             "language": "PythonStub",
@@ -49,23 +49,23 @@
         },
         {
             "language": "RMarkdown",
-            "time": "31 hrs 43 mins"
+            "time": "46 hrs 20 mins"
         },
         {
             "language": "TOML",
-            "time": "13 hrs 40 mins"
+            "time": "13 hrs 27 mins"
         },
         {
             "language": "TeX",
-            "time": "45 hrs 51 mins"
+            "time": "51 hrs 32 mins"
         },
         {
             "language": "Text",
-            "time": "27 hrs 6 mins"
+            "time": "26 hrs 36 mins"
         },
         {
             "language": "YAML",
-            "time": "68 hrs 41 mins"
+            "time": "69 hrs 41 mins"
         }
     ]
 }

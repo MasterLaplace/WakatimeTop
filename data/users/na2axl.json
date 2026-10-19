@@ -1,7 +1,7 @@
 {
-    "total_time": "3,600 hrs 6 mins",
+    "total_time": "3,645 hrs 41 mins",
     "updated": true,
-    "elo": 3604,
+    "elo": 3649,
     "languages": [
         {
             "language": ".env file",
@@ -9,7 +9,7 @@
         },
         {
             "language": "Bash",
-            "time": "19 hrs 45 mins"
+            "time": "19 hrs 47 mins"
         },
         {
             "language": "Blade Template",
@@ -17,27 +17,27 @@
         },
         {
             "language": "C",
-            "time": "265 hrs 25 mins"
+            "time": "265 hrs 58 mins"
         },
         {
             "language": "C#",
-            "time": "25 hrs 22 mins"
+            "time": "26 hrs 38 mins"
         },
         {
             "language": "C++",
-            "time": "1,120 hrs 29 mins"
+            "time": "1,136 hrs 21 mins"
         },
         {
             "language": "C/C",
-            "time": "93 hrs 26 mins"
+            "time": "95 hrs 12 mins"
         },
         {
             "language": "CMake",
-            "time": "46 hrs 13 mins"
+            "time": "46 hrs 37 mins"
         },
         {
             "language": "CMakeLists.txt",
-            "time": "3 hrs 56 mins"
+            "time": "4 hrs 11 mins"
         },
         {
             "language": "CSS",
@@ -49,7 +49,7 @@
         },
         {
             "language": "Diff",
-            "time": "8 hrs 7 mins"
+            "time": "8 hrs 20 mins"
         },
         {
             "language": "Docker",
@@ -57,11 +57,11 @@
         },
         {
             "language": "Git Config",
-            "time": "3 hrs 31 mins"
+            "time": "3 hrs 32 mins"
         },
         {
             "language": "GitIgnore file",
-            "time": "2 hrs 53 mins"
+            "time": "2 hrs 54 mins"
         },
         {
             "language": "Go",
@@ -73,7 +73,7 @@
         },
         {
             "language": "HTML",
-            "time": "23 hrs"
+            "time": "23 hrs 37 mins"
         },
         {
             "language": "HTTP Request",
@@ -85,11 +85,11 @@
         },
         {
             "language": "JSON",
-            "time": "100 hrs 21 mins"
+            "time": "103 hrs 37 mins"
         },
         {
             "language": "JavaScript",
-            "time": "18 hrs 36 mins"
+            "time": "18 hrs 37 mins"
         },
         {
             "language": "Jupyter",
@@ -105,15 +105,15 @@
         },
         {
             "language": "Lua",
-            "time": "43 hrs 42 mins"
+            "time": "43 hrs 49 mins"
         },
         {
             "language": "Markdown",
-            "time": "307 hrs 42 mins"
+            "time": "318 hrs 57 mins"
         },
         {
             "language": "Objective-C",
-            "time": "9 hrs 23 mins"
+            "time": "9 hrs 46 mins"
         },
         {
             "language": "Objective-C++",
@@ -129,11 +129,11 @@
         },
         {
             "language": "Python",
-            "time": "33 hrs 29 mins"
+            "time": "37 hrs 26 mins"
         },
         {
             "language": "Rust",
-            "time": "44 hrs 3 mins"
+            "time": "48 hrs 20 mins"
         },
         {
             "language": "SQL",
@@ -141,19 +141,19 @@
         },
         {
             "language": "Svelte",
-            "time": "247 hrs 55 mins"
+            "time": "248 hrs 9 mins"
         },
         {
             "language": "TOML",
-            "time": "7 hrs 25 mins"
+            "time": "7 hrs 54 mins"
         },
         {
             "language": "Text",
-            "time": "37 hrs 19 mins"
+            "time": "37 hrs 25 mins"
         },
         {
             "language": "TypeScript",
-            "time": "310 hrs 1 min"
+            "time": "310 hrs 10 mins"
         },
         {
             "language": "Vue",
@@ -173,7 +173,7 @@
         },
         {
             "language": "YAML",
-            "time": "60 hrs 59 mins"
+            "time": "61 hrs 14 mins"
         },
         {
             "language": "jsonc",
@@ -181,15 +181,15 @@
         },
         {
             "language": "shell script",
-            "time": "4 hrs 9 mins"
+            "time": "4 hrs 10 mins"
         },
         {
             "language": "textmate",
-            "time": "4 hrs 45 mins"
+            "time": "4 hrs 49 mins"
         },
         {
             "language": "xmake.lua",
-            "time": "9 hrs 26 mins"
+            "time": "9 hrs 27 mins"
         }
     ]
 }

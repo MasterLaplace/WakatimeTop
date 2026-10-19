@@ -1,7 +1,7 @@
 {
-    "total_time": "6 hrs 44 mins",
-    "updated": false,
-    "elo": 108,
+    "total_time": "12 hrs",
+    "updated": true,
+    "elo": 113,
     "languages": [
         {
             "language": "CSV",
@@ -10,6 +10,10 @@
         {
             "language": "PHP",
             "time": "2 hrs 56 mins"
+        },
+        {
+            "language": "TypeScript",
+            "time": "5 hrs 16 mins"
         }
     ]
 }

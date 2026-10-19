@@ -1,27 +1,23 @@
 {
-    "total_time": "29 hrs 21 mins",
+    "total_time": "25 hrs 36 mins",
     "updated": true,
     "elo": 62,
     "languages": [
         {
-            "language": "C++",
-            "time": "3 hrs 12 mins"
+            "language": "Fork",
+            "time": "9 hrs 47 mins"
         },
         {
-            "language": "Fork",
-            "time": "8 hrs 20 mins"
+            "language": "HTML",
+            "time": "2 hrs 48 mins"
         },
         {
             "language": "Markdown",
-            "time": "5 hrs 27 mins"
-        },
-        {
-            "language": "Text",
-            "time": "4 hrs 23 mins"
+            "time": "7 hrs 23 mins"
         },
         {
             "language": "TypeScript",
-            "time": "7 hrs 59 mins"
+            "time": "5 hrs 38 mins"
         }
     ]
 }
