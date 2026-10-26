@@ -1,23 +1,23 @@
 {
-    "total_time": "8,342 hrs 59 mins",
+    "total_time": "8,366 hrs",
     "updated": true,
-    "elo": 8343,
+    "elo": 8366,
     "languages": [
         {
             "language": "Bash",
-            "time": "98 hrs 4 mins"
+            "time": "98 hrs 16 mins"
         },
         {
             "language": "CSS",
-            "time": "70 hrs 11 mins"
+            "time": "70 hrs 12 mins"
         },
         {
             "language": "Docker",
-            "time": "20 hrs 23 mins"
+            "time": "20 hrs 24 mins"
         },
         {
             "language": "Git Config",
-            "time": "10 hrs 17 mins"
+            "time": "10 hrs 22 mins"
         },
         {
             "language": "Go",
@@ -41,7 +41,7 @@
         },
         {
             "language": "JSON",
-            "time": "445 hrs 28 mins"
+            "time": "445 hrs 43 mins"
         },
         {
             "language": "JSX",
@@ -49,7 +49,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "1,290 hrs 13 mins"
+            "time": "1,290 hrs 36 mins"
         },
         {
             "language": "LESS",
@@ -65,7 +65,7 @@
         },
         {
             "language": "Markdown",
-            "time": "322 hrs 47 mins"
+            "time": "327 hrs 31 mins"
         },
         {
             "language": "PHP",
@@ -81,7 +81,7 @@
         },
         {
             "language": "Python",
-            "time": "104 hrs 35 mins"
+            "time": "107 hrs 56 mins"
         },
         {
             "language": "SCSS",
@@ -105,11 +105,11 @@
         },
         {
             "language": "Text",
-            "time": "12 hrs 17 mins"
+            "time": "12 hrs 36 mins"
         },
         {
             "language": "TypeScript",
-            "time": "5,165 hrs 1 min"
+            "time": "5,169 hrs 16 mins"
         },
         {
             "language": "Vue",
@@ -125,7 +125,11 @@
         },
         {
             "language": "YAML",
-            "time": "80 hrs 33 mins"
+            "time": "80 hrs 35 mins"
+        },
+        {
+            "language": "Zig",
+            "time": "9 hrs 23 mins"
         }
     ]
 }

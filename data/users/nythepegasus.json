@@ -1,7 +1,7 @@
 {
-    "total_time": "1,299 hrs 49 mins",
+    "total_time": "1,335 hrs 55 mins",
     "updated": true,
-    "elo": 1300,
+    "elo": 1336,
     "languages": [
         {
             "language": "Bash",
@@ -33,11 +33,11 @@
         },
         {
             "language": "JSON",
-            "time": "13 hrs 58 mins"
+            "time": "16 hrs 1 min"
         },
         {
             "language": "Lua",
-            "time": "8 hrs 50 mins"
+            "time": "9 hrs 5 mins"
         },
         {
             "language": "Makefile",
@@ -45,7 +45,7 @@
         },
         {
             "language": "Markdown",
-            "time": "17 hrs 58 mins"
+            "time": "18 hrs 29 mins"
         },
         {
             "language": "Objective-C",
@@ -69,7 +69,7 @@
         },
         {
             "language": "Swift",
-            "time": "435 hrs 38 mins"
+            "time": "468 hrs 50 mins"
         },
         {
             "language": "TOML",
@@ -109,7 +109,7 @@
         },
         {
             "language": "zsh",
-            "time": "21 hrs 14 mins"
+            "time": "21 hrs 19 mins"
         }
     ]
 }

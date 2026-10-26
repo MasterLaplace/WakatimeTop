@@ -1,8 +1,16 @@
 {
-    "total_time": "23 hrs 49 mins",
-    "updated": false,
-    "elo": 25,
+    "total_time": "41 hrs 27 mins",
+    "updated": true,
+    "elo": 43,
     "languages": [
+        {
+            "language": "CSV",
+            "time": "12 hrs 48 mins"
+        },
+        {
+            "language": "Markdown",
+            "time": "4 hrs 50 mins"
+        },
         {
             "language": "TeX",
             "time": "23 hrs 49 mins"

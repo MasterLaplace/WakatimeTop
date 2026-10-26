@@ -1,15 +1,15 @@
 {
-    "total_time": "3,012 hrs 47 mins",
+    "total_time": "3,059 hrs 32 mins",
     "updated": true,
-    "elo": 3013,
+    "elo": 3060,
     "languages": [
         {
             "language": "Bash",
-            "time": "100 hrs 31 mins"
+            "time": "108 hrs 9 mins"
         },
         {
             "language": "CSS",
-            "time": "24 hrs 1 min"
+            "time": "24 hrs 53 mins"
         },
         {
             "language": "EJS",
@@ -25,27 +25,27 @@
         },
         {
             "language": "Groovy",
-            "time": "2 hrs 31 mins"
+            "time": "2 hrs 41 mins"
         },
         {
             "language": "HTML",
-            "time": "20 hrs 13 mins"
+            "time": "20 hrs 23 mins"
         },
         {
             "language": "JSON",
-            "time": "73 hrs 20 mins"
+            "time": "75 hrs 16 mins"
         },
         {
             "language": "Java",
-            "time": "2 hrs 47 mins"
+            "time": "2 hrs 55 mins"
         },
         {
             "language": "JavaScript",
-            "time": "201 hrs 55 mins"
+            "time": "204 hrs 4 mins"
         },
         {
             "language": "Markdown",
-            "time": "96 hrs 39 mins"
+            "time": "97 hrs 46 mins"
         },
         {
             "language": "Prisma",
@@ -53,7 +53,7 @@
         },
         {
             "language": "Python",
-            "time": "6 hrs 26 mins"
+            "time": "6 hrs 56 mins"
         },
         {
             "language": "SCSS",
@@ -61,7 +61,7 @@
         },
         {
             "language": "SQL",
-            "time": "3 hrs 11 mins"
+            "time": "3 hrs 17 mins"
         },
         {
             "language": "TSConfig",
@@ -69,11 +69,15 @@
         },
         {
             "language": "Text",
-            "time": "4 hrs 9 mins"
+            "time": "4 hrs 24 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,358 hrs 10 mins"
+            "time": "2,387 hrs 20 mins"
+        },
+        {
+            "language": "XML",
+            "time": "2 hrs 34 mins"
         }
     ]
 }

@@ -1,11 +1,15 @@
 {
-    "total_time": "2,874 hrs 42 mins",
+    "total_time": "2,955 hrs 20 mins",
     "updated": true,
-    "elo": 2875,
+    "elo": 2956,
     "languages": [
         {
             "language": "Assembly",
             "time": "14 hrs 35 mins"
+        },
+        {
+            "language": "Batchfile",
+            "time": "3 hrs 31 mins"
         },
         {
             "language": "Binary",
@@ -41,27 +45,27 @@
         },
         {
             "language": "JSON",
-            "time": "58 hrs 17 mins"
+            "time": "58 hrs 21 mins"
         },
         {
             "language": "Java",
-            "time": "822 hrs 38 mins"
+            "time": "844 hrs 45 mins"
         },
         {
             "language": "JavaScript",
-            "time": "7 hrs 41 mins"
+            "time": "7 hrs 51 mins"
         },
         {
             "language": "Kotlin",
-            "time": "1,510 hrs 21 mins"
+            "time": "1,550 hrs 3 mins"
         },
         {
             "language": "Markdown",
-            "time": "10 hrs 36 mins"
+            "time": "17 hrs 38 mins"
         },
         {
             "language": "Python",
-            "time": "2 hrs 51 mins"
+            "time": "9 hrs 5 mins"
         },
         {
             "language": "RuneScript",
@@ -81,7 +85,7 @@
         },
         {
             "language": "Text",
-            "time": "64 hrs 47 mins"
+            "time": "65 hrs 55 mins"
         },
         {
             "language": "TypeScript",
@@ -89,11 +93,11 @@
         },
         {
             "language": "XML",
-            "time": "6 hrs 31 mins"
+            "time": "7 hrs 10 mins"
         },
         {
             "language": "textmate",
-            "time": "38 hrs 2 mins"
+            "time": "38 hrs 3 mins"
         }
     ]
 }

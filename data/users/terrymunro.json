@@ -1,15 +1,15 @@
 {
-    "total_time": "1,432 hrs",
+    "total_time": "1,403 hrs 37 mins",
     "updated": true,
     "elo": 1920,
     "languages": [
         {
             "language": "Bash",
-            "time": "29 hrs 55 mins"
+            "time": "29 hrs 23 mins"
         },
         {
             "language": "Docker",
-            "time": "12 hrs 5 mins"
+            "time": "11 hrs 33 mins"
         },
         {
             "language": "HCL",
@@ -17,7 +17,7 @@
         },
         {
             "language": "HTML",
-            "time": "18 hrs 35 mins"
+            "time": "18 hrs 43 mins"
         },
         {
             "language": "INI",
@@ -25,7 +25,7 @@
         },
         {
             "language": "JSON",
-            "time": "57 hrs 47 mins"
+            "time": "57 hrs 46 mins"
         },
         {
             "language": "Java",
@@ -45,15 +45,15 @@
         },
         {
             "language": "Makefile",
-            "time": "10 hrs 46 mins"
+            "time": "10 hrs 36 mins"
         },
         {
             "language": "Markdown",
-            "time": "361 hrs 34 mins"
+            "time": "359 hrs 47 mins"
         },
         {
             "language": "Python",
-            "time": "539 hrs 42 mins"
+            "time": "536 hrs 35 mins"
         },
         {
             "language": "Rust",
@@ -61,15 +61,15 @@
         },
         {
             "language": "SQL",
-            "time": "53 hrs 51 mins"
+            "time": "53 hrs 46 mins"
         },
         {
             "language": "TOML",
-            "time": "33 hrs"
+            "time": "32 hrs 36 mins"
         },
         {
             "language": "Terraform",
-            "time": "61 hrs 16 mins"
+            "time": "61 hrs 6 mins"
         },
         {
             "language": "Text",
@@ -77,11 +77,11 @@
         },
         {
             "language": "TypeScript",
-            "time": "20 hrs 51 mins"
+            "time": "21 hrs 3 mins"
         },
         {
             "language": "YAML",
-            "time": "133 hrs 12 mins"
+            "time": "125 hrs 5 mins"
         },
         {
             "language": "gitignore",
@@ -93,7 +93,7 @@
         },
         {
             "language": "sh",
-            "time": "22 hrs 50 mins"
+            "time": "9 hrs 2 mins"
         }
     ]
 }

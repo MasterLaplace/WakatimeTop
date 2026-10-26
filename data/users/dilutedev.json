@@ -1,11 +1,11 @@
 {
-    "total_time": "5,856 hrs 41 mins",
+    "total_time": "5,872 hrs 30 mins",
     "updated": true,
-    "elo": 5857,
+    "elo": 5873,
     "languages": [
         {
             "language": "Bash",
-            "time": "161 hrs 41 mins"
+            "time": "162 hrs 58 mins"
         },
         {
             "language": "C",
@@ -37,7 +37,7 @@
         },
         {
             "language": "Go",
-            "time": "1,821 hrs 20 mins"
+            "time": "1,823 hrs 53 mins"
         },
         {
             "language": "GraphQL",
@@ -53,7 +53,7 @@
         },
         {
             "language": "JSON",
-            "time": "84 hrs 6 mins"
+            "time": "84 hrs 7 mins"
         },
         {
             "language": "JavaScript",
@@ -69,11 +69,11 @@
         },
         {
             "language": "Markdown",
-            "time": "196 hrs 56 mins"
+            "time": "201 hrs 45 mins"
         },
         {
             "language": "Python",
-            "time": "332 hrs 48 mins"
+            "time": "332 hrs 55 mins"
         },
         {
             "language": "Razor",
@@ -84,8 +84,12 @@
             "time": "11 hrs 57 mins"
         },
         {
+            "language": "Rust",
+            "time": "4 hrs 10 mins"
+        },
+        {
             "language": "SQL",
-            "time": "176 hrs 6 mins"
+            "time": "176 hrs 43 mins"
         },
         {
             "language": "Svelte",
@@ -93,7 +97,7 @@
         },
         {
             "language": "TOML",
-            "time": "5 hrs 10 mins"
+            "time": "5 hrs 12 mins"
         },
         {
             "language": "TSConfig",
@@ -101,19 +105,19 @@
         },
         {
             "language": "Text",
-            "time": "21 hrs 48 mins"
+            "time": "22 hrs 45 mins"
         },
         {
             "language": "TypeScript",
-            "time": "2,347 hrs 40 mins"
+            "time": "2,348 hrs 48 mins"
         },
         {
             "language": "YAML",
-            "time": "42 hrs 50 mins"
+            "time": "42 hrs 52 mins"
         },
         {
             "language": "gitignore",
-            "time": "3 hrs 30 mins"
+            "time": "3 hrs 36 mins"
         }
     ]
 }

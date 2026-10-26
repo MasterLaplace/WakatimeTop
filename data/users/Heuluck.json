@@ -1,7 +1,7 @@
 {
-    "total_time": "2,015 hrs 29 mins",
-    "updated": false,
-    "elo": 2016,
+    "total_time": "2,025 hrs 52 mins",
+    "updated": true,
+    "elo": 2026,
     "languages": [
         {
             "language": "Astro",
@@ -41,7 +41,7 @@
         },
         {
             "language": "Groovy",
-            "time": "5 hrs 50 mins"
+            "time": "6 hrs 13 mins"
         },
         {
             "language": "HTML",
@@ -52,12 +52,16 @@
             "time": "7 hrs 33 mins"
         },
         {
+            "language": "Image (png)",
+            "time": "2 hrs 40 mins"
+        },
+        {
             "language": "Image (svg)",
             "time": "5 hrs 1 min"
         },
         {
             "language": "JSON",
-            "time": "82 hrs 21 mins"
+            "time": "82 hrs 23 mins"
         },
         {
             "language": "Java",
@@ -68,8 +72,12 @@
             "time": "195 hrs 21 mins"
         },
         {
+            "language": "Kotlin",
+            "time": "6 hrs 38 mins"
+        },
+        {
             "language": "Markdown",
-            "time": "85 hrs 59 mins"
+            "time": "86 hrs 25 mins"
         },
         {
             "language": "Python",
@@ -105,7 +113,7 @@
         },
         {
             "language": "XML",
-            "time": "24 hrs 6 mins"
+            "time": "24 hrs 20 mins"
         },
         {
             "language": "YAML",

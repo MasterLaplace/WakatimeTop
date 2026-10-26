@@ -1,8 +1,12 @@
 {
-    "total_time": "4 hrs 8 mins",
+    "total_time": "12 hrs 1 mins",
     "updated": true,
-    "elo": 170,
+    "elo": 178,
     "languages": [
+        {
+            "language": "Go",
+            "time": "7 hrs 53 mins"
+        },
         {
             "language": "HTTP Request",
             "time": "4 hrs 8 mins"

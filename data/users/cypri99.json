@@ -1,5 +1,5 @@
 {
-    "total_time": "21 hrs 18 mins",
+    "total_time": "19 hrs 4 mins",
     "updated": true,
     "elo": 210,
     "languages": [
@@ -8,12 +8,16 @@
             "time": "3 hrs 39 mins"
         },
         {
-            "language": "CSV",
-            "time": "2 hrs 34 mins"
+            "language": "Go",
+            "time": "9 hrs 45 mins"
         },
         {
-            "language": "Go",
-            "time": "15 hrs 5 mins"
+            "language": "Markdown",
+            "time": "2 hrs 39 mins"
+        },
+        {
+            "language": "Python",
+            "time": "3 hrs 1 min"
         }
     ]
 }

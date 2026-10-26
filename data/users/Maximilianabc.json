@@ -1,7 +1,7 @@
 {
-    "total_time": "69 hrs 29 mins",
+    "total_time": "73 hrs 44 mins",
     "updated": true,
-    "elo": 110,
+    "elo": 114,
     "languages": [
         {
             "language": "Bash",
@@ -9,19 +9,23 @@
         },
         {
             "language": "C#",
-            "time": "11 hrs 21 mins"
+            "time": "11 hrs 2 mins"
         },
         {
             "language": "Diff",
-            "time": "3 hrs 20 mins"
+            "time": "12 hrs 47 mins"
+        },
+        {
+            "language": "JSON",
+            "time": "4 hrs"
         },
         {
             "language": "Markdown",
-            "time": "28 hrs 11 mins"
+            "time": "25 hrs 59 mins"
         },
         {
             "language": "PowerShell",
-            "time": "22 hrs 20 mins"
+            "time": "15 hrs 39 mins"
         }
     ]
 }

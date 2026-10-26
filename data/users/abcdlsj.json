@@ -1,7 +1,7 @@
 {
-    "total_time": "6,964 hrs 51 mins",
+    "total_time": "6,970 hrs 55 mins",
     "updated": true,
-    "elo": 6965,
+    "elo": 6971,
     "languages": [
         {
             "language": "Bash",
@@ -37,11 +37,15 @@
         },
         {
             "language": "Go",
-            "time": "4,718 hrs 10 mins"
+            "time": "4,718 hrs 35 mins"
         },
         {
             "language": "HTML",
             "time": "51 hrs 27 mins"
+        },
+        {
+            "language": "Image (png)",
+            "time": "3 hrs 4 mins"
         },
         {
             "language": "Image (svg)",
@@ -53,7 +57,7 @@
         },
         {
             "language": "JavaScript",
-            "time": "57 hrs 43 mins"
+            "time": "57 hrs 45 mins"
         },
         {
             "language": "Log",
@@ -69,7 +73,7 @@
         },
         {
             "language": "Markdown",
-            "time": "521 hrs 58 mins"
+            "time": "522 hrs 34 mins"
         },
         {
             "language": "Objective-C",
@@ -105,7 +109,7 @@
         },
         {
             "language": "Swift",
-            "time": "122 hrs 40 mins"
+            "time": "124 hrs 17 mins"
         },
         {
             "language": "TOML",
@@ -117,7 +121,7 @@
         },
         {
             "language": "Text",
-            "time": "31 hrs 56 mins"
+            "time": "32 hrs 16 mins"
         },
         {
             "language": "TypeScript",

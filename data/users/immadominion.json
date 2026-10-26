@@ -1,15 +1,19 @@
 {
-    "total_time": "35 hrs 30 mins",
+    "total_time": "23 hrs 43 mins",
     "updated": true,
     "elo": 219,
     "languages": [
         {
             "language": "C#",
-            "time": "4 hrs 50 mins"
+            "time": "5 hrs 11 mins"
         },
         {
             "language": "Dart",
             "time": "3 hrs 28 mins"
+        },
+        {
+            "language": "JavaScript",
+            "time": "2 hrs 30 mins"
         },
         {
             "language": "MDX",
@@ -17,15 +21,11 @@
         },
         {
             "language": "Markdown",
-            "time": "15 hrs 39 mins"
+            "time": "6 hrs 42 mins"
         },
         {
             "language": "Python",
-            "time": "4 hrs 30 mins"
-        },
-        {
-            "language": "Swift",
-            "time": "4 hrs 12 mins"
+            "time": "3 hrs 1 min"
         }
     ]
 }

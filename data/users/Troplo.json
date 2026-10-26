@@ -1,35 +1,39 @@
 {
-    "total_time": "4,190 hrs 51 mins",
+    "total_time": "4,215 hrs 50 mins",
     "updated": true,
-    "elo": 4191,
+    "elo": 4216,
     "languages": [
         {
             "language": "Bash",
-            "time": "6 hrs 2 mins"
+            "time": "6 hrs 6 mins"
         },
         {
             "language": "C",
-            "time": "23 hrs 48 mins"
+            "time": "23 hrs 57 mins"
         },
         {
             "language": "C#",
-            "time": "83 hrs 55 mins"
+            "time": "84 hrs 13 mins"
         },
         {
             "language": "C++",
-            "time": "1,207 hrs 40 mins"
+            "time": "1,222 hrs 53 mins"
         },
         {
             "language": "C/C",
-            "time": "183 hrs 15 mins"
+            "time": "185 hrs 34 mins"
+        },
+        {
+            "language": "C/C++",
+            "time": "2 hrs 34 mins"
         },
         {
             "language": "CMake",
-            "time": "32 hrs 47 mins"
+            "time": "32 hrs 56 mins"
         },
         {
             "language": "CMakeLists.txt",
-            "time": "4 hrs 42 mins"
+            "time": "4 hrs 45 mins"
         },
         {
             "language": "CSS",
@@ -49,11 +53,11 @@
         },
         {
             "language": "IDA",
-            "time": "155 hrs 7 mins"
+            "time": "158 hrs 1 min"
         },
         {
             "language": "JSON",
-            "time": "80 hrs 39 mins"
+            "time": "80 hrs 40 mins"
         },
         {
             "language": "Java",
@@ -73,7 +77,7 @@
         },
         {
             "language": "Markdown",
-            "time": "7 hrs 20 mins"
+            "time": "7 hrs 41 mins"
         },
         {
             "language": "Objective-C",
@@ -81,7 +85,7 @@
         },
         {
             "language": "Prisma",
-            "time": "31 hrs 12 mins"
+            "time": "31 hrs 13 mins"
         },
         {
             "language": "Rust",
@@ -97,7 +101,7 @@
         },
         {
             "language": "Shell Script",
-            "time": "2 hrs 45 mins"
+            "time": "2 hrs 47 mins"
         },
         {
             "language": "Svelte",
@@ -109,11 +113,11 @@
         },
         {
             "language": "Text",
-            "time": "30 hrs 2 mins"
+            "time": "30 hrs 28 mins"
         },
         {
             "language": "TypeScript",
-            "time": "924 hrs 26 mins"
+            "time": "924 hrs 43 mins"
         },
         {
             "language": "Vcxproj",
@@ -133,11 +137,11 @@
         },
         {
             "language": "YAML",
-            "time": "7 hrs 43 mins"
+            "time": "7 hrs 48 mins"
         },
         {
             "language": "textmate",
-            "time": "10 hrs 3 mins"
+            "time": "10 hrs 6 mins"
         },
         {
             "language": "yarn.lock",

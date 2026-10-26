@@ -1,5 +1,5 @@
 {
-    "total_time": "130 hrs 25 mins",
+    "total_time": "115 hrs 5 mins",
     "updated": true,
     "elo": 6149,
     "languages": [
@@ -17,15 +17,15 @@
         },
         {
             "language": "Java",
-            "time": "12 hrs 45 mins"
+            "time": "8 hrs 25 mins"
         },
         {
             "language": "Kotlin",
-            "time": "56 hrs 40 mins"
+            "time": "51 hrs 8 mins"
         },
         {
             "language": "Kotlin Template Engine File",
-            "time": "7 hrs 10 mins"
+            "time": "4 hrs 49 mins"
         },
         {
             "language": "Pug",
@@ -34,10 +34,6 @@
         {
             "language": "Rust",
             "time": "8 hrs 6 mins"
-        },
-        {
-            "language": "YAML",
-            "time": "3 hrs 7 mins"
         }
     ]
 }

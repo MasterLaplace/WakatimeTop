@@ -1,6 +1,15 @@
 {
-    "total_time": "0 mins",
-    "updated": false,
-    "elo": 49,
-    "languages": []
+    "total_time": "11 hrs 9 mins",
+    "updated": true,
+    "elo": 61,
+    "languages": [
+        {
+            "language": "GDScript3",
+            "time": "8 hrs 11 mins"
+        },
+        {
+            "language": "GDShader",
+            "time": "2 hrs 58 mins"
+        }
+    ]
 }

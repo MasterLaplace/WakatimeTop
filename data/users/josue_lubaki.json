@@ -1,19 +1,27 @@
 {
-    "total_time": "26 hrs 8 mins",
+    "total_time": "44 hrs 41 mins",
     "updated": true,
-    "elo": 73,
+    "elo": 91,
     "languages": [
         {
+            "language": "Bash",
+            "time": "2 hrs 49 mins"
+        },
+        {
             "language": "Kotlin",
-            "time": "9 hrs 25 mins"
+            "time": "3 hrs 10 mins"
         },
         {
             "language": "Markdown",
-            "time": "10 hrs 30 mins"
+            "time": "18 hrs 52 mins"
+        },
+        {
+            "language": "SQL",
+            "time": "3 hrs 47 mins"
         },
         {
             "language": "TypeScript",
-            "time": "6 hrs 13 mins"
+            "time": "16 hrs 3 mins"
         }
     ]
 }
